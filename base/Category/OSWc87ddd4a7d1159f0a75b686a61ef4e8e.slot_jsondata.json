@@ -1,0 +1,35 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "c87ddd4a-7d11-59f0-a75b-686a61ef4e8e",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Energy",
+        "http://dbpedia.org/resource/Energy",
+        "https://si-digital-framework.org/SI/quantities/ENGY"
+    ],
+    "name": "Energy",
+    "label": [
+        {
+            "text": "Energy",
+            "lang": "en"
+        },
+        {
+            "text": "Energie",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Energy is the quantity characterizing the ability of a system to do work.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW35d1d97e9ee55518bcd46402fbe6ea13"
+}

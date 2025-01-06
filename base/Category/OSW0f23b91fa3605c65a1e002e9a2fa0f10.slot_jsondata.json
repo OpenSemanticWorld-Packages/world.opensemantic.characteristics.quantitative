@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "0f23b91f-a360-5c65-a1e0-02e9a2fa0f10",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/BloodGlucoseLevel"
+    ],
+    "name": "BloodGlucoseLevel",
+    "label": [
+        {
+            "text": "Blood Glucose Level",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Blood sugar level, blood sugar concentration, or blood glucose level is the amount of glucose present in the blood of humans and animals. \n  Glucose is a simple sugar and approximately 4 grams of glucose are present in the blood of humans at all times.  \n  Stored in skeletal muscle and liver cells in the form of glycogen, the body tightly regulates blood glucose levels as a part of metabolic homeostasis.\n  During fasting blood glucose is maintained at a constant level at the expense of the glycogen stores in the liver and skeletal muscle. \n  There are two main methods of describing concentrations: by weight, and by molecular count. \n  Weights are in grams and molecular counts in moles. \n  A mole is $6.022\\times 10^{23}$ molecules.\n  In both cases, the unit is usually modified by $milli-$ or $micro-$ or other prefix,\n   and is always $per$ some volume, often a litre. \n  Conversion factors depend on the molecular weight of the substance in question. \n  $mmol/L$ is millimoles/liter, and is the world standard unit for measuring glucose in blood. \n  Specifically, it is the designated SI (Systeme International) unit. \n  Some countries use $mg/dl$. \n  A mole is about $6\\times 10^{23}$ molecules.\n  $mg/dL$ (milligrams/deciliter) is the traditional unit for measuring $bG$ (blood glucose). \n  There is a trend toward using $mmol/L$ however $mg/dL$ is much in practice. \n  Some use is made of $mmol/L$ as the primary unit with $mg/dL$ quoted in parentheses. \n  This acknowledges the large base of health care providers, researchers and patients who are already familiar with $mg/dL$.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW826fcfbbb5625943927e314ede359e6b"
+}

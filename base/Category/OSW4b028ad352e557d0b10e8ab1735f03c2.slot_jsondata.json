@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "4b028ad3-52e5-57d0-b10e-8ab1735f03c2",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MagneticReluctivity"
+    ],
+    "name": "MagneticReluctivity",
+    "label": [
+        {
+            "text": "Magnetic Reluctivity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Length Per Unit Magnetic Flux is the the resistance of a material to the establishment of a magnetic field in it. It is the reciprocal of Magnetic Permeability, the inverse of the measure of the ability of a material to support the formation of a magnetic field within itself.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW0b49cc80f9de52ff907d6ae2579d2700"
+}

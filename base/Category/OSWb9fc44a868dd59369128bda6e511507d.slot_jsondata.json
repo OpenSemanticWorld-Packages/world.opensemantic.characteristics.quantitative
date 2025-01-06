@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "b9fc44a8-68dd-5936-9128-bda6e511507d",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/RadiusOfCurvature"
+    ],
+    "name": "RadiusOfCurvature",
+    "label": [
+        {
+            "text": "Radius of Curvature",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In geometry, the \"Radius of Curvature\", R, of a curve at a point is a measure of the radius of the circular arc which best approximates the curve at that point.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWee9c7e5c343e542cb5a8b4648315902f"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW0ecff962cc2a5c2f9719fd1b9d85bf4f"
+}

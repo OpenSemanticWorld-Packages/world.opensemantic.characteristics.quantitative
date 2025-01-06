@@ -1,0 +1,65 @@
+{
+    "@context": [
+        "/wiki/Category:OSWffe74f291d354037b318c422591c5023?action=raw&slot=jsonschema",
+        {
+            "quantity": {
+                "@id": "Property:HasQuantity",
+                "@type": "@id"
+            }
+        }
+    ],
+    "allOf": [
+        {
+            "$ref": "/wiki/Category:OSWffe74f291d354037b318c422591c5023?action=raw&slot=jsonschema"
+        }
+    ],
+    "type": "object",
+    "uuid": "ac07a46c-2cf1-4f3d-aec5-03136861f5ab",
+    "title": "MetaQuantityValue",
+    "title*": {
+        "en": "Meta Quantity Value"
+    },
+    "description": "Generates schema for value and unit (with autocomplete) based on the quantity of the most fundamental parent characteristic (e.g. Diameter will apply units of Length)",
+    "description*": {
+        "en": "Generates schema for value and unit (with autocomplete) based on the quantity of the most fundamental parent characteristic (e.g. Diameter will apply units of Length)"
+    },
+    "required": [
+        "type"
+    ],
+    "defaultProperties": [
+        "quantity"
+    ],
+    "properties": {
+        "type": {
+            "default": [
+                "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7",
+                "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+            ]
+        },
+        "quantity": {
+            "type": "string",
+            "format": "autocomplete",
+            "title": "Quantity",
+            "title*": {
+                "de": "Physikalische Größe"
+            },
+            "description": "The Quantity this value object realizes",
+            "$comment": "range: QuanityKind",
+            "range": "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+        },
+        "quantity_property": {
+            "type": "string",
+            "format": "autocomplete",
+            "title": "Quantity Property",
+            "title*": {
+                "de": "Physikalische Attribut"
+            },
+            "description": "Will be used to store the quantity value with unit in a single property on the graph to simplify queries. By convention, the prefix 'Has' is attached to the quantity name, e.g. 'Length' -> 'HasLength'. If not defined the value of the parent / fundamental quantity is used.",
+            "description*": {
+                "de": "Wird genutzt um den Wert zusammen mit der Einheit in einem einzelnen Attribut zu speichern um Abfragen zu erleichtern. Vereinbarungsgemäß soll das Präfix „Has“ an den Größennamen angehängt werden, z. B. „Länge“ -> „HasLength“. Wenn nicht definiert, wird der Wert der übergeordneten/grundlegenden Größe verwendet."
+            },
+            "$comment": "This will be mapped to x-smw-quantity-property in the generated schema in order to use semantic mediawiki unit conversion features. ",
+            "range": "Category:QuantityProperty"
+        }
+    }
+}

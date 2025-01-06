@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "31d75c6a-e929-5c32-9263-57387234c870",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/WaterVaporDiffusionCoefficient"
+    ],
+    "name": "WaterVapourDiffusionCoefficient",
+    "label": [
+        {
+            "text": "Water vapour diffusion coefficient",
+            "lang": "en"
+        },
+        {
+            "text": "Wasserdampfdiffusionsleitkoeffizient",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The Water vapour diffusion coefficient describes how easy vapor diffusion happens in a given material.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW75915d6f72ba5b5aaeca591b318bd189"
+}

@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "3914f80e-373d-5d1f-9a6d-f3a8643ce608",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SuperconductorEnergyGap"
+    ],
+    "name": "SuperconductorEnergyGap",
+    "label": [
+        {
+            "text": "Superconductor Energy Gap",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Superconductor Energy Gap\" is the width of the forbidden energy band in a superconductor.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW78b09fe474c85bf09529d7eb3db0fe78"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW19a5a65be8795055953dfaddf46a281d"
+}

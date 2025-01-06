@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "57d546ae-6cae-5831-a7ef-d0cf3b933b27",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MassNumber"
+    ],
+    "name": "MassNumber",
+    "label": [
+        {
+            "text": "Mass Number",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Mass Number\" (A), also called atomic mass number or nucleon number, is the total number of protons and neutrons (together known as nucleons) in an atomic nucleus. Nuclides with the same value of $A$ are called isobars.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWb0250d3677f6592f9d4329c8b9d5f8d1"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW56f3e34882be5be987d575b0eaee83f7"
+}

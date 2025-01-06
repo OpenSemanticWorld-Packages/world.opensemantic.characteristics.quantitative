@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "9f658cc2-5f6b-5121-957b-bcc537814b30",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ThermalDiffusivity",
+        "http://dbpedia.org/resource/Thermal_diffusivity"
+    ],
+    "name": "ThermalDiffusivity",
+    "label": [
+        {
+            "text": "Thermal Diffusivity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In heat transfer analysis, thermal diffusivity (usually denoted $\\alpha$ but $a$, $\\kappa$,$k$, and $D$ are also used) is the thermal conductivity divided by density and specific heat capacity at constant pressure. The formula is: $\\alpha = {k \\over {\\rho c_p}}$, where k is thermal conductivity ($W/(\\mu \\cdot K)$), $\\rho$ is density ($kg/m^{3}$), and $c_p$ is specific heat capacity ($\\frac{J}{(kg \\cdot K)}$) .The denominator $\\rho c_p$, can be considered the volumetric heat capacity ($\\frac{J}{(m^{3} \\cdot K)}$).",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW64892b4f11e852b1873975a66e851abe"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW6f004dbf369056db8f3845223a14b903"
+}

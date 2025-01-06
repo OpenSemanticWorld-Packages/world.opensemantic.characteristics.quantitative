@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "586b905d-cd82-5d0c-a94f-e79a97b6f229",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ComplexFrequency_Real"
+    ],
+    "name": "RealPartOfComplexFrequency",
+    "label": [
+        {
+            "text": "Real part of complex frequency",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWc543ebb853385a1a9382f57faad6170d"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW2d188fb8079c57cf9ef215a038392fe5"
+}

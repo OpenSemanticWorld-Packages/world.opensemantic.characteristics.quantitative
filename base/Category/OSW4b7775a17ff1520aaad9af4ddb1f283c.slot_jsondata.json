@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "4b7775a1-7ff1-520a-aad9-af4ddb1f283c",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/IonTransportNumber"
+    ],
+    "name": "IonTransportNumber",
+    "label": [
+        {
+            "text": "Ion Transport Number",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Ion Transport Number\" is a quantity which indicates the different contribution of ions to the electric current in electrolytes due to different electrical mobility.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW67faac860ed758758aa4484387e5d5c9"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW81eca47781b65aeb8307f91f449eb166"
+}

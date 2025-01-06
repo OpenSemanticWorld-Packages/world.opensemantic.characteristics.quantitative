@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "5079df5b-d908-5725-aebd-171ce0f1bc1b",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/StressOpticCoefficient"
+    ],
+    "name": "StressOpticCoefficient",
+    "label": [
+        {
+            "text": "Stress-Optic Coefficient",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "When a ray of light passes through a photoelastic material, its electromagnetic wave components are resolved along the two principal stress directions and each component experiences a different refractive index due to the birefringence. The difference in the refractive indices leads to a relative phase retardation between the two components. Assuming a thin specimen made of isotropic materials, where two-dimensional photoelasticity is applicable, the magnitude of the relative retardation is given by the stress-optic law Δ=((2πt)/λ)C(σ₁-σ₂), where Δ is the induced retardation, C is the stress-optic coefficient, t is the specimen thickness, λ is the vacuum wavelength, and σ₁ and σ₂ are the first and second principal stresses, respectively.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW3b7824d8362c5390b68f5b568af902db"
+}

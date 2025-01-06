@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "c666cb2a-4a36-56f1-91ca-980983cfe6a8",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/OlfactoryThreshold"
+    ],
+    "name": "OlfactoryThreshold",
+    "label": [
+        {
+            "text": "Olfactory Threshold",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Olfactory Threshold\" are thresholds for the concentrations of various classes of smell that can be detected.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4ce5add385d2545ab8ab50e4b222dab4"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW370f71fadf8358daae35fcadb110fb8c"
+}

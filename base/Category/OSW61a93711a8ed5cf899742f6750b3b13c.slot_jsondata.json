@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "61a93711-a8ed-5cf8-9974-2f6750b3b13c",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/CombustionChamberTemperature"
+    ],
+    "name": "CombustionChamberTemperature",
+    "label": [
+        {
+            "text": "Combustion Chamber Temperature",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW69b648b4fe1a5607b167a699f899be87"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW264e79086dc35bb892d03852c299a5f5"
+}

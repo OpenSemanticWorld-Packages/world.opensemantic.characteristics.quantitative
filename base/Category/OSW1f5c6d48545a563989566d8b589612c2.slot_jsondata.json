@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "1f5c6d48-545a-5639-8956-6d8b589612c2",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MigrationArea"
+    ],
+    "name": "MigrationArea",
+    "label": [
+        {
+            "text": "Migration Area",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Migration Area\" is the sum of the slowing-down area from fission energy to thermal energy and the diffusion area for thermal neutrons.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW1fcf1694712e5684885071efdf775bd9"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW9d1347c7a01559a194c2a927806f33a9"
+}

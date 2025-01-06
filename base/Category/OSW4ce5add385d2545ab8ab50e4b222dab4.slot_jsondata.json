@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "4ce5add3-85d2-545a-b8ab-50e4b222dab4",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Concentration",
+        "http://dbpedia.org/resource/Concentration"
+    ],
+    "name": "Concentration",
+    "label": [
+        {
+            "text": "Concentration",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In chemistry, concentration is defined as the abundance of a constituent divided by the total volume of a mixture. Furthermore, in chemistry, four types of mathematical description can be distinguished: mass concentration, molar concentration, number concentration, and volume concentration. The term concentration can be applied to any kind of chemical mixture, but most frequently it refers to solutes in solutions.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW03938ad046df5509a7a420bdd048f47c"
+}

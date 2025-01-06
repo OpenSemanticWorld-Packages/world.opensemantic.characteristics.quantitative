@@ -1,0 +1,34 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "c1bdd6bc-fc95-5882-ba1d-068110ae41cc",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Height",
+        "http://dbpedia.org/resource/Height"
+    ],
+    "name": "Height",
+    "label": [
+        {
+            "text": "Height",
+            "lang": "en"
+        },
+        {
+            "text": "Höhe",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Height\" is the measurement of vertical distance, but has two meanings in common use. It can either indicate how \"tall\" something is, or how \"high up\" it is.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWee9c7e5c343e542cb5a8b4648315902f"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW1fd23e168f9a56569ef993194cce93b3"
+}

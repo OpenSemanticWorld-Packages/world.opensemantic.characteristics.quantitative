@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "cef8c92a-98b1-5f3a-b49b-e706ef200090",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ClosestApproachRadius"
+    ],
+    "name": "ClosestApproachRadius",
+    "label": [
+        {
+            "text": "Closest Approach Radius",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW57a45884de6052698141a5cbe4aaa4ac"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWd92c3da50c6c5288b9e5a3edbf1d7c97"
+}

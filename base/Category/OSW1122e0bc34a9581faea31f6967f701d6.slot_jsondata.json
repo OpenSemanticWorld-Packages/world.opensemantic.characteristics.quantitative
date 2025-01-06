@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "1122e0bc-34a9-581f-aea3-1f6967f701d6",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/AcousticImpedance"
+    ],
+    "name": "AcousticImpediance",
+    "label": [
+        {
+            "text": "Acoustic Impediance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Acoustic impedance at a surface is the complex quotient of the average sound pressure over that surface by the sound volume flow rate through that surface.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW9e775ee5d35455faaa88953b35b2d911"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW5e4e4b31c5bd5b52bcac0b85bbc2e85b"
+}

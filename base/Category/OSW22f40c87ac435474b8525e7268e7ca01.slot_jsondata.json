@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "22f40c87-ac43-5474-b852-5e7268e7ca01",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LinearMomentum",
+        "http://dbpedia.org/resource/Momentum"
+    ],
+    "name": "LinearMomentum",
+    "label": [
+        {
+            "text": "Linear Momentum",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Linear momentum is the quantity obtained by multiplying the mass of a body by its linear velocity. The momentum of a continuous medium is given by the integral of the velocity over the mass of the medium or by the product of the total mass of the medium and the velocity of the center of gravity of the medium.The SI unit for linear momentum is meter-kilogram per second ($m-kg/s$).",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW832e385ed75950648f608776411be17c"
+}

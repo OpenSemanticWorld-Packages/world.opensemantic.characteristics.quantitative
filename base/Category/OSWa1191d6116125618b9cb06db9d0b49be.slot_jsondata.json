@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "a1191d61-1612-5618-b9cb-06db9d0b49be",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SurfaceDensity",
+        "https://si-digital-framework.org/SI/quantities/SUDE"
+    ],
+    "name": "SurfaceDensity",
+    "label": [
+        {
+            "text": "Surface Density",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The area density (also known as areal density, surface density, or superficial density) of a two-dimensional object is calculated as the mass per unit area.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWaf610057c91058aab51853d5a2d1ac41"
+}

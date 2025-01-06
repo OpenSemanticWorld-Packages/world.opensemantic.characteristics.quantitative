@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "3db28177-ab14-5fce-ab80-85ac3b0c94d2",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ForcePerElectricCharge"
+    ],
+    "name": "ForcePerElectricCharge",
+    "label": [
+        {
+            "text": "Force per Electric Charge",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The electric field depicts the force exerted on other electrically charged objects by the electrically charged particle the field is surrounding. The electric field is a vector field with SI units of newtons per coulomb ($N C^{-1}$) or, equivalently, volts per metre ($V m^{-1}$ ). The SI base units of the electric field are $kg m s^{-3} A^{-1}$. The strength or magnitude of the field at a given point is defined as the force that would be exerted on a positive test charge of 1 coulomb placed at that point",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWd7ce86f0e2ec5c938e20b325025c44ef"
+}

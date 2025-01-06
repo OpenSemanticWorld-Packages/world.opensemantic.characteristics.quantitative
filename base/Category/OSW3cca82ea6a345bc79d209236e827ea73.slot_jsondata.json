@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "3cca82ea-6a34-5bc7-9d20-9236e827ea73",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/PropellantMass"
+    ],
+    "name": "PropellantMass",
+    "label": [
+        {
+            "text": "Propellant Mass",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWe9be062de2d15d10891397a18212f920"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW3ea3e587b71d57c19fe226715a96ac2a"
+}

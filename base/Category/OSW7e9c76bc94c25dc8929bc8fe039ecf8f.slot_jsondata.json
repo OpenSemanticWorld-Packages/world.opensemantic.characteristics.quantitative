@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "7e9c76bc-94c2-5dc8-929b-c8fe039ecf8f",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/NuclearQuadrupoleMoment"
+    ],
+    "name": "NuclearQuadrupoleMoment",
+    "label": [
+        {
+            "text": "Nuclear Quadrupole Moment",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Nuclear Quadrupole Moment\" is a quantity that characterizes the deviation from spherical symmetry of the electrical charge distribution in an atomic nucleus.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWd7120973f54a5f23a5fa891829862608"
+}

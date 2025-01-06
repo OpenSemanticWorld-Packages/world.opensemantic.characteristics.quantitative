@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "031793bb-135f-5bab-91e4-6bbf96621f93",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LengthRatio"
+    ],
+    "name": "LengthRatio",
+    "label": [
+        {
+            "text": "Length Ratio",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW67faac860ed758758aa4484387e5d5c9"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWf835375a4ae459009f80ad186247aef7"
+}

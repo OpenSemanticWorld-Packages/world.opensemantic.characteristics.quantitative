@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "68ebaa3e-9a6b-5caa-90f1-486bd5236739",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SpecificGibbsEnergy"
+    ],
+    "name": "SpecificGibbsEnergy",
+    "label": [
+        {
+            "text": "Specific Gibbs Energy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Energy has corresponding intensive (size-independent) properties for pure materials. A corresponding intensive property is \"Specific Gibbs Energy}, which is $\\textit{Gibbs Energy} per mass of substance involved. $\\textit{Specific Gibbs Energy\" is denoted by a lower case g, with dimension of energy per mass (SI unit: joule/kg).",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW9a32b5a84f235a0cb0a9e9fba9bd252e"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWf959d2faea4a53e7a77e4923e2b6050a"
+}

@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "3643fe8c-f7fa-5c55-88bd-6c68b73fc480",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MechanicalTension"
+    ],
+    "name": "MechanicalTension",
+    "label": [
+        {
+            "text": "Mechanical tension",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "an einem Punkt eines Körpers, an dem eine Kraft angreift, welche die Form des Körpers zu verändern sucht, der Grenzwert des Quotienten Kraft durch Fläche einer ebenen Oberfläche um diesen Punkt, wenn deren Abmessungen gegen null gehen",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW2ff3a26daf13563481acc8b0ebc5b37f"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWd08c7fc5683b51d0b0dc18dcce19e15e"
+}

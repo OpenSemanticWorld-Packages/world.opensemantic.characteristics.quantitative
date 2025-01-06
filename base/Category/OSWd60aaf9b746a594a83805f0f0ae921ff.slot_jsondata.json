@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "d60aaf9b-746a-594a-8380-5f0f0ae921ff",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/PositionVector"
+    ],
+    "name": "PositionVector",
+    "label": [
+        {
+            "text": "Position Vector",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A \"Position Vector\", also known as location vector or radius vector, is a Euclidean vector which represents the position of a point P in space in relation to an arbitrary reference origin O.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWee9c7e5c343e542cb5a8b4648315902f"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWcbe5ef4b89d55bed8b09a354806c2b4a"
+}

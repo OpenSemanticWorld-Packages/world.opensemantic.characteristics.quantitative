@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "99368549-565a-5844-b921-0bc2acf27631",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SpecificEnergyImparted"
+    ],
+    "name": "SpecificEnergyImparted",
+    "label": [
+        {
+            "text": "Specific Energy Imparted",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Specific Energy Imparted\", is the energy imparted to an element of irradiated matter divided by the mass, dm, of that element.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW9a32b5a84f235a0cb0a9e9fba9bd252e"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW16d6aedc16785e00af658016a6d0d060"
+}

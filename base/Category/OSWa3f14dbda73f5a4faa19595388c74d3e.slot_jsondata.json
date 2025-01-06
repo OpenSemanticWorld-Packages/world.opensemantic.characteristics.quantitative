@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "a3f14dbd-a73f-5a4f-aa19-595388c74d3e",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MASS-DELIVERED"
+    ],
+    "name": "MassDelivered",
+    "label": [
+        {
+            "text": "Mass Delivered",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The minimum mass a propulsive system can deliver to a specified target or location. Most mass- delivered requirements have associated Delta-V requirements, effectively specifying the path between the two points.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWe9be062de2d15d10891397a18212f920"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWda64e30338dd5c3fadd232b7708f3b1f"
+}

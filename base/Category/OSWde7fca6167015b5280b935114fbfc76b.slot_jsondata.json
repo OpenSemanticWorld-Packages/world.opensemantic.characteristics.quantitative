@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "de7fca61-6701-5b52-80b9-35114fbfc76b",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Tilt"
+    ],
+    "name": "Tilt",
+    "label": [
+        {
+            "text": "Tilt",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The angle between an object's orientation vector relative to a reference frame.  \n  In the context of architecture, this would refer to the angle between the ground and the face of a surface.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW2339256af71e5635a541ac7f5a437141"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWda69921a96ee5d68a9396f6ee7c64ee9"
+}

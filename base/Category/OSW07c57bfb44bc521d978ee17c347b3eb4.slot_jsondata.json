@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "07c57bfb-44bc-521d-978e-e17c347b3eb4",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LinearForce"
+    ],
+    "name": "LinearForce",
+    "label": [
+        {
+            "text": "Linear Force",
+            "lang": "en"
+        },
+        {
+            "text": "Streckenlast",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Another name for Force Per Length, used by the Industry Foundation Classes (IFC) standard.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4496d2b66d71545392a81e9e05297338"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW33a26f69ca605c76a1857a16c57cfce0"
+}

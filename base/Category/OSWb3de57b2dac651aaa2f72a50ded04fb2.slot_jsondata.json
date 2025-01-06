@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "b3de57b2-dac6-51aa-a2f7-2a50ded04fb2",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/AtomicCharge"
+    ],
+    "name": "AtomicCharge",
+    "label": [
+        {
+            "text": "Atomic Charge",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The electric charge of an ion, equal to the number of electrons the atom has gained or lost in its ionization multiplied by the charge on one electron.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWb7248b1f04455ec99e6ff6e6b472d8de"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWc8104c1c17575929a33a439e29043394"
+}

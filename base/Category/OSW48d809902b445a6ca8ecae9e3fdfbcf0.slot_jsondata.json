@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "48d80990-2b44-5a6c-a8ec-ae9e3fdfbcf0",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SpecificImpulseByWeight"
+    ],
+    "name": "SpecificImpulseByWeight",
+    "label": [
+        {
+            "text": "Specific Impulse by Weight",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW76131090bf885b3b93394f5f4574e1a1"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW36f32c9752ee5a8faa8bfdc1ed2d17a9"
+}

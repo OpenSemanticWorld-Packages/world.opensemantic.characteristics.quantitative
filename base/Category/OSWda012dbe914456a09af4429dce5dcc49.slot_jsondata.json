@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "da012dbe-9144-56a0-9af4-429dce5dcc49",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SpinQuantumNumber"
+    ],
+    "name": "SpinQuantumNumber",
+    "label": [
+        {
+            "text": "Spin Quantum Number",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Spin Quantum Number\"  describes the spin (intrinsic angular momentum) of the electron within that orbital, and gives the projection of the spin angular momentum S along the specified axis",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWa35c06b30b7750c49dd53768ffd9e756"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW4bcfe6d9b9a259639f7be944bd2a1c4f"
+}

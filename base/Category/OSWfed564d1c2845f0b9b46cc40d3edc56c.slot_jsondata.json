@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "fed564d1-c284-5f0b-9b46-cc40d3edc56c",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/WebTimeAveragePressure"
+    ],
+    "name": "WebTimeAveragePressure",
+    "label": [
+        {
+            "text": "Web Time Average Pressure",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWb58cb5a4654f52e1804c74c035d21352"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWe5277de76c4e5ae1840f1931a942b628"
+}

@@ -1,0 +1,34 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "a1400ee0-d19b-55c0-9bfa-c6fad4965a58",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/EnergyInternal",
+        "http://dbpedia.org/resource/Internal_energy"
+    ],
+    "name": "InternalEnergy",
+    "label": [
+        {
+            "text": "Internal energy",
+            "lang": "en"
+        },
+        {
+            "text": "Innere Energie",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The internal energy is the total energy contained by a thermodynamic system. It is the energy needed to create the system, but excludes the energy to displace the system's surroundings, any energy associated with a move as a whole, or due to external force fields. Internal energy has two major components, kinetic energy and potential energy. The internal energy (U) is the sum of all forms of energy (Ei) intrinsic to a thermodynamic system:  $  U = \\sum_i E_i $",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWc87ddd4a7d1159f0a75b686a61ef4e8e"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWcd502afb47b55a6ab34b88b3bcdc7bd3"
+}

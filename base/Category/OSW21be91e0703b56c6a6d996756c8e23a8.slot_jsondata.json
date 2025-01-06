@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "21be91e0-703b-56c6-a6d9-96756c8e23a8",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ReynoldsNumber",
+        "http://dbpedia.org/resource/Reynolds_number"
+    ],
+    "name": "ReynoldsNumber",
+    "label": [
+        {
+            "text": "Reynolds Number",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Reynolds Number\" (Re) is a dimensionless number that gives a measure of the ratio of inertial forces to viscous forces and consequently quantifies the relative importance of these two types of forces for given flow conditions.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW67faac860ed758758aa4484387e5d5c9"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW6200b9dd22c8537caf511f55be65ede5"
+}

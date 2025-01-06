@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "364dc304-7ad8-52c2-bbee-26d77fb270ab",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ColdReceptorThreshold"
+    ],
+    "name": "ColdReceptorThreshold",
+    "label": [
+        {
+            "text": "Cold Receptor Threshold",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Cold Receptor Threshold\" is the threshold of cold-sensitive free nerve-ending.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW20927e4900e95e93985698c92995f964"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW79c12017ccb35fd9b77c52a54d32e3a9"
+}

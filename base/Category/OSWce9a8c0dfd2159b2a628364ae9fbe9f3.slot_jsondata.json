@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "ce9a8c0d-fd21-59b2-a628-364ae9fbe9f3",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/EnergyPerElectricCharge"
+    ],
+    "name": "EnergyPerElectricCharge",
+    "label": [
+        {
+            "text": "Energy per electric charge",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Voltage is a representation of the electric potential energy per unit charge. If a unit of electrical charge were placed in a location, the voltage indicates the potential energy of it at that point. In other words, it is a measurement of the energy contained within an electric field, or an electric circuit, at a given point. Voltage is a scalar quantity. The SI unit of voltage is the volt, such that $1 volt = 1 joule/coulomb$.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW584e2c13306b5030bb2be6fb4f161088"
+}

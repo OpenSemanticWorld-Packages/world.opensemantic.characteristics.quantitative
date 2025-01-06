@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "a4ca4199-72bd-586e-9ab6-c19db17d04d9",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/EnergyImparted"
+    ],
+    "name": "EnergyImparted",
+    "label": [
+        {
+            "text": "Energy Imparted",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Energy Imparted\", is a physical quantity associated with the energy delivered to a particular volume of matter by all the directly and indirectly ionizing particles (i.e. charged and uncharged) entering that volume.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWc87ddd4a7d1159f0a75b686a61ef4e8e"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW6f14b269f4335b518b7714df5ea3bd52"
+}

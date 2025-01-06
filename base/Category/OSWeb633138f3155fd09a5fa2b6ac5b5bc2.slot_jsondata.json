@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "eb633138-f315-5fd0-9a5f-a2b6ac5b5bc2",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SpecificActivity"
+    ],
+    "name": "SpecificActivity",
+    "label": [
+        {
+            "text": "Specific Activity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Specific Activity\" is the number of decays per unit time of a radioactive sample. The SI unit of radioactive activity is the becquerel (Bq), in honor of the scientist Henri Becquerel.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWa0e993cf5f075bbba399a3e24754629a"
+}

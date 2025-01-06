@@ -1,0 +1,35 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "b43cba22-fb1d-5124-bd56-9a3e18826b1f",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ElectricCurrentDensity",
+        "http://dbpedia.org/resource/Current_density",
+        "https://si-digital-framework.org/SI/quantities/CUDE"
+    ],
+    "name": "ElectricCurrentDensity",
+    "label": [
+        {
+            "text": "Electric current density",
+            "lang": "en"
+        },
+        {
+            "text": "Elektrische Stromdichte",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Electric Current Density\" is a measure of the density of flow of electric charge; it is the electric current per unit area of cross section. Electric current density is a vector-valued quantity. Electric current, $I$, through a surface $S$ is defined as $I = \\int_S J \\cdot e_n dA$, where $e_ndA$ is the vector surface element.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWff6f0f58b8ea504a813367bfd8d63fc6"
+}

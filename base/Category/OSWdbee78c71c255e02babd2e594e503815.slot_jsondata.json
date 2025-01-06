@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "dbee78c7-1c25-5e02-babd-2e594e503815",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MassPerEnergy"
+    ],
+    "name": "MassPerEnergy",
+    "label": [
+        {
+            "text": "Mass per Energy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Mass per Energy is a physical quantity that can be used to relate the energy of a system to its mass.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW5b68dbcd6d0c56459a31071b9b04db2d"
+}

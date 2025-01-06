@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "7d9cb17e-b1c7-5492-a024-f50a69b04ffc",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ElectricPropulsionPropellantMass"
+    ],
+    "name": "ElectricPropulsionPropellantMass",
+    "label": [
+        {
+            "text": "Electric Propulsion Propellant Mass",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW3cca82ea6a345bc79d209236e827ea73"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW8d68a7ce907a573ca52b23cc731601a3"
+}

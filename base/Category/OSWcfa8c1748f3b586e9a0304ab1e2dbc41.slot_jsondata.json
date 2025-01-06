@@ -1,0 +1,35 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "cfa8c174-8f3b-586e-9a03-04ab1e2dbc41",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/PlaneAngle",
+        "http://dbpedia.org/resource/Plane_angle",
+        "https://si-digital-framework.org/SI/quantities/ANGP"
+    ],
+    "name": "PlaneAngle",
+    "label": [
+        {
+            "text": "Plane angle",
+            "lang": "en"
+        },
+        {
+            "text": "Ebener Winkel",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "An angle formed by two straight lines (in the same plane) angle - the space between two lines or planes that intersect; the inclination of one line to another; measured in degrees or radians",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW1ce952564ed15efebbd43e22a2d917b7"
+}

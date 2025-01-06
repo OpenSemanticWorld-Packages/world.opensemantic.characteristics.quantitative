@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "2a24ce5e-8c58-5426-b905-fe16c38b632b",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/AbsorbedDoseRate",
+        "https://si-digital-framework.org/SI/quantities/ABDR"
+    ],
+    "name": "AbsorbedDoseRate",
+    "label": [
+        {
+            "text": "Absorbed Dose Rate",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Absorbed Dose Rate\" is the absorbed dose of ionizing radiation imparted at a given location per unit of time (second, minute, hour, or day).",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWd5f1a75c8d3c5132a5c5d948795ff83d"
+}

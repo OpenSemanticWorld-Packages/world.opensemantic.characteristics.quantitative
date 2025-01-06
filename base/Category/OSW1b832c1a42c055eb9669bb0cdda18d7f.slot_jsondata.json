@@ -1,0 +1,35 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "1b832c1a-42c0-55eb-9669-bb0cdda18d7f",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Force",
+        "http://dbpedia.org/resource/Force",
+        "https://si-digital-framework.org/SI/quantities/FORC"
+    ],
+    "name": "Force",
+    "label": [
+        {
+            "text": "Force",
+            "lang": "en"
+        },
+        {
+            "text": "Kraft",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Force\" is an influence that causes mass to accelerate. It may be experienced as a lift, a push, or a pull. Force is defined by Newton's Second Law as $F = m \\times a $, where $F$ is force, $m$ is mass and $a$ is acceleration. Net force is mathematically equal to the time rate of change of the momentum of the body on which it acts. Since momentum is a vector quantity (has both a magnitude and direction), force also is a vector quantity.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW65b4df87de4d5917b4bf46646b7e05b5"
+}

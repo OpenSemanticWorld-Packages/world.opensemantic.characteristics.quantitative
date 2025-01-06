@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "8d34f0cc-11e7-58bf-a887-aa0be724fe4e",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/DewPointTemperature"
+    ],
+    "name": "DewPointTemperature",
+    "label": [
+        {
+            "text": "Dew Point Temperature",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Dew Point Temperature\" is the temperature at which vapour in air reaches saturation.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW20927e4900e95e93985698c92995f964"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW7fc1aafd01225f3a99ebe043b7e4a34a"
+}

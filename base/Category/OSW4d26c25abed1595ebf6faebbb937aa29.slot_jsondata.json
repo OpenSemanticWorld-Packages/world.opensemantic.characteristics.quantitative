@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "4d26c25a-bed1-595e-bf6f-aebbb937aa29",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/AreaPerPower"
+    ],
+    "name": "AreaPerHeatingLoad",
+    "label": [
+        {
+            "text": "Area per heating load",
+            "lang": "en"
+        },
+        {
+            "text": "Fläche pro Heizlast",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The ratio of an area and the power required for maintaining room temperature at a given level",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW8be3750c828c5654b14ede221fb92f55"
+}

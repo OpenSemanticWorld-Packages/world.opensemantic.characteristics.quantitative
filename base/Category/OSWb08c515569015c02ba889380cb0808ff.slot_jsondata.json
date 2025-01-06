@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "b08c5155-6901-5c02-ba88-9380cb0808ff",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MagneticTension"
+    ],
+    "name": "MagneticTension",
+    "label": [
+        {
+            "text": "Magnetic Tension",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Magnetic Tension is a scalar quantity equal to the line integral of the magnetic field strength H along a specified path linking two points a and b.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW83793677c81156cb91be254b9953f5e0"
+}

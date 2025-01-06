@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "a8a9a478-0dcd-56db-a67a-f825f452aaad",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/NormalStress"
+    ],
+    "name": "NormalStress",
+    "label": [
+        {
+            "text": "Normal Stress",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Normal stress is defined as the stress resulting from a force acting normal to a body surface. Normal stress can be caused by several loading methods, the most common being axial tension and compression, bending, and hoop stress.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW74ae1de66beb525ea52eedabf09ab228"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW745121c5f43858e78f03289a52f0d160"
+}

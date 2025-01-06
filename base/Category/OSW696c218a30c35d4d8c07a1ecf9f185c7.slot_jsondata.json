@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "696c218a-30c3-5d4d-8c07-a1ecf9f185c7",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ParticleCurrent"
+    ],
+    "name": "ParticleCurrent",
+    "label": [
+        {
+            "text": "Particle Current",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Particle Current\" can be used to describe the net number of particles passing through a surface in an infinitesimal time interval.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWc543ebb853385a1a9382f57faad6170d"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW17dd47304e925a9b96e1f5e0b169d604"
+}

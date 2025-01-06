@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "8a3a8be1-f119-53c5-bb43-a0d6ae3efac2",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SoilAdsorptionCoefficient"
+    ],
+    "name": "SoilAdsorptionCoefficient",
+    "label": [
+        {
+            "text": "Soil Adsorption Coefficient",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A specific volume that is the ratio of the amount of substance adsorbed per unit weight of organic carbon in the soil or sediment to the concentration of the chemical in aqueous solution at equilibrium.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW26ae18e11ed158dc9ea7e62d1d5ce92e"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWaed77452d94955e995fa902b71b85235"
+}

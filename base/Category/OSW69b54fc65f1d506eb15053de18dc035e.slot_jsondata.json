@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "69b54fc6-5f1d-506e-b150-53de18dc035e",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MaximumBeta-ParticleEnergy"
+    ],
+    "name": "MaximumBetaParticleEnergy",
+    "label": [
+        {
+            "text": "Maximum Beta-Particle Energy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Maximum Beta-Particle Energy\" is the maximum energy of the energy spectrum in a beta-particle disintegration process.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWc87ddd4a7d1159f0a75b686a61ef4e8e"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWe13ce558eab457a6baff6b1f4278ab4e"
+}

@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "dab6db78-5362-5c7e-a445-9c243af7cfbf",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ExhaustStreamPower"
+    ],
+    "name": "ExhaustStreamPower",
+    "label": [
+        {
+            "text": "Exhaust Stream Power",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWa819b53101b854ad923f9f13dfb41794"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWb5b46c7eebdd5e56a7973b3871415b7c"
+}

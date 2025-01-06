@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "e86c6ab0-958a-515d-a6b3-7bbec5a4c8e6",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ThermalDiffusionRatioCoefficient"
+    ],
+    "name": "ThermalDiffusionCoefficient",
+    "label": [
+        {
+            "text": "Thermal Diffusion Coefficient",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Thermal Diffusion Coefficient\" is .",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW03954ee2364e54e48154880b7b9a22b2"
+}

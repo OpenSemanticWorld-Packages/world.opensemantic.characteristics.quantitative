@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "eee790c2-3e77-5ec2-a852-845b671532df",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/PropagationCoefficient"
+    ],
+    "name": "PropagationCoefficient",
+    "label": [
+        {
+            "text": "Propagation coefficient",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The propagation constant, symbol $\\gamma$, for a given system is defined by the ratio of the amplitude at the source of the wave to the amplitude at some distance x.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW4b12e382621e5572a7692136b5bc1211"
+}

@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "d50af2b5-cb4c-50b9-9926-6c4888e59657",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Radiance",
+        "https://si-digital-framework.org/SI/quantities/RADI"
+    ],
+    "name": "Radiance",
+    "label": [
+        {
+            "text": "Radiance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Radiance\" is a radiometric measure that describes the amount of light that passes through or is emitted from a particular area, and falls within a given solid angle in a specified direction.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW2d29c3f218f75d669b67f8008851f82e"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW1867660f9640528c809c8d29b3051296"
+}

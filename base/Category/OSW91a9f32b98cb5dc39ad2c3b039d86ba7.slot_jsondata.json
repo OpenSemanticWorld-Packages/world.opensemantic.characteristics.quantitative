@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "91a9f32b-98cb-5dc3-9ad2-c3b039d86ba7",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/RadiantFlux"
+    ],
+    "name": "RadiantFlux",
+    "label": [
+        {
+            "text": "Radiant flux",
+            "lang": "en"
+        },
+        {
+            "text": "Strahlungsfluss",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Radiant Flux, or radiant power, is the measure of the total power of electromagnetic radiation (including infrared, ultraviolet, and visible light). The power may be the total emitted from a source, or the total landing on a particular surface.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWa819b53101b854ad923f9f13dfb41794"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW60b2a12c3a265574b4789845af2f3f6a"
+}

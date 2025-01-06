@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "2a1c80f8-e8fb-5867-b9e1-38bbaf83d105",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ConductionSpeed"
+    ],
+    "name": "ConductionSpeed",
+    "label": [
+        {
+            "text": "Conduction Speed",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Conduction Speed\" is the speed of impulses in nerve fibers.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW29b1dc01984d568f84c03e03ed2ed731"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWd01359716f075c358cd1c8d5b97ed29c"
+}

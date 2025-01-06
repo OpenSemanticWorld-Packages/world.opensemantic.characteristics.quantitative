@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "bb4c4273-347b-5d59-b4d0-b083dd8135a5",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MagneticFluxPerLength"
+    ],
+    "name": "MagneticFluxPerLength",
+    "label": [
+        {
+            "text": "Magnetic flux per length",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Magnetic Flux per Length\" is a quantity in the SI and C.G.S. Systems of Quantities.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW06d38ecfc7605d43b046b6ff92020132"
+}

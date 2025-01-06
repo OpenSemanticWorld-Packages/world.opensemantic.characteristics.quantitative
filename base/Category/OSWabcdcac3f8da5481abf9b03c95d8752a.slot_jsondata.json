@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "abcdcac3-f8da-5481-abf9-b03c95d8752a",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ResistancePercentage"
+    ],
+    "name": "ResistancePercentage",
+    "label": [
+        {
+            "text": "Resistance Percentage",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW67faac860ed758758aa4484387e5d5c9"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWe7851def284452b394803147faa00388"
+}

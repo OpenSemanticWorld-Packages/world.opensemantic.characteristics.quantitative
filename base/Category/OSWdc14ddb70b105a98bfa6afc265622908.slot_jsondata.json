@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "dc14ddb7-0b10-5a98-bfa6-afc265622908",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Piece"
+    ],
+    "name": "Piece",
+    "label": [
+        {
+            "text": "Piece",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWb0250d3677f6592f9d4329c8b9d5f8d1"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWb92ae8a4e8d05cacbf1255b69282db17"
+}

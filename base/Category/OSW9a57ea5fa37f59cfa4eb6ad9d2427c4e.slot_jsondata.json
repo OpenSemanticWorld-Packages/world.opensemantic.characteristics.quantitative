@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "9a57ea5f-a37f-59cf-a4eb-6ad9d2427c4e",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/WarpingMoment"
+    ],
+    "name": "WarpingMoment",
+    "label": [
+        {
+            "text": "Warping Moment",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The warping moment measure is a measure for the warping moment, which occurs in warping torsional analysis. It is usually measured in kNm².",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW5c2c8fcc294d5987ac40b565a59096ca"
+}

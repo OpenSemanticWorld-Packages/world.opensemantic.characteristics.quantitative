@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "a573ff74-e1f1-5ca2-86ce-442b065146dc",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/InitialVehicleMass"
+    ],
+    "name": "InitialVehicleMass",
+    "label": [
+        {
+            "text": "Initial Vehicle Mass",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWe9be062de2d15d10891397a18212f920"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWaad9185efc2351f4a13afe8eabbe78a1"
+}

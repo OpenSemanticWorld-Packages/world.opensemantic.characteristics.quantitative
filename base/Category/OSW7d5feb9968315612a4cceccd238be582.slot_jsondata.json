@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "7d5feb99-6831-5612-a4cc-eccd238be582",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/TemperatureAmountOfSubstance"
+    ],
+    "name": "TemperatureAmountOfSubstance",
+    "label": [
+        {
+            "text": "Temperature Amount of Substance",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWe16def0d258a51869eda5bb9c53504f4"
+}

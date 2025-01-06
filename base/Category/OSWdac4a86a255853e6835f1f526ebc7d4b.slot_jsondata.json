@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "dac4a86a-2558-53e6-835f-1f526ebc7d4b",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SoundExposure"
+    ],
+    "name": "SoundExposure",
+    "label": [
+        {
+            "text": "Sound exposure",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Sound Exposure is the energy of the A-weighted sound calculated over the measurement time(s). For a given period of time, an increase of 10 dB(A) in sound pressure level corresponds to a tenfold increase in E.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW18b8edc1dbf851968463e408d46923f8"
+}

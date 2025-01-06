@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "d4dba64e-4ce9-5ba4-9505-900a3b92d2d2",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/CarrierLifetime"
+    ],
+    "name": "CarrierLifetime",
+    "label": [
+        {
+            "text": "Carrier LifetIme",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Carrier LifetIme\" is a time constant for recombination or trapping of minority charge carriers in semiconductors.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW389cb87d31be515aa5d2f12e2b66e938"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWc9ebf4eb2f8f5c48b96dc774acf03139"
+}

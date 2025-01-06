@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "e54917d4-9a3b-5a02-b60f-280f68490fa4",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LowerCriticalMagneticFluxDensity"
+    ],
+    "name": "LowerCriticalMagneticFluxDensity",
+    "label": [
+        {
+            "text": "Lower Critical Magnetic Flux Density",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Lower Critical Magnetic Flux Density\" for type II superconductors, is the threshold magnetic flux density for magnetic flux entering the superconductor.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW91fc2f110c7f52628dce39bc0278562b"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW2d2e740047235b0fae5c8a4955ea51b9"
+}

@@ -1,0 +1,34 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "57dc5920-ca59-5bc5-b7c1-f41b0a79bad3",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MolarMass",
+        "http://dbpedia.org/resource/Molar_mass"
+    ],
+    "name": "MolarMass",
+    "label": [
+        {
+            "text": "Molar mass",
+            "lang": "en"
+        },
+        {
+            "text": "Molmasse",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "In chemistry, the molar mass M is defined as the mass of a given substance (chemical element or chemical compound) divided by its amount of substance. It is a physical property of a given substance. The base SI unit for molar mass is $kg/mol$.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWcc08996747a75ab6b07325b54d7a075b"
+}

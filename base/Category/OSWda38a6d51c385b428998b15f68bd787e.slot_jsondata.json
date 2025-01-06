@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "da38a6d5-1c38-5b42-8998-b15f68bd787e",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ThermalConductance"
+    ],
+    "name": "ThermalConductance",
+    "label": [
+        {
+            "text": "Thermal Conductance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "This quantity is also called \"Heat Transfer Coefficient\".",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW89a90defb0dd5f9daccf87aab1c6bba7"
+}

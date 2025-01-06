@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "ec3d914b-6db2-5306-8384-89afb9a45cc8",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/AmountOfSubstanceConcentration",
+        "https://si-digital-framework.org/SI/quantities/AMSC"
+    ],
+    "name": "AmountOfSubstanceOfConcentration",
+    "label": [
+        {
+            "text": "Amount of Substance of Concentration",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Amount of Substance of Concentration of B\" is defined as the amount of a constituent divided by the volume of the mixture.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4ce5add385d2545ab8ab50e4b222dab4"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW6200b9dd22c8537caf511f55be65ede5"
+}

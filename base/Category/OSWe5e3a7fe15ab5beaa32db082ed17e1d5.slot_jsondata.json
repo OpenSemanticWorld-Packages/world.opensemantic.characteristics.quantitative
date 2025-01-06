@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "e5e3a7fe-15ab-5bea-a32d-b082ed17e1d5",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Reflectance"
+    ],
+    "name": "Reflectance",
+    "label": [
+        {
+            "text": "Reflectance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Reflectance generally refers to the fraction of incident power that is reflected at an interface, while the term \"reflection coefficient\" is used for the fraction of electric field reflected. Reflectance is always a real number between zero and 1.0.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW67faac860ed758758aa4484387e5d5c9"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWf835375a4ae459009f80ad186247aef7"
+}

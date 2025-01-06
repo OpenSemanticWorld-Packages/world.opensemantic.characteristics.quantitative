@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "a37f1067-68d4-575a-bdb5-67b17d904d2d",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/DensityOfStates"
+    ],
+    "name": "DensityOfStates",
+    "label": [
+        {
+            "text": "Density of states",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Density of States\" is the number of vibrational modes in an infinitesimal interval of angular frequency divided by the range of that interval and by volume.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWfcde44a5410958f0a65e1e00452b2cfa"
+}

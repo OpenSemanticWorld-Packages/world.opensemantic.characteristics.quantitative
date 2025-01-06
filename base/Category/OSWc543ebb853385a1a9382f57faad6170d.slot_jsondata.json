@@ -1,0 +1,35 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "c543ebb8-5338-5a1a-9382-f57faad6170d",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Frequency",
+        "http://dbpedia.org/resource/Frequency",
+        "https://si-digital-framework.org/SI/quantities/FREQ"
+    ],
+    "name": "Frequency",
+    "label": [
+        {
+            "text": "Frequency",
+            "lang": "en"
+        },
+        {
+            "text": "Frequenz",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Frequency\" is the number of occurrences of a repeating event per unit time. The repetition of the events may be periodic (that is. the length of time between event repetitions is fixed) or aperiodic (i.e. the length of time between event repetitions varies). Therefore, we distinguish between periodic and aperiodic frequencies. In the SI system, periodic frequency is measured in hertz (Hz) or multiples of hertz, while aperiodic frequency is measured in becquerel (Bq).  In spectroscopy, $\\nu$ is mostly used. Light passing through different media keeps its frequency, but not its wavelength or wavenumber.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW7468741a399c52338e44a8242cfed871"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWe8eeff6c98fe586a87ea2225190130d7"
+}

@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "3d007b21-655e-5a68-9b8a-d512f768cd37",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/BendingMomentOfForce",
+        "http://dbpedia.org/resource/Torque"
+    ],
+    "name": "BendingMomentOfForce",
+    "label": [
+        {
+            "text": "Bending Moment of Force",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A bending moment exists in a structural element when a moment is applied to the element so that the element bends. It is the component of moment of force perpendicular to the longitudinal axis of a beam or a shaft.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW77f25284632d50b0ae2be064592412ce"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW6f004dbf369056db8f3845223a14b903"
+}

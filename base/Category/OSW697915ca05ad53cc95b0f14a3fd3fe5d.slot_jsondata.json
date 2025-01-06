@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "697915ca-05ad-53cc-95b0-f14a3fd3fe5d",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ChemicalAffinity"
+    ],
+    "name": "ChemicalAffinity",
+    "label": [
+        {
+            "text": "Chemical Affinity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In chemical physics and physical chemistry, \"Chemical Affinity\" is the electronic property by which dissimilar chemical species are capable of forming chemical compounds. Chemical affinity can also refer to the tendency of an atom or compound to combine by chemical reaction with atoms or compounds of unlike composition.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWc0cfa243b463511db3421ebcb7d1292b"
+}

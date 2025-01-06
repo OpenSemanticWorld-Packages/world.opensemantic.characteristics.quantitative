@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "d15c0a83-636b-5e12-93aa-ef6b1e619c4f",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LinearCompressibility"
+    ],
+    "name": "LinearCompressibility",
+    "label": [
+        {
+            "text": "Linear Compressibility",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Linear Compressibility is a measure of the relative length change of a solid as a response to a normal force change.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW34aa0a96d0c154fc88695682f4891bdd"
+}

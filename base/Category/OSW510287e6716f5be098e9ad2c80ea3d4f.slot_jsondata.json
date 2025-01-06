@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "510287e6-716f-5be0-98e9-ad2c80ea3d4f",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/IonizationEnergy"
+    ],
+    "name": "IonizationEnergy",
+    "label": [
+        {
+            "text": "Ionization Energy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Ionization Energy\" is the energy difference between an electron at rest at infinity and an electron at a certain energy level. The amount of energy required to remove an electron from that atom or molecule in the gas phase.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWc87ddd4a7d1159f0a75b686a61ef4e8e"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWf8c5cfd6ade3595a847eb8c43ba9a5f2"
+}

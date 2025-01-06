@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "fd98416f-9f0b-5cb6-8157-6143d2d4ab05",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MolarOpticalRotatoryPower"
+    ],
+    "name": "MolarOpticalRotatoryPower",
+    "label": [
+        {
+            "text": "Molar Optical Rotatory Power",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Molar Optical Rotatory Power\" Angle of optical rotation divided by the optical path length through the medium and by the amount concentration giving the molar optical rotatory power.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW94d7b96d7b0b5227a60b591ca9cf5511"
+}

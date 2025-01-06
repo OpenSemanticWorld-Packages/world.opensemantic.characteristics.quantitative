@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "f7cbdd37-870f-51bf-b9f2-62d8bb177df7",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MolarAbsorptionCoefficient"
+    ],
+    "name": "MolarAbsorptionCoefficient",
+    "label": [
+        {
+            "text": "Molar Absorption Coefficient",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Molar Absorption Coefficient\" is a spectrophotometric unit indicating the light a substance absorbs with respect to length, usually centimeters, and concentration, usually moles per liter.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW830ed291ed1e50928be41ad485b68392"
+}

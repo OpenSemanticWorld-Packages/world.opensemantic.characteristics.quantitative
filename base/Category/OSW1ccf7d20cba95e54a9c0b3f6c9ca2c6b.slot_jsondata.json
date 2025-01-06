@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "1ccf7d20-cba9-5e54-a9c0-b3f6c9ca2c6b",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MolarFlowRate"
+    ],
+    "name": "MolarFlowRate",
+    "label": [
+        {
+            "text": "Molar Flow Rate",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Molar Flow Rate is a measure of the amount of substance (the number of molecules) that passes through a given area perpendicular to the flow in a given time. Typically this area is constrained, for example a section through a pipe, but it could also apply to an open flow.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWbfc9c624870b5ce2a1284f3eb2329fa8"
+}

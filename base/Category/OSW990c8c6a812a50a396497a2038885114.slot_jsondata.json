@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "990c8c6a-812a-50a3-9649-7a2038885114",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/AreaTime"
+    ],
+    "name": "AreaTime",
+    "label": [
+        {
+            "text": "Area Time",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWf7148422e50b5448b5ec6bfb6e985441"
+}

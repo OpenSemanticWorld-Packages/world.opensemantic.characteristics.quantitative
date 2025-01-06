@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "7825b2bb-b4c2-5834-8224-e4e6d4f364e8",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MacroscopicCrossSection"
+    ],
+    "name": "MacroscopicCrossSection",
+    "label": [
+        {
+            "text": "Macroscopic Cross-section",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Macroscopic Cross-section\" is the sum of the cross-sections for a reaction or process of a specified type over all atoms or other entities in a given 3D domain, divided by the volume of that domain.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWa002dbedf44c5a86a375783a4e7ba6e7"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWbc562f0562d955df950317bc2cbbace4"
+}

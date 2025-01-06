@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "1199859d-9699-59cf-9609-fefc5c904183",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LinearIonization"
+    ],
+    "name": "LinearIonization",
+    "label": [
+        {
+            "text": "Linear Ionization",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Linear Ionization\"  is a description of how the ionization of an atom or molecule takes place. For example, an ion with a +2 charge can be created only from an ion with a +1 charge or a +3 charge. That is, the numerical charge of an atom or molecule must change sequentially, always moving from one number to an adjacent, or sequential, number. Using sequential ionization definition.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWb1f912bfa43450629a6e6403497225b1"
+}

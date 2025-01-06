@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "ef97c736-e77c-56a2-8084-70c2bfd808dc",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/AccelerationOfGravity"
+    ],
+    "name": "AccelerationOfGravity",
+    "label": [
+        {
+            "text": "Acceleration Of Gravity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The acceleration of freely falling bodies under the influence of terrestrial gravity, equal to approximately 9.81 meters (32 feet) per second per second.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW347462e67d905995af16f97dc7c9ef48"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW6f004dbf369056db8f3845223a14b903"
+}

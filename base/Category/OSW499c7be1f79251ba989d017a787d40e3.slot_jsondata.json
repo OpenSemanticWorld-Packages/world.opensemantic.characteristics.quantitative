@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "499c7be1-f792-51ba-989d-017a787d40e3",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SoundPower"
+    ],
+    "name": "SoundPower",
+    "label": [
+        {
+            "text": "Sound power",
+            "lang": "en"
+        },
+        {
+            "text": "Schallleistung",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Sound power or acoustic power $P_a$ is a measure of sonic energy $E$ per time $t$ unit. It is measured in watts and can be computed as sound intensity ($I$) times area ($A$).",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWa819b53101b854ad923f9f13dfb41794"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWda69921a96ee5d68a9396f6ee7c64ee9"
+}

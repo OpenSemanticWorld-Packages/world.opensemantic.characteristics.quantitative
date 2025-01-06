@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "baffe477-5ec6-55a9-915c-0d98385673aa",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/AmountOfSubstanceFractionOfB"
+    ],
+    "name": "AmountOfSubstanceOfFractionOfB",
+    "label": [
+        {
+            "text": "Amount of Substance of Fraction of B",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Amount of Substance of Fraction of B\" is defined as tthe amount of a constituent divided by the total amount of all constituents in a mixture.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW75c0b290d1a451fb8de36ffa84bdc59c"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWa44d9a3db69d58a19382fcdb2e94203d"
+}

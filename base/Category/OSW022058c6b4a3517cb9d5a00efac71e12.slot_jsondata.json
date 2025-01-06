@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "022058c6-b4a3-517c-b9d5-a00efac71e12",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/CartesianArea"
+    ],
+    "name": "CartesianArea",
+    "label": [
+        {
+            "text": "Cartesian Area",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Area\" is a quantity that expresses the extent of a two-dimensional surface or shape, or planar lamina, in the plane.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW1fcf1694712e5684885071efdf775bd9"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW17dd47304e925a9b96e1f5e0b169d604"
+}

@@ -1,0 +1,31 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "d41cd569-a9fb-561a-8415-b09d2d0af5f2",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Exposure",
+        "http://dbpedia.org/resource/Exposure",
+        "https://si-digital-framework.org/SI/quantities/XPOS"
+    ],
+    "name": "Exposure",
+    "label": [
+        {
+            "text": "Exposure",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Exposure\" reflects the extent of ionization events taking place when air is irradiated by ionizing photons (gamma radiation and/or x rays). In photography, exposure is the amount of light allowed to fall on each area unit of a photographic medium (photographic film or image sensor) during the process of taking a photograph. Exposure is measured in lux seconds, and can be computed from exposure value (EV) and scene luminance in a specified region.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW27391d33725254a288fefb618be785f7"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW6f004dbf369056db8f3845223a14b903"
+}

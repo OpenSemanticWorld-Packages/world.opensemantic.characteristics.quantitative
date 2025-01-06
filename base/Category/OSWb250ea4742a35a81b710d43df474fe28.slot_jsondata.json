@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "b250ea47-42a3-5a81-b710-d43df474fe28",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/AtmosphericPressure",
+        "http://dbpedia.org/resource/Atmospheric_pressure"
+    ],
+    "name": "AtmosphericPressure",
+    "label": [
+        {
+            "text": "Atmospheric Pressure",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The pressure exerted by the weight of the air above it at any point on the earth's surface. At sea level the atmosphere will support a column of mercury about $760 mm$ high. This decreases with increasing altitude. The standard value for the atmospheric pressure at sea level in SI units is $101,325 pascals$.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWb58cb5a4654f52e1804c74c035d21352"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW7fc1aafd01225f3a99ebe043b7e4a34a"
+}

@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "91098185-e0b2-5060-9bee-fef37c7e1fe0",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/VolumeFlowRatio"
+    ],
+    "name": "VolumeFlowRatio",
+    "label": [
+        {
+            "text": "Volume Flow Ratio",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Volume flow ratio is commonly used in fluid dynamics and engineering, \n  referring to the ratio of the flow rates of two or more fluid streams within a system. In HVAC systems, \n  the flow ratio could compare the amount of fresh air introduced to the amount of recirculated air.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW67faac860ed758758aa4484387e5d5c9"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW02a99b8c44505890a587073f7c7f1a9c"
+}

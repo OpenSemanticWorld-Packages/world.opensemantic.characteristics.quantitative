@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "6e6fb826-447c-5248-813f-8cad28ef53d7",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/StrainEnergyDensity"
+    ],
+    "name": "StrainEnergyDensity",
+    "label": [
+        {
+            "text": "Strain Energy Density",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Defined as the 'work done' for a given strain, that is the area under the stress-strain curve after a specified eation. Source(s): http://www.prepol.com/product-range/product-subpages/terminology",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWa7079f30224250c9b5d10367541f3c54"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW8f2f1c8a1bd5509abb23d740b54c6397"
+}

@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "153b6d9b-79ec-5894-9fbe-97d2058d995c",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ActiveEnergy"
+    ],
+    "name": "ActiveEnergy",
+    "label": [
+        {
+            "text": "Active Energy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Active Energy\" is the electrical energy transformable into some other form of energy.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWc87ddd4a7d1159f0a75b686a61ef4e8e"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW430a7930a1105fc2b259783f15b9b80d"
+}

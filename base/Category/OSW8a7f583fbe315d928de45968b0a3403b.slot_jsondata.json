@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "8a7f583f-be31-5d92-8de4-5968b0a3403b",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/RotationalFrequency"
+    ],
+    "name": "RotationalFrequency",
+    "label": [
+        {
+            "text": "RotationalFrequency",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "IfcRotationalFrequencyMeasure is a measure of the number of cycles that an item revolves in unit time. Usually measured in cycles/s.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW7aabb9d536ce5b5b9d745b2ee2ac41a3"
+}

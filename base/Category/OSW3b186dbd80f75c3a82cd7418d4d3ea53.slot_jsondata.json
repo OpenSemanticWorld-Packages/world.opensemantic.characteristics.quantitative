@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "3b186dbd-80f7-5c3a-82cd-7418d4d3ea53",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SpecificWeight"
+    ],
+    "name": "SpecificWeight",
+    "label": [
+        {
+            "text": "Specific weight",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The specific weight, also known as the unit weight is a volume-specific quantity defined as the weight per unit volume of a material. Note that weight is defined as a force, distinct from mass.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW2998f1a303d15849935bb54ea9714eaa"
+}

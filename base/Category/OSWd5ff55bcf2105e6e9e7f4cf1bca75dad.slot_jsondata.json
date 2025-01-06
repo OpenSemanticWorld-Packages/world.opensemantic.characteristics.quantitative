@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "d5ff55bc-f210-5e6e-9e7f-4cf1bca75dad",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/NOMINAL-ASCENT-PROPELLANT-MASS"
+    ],
+    "name": "NominalAscentPropellantMass",
+    "label": [
+        {
+            "text": "Nominal Ascent Propellant Mass",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The amount of propellant mass within a stage that is available for impulse for use in nominal payload performance prediction. This mass excludes loaded propellant that has been set aside for off- nominal performance behavior (FPR and fuel bias).",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWe9be062de2d15d10891397a18212f920"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW6f004dbf369056db8f3845223a14b903"
+}

@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "b341ca53-8049-5b7e-992e-1d7cf3c06ddc",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ModulusOfElasticity"
+    ],
+    "name": "ModulusOfElasticity",
+    "label": [
+        {
+            "text": "Modulus of Elasticity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The Modulus of Elasticity is the mathematical description of an object or substance's tendency to be deformed elastically (that is, non-permanently) when a force is applied to it.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW264e79086dc35bb892d03852c299a5f5"
+}

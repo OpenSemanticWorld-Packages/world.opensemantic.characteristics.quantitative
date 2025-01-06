@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "3d8035cb-aa26-5d40-a8e6-cb6317c72700",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LengthTemperatureTime"
+    ],
+    "name": "LengthTemperatureTime",
+    "label": [
+        {
+            "text": "Length Temperature Time",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW14acd216b5ce56749247380e5eeb170b"
+}

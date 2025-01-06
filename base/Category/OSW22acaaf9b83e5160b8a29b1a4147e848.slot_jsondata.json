@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "22acaaf9-b83e-5160-b8a2-9b1a4147e848",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ThermalResistivity"
+    ],
+    "name": "ThermalResistivity",
+    "label": [
+        {
+            "text": "Thermal Resistivity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The reciprocal of thermal conductivity is thermal resistivity, measured in $kelvin-metres$ per watt ($K \\cdot m/W$).",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW2812fbfc4a4b5bda8f3092fc94f98be7"
+}

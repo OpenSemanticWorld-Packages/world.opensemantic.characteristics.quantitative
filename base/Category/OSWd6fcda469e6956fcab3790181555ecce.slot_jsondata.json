@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "d6fcda46-9e69-56fc-ab37-90181555ecce",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/CONTROL-MASS"
+    ],
+    "name": "ControlMass",
+    "label": [
+        {
+            "text": "Control Mass.",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The upper design gross mass limit of a system at a specified mission event against which margins are calculated after accounting for basic masses of flight hardware, MGA, and uncertainties. It may include propellants, crew, and cargo.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWe9be062de2d15d10891397a18212f920"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW76e128c52ccb58ebb5af966997aff0df"
+}

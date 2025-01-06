@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "993eb85e-6303-5bd2-bf24-dafc18760215",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ThrustToMassRatio"
+    ],
+    "name": "ThrustToMassRatio",
+    "label": [
+        {
+            "text": "Thrust To Mass Ratio",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW347462e67d905995af16f97dc7c9ef48"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWcbe5ef4b89d55bed8b09a354806c2b4a"
+}

@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "f5c5b968-f612-5fab-80cf-dbc0a74706fa",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/DonorIonizationEnergy"
+    ],
+    "name": "DonorIonizationEnergy",
+    "label": [
+        {
+            "text": "Donor Ionization Energy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Donor Ionization Energy\" is the ionization energy of a donor.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW510287e6716f5be098e9ad2c80ea3d4f"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW0ecff962cc2a5c2f9719fd1b9d85bf4f"
+}

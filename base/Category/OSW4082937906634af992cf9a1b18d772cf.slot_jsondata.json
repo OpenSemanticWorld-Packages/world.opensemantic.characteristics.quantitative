@@ -1,0 +1,48 @@
+{
+    "type": [
+        "Category:OSWffe74f291d354037b318c422591c5023"
+    ],
+    "subclass_of": [
+        "Category:OSW93ccae36243542ceac6c951450a81d47"
+    ],
+    "characteristics": [],
+    "properties": [
+        {
+            "property_type": "SimpleProperty",
+            "uuid": "ed470b63-e754-41bc-813a-b3aa0087a847",
+            "name": "value",
+            "required": true,
+            "type": "number"
+        },
+        {
+            "property_type": "SimpleProperty",
+            "uuid": "fc310fe8-f963-4841-9fff-126a15a41556",
+            "name": "unit",
+            "type": "string"
+        }
+    ],
+    "uuid": "40829379-0663-4af9-92cf-9a1b18d772cf",
+    "label": [
+        {
+            "text": "Quantity Value",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A Quantity Value expresses the magnitude and kind of a quantity and is given by the product of a numerical value n and a unit of measure u (from qudt).",
+            "lang": "en"
+        }
+    ],
+    "name": "QuantityValue",
+    "metaclass": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "exact_ontology_match": [
+        "https://qudt.org/schema/qudt/QuantityValue"
+    ],
+    "close_ontology_match": [
+        "https://schema.org/QuantitativeValue",
+        "https://w3id.org/emmo#EMMO_f658c301_ce93_46cf_9639_4eace2c5d1d5"
+    ]
+}

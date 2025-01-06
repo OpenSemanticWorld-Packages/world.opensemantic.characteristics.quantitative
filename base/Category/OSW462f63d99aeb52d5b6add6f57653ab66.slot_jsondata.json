@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "462f63d9-9aeb-52d5-b6ad-d6f57653ab66",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/PayloadRatio"
+    ],
+    "name": "PayloadRatio",
+    "label": [
+        {
+            "text": "Payload Ratio",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The payload ratio is defined as the mass of the payload divided by the empty mass of the structure. Because of the extra cost involved in staging rockets, given the choice, it's often more economic to use few stages with a small payload ratio rather than more stages each with a high payload ratio.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW67faac860ed758758aa4484387e5d5c9"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWa3b1025312f05af38c565fc744955153"
+}

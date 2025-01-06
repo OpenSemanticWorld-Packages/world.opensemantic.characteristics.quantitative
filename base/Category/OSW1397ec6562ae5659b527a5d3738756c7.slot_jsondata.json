@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "1397ec65-62ae-5659-b527-a5d3738756c7",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/TrueExhaustVelocity"
+    ],
+    "name": "TrueExhaustVelocity",
+    "label": [
+        {
+            "text": "True Exhaust Velocity",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW397c67ece63a5a5c96bad9349f49f3d7"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW2812fbfc4a4b5bda8f3092fc94f98be7"
+}

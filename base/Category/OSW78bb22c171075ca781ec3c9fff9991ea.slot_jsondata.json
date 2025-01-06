@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "78bb22c1-7107-5ca7-81ec-3c9fff9991ea",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MolarEntropy",
+        "https://si-digital-framework.org/SI/quantities/MOEN"
+    ],
+    "name": "MolarEntropy",
+    "label": [
+        {
+            "text": "Molar Entropy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Standard Molar Entropy\" is the entropy content of one mole of substance, under standard conditions (not standard temperature and pressure STP).",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW17acd3b68aeb5228ab020b01b61b8fe0"
+}

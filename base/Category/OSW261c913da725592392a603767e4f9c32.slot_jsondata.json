@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "261c913d-a725-5923-92a6-03767e4f9c32",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/TotalAtomicStoppingPower"
+    ],
+    "name": "TotalAtomicStoppingPower",
+    "label": [
+        {
+            "text": "Total Atomic Stopping Power",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Total Atomic Stopping Power\" for an ionizing particle passing through an element, is the particle's energy loss per atom within a unit area normal to the particle's path; equal to the linear energy transfer (energy loss per unit path length) divided by the number of atoms per unit volume.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW72802cba83075839ad7b5145d88eb641"
+}

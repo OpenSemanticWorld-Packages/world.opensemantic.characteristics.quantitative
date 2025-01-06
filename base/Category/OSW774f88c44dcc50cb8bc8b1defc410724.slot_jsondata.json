@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "774f88c4-4dcc-50cb-8bc8-b1defc410724",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/InternalEnergy",
+        "http://dbpedia.org/resource/Internal_energy"
+    ],
+    "name": "InternalEnergy",
+    "label": [
+        {
+            "text": "Internal Energy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Internal Energy\" is simply its energy. \"internal\" refers to the fact that some energy contributions are not considered. For instance, when the total system is in uniform motion, it has kinetic energy. This overall kinetic energy is never seen as part of the internal energy; one could call it external energy. Or, if the system is at constant non-zero height above the surface the Earth, it has constant potential energy in the gravitational field of the Earth. Gravitational energy is only taken into account when it plays a role in the phenomenon of interest, for instance in a colloidal suspension, where the gravitation influences the up- downward motion of the small particles comprising the colloid. In all other cases, gravitational energy is assumed not to contribute to the internal energy; one may call it again external energy.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWc87ddd4a7d1159f0a75b686a61ef4e8e"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW76e128c52ccb58ebb5af966997aff0df"
+}

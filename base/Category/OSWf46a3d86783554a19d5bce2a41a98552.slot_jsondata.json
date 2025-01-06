@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "f46a3d86-7835-54a1-9d5b-ce2a41a98552",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ElectricCurrentPerAngle"
+    ],
+    "name": "ElectricCurrentPerAngle",
+    "label": [
+        {
+            "text": "Electric Current per Angle",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW9d533a913d5857b7824a45043d7fed98"
+}

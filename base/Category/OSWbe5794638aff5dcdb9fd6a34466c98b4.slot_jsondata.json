@@ -1,0 +1,31 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "be579463-8aff-5dcd-b9fd-6a34466c98b4",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/CatalyticActivity",
+        "http://dbpedia.org/resource/Catalysis",
+        "https://si-digital-framework.org/SI/quantities/CATA"
+    ],
+    "name": "CatalyticActivity",
+    "label": [
+        {
+            "text": "Catalytic Activity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "An index of the actual or potential activity of a catalyst. The catalytic activity of an enzyme or an enzyme-containing preparation is defined as the property measured by the increase in the rate of conversion of a specified chemical reaction that the enzyme produces in a specified assay system. Catalytic activity is an extensive quantity and is a property of the enzyme, not of the reaction mixture; it is thus conceptually different from rate of conversion although measured by and equidimensional with it. The unit for catalytic activity is the $katal$; it may also be expressed in mol $s^{-1}$. Dimensions: $N T^{-1}$. Former terms such as catalytic ability, catalytic amount, and enzymic activity are no er recommended. Derived quantities are molar catalytic activity, specific catalytic activity, and catalytic activity concentration. Source(s): <a href=\"http://www.answers.com/topic/catalytic-activity-biochemistry\">www.answers.com</a>",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW3f1801f34a3756839fbbb79e6a46befc"
+}

@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "72a50f12-12bd-568f-b1ac-ca74abad26e4",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ThermalTransmittance"
+    ],
+    "name": "ThermalTransmittance",
+    "label": [
+        {
+            "text": "Thermal Transmittance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Thermal transmittance is the rate of transfer of heat through matter. The thermal transmittance of a material (such as insulation or concrete) or an assembly (such as a wall or window) is expressed as a U-value. The concept of thermal transmittance is closely related to that of thermal resistance. The thermal resistance of a structure is the reciprocal of its thermal transmittance.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW46cf5d4e08e25909a1bbad7563535a8e"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW921d267d50635567889635bd32e150b9"
+}

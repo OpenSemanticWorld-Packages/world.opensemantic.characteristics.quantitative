@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "809975f9-70ac-5bb7-98bd-97804233445e",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ThermalEfficiency",
+        "http://dbpedia.org/resource/Thermal_efficiency"
+    ],
+    "name": "ThermalEfficiency",
+    "label": [
+        {
+            "text": "Thermal Efficiency",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Thermal efficiency is a dimensionless performance measure of a thermal device such as an internal combustion engine, a boiler, or a furnace. The input to the device is heat, or the heat-content of a fuel that is consumed. The desired output is mechanical work, or heat, or possibly both.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW67faac860ed758758aa4484387e5d5c9"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW96b60ad7641650fe931dce4b3fe53b14"
+}

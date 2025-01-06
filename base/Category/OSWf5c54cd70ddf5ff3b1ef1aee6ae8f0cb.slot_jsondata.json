@@ -1,0 +1,31 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "f5c54cd7-0ddf-5ff3-b1ef-1aee6ae8f0cb",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Volume",
+        "http://dbpedia.org/resource/Volume",
+        "https://si-digital-framework.org/SI/quantities/VOLU"
+    ],
+    "name": "Volume",
+    "label": [
+        {
+            "text": "Volume",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The volume of a solid object is the three-dimensional concept of how much space it occupies, often quantified numerically. One-dimensional figures (such as lines) and two-dimensional shapes (such as squares) are assigned zero volume in the three-dimensional space.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW0873fa0d5d7c57bd9428a88c88307847"
+}

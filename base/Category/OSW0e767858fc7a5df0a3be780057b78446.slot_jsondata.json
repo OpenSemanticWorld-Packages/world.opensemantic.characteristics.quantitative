@@ -1,0 +1,35 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "0e767858-fc7a-5df0-a3be-780057b78446",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Illuminance",
+        "http://dbpedia.org/resource/Illuminance",
+        "https://si-digital-framework.org/SI/quantities/ILLU"
+    ],
+    "name": "Illuminance",
+    "label": [
+        {
+            "text": "Illuminance",
+            "lang": "en"
+        },
+        {
+            "text": "Beleuchtungsstärke",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Illuminance is the total luminous flux incident on a surface, per unit area. It is a measure of the intensity of the incident light, wavelength-weighted by the luminosity function to correlate with human brightness perception.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW79225fde5f8059d1802f8181c06b4cfa"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW65b4df87de4d5917b4bf46646b7e05b5"
+}

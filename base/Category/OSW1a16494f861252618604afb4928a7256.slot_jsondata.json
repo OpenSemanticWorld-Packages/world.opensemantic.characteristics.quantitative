@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "1a16494f-8612-5261-8604-afb4928a7256",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LevelWidth"
+    ],
+    "name": "LevelWidth",
+    "label": [
+        {
+            "text": "Level Width",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Level Width\" is the uncertainty in the energy of a quantum-mechanical system having discrete energy levels in a state that is not strictly stationary. The system may be an atom, a molecule, or an atomic nucleus.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW70582af1bc2350f78d6a656e3f1c5c93"
+}

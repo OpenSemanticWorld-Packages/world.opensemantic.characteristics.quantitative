@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "75c0b290-d1a4-51fb-8de3-6ffa84bdc59c",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MoleFraction",
+        "http://dbpedia.org/resource/Mole_fraction"
+    ],
+    "name": "MoleFraction",
+    "label": [
+        {
+            "text": "Mole Fraction",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In chemistry, the mole fraction of a component in a mixture is the relative proportion of molecules belonging to the component to those in the mixture, by number of molecules. It is one way of measuring concentration.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW67faac860ed758758aa4484387e5d5c9"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWe13ce558eab457a6baff6b1f4278ab4e"
+}

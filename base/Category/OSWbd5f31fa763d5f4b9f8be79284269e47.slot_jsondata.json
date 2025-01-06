@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "bd5f31fa-763d-5f4b-9f8b-e79284269e47",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SecondMomentOfArea"
+    ],
+    "name": "SecondMomentOfArea",
+    "label": [
+        {
+            "text": "Second moment of area",
+            "lang": "en"
+        },
+        {
+            "text": "Flächenträgheitsmoment",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The second moment of area is a property of a physical object that can be used to predict its resistance to bending and deflection. The deflection of an object under load depends not only on the load, but also on the geometry of the object's cross-section.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW96129c30b75c522ea812313324438d7b"
+}

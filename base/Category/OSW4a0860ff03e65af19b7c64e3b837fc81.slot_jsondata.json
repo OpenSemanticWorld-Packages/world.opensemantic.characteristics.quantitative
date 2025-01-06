@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "4a0860ff-03e6-5af1-9b7c-64e3b837fc81",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MassFlowRate",
+        "http://dbpedia.org/resource/Mass_flow_rate"
+    ],
+    "name": "MassFlowRate",
+    "label": [
+        {
+            "text": "Mass Flow Rate",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Mass Flow Rate\" is a measure of Mass flux. The common symbol is $\\dot{m}$ (pronounced $m-dot$), although sometimes $\\mu$ is used. The SI units are $kg s-1$.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW1cb3c982b37b598f8343861962fb5026"
+}

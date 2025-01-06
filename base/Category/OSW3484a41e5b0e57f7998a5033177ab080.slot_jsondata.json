@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "3484a41e-5b0e-57f7-998a-5033177ab080",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/InverseTime_Squared"
+    ],
+    "name": "InverseSquareTime",
+    "label": [
+        {
+            "text": "Inverse Square Time",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWd2bfe9c30ce2585396dc84fd44d51ee7"
+}

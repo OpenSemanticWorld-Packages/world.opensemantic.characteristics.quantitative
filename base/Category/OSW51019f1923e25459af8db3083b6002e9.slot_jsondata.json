@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "51019f19-23e2-5459-af8d-b3083b6002e9",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MolarThermodynamicEnergy"
+    ],
+    "name": "MolarThermodynamicEnergy",
+    "label": [
+        {
+            "text": "Molar thermodynamic energy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "auf die Stoffmenge bezogene Energie",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW21ec5968e3c2533d98f20564838541fa"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW89896336be9f5f908642806a1e96151a"
+}

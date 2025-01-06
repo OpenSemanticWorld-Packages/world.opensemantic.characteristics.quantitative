@@ -1,0 +1,35 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "aee74c2e-34ed-5893-9c1a-b03d0f115a0f",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LuminousFlux",
+        "http://dbpedia.org/resource/Luminous_flux",
+        "https://si-digital-framework.org/SI/quantities/LUFL"
+    ],
+    "name": "LuminousFlux",
+    "label": [
+        {
+            "text": "Luminous flux",
+            "lang": "en"
+        },
+        {
+            "text": "Lichtstrom",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Luminous Flux or Luminous Power is the measure of the perceived power of light. It differs from radiant flux, the measure of the total power of light emitted, in that luminous flux is adjusted to reflect the varying sensitivity of the human eye to different wavelengths of light.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWd812494962f950a98b1241ca99a186d2"
+}

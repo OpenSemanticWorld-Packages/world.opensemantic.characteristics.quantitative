@@ -1,0 +1,35 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "397c67ec-e63a-5a5c-96ba-d9349f49f3d7",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Velocity",
+        "http://dbpedia.org/resource/Velocity",
+        "https://si-digital-framework.org/SI/quantities/VELO"
+    ],
+    "name": "Velocity",
+    "label": [
+        {
+            "text": "Velocity",
+            "lang": "en"
+        },
+        {
+            "text": "Geschwindigkeit",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "In kinematics, velocity is the speed of an object and a specification of its direction of motion. Speed describes only how fast an object is moving, whereas velocity gives both how fast and in what direction the object is moving.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW22d8b6918edf54ce9a8f1ac0bb815d9d"
+}

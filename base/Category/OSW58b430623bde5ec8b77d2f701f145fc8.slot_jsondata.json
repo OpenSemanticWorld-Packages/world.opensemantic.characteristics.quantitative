@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "58b43062-3bde-5ec8-b77d-2f701f145fc8",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/EnergyLevel"
+    ],
+    "name": "EnergyLevel",
+    "label": [
+        {
+            "text": "Energy Level",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Energy Level\" is the ionization energy for an electron at the Fermi energy in the interior of a substance.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWc87ddd4a7d1159f0a75b686a61ef4e8e"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWd08c7fc5683b51d0b0dc18dcce19e15e"
+}

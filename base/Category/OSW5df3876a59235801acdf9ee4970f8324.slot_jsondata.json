@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "5df3876a-5923-5801-acdf-9ee4970f8324",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/VolumetricFlux"
+    ],
+    "name": "VolumetricFlux",
+    "label": [
+        {
+            "text": "Volumetric Flux",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In fluid dynamics, the volumetric flux is the rate of volume flow across a unit area (m3·s−1·m−2).[Wikipedia]",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW17b868192d695e9ba8199743858b7066"
+}

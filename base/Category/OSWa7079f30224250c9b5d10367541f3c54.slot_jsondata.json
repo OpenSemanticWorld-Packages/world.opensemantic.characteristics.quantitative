@@ -1,0 +1,31 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "a7079f30-2242-50c9-b5d1-0367541f3c54",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/EnergyDensity",
+        "http://dbpedia.org/resource/Energy_density",
+        "https://si-digital-framework.org/SI/quantities/ENGD"
+    ],
+    "name": "EnergyDensity",
+    "label": [
+        {
+            "text": "Energy Density",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Energy density is defined as energy per unit volume. The SI unit for energy density is the joule per cubic meter.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW376e5bb496aa5c5d85a7d875489eff79"
+}

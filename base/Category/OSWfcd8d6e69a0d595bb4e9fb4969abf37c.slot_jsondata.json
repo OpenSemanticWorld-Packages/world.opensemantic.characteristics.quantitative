@@ -1,0 +1,34 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "fcd8d6e6-9a0d-595b-b4e9-fb4969abf37c",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Momentum",
+        "http://dbpedia.org/resource/Momentum"
+    ],
+    "name": "Momentum",
+    "label": [
+        {
+            "text": "Momentum",
+            "lang": "en"
+        },
+        {
+            "text": "Impuls",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The momentum of a system of particles is given by the sum of the momentums of the individual particles which make up the system or by the product of the total mass of the system and the velocity of the center of gravity of the system. The momentum of a continuous medium is given by the integral of the velocity over the mass of the medium or by the product of the total mass of the medium and the velocity of the center of gravity of the medium.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWd9d306d537225473a3f2d7ad0493ee80"
+}

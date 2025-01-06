@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "7423002c-2fd4-5809-bfc0-c4879b7d6f9c",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SurfaceCoefficientOfHeatTransfer"
+    ],
+    "name": "SurfaceCoefficientOfHeatTransfer",
+    "label": [
+        {
+            "text": "Surface Coefficient of Heat Transfer",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW034ada676025564e984a7eaf89e99f0c"
+}

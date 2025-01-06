@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "40402cb3-470f-5f39-9e35-e20b06ba615b",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/EnergyContent"
+    ],
+    "name": "EnergyContent",
+    "label": [
+        {
+            "text": "Energy content",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "gespeicherte Energiemenge, die physikalisch oder chemisch nutzbar ist",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWc87ddd4a7d1159f0a75b686a61ef4e8e"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW49ded25372bf5076b29624297d4cc47e"
+}

@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "3805347e-a7cc-5372-812c-240ee9c72d57",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MassOfSolidBooster"
+    ],
+    "name": "MassOfSolidBooster",
+    "label": [
+        {
+            "text": "Mass Of Solid Booster",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWe9be062de2d15d10891397a18212f920"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW9d1347c7a01559a194c2a927806f33a9"
+}

@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "fd24274b-97b5-57eb-ad5f-bc98060ffcf6",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ParticleSourceDensity"
+    ],
+    "name": "ParticleSourceDensity",
+    "label": [
+        {
+            "text": "Particle Source Density",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Particle Source Density\" is the rate of production of particles in a 3D domain divided by the volume of that element.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWe13ce558eab457a6baff6b1f4278ab4e"
+}

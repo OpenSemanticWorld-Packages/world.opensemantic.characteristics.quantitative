@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "2ff3a26d-af13-5634-81ac-c8b0ebc5b37f",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ForcePerArea"
+    ],
+    "name": "ForcePerArea",
+    "label": [
+        {
+            "text": "Force Per Area",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The force applied to a unit area of surface; measured in pascals (SI unit) or in dynes (cgs unit)",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW60b2a12c3a265574b4789845af2f3f6a"
+}

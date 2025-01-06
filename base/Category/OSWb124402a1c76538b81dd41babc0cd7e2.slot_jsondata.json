@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "b124402a-1c76-538b-81dd-41babc0cd7e2",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/TemperaturePerTime"
+    ],
+    "name": "TemperaturePerTime",
+    "label": [
+        {
+            "text": "Temperature per Time",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW49ded25372bf5076b29624297d4cc47e"
+}

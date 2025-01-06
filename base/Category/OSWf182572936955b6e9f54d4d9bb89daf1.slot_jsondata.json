@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "f1825729-3695-5b6e-9f54-d4d9bb89daf1",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/EnergyFluence"
+    ],
+    "name": "EnergyFluence",
+    "label": [
+        {
+            "text": "Energy Fluence",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Energy Fluence\" can be used to describe the energy delivered per unit area",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWb59bdd9eecd7562e92adb9cd93aa6666"
+}

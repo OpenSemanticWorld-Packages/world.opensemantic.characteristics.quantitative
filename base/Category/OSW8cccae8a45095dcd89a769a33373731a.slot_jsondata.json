@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "8cccae8a-4509-5dcd-89a7-69a33373731a",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Efficiency"
+    ],
+    "name": "Efficiency",
+    "label": [
+        {
+            "text": "Efficiency",
+            "lang": "en"
+        },
+        {
+            "text": "Wirkungsgrad",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Efficiency is the ratio of output power to input power.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW67faac860ed758758aa4484387e5d5c9"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW4bcfe6d9b9a259639f7be944bd2a1c4f"
+}

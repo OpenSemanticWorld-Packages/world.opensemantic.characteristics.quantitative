@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "908b79ae-c173-5ed1-b08f-b2947512ee6d",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Transmittance"
+    ],
+    "name": "Transmittance",
+    "label": [
+        {
+            "text": "Transmittance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Transmittance is the fraction of incident light (electromagnetic radiation) at a specified wavelength that passes through a sample.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW67faac860ed758758aa4484387e5d5c9"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW05bfe78b370e5338924177e2aaeb648f"
+}

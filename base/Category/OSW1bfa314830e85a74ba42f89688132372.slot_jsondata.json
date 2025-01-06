@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "1bfa3148-30e8-5a74-ba42-f89688132372",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/NeutronDiffusionCoefficient"
+    ],
+    "name": "DiffusionCoefficient",
+    "label": [
+        {
+            "text": "Diffusion coefficient",
+            "lang": "en"
+        },
+        {
+            "text": "Diffusionskoeffizient",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Diffusion Coefficient\" is",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW386062cd4f2559bf877a2a56a237d0df"
+}

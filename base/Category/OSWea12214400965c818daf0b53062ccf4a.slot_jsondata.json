@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "ea122144-0096-5c81-8daf-0b53062ccf4a",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Equivalent_Mass"
+    ],
+    "name": "MassEquivalent",
+    "label": [
+        {
+            "text": "Mass Equivalent",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Mass Equivalent\" is the mass of a substance that reacts with (or is equivalent to) an arbitrary mass of \nanother substance in a given chemical reaction.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWe9be062de2d15d10891397a18212f920"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWd86694cd89e6560a9651789b50ef3448"
+}

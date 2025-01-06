@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "50eb3918-2e34-5788-9925-e653d5a3bd03",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LoudnessLevel"
+    ],
+    "name": "LoudnessLevel",
+    "label": [
+        {
+            "text": "Loudness level",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "in phon angegebener Wert als Maß für die Stärke der subjektiven Wahrnehmung eines Schallvorgange, der zahlenmäßig dem in dB angegebenen Schalldruckpegel eines Referenzschalls entspricht, der aus einer frontal einfallenden ebenen Welle mit der Frequenz 1000 Hz besteht und als gleich laut wie das Geräusch empfunden wird",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWbcaa33bd770e53e09d5e6087d141648b"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWcf2655aaed21511eb10d5aae2dbe8176"
+}

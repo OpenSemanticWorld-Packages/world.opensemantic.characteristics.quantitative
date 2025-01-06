@@ -1,0 +1,34 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "ead5dcb1-6a9a-5c25-9862-f31eca41609d",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SpeedOfLight",
+        "http://dbpedia.org/resource/Speed_of_light"
+    ],
+    "name": "SpeedOfLight",
+    "label": [
+        {
+            "text": "Speed of light",
+            "lang": "en"
+        },
+        {
+            "text": "Lichtgeschwindigkeit",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The quantity kind $\\text{Speed of Light}$ is the speed of electomagnetic waves in a given medium.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW29b1dc01984d568f84c03e03ed2ed731"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW981d33b614835f5da4075a7a854e6ba5"
+}

@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "bae7311e-d444-5fb5-922b-5b8470ff235a",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/StaticFriction",
+        "http://dbpedia.org/resource/Friction"
+    ],
+    "name": "StaticFriction",
+    "label": [
+        {
+            "text": "Static Friction",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Static friction is friction between two or more solid objects that are not moving relative to each other. For example, static friction can prevent an object from sliding down a sloped surface.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW92473183e45854a8bd13de8f0aefff19"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW54fd9cc117e055018abe2f8a9abb8ceb"
+}

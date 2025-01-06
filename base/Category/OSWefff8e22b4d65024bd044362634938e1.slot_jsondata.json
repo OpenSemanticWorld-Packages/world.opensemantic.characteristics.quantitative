@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "efff8e22-b4d6-5024-bd04-4362634938e1",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/AmountOfSubstancePerMass"
+    ],
+    "name": "AmountOfSubstancePerMass",
+    "label": [
+        {
+            "text": "Amount of Substance per Mass",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW1a98aede7d105059a071c609fc5c52d4"
+}

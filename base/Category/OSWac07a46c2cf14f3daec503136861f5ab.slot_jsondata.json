@@ -1,0 +1,25 @@
+{
+    "subclass_of": [
+        "Category:OSWffe74f291d354037b318c422591c5023"
+    ],
+    "type": [
+        "Category:Category"
+    ],
+    "uuid": "ac07a46c-2cf1-4f3d-aec5-03136861f5ab",
+    "label": [
+        {
+            "text": "Meta Quantity Value",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Generates schema for value and unit (with autocomplete) based on the quantity of the most fundamental parent characteristic (e.g. Diameter will apply units of Length)",
+            "lang": "en"
+        }
+    ],
+    "name": "MetaQuantityValue",
+    "based_on": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ]
+}

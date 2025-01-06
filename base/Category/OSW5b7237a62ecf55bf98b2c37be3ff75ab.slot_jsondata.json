@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "5b7237a6-2ecf-55bf-98b2-c37be3ff75ab",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/NeutralRatio"
+    ],
+    "name": "NeutralRatio",
+    "label": [
+        {
+            "text": "Neutral ratio",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Quotient aus zwei physikalischen Größen gleicher Art als Zahl, welche das Verhältnis dieser Größen zueinander ausdrückt, wobei die einheiten gegeneinander gekürzt sind",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW67faac860ed758758aa4484387e5d5c9"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW6f004dbf369056db8f3845223a14b903"
+}

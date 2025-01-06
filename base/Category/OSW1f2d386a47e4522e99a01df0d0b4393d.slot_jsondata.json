@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "1f2d386a-47e4-522e-99a0-1df0d0b4393d",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ThermodynamicCriticalMagneticFluxDensity"
+    ],
+    "name": "ThermodynamicCriticalMagneticFluxDensity",
+    "label": [
+        {
+            "text": "Thermodynamic Critical Magnetic Flux Density",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Thermodynamic Critical Magnetic Flux Density\" is the maximum magnetic field strength below which a material remains superconducting.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW91fc2f110c7f52628dce39bc0278562b"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW17dd47304e925a9b96e1f5e0b169d604"
+}

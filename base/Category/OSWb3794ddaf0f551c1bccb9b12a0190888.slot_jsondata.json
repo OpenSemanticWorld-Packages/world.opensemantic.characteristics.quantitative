@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "b3794dda-f0f5-51c1-bccb-9b12a0190888",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Resistance",
+        "http://dbpedia.org/resource/Resistance"
+    ],
+    "name": "Resistance",
+    "label": [
+        {
+            "text": "Resistance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The electrical resistance of an object is a measure of its opposition to the passage of a steady electric current.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW745121c5f43858e78f03289a52f0d160"
+}

@@ -1,0 +1,34 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "24275b1c-56ea-58dc-ae38-c44409251a64",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Diameter",
+        "http://dbpedia.org/resource/Diameter"
+    ],
+    "name": "Diameter",
+    "label": [
+        {
+            "text": "Diameter",
+            "lang": "en"
+        },
+        {
+            "text": "Durchmesser",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "In classical geometry, the \"Diameter\" of a circle is any straight line segment that passes through the center of the circle and whose endpoints lie on the circle.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWee9c7e5c343e542cb5a8b4648315902f"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW56f3e34882be5be987d575b0eaee83f7"
+}

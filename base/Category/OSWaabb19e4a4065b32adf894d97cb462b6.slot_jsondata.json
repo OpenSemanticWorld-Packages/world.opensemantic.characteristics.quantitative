@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "aabb19e4-a406-5b32-adf8-94d97cb462b6",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/EllipticalOrbitPerigeeVelocity"
+    ],
+    "name": "EllipticalOrbitPerigeeVelocity",
+    "label": [
+        {
+            "text": "Elliptical Orbit Perigee Velocity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Velocity at apogee for an elliptical orbit velocity.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW42543b13af4c5af88462e7ac8ff8707d"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWaad9185efc2351f4a13afe8eabbe78a1"
+}

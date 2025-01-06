@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "7a5bf247-1b19-54db-a52a-ef0bf1a3fd28",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/FermiAngularWavenumber"
+    ],
+    "name": "FermiAngularWavenumber",
+    "label": [
+        {
+            "text": "Fermi Angular Wavenumber",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW23837e2c50f05ba884682b08465bf173"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWda64e30338dd5c3fadd232b7708f3b1f"
+}

@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "a2a96072-e46a-57b2-a36f-0510ac8a5fbb",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SpecificHeatsRatio"
+    ],
+    "name": "SpecificHeatsRatio",
+    "label": [
+        {
+            "text": "Specific Heats Ratio",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The ratio of specific heats, for the exhaust gases adiabatic gas constant, is the relative amount of compression/expansion energy that goes into temperature $T$ versus pressure $P$ can be characterized by the heat capacity ratio: $\\gamma\\frac{C_P}{C_V}$, where $C_P$ is the specific heat (also called heat capacity) at constant pressure, while $C_V$ is the specific heat at constant volume.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW67faac860ed758758aa4484387e5d5c9"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW598e09e6c23754a1801afe3d79a647f3"
+}

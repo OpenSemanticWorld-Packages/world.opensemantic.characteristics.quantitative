@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "b691a525-fb3f-5892-a203-e1246382b04b",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/IonicStrength"
+    ],
+    "name": "IonicStrength",
+    "label": [
+        {
+            "text": "Ionic Strength",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Ionic Strength\" of a solution is a measure of the concentration of ions in that solution.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWda73a0cabed655b6b94057a627923377"
+}

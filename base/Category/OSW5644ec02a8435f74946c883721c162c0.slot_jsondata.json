@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "5644ec02-a843-5f74-946c-883721c162c0",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/NucleonNumber"
+    ],
+    "name": "NucleonNumber",
+    "label": [
+        {
+            "text": "Nucleon number",
+            "lang": "en"
+        },
+        {
+            "text": "Nukleonenzahl",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Number of nucleons in an atomic nucleus.A = Z+N. Nuclides with the same value of A are called isobars.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWb0250d3677f6592f9d4329c8b9d5f8d1"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW981d33b614835f5da4075a7a854e6ba5"
+}

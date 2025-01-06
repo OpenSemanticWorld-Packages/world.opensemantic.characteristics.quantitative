@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "94e4c35a-2f77-5b81-bdf2-cd9d259082ba",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/RadiantFluence"
+    ],
+    "name": "RadiantFluence",
+    "label": [
+        {
+            "text": "Radiant Fluence",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Radiant fluence rate, or spherical irradiance, is equal to the total radiant flux incident on a small sphere divided by the area of the diametrical cross-section of the sphere.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWc841fdbe7bb7526182908ff6f2e764be"
+}

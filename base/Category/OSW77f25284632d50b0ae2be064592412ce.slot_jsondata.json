@@ -1,0 +1,34 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "77f25284-632d-50b0-ae2b-e064592412ce",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Torque",
+        "http://dbpedia.org/resource/Torque"
+    ],
+    "name": "Torque",
+    "label": [
+        {
+            "text": "Torque",
+            "lang": "en"
+        },
+        {
+            "text": "Torsionmoment",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "In physics, a torque ($\\tau$) is a vector that measures the tendency of a force to rotate an object about some axis. The magnitude of a torque is defined as force times its lever arm. Just as a force is a push or a pull, a torque can be thought of as a twist. The SI unit for torque is newton meters ($N m$). In U.S. customary units, it is measured in foot pounds (ft lbf) (also known as \"pounds feet\").\nMathematically, the torque on a particle (which has the position r in some reference frame) can be defined as the cross product: $τ = r x F$\nwhere,\nr is the particle's position vector relative to the fulcrum\nF is the force acting on the particles,\nor, more generally, torque can be defined as the rate of change of angular momentum: $τ = dL/dt$\nwhere,\nL is the angular momentum vector\nt stands for time.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWa4084af4d8e45b2c80bc5af83a1418e6"
+}

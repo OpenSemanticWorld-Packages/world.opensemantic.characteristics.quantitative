@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "0f179584-64ad-51c6-8861-156e6ba886e8",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ByteDataVolume"
+    ],
+    "name": "ByteDataVolume",
+    "label": [
+        {
+            "text": "Byte data volume",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Anzahl von Daten auf Basis einer Zeichenfolge, die aus je 8 Bit besteht",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWb0250d3677f6592f9d4329c8b9d5f8d1"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWe57551dd8de25b8fa938b0d3a5c643ea"
+}

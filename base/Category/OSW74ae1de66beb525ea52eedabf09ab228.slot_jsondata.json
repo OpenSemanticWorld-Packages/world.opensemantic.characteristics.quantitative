@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "74ae1de6-6beb-525e-a52e-edabf09ab228",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Stress"
+    ],
+    "name": "Stress",
+    "label": [
+        {
+            "text": "Stress",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Stress is a measure of the average amount of force exerted per unit area of a surface within a deformable body on which internal forces act. In other words, it is a measure of the intensity or internal distribution of the total internal forces acting within a deformable body across imaginary surfaces. These internal forces are produced between the particles in the body as a reaction to external forces applied on the body. Stress is defined as ${\\rm{Stress}} = \\frac{F}{A}$.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW2ff3a26daf13563481acc8b0ebc5b37f"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW03938ad046df5509a7a420bdd048f47c"
+}

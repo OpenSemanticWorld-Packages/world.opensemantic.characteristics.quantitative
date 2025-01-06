@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "cddea398-bde4-5403-a70a-db55b09c0053",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ElectricFlux",
+        "http://dbpedia.org/resource/Electric_flux"
+    ],
+    "name": "ElectricFlux",
+    "label": [
+        {
+            "text": "Electric Flux",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Electric Flux\" through an area is defined as the electric field multiplied by the area of the surface projected in a plane perpendicular to the field. Electric Flux is a scalar-valued quantity.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW0c4f336a48c35552b0e92da08deda5a6"
+}

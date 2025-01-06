@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "b0250d36-77f6-592f-9d43-29c8b9d5f8d1",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Count"
+    ],
+    "name": "Count",
+    "label": [
+        {
+            "text": "Count",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Count\" is the value of a count of items.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWbcaa33bd770e53e09d5e6087d141648b"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW02a99b8c44505890a587073f7c7f1a9c"
+}

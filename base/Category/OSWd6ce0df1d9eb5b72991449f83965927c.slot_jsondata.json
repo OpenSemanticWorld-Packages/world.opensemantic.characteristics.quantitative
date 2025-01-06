@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "d6ce0df1-d9eb-5b72-9914-49f83965927c",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MassConcentrationOfWater"
+    ],
+    "name": "MassConcentrationOfWater",
+    "label": [
+        {
+            "text": "Mass Concentration of Water",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Mass Concentration of Water is one of a number of Concentration quantities defined by ISO 80000.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW2942a7baa40f5e2b9a578759acef6ec6"
+}

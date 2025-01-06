@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "0dca3665-339d-53b2-aeb2-c152dc1ff577",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/AngularReciprocalLatticeVector"
+    ],
+    "name": "AngularReciprocalLatticeVector",
+    "label": [
+        {
+            "text": "Angular Reciprocal Lattice Vector",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Angular Reciprocal Lattice Vector\" is a vector whose scalar products with all fundamental lattice vectors are integral multiples of $2\\pi$.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWe57551dd8de25b8fa938b0d3a5c643ea"
+}

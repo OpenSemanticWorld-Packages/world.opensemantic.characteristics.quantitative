@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "56555874-6452-5ab5-9c9d-0f03d982c365",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/CharacteristicNumber"
+    ],
+    "name": "CharacteristicNumber",
+    "label": [
+        {
+            "text": "Characteristic number",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Größe der Dimension 1 (als Ergebnis der metrisierenden Messtheorie), die Sachverhalte, Zustände oder Entwicklungen verdeutlicht und als Maßstab dient, um z. B. Ursache und Wirkung von Vorgängen in kausalem Zusammenhang darzustellen",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWbcaa33bd770e53e09d5e6087d141648b"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW906ec11166b8596695dcc1457c87db94"
+}

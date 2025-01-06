@@ -1,0 +1,34 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "a572282d-c5c4-5103-99ee-afa0ce8e8519",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/EnergyKinetic",
+        "http://dbpedia.org/resource/Kinetic_energy"
+    ],
+    "name": "KineticEnergy",
+    "label": [
+        {
+            "text": "Kinetic energy",
+            "lang": "en"
+        },
+        {
+            "text": "Kinetische Energie",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The kinetic energy of an object is the energy which it possesses due to its motion. It is defined as the work needed to accelerate a body of a given mass from rest to its stated velocity.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWc87ddd4a7d1159f0a75b686a61ef4e8e"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW1a98aede7d105059a071c609fc5c52d4"
+}

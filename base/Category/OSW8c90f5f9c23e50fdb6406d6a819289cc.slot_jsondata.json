@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "8c90f5f9-c23e-50fd-b640-6d6a819289cc",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/PolarizationField"
+    ],
+    "name": "PolarizationField",
+    "label": [
+        {
+            "text": "Polarization Field",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The Polarization Field is the vector field that expresses the density of permanent or induced electric dipole moments in a dielectric material. The polarization vector P is defined as the ratio of electric dipole moment per unit volume.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4f0b36aedcac5f4dafcc0eaec8eb86dd"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW76e128c52ccb58ebb5af966997aff0df"
+}

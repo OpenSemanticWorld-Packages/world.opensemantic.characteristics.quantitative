@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "e5b6e1c9-5287-515f-8cf9-255397d5848b",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/EnergyPerMagneticFluxDensity_Squared"
+    ],
+    "name": "EnergyPerSquareMagneticFluxDensity",
+    "label": [
+        {
+            "text": "Energy Per Square Magnetic Flux Density",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Energy Per Square Magnetic Flux Density\" is a measure of energy for a unit of magnetic flux density.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWb5a1a6fd28d5554893d41e84f22fef1a"
+}

@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "676564fe-1a34-56cd-a95a-12cec7c2ce9e",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Flux"
+    ],
+    "name": "Flux",
+    "label": [
+        {
+            "text": "Flux",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Flux describes any effect that appears to pass or travel (whether it actually moves or not) through a surface or substance. [Wikipedia]",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW7dba7702fdc75ff49bb1a55348063285"
+}

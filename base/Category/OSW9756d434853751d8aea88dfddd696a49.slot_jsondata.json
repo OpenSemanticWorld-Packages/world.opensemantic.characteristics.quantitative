@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "9756d434-8537-51d8-aea8-8dfddd696a49",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/CoefficientOfPerformance"
+    ],
+    "name": "CoefficientOfPerformance",
+    "label": [
+        {
+            "text": "CoefficientOfPerformance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"\"Coefficient of Performance\",is a measure of the efficiency of a heating or cooling system, defined as the ratio of useful heating or cooling output to the energy input required to achieve it.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW67faac860ed758758aa4484387e5d5c9"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW194e412e3b635bc3901a05b9634d3b20"
+}

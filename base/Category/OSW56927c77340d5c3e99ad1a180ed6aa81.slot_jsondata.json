@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "56927c77-340d-5c3e-99ad-1a180ed6aa81",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ElectronAffinity"
+    ],
+    "name": "ElectronAffinity",
+    "label": [
+        {
+            "text": "Electron Affinity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Electron Affinity\" is the energy difference between an electron at rest at infinity and an electron at the lowest level of the conduction band in an insulator or semiconductor. The the amount of energy released when an electron is added to a neutral atom or molecule to form a negative ion.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWc87ddd4a7d1159f0a75b686a61ef4e8e"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWe483c636e5c95b688d61c2ce02d6adb1"
+}

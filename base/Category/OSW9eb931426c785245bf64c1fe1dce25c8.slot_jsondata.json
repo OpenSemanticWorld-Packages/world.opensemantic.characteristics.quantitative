@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "9eb93142-6c78-5245-bf64-c1fe1dce25c8",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/VolumetricHeatCapacity",
+        "http://dbpedia.org/resource/Volumetric_heat_capacity"
+    ],
+    "name": "VolumetricHeatCapacity",
+    "label": [
+        {
+            "text": "Volumetric Heat Capacity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Volumetric Heat Capacity (VHC)}$, also termed $\\textit{volume-specific heat capacity}$, describes the ability of a given volume of a substance to store internal energy while undergoing a given temperature change, but without undergoing a phase transition. It is different from specific heat capacity in that the VHC is a $\\textit{per unit volume}$ measure of the relationship between thermal energy and temperature of a material, while the specific heat is a $\\textit{per unit mass}$ measure (or occasionally per molar quantity of the material).",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWc7a27a8849a6527497c6ce4611bccce4"
+}

@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "d42f78f4-03bd-5873-b1ba-3409d0816d39",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ExitPlanePressure"
+    ],
+    "name": "ExitPlanePressure",
+    "label": [
+        {
+            "text": "Exit Plane Pressure",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWb58cb5a4654f52e1804c74c035d21352"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW96b60ad7641650fe931dce4b3fe53b14"
+}

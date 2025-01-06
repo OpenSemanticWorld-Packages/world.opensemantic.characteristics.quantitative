@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "17647c8e-5801-5632-868f-cdafc86f22e3",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/RelativeLuminousFlux"
+    ],
+    "name": "RelativeLuminousFlux",
+    "label": [
+        {
+            "text": "Relative Luminous Flux",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Relative Luminous Flux or Relative Luminous Power is the measure of the perceived power of light. It differs from radiant flux, the measure of the total power of light emitted, in that luminous flux is adjusted to reflect the varying sensitivity of the human eye to different wavelengths of light. It is expressed as a percentage or fraction of full power.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW67faac860ed758758aa4484387e5d5c9"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW2481e76e10e2544399097203b4cdc358"
+}

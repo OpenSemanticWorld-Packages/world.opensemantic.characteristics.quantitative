@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "80e9cf75-5691-5b54-b832-6b588abc2531",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Permeance"
+    ],
+    "name": "Permeance",
+    "label": [
+        {
+            "text": "Permeance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Permeance\" is the inverse of reluctance. Permeance is a measure of the quantity of flux for a number of current-turns in magnetic circuit. A magnetic circuit almost acts as though the flux is \"conducted\", therefore permeance is larger for large cross sections of a material and smaller for longer lengths. This concept is analogous to electrical conductance in the electric circuit.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWf9979f6a3ed05fa4b7c23913cbc2c47c"
+}

@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "95c5ca7c-d32d-588a-a490-d8bc28e9cbb8",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/AngularDistance"
+    ],
+    "name": "AngularDistance",
+    "label": [
+        {
+            "text": "Angular Distance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Angular distance travelled by orbiting vehicle measured from the azimuth of closest approach.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW2339256af71e5635a541ac7f5a437141"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW906ec11166b8596695dcc1457c87db94"
+}

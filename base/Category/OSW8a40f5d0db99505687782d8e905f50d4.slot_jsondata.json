@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "8a40f5d0-db99-5056-8778-2d8e905f50d4",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Fugacity"
+    ],
+    "name": "Fugacity",
+    "label": [
+        {
+            "text": "Fugacity",
+            "lang": "en"
+        },
+        {
+            "text": "Fugazität",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Fugacity\" of a real gas is an effective pressure which replaces the true mechanical pressure in accurate chemical equilibrium calculations. It is equal to the pressure of an ideal gas which has the same chemical potential as the real gas.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW8743bb5df9125e78bbf1dcc9fd1bea85"
+}

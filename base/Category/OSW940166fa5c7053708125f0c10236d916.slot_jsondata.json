@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "940166fa-5c70-5370-8125-f0c10236d916",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MagnetomotiveForce",
+        "http://dbpedia.org/resource/Magnetomotive_force"
+    ],
+    "name": "MagnetomotiveForce",
+    "label": [
+        {
+            "text": "Magnetomotive Force",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\text{Magnetomotive Force}$, also referred to as ($mmf$), is the ability of an electric circuit to produce magnetic flux. \n  Just as the ability of a battery to produce electric current is called its electromotive force \n  or emf, mmf is taken as the work required to move a unit magnet pole from any point through any path \n  which links the electric circuit back the same point in the presence of the magnetic force produced \n  by the electric current in the circuit. \n$\\text{Magnetomotive Force}$ is the scalar line integral of the magnetic field strength along a closed path.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW1e7d8ef86615550d8eb867313f74ec15"
+}

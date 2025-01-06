@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "64892b4f-11e8-52b1-8739-75a66e851abe",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/AreaPerTime"
+    ],
+    "name": "AreaPerTime",
+    "label": [
+        {
+            "text": "Area per Time",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWd01359716f075c358cd1c8d5b97ed29c"
+}

@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "b82f3ae5-f1c2-5607-aac3-8b12aba13dd7",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ThermalAdmittance"
+    ],
+    "name": "ThermalAdmittance",
+    "label": [
+        {
+            "text": "Thermal Admittance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The heat transfer coefficient is also known as thermal admittance in the sense that the material may be seen as admitting heat to flow.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW46cf5d4e08e25909a1bbad7563535a8e"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW9b3018fb7171589c8c991758cd999a02"
+}

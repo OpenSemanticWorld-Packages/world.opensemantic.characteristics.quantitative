@@ -1,0 +1,28 @@
+== Data Structure ==
+{| class="wikitable"
+|+
+!Short key
+!Long key
+!Example
+!Description
+|-
+|n
+|numerical_value
+|1.0
+|
+|-
+|u
+|unit
+|https://qudt.org/vocab/unit/Kg
+|
+|-
+|uc
+|unit_code
+|kg
+|
+|-
+|v
+|value
+|1.0 kg
+|
+|}

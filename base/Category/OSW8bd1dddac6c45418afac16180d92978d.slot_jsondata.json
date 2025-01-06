@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "8bd1ddda-c6c4-5418-afac-16180d92978d",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/HeatFluxDensity",
+        "https://si-digital-framework.org/SI/quantities/HEFD"
+    ],
+    "name": "HeatFluxDensity",
+    "label": [
+        {
+            "text": "Heat Flux Density",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW40c46aba16f45962a7330b7f8b88681e"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWe7851def284452b394803147faa00388"
+}

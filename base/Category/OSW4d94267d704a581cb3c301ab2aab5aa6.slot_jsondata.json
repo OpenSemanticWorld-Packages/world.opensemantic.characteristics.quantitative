@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "4d94267d-704a-581c-b3c3-01ab2aab5aa6",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/PhaseDifference"
+    ],
+    "name": "PhaseDifference",
+    "label": [
+        {
+            "text": "Phase difference",
+            "lang": "en"
+        },
+        {
+            "text": "Phasenverschiebungswinkel",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Phase Difference\" is the difference, expressed in electrical degrees or time, between two waves having the same frequency and referenced to the same point in time. Two oscillators that have the same frequency and different phases have a phase difference, and the oscillators are said to be out of phase with each other. The amount by which such oscillators are out of step with each other can be expressed in degrees from $0^\\circ$ to $360^\\circ$, or in radians from 0 to ${2\\pi}$. If the phase difference is $180^\\circ$ ($\\pi$ radians), then the two oscillators are said to be in antiphase.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW2339256af71e5635a541ac7f5a437141"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW1020ae787b5a576e9340e3a84eafa460"
+}

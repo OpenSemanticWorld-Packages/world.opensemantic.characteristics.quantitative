@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "0f0eccb9-6996-55f5-8a52-b9dcf741676b",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/VaporPermeance"
+    ],
+    "name": "VaporPermeability",
+    "label": [
+        {
+            "text": "Vapor Permeability",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A material's \"permeance\", is dependent on thickness much like the R-value in heat transmission. Dividing the permeability of a material by its thickness gives the material's permeance. Permeance is the number that should be used to compare various products in regard to moisture transmission resistance.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWa44d9a3db69d58a19382fcdb2e94203d"
+}

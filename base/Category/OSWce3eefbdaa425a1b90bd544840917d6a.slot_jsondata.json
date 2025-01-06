@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "ce3eefbd-aa42-5a1b-90bd-544840917d6a",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/PowerArea"
+    ],
+    "name": "PowerArea",
+    "label": [
+        {
+            "text": "Power Area",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW1ed748521a3a536e866db456ea880101"
+}

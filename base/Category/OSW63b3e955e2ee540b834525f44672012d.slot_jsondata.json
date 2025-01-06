@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "63b3e955-e2ee-540b-8345-25f44672012d",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Wavelength"
+    ],
+    "name": "Wavelength",
+    "label": [
+        {
+            "text": "Wavelength",
+            "lang": "en"
+        },
+        {
+            "text": "Wellenlänge",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "For a monochromatic wave, \"wavelength\" is the distance between two successive points in a direction perpendicular to the wavefront where at a given instant the phase differs by $2\\pi$. The wavelength of a sinusoidal wave is the spatial period of the wave—the distance over which the wave's shape repeats. The SI unit of wavelength is the meter.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWee9c7e5c343e542cb5a8b4648315902f"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW01b0d442190a5bac9090212aba85682e"
+}

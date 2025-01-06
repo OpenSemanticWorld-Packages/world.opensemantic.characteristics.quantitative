@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "fed64b81-0634-552b-b200-c195ab1017be",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/CartesianVolume"
+    ],
+    "name": "Volume",
+    "label": [
+        {
+            "text": "Volume",
+            "lang": "en"
+        },
+        {
+            "text": "Volumen",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Volume\" is the quantity of three-dimensional space enclosed by some closed boundary, for example, the space that a substance (solid, liquid, gas, or plasma) or shape occupies or contains.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWf5c54cd70ddf5ff3b1ef1aee6ae8f0cb"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWe36bbb89b83057b2acab5e940cc681a4"
+}

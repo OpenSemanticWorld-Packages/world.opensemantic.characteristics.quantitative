@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "c0f9f761-f30d-5a1b-af90-b44ed6eef37d",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/AmountOfSubstanceIonConcentration"
+    ],
+    "name": "IonConcentration",
+    "label": [
+        {
+            "text": "Ion Concentration",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Ion Concentration\" is the moles of ions per volume of solution.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4ce5add385d2545ab8ab50e4b222dab4"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW86f40d0f8df55e898a469f9c52e49179"
+}

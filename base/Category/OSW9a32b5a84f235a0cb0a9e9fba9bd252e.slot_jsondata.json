@@ -1,0 +1,31 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "9a32b5a8-4f23-5a0c-b0a9-e9fba9bd252e",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SpecificEnergy",
+        "http://dbpedia.org/resource/Specific_energy",
+        "https://si-digital-framework.org/SI/quantities/SENG"
+    ],
+    "name": "SpecificEnergy",
+    "label": [
+        {
+            "text": "Specific Energy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Specific Energy}$ is defined as the energy per unit mass. \n  Common metric units are $J/kg$. \n  It is an intensive property. \n  Contrast this with energy, which is an extensive property. \n  There are two main types of specific energy: potential energy and specific kinetic energy. \n  Others are the $\\textit{gray}$ and $\\textit{sievert}$, which are measures for the absorption of radiation. \n  $$$$\n  The concept of specific energy applies to a particular or theoretical way of extracting useful energy from the material considered that is usually implied by context. \n  These intensive properties are each symbolized by using the lower case letter of the symbol for the corresponding extensive property,\n   which is symbolized by a capital letter. \n  For example, the extensive thermodynamic property enthalpy is symbolized by $H$; specific enthalpy is symbolized by $h$.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW2cfe41cc5e625e029378332ec29f10cd"
+}

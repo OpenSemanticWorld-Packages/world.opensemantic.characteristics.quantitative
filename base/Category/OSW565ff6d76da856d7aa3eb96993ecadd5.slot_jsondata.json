@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "565ff6d7-6da8-56d7-aa3e-b96993ecadd5",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/HyperfineStructureQuantumNumber"
+    ],
+    "name": "HyperfineStructureQuantumNumber",
+    "label": [
+        {
+            "text": "Hyperfine Structure Quantum Number",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Hyperfine Structure Quantum Number\" is a quantum number of an atom describing inclination of the nuclear spin with respect to a quantization axis given by the magnetic field produced by the orbital electrons.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWa35c06b30b7750c49dd53768ffd9e756"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWbfc9c624870b5ce2a1284f3eb2329fa8"
+}

@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "2389ed86-3953-5a34-9689-39f5fa9559b2",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/GravitationalAttraction"
+    ],
+    "name": "GravitationalAttraction",
+    "label": [
+        {
+            "text": "Gravitational Attraction",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The force of attraction between all masses in the universe; especially the attraction of the earth's mass for bodies near its surface; the more remote the body the less the gravity; the gravitation between two bodies is proportional to the product of their masses and inversely proportional to the square of the distance between them.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW1b832c1a42c055eb9669bb0cdda18d7f"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW3dca300cd5b85a2b9c4aae83e782d642"
+}

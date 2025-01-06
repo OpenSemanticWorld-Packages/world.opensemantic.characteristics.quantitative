@@ -1,0 +1,35 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "d76028b6-5910-5d13-9a01-faedd83fefbd",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/AngularVelocity",
+        "http://dbpedia.org/resource/Angular_velocity",
+        "https://si-digital-framework.org/SI/quantities/VELA"
+    ],
+    "name": "AngularVelocity",
+    "label": [
+        {
+            "text": "Angular velocity",
+            "lang": "en"
+        },
+        {
+            "text": "Winkelgeschwindigkeit",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The change of angle per unit time; specifically, in celestial mechanics, the change in angle of the radius vector per unit time.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWd92c3da50c6c5288b9e5a3edbf1d7c97"
+}

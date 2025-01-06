@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "cdd31e6a-bf82-53a8-94c6-e44a4282924d",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/TotalCurrentDensity"
+    ],
+    "name": "TotalCurrentDensity",
+    "label": [
+        {
+            "text": "Total Current Density",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Total Current Density\" is the sum of the electric current density and the displacement current density.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW7a02f02a0917501294c71824f0ee021b"
+}

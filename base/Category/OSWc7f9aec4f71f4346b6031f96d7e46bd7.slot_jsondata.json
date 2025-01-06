@@ -1,0 +1,22 @@
+{
+    "subclass_of": [
+        "Category:OSWffe74f291d354037b318c422591c5023"
+    ],
+    "type": [
+        "Category:Category"
+    ],
+    "uuid": "c7f9aec4-f71f-4346-b603-1f96d7e46bd7",
+    "label": [
+        {
+            "text": "Meta Fundamental Quantity Value",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Generates schema for value and unit (with autocomplete)",
+            "lang": "en"
+        }
+    ],
+    "name": "MetaFundamentalQuantityValue"
+}

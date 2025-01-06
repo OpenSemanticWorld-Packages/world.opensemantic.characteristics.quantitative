@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "97308942-8594-5607-baf9-09d27f80638e",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/StaticPressure"
+    ],
+    "name": "StaticPressure",
+    "label": [
+        {
+            "text": "Static pressure",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Static Pressure\" is the pressure at a nominated point in a fluid. Every point in a steadily flowing fluid, regardless of the fluid speed at that point, has its own static pressure $P$, dynamic pressure $q$, and total pressure $P_0$. The total pressure is the sum of the dynamic and static pressures, that is $P_0 = P + q$.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWb58cb5a4654f52e1804c74c035d21352"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWcaf3b59816fa577480bed4062b6086c1"
+}

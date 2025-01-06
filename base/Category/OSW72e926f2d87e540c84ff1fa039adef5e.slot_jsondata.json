@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "72e926f2-d87e-540c-84ff-1fa039adef5e",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Slowing-DownDensity"
+    ],
+    "name": "SlowingDownDensity",
+    "label": [
+        {
+            "text": "Slowing-Down Density",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Slowing-Down Density\" is a measure of the rate at which neutrons lose energy in a nuclear reactor through collisions; equal to the number of neutrons that fall below a given energy per unit volume per unit time.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW0636ab590d375db49b8e3838b2edee7a"
+}

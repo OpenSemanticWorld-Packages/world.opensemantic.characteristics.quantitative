@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "1b09e424-8a12-5246-8c82-13a883656ffa",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/NeutronDiffusionLength"
+    ],
+    "name": "NeutronDiffusionLength",
+    "label": [
+        {
+            "text": "Neutron Diffusion Length",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The neutron diffusion length is equivalent to the relaxation length, that is, to the distance, in which the neutron flux decreases by a factor e",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWee9c7e5c343e542cb5a8b4648315902f"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW386a5e10814957e1b564b0b868498eed"
+}

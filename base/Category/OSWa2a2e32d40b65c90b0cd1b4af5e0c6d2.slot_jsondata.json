@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "a2a2e32d-40b6-5c90-b0cd-1b4af5e0c6d2",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LinearAcceleration",
+        "http://dbpedia.org/resource/Acceleration"
+    ],
+    "name": "LinearAcceleration",
+    "label": [
+        {
+            "text": "Linear Acceleration",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW6030085aa5785bbb89b6d8a8edc42630"
+}

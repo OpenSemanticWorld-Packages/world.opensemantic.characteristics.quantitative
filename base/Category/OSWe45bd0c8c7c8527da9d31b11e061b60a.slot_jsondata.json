@@ -1,0 +1,31 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "e45bd0c8-c7c8-527d-a9d3-1b11e061b60a",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Activity",
+        "http://dbpedia.org/resource/Radioactive_decay",
+        "https://si-digital-framework.org/SI/quantities/ARRN"
+    ],
+    "name": "Activity",
+    "label": [
+        {
+            "text": "Activity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Activity}$ is the number of decays per unit time of a radioactive sample,\n   the term used to characterise the number of nuclei which disintegrate in a radioactive substance per unit time. \n  Activity is usually measured in Becquerels ($Bq$), where 1 $Bq$ is 1 disintegration per second,\n   in honor of the scientist Henri Becquerel.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWbec1168058375097b6157eb8ac35eab4"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWb6bcfcd3d9bc59dba8ac8a7ab68fe078"
+}

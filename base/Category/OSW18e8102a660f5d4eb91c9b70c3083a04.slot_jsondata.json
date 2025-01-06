@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "18e8102a-660f-5d4e-b91c-9b70c3083a04",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/TorquePerLength"
+    ],
+    "name": "TorquePerLength",
+    "label": [
+        {
+            "text": "Torque per Length",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW491d4adbfc21571e942b00acc7e3ee44"
+}

@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "4f181df1-bf2d-5e88-a36f-e5585cb10b8b",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Irradiance"
+    ],
+    "name": "Irradiance",
+    "label": [
+        {
+            "text": "Irradiance",
+            "lang": "en"
+        },
+        {
+            "text": "Bestrahlungsstärke",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Irradiance and Radiant Emittance are radiometry terms for the power per unit area of electromagnetic radiation at a surface. \"Irradiance\" is used when the electromagnetic radiation is incident on the surface. \"Radiant emmitance\" (or \"radiant exitance\") is used when the radiation is emerging from the surface.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW40c46aba16f45962a7330b7f8b88681e"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW0642b832db7b59ee9fde43a478fbb881"
+}

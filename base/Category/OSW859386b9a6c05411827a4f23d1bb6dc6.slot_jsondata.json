@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "859386b9-a6c0-5411-827a-4f23d1bb6dc6",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/EquivalentAbsorptionArea"
+    ],
+    "name": "EquivalentAbsorptionArea",
+    "label": [
+        {
+            "text": "Equivalent absorption area",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In a diffuse sound field, the Equivalent Absorption Area is that area of a surface having an absorption factor equal to 1, which, if diffraction effects are neglected, would, in the same diffuse sound field, absorb the same power.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW1fcf1694712e5684885071efdf775bd9"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW7fc1aafd01225f3a99ebe043b7e4a34a"
+}

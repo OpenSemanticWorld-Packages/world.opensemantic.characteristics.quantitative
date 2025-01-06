@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "592625bd-38e7-5a4e-87d8-66ef370b8a6c",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SpecificPower"
+    ],
+    "name": "SpecificPower",
+    "label": [
+        {
+            "text": "Specific Power",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Specific power, also known as power-to-weight ratio, is the amount of power output per unit mass of the power source. It is generally used to measure the performance of that power source. The higher the ratio, the more power a system produces relative to its weight. It's commonly used in the automotive and aerospace industries to compare the performance of different engines. It's generally measured in watts per kilogram (W/kg) or horsepower per pound (hp/lb).",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWd5027d2f50f25fabba0134284da2a328"
+}

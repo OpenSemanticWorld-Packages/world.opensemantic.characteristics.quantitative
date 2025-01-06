@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "25caa895-8ec0-5221-a2bd-22dbef7b9074",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MagneticAreaMoment"
+    ],
+    "name": "MagneticAreaMoment",
+    "label": [
+        {
+            "text": "Magnetic Area Moment",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Magnetic Area Moment\", for a magnetic dipole, is a vector quantity equal to the product of the current, the loop area, and the unit vector normal to the loop plane, the direction of which corresponds to the loop orientation. \"Magnetic Area Moment\" is also referred to as \"Magnetic Moment\".",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW96b60ad7641650fe931dce4b3fe53b14"
+}

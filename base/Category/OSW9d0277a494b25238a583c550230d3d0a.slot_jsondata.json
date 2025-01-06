@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "9d0277a4-94b2-5238-a583-c550230d3d0a",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ElectricDisplacement"
+    ],
+    "name": "ElectricDisplacement",
+    "label": [
+        {
+            "text": "Electric Displacement",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In a dielectric material the presence of an electric field E causes the bound charges in the material (atomic nuclei and their electrons) to slightly separate, inducing a local electric dipole moment. The Electric Displacement Field, $D$, is a vector field that accounts for the effects of free charges within such dielectric materials. This describes also the charge density on an extended surface that could be causing the field.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4f0b36aedcac5f4dafcc0eaec8eb86dd"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW1020ae787b5a576e9340e3a84eafa460"
+}

@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "9eeda948-d38a-5594-8bfc-8acd78bc8293",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Reluctance"
+    ],
+    "name": "Reluctance",
+    "label": [
+        {
+            "text": "Reluctance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Reluctance\" or magnetic resistance, is a concept used in the analysis of magnetic circuits. It is analogous to resistance in an electrical circuit, but rather than dissipating electric energy it stores magnetic energy. In likeness to the way an electric field causes an electric current to follow the path of least resistance, a magnetic field causes magnetic flux to follow the path of least magnetic reluctance. It is a scalar, extensive quantity, akin to electrical resistance.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW0c0cbde9b3c757439e73fb58a634b266"
+}

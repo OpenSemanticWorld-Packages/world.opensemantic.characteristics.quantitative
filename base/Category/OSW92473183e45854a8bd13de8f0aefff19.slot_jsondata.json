@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "92473183-e458-54a8-bd13-de8f0aefff19",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Friction",
+        "http://dbpedia.org/resource/Friction"
+    ],
+    "name": "Friction",
+    "label": [
+        {
+            "text": "Friction",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Friction\" is the force of two surfaces In contact, or the force of a medium acting on a moving object (that is air on an aircraft). When contacting surfaces move relative to each other, the friction between the two objects converts kinetic energy into thermal energy.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW1b832c1a42c055eb9669bb0cdda18d7f"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWb92ae8a4e8d05cacbf1255b69282db17"
+}

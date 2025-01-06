@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "cfe6332c-b593-5e5c-b596-02e245a610cd",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/VolumicElectromagneticEnergy"
+    ],
+    "name": "VolumicElectromagneticEnergy",
+    "label": [
+        {
+            "text": "Volumic Electromagnetic Energy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Volumic Electromagnetic Energy}$, also known as the $\\textit{Electromagnetic Energy Density}$, is the energy associated with an electromagnetic field, per unit volume of the field.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWe483c636e5c95b688d61c2ce02d6adb1"
+}

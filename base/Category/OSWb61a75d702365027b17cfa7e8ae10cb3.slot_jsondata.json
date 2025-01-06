@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "b61a75d7-0236-5027-b17c-fa7e8ae10cb3",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MassPerTime"
+    ],
+    "name": "MassPerTime",
+    "label": [
+        {
+            "text": "Mass per Time",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW9c9d2a228088580fbf35ffb6dda0051d"
+}

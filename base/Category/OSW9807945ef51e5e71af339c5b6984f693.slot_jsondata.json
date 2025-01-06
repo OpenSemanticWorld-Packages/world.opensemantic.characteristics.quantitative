@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "9807945e-f51e-5e71-af33-9c5b6984f693",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/GaugePressure"
+    ],
+    "name": "GaugePressure",
+    "label": [
+        {
+            "text": "Gauge Pressure",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Gauge Pressure is the pressure of a system relative to the pressure of the surrounding atmosphere. \nIt is the difference between the absolute pressure and the atmospheric pressure. Gauge pressure is positive for pressures \nabove atmospheric pressure and negative for pressures below it. A Quantity in QUDT having a QuantityKind of GaugePressure\nwould typically also assert the value of qudt:isDeltaQuantity to be true, indicating that the value is a difference between\ntwo pressures.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWb58cb5a4654f52e1804c74c035d21352"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWa70daa686e9b58529a898046850470f4"
+}

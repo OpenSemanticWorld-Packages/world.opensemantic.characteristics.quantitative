@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "2f8fe69b-4fc5-5c83-9e55-1a63b21bcfbf",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Reactance",
+        "http://dbpedia.org/resource/Electrical_reactance"
+    ],
+    "name": "Reactance",
+    "label": [
+        {
+            "text": "Reactance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Reactance\" is the opposition of a circuit element to a change of electric current or voltage, due to that element's inductance or capacitance. A built-up electric field resists the change of voltage on the element, while a magnetic field resists the change of current. The notion of reactance is similar to electrical resistance, but they differ in several respects. Capacitance and inductance are inherent properties of an element, just like resistance.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW2a38cf48098b59c695dbac5b50108029"
+}

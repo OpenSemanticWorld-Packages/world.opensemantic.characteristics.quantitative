@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "1634701e-fb42-5f1d-8f32-fe9ae216cef8",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/EquivalentConcentration"
+    ],
+    "name": "EquivalentConcentration",
+    "label": [
+        {
+            "text": "Equivalent Concentration",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The amount of a substance that reacts with (or is equivalent to) an arbitrary amount (typically one mole) of another substance in a given chemical reaction, per volume.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4ce5add385d2545ab8ab50e4b222dab4"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW9018894d8a975b01a1cc94069e45f362"
+}

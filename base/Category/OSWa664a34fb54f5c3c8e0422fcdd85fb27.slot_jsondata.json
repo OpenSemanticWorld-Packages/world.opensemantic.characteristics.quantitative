@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "a664a34f-b54f-5c3c-8e04-22fcdd85fb27",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/HeatFlowRatePerArea"
+    ],
+    "name": "HeatFlowRatePerUnitArea",
+    "label": [
+        {
+            "text": "Heat Flow Rate per Unit Area",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Heat Flux}$ is the heat rate per area. In SI units, heat flux is measured in $W/m^2$. Heat rate is a scalar quantity, while heat flux is a vectorial quantity. To define the heat flux at a certain point in space, one takes the limiting case where the size of the surface becomes infinitesimally small.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW40c46aba16f45962a7330b7f8b88681e"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW194e412e3b635bc3901a05b9634d3b20"
+}

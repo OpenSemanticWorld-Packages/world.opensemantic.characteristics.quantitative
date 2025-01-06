@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "ff78da31-39af-553d-81d4-720b73d306ca",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Spin"
+    ],
+    "name": "Spin",
+    "label": [
+        {
+            "text": "Spin",
+            "lang": "en"
+        },
+        {
+            "text": "Spin",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "In quantum mechanics and particle physics \"Spin\" is an intrinsic form of angular momentum carried by elementary particles, composite particles (hadrons), and atomic nuclei.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW11c230fdfd065eee822d39afdc9fba80"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW8753c936eb01513dbd3a1b3f349b44a9"
+}

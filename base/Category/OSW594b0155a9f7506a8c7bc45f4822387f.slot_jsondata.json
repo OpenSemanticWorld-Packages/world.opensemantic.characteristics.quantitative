@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "594b0155-a9f7-506a-8c7b-c45f4822387f",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ReverberationTime"
+    ],
+    "name": "ReverberationTime",
+    "label": [
+        {
+            "text": "Reverberation Time",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Reverberation Time is the time required for reflections of a direct sound to decay by 60 dB below the level of the direct sound.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW389cb87d31be515aa5d2f12e2b66e938"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW49ded25372bf5076b29624297d4cc47e"
+}

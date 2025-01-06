@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "2aeb29e2-0464-500c-8df9-79d1625f6e75",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/BurgersVector"
+    ],
+    "name": "BurgersVector",
+    "label": [
+        {
+            "text": "Burgers Vector",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Burgers Vector\" is the vector characterizing a dislocation, i.e. the closing vector in a Burgers circuit encircling a dislocation line.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWee9c7e5c343e542cb5a8b4648315902f"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW0b49cc80f9de52ff907d6ae2579d2700"
+}

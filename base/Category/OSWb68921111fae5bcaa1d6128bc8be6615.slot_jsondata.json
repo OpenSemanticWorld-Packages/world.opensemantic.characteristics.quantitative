@@ -1,0 +1,31 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "b6892111-1fae-5bca-a1d6-128bc8be6615",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/AbsorbedDose",
+        "http://dbpedia.org/resource/Absorbed_dose",
+        "https://si-digital-framework.org/SI/quantities/ABDO"
+    ],
+    "name": "AbsorbedDose",
+    "label": [
+        {
+            "text": "Absorbed Dose",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Absorbed Dose\" (also known as Total Ionizing Dose, TID) is a measure of the energy deposited in a medium by ionizing radiation. It is equal to the energy deposited per unit mass of medium, and so has the unit $J/kg$, which is given the special name Gray ($Gy$).",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW9a32b5a84f235a0cb0a9e9fba9bd252e"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW9b3018fb7171589c8c991758cd999a02"
+}

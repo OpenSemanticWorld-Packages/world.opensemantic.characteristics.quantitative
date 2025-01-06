@@ -1,0 +1,31 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "fe1ff8f4-4b16-5f1f-985b-575117e59d3b",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/DoseEquivalent",
+        "http://dbpedia.org/resource/Equivalent_dose",
+        "https://si-digital-framework.org/SI/quantities/DOEQ"
+    ],
+    "name": "DoseEquivalent",
+    "label": [
+        {
+            "text": "Dose Equivalent",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Dose Equivalent\" (former), or $\\textit{Equivalent Absorbed Radiation Dose}$, usually shortened to $\\textit{Equivalent Dose}$, is a computed average measure of the radiation absorbed by a fixed mass of biological tissue, that attempts to account for the different biological damage potential of different types of ionizing radiation. The equivalent dose to a tissue is found by multiplying the absorbed dose, in gray, by a dimensionless \"quality factor\" $Q$, dependent upon radiation type, and by another dimensionless factor $N$, dependent on all other pertinent factors. N depends upon the part of the body irradiated, the time and volume over which the dose was spread, even the species of the subject.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW9a32b5a84f235a0cb0a9e9fba9bd252e"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW56f3e34882be5be987d575b0eaee83f7"
+}

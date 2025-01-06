@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "ee57e9ea-6fbe-580a-8376-5aa62cafed15",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/DisplacementVectorOfIon"
+    ],
+    "name": "DisplacementVectorOfIon",
+    "label": [
+        {
+            "text": "Displacement Vector of Ion",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Displacement Vector of Ion\" is the .",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWee9c7e5c343e542cb5a8b4648315902f"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW1fd23e168f9a56569ef993194cce93b3"
+}

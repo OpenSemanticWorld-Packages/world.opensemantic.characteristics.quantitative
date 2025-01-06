@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "773f040f-505b-5893-8f7e-e54e1b7eb29f",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ResidualResistivity"
+    ],
+    "name": "ResidualResistivity",
+    "label": [
+        {
+            "text": "Residual Resistivity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Residual Resistivity\" for metals, is the resistivity extrapolated to zero thermodynamic temperature.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW6f93ccaa10c95c20bc7b7cc03903a812"
+}

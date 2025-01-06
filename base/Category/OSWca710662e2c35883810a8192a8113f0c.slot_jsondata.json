@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "ca710662-e2c3-5883-810a-8192a8113f0c",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LinkedFlux",
+        "http://dbpedia.org/resource/Magnetic_flux"
+    ],
+    "name": "LinkedFlux",
+    "label": [
+        {
+            "text": "Linked Flux",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Linked Flux\" is defined as the path integral of the magnetic vector potential. This is the line integral of a magnetic vector potential $A$ along a curve $C$. The line vector element $dr$ is the differential of position vector $r$.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW82a515de9bcc5af8a2f33974e7ec0f1a"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW2efbbc890c2c5b01af84c480c9285ee5"
+}

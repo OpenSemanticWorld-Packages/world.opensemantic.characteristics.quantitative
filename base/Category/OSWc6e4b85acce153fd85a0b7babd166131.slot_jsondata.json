@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "c6e4b85a-cce1-53fd-85a0-b7babd166131",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/DELTA-V"
+    ],
+    "name": "DeltaV",
+    "label": [
+        {
+            "text": "Delta-V",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The change in translational velocity including all losses for a propulsive system or module. Delta-V losses include, but are not limited to, gravity losses and steering losses.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW397c67ece63a5a5c96bad9349f49f3d7"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW1decca0570255b2a82d988bd588912e5"
+}

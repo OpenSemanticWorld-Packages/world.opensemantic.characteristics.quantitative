@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "a3a8179b-b49f-5faf-a9ff-680f4d7f9f34",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ExpansionRatio"
+    ],
+    "name": "ExpansionRatio",
+    "label": [
+        {
+            "text": "Expansion Ratio",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWaad9185efc2351f4a13afe8eabbe78a1"
+}

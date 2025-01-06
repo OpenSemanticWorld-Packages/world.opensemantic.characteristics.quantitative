@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "1c2803e1-4f66-58d7-a452-4335a0310023",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/DynamicPressure",
+        "http://dbpedia.org/resource/Dynamic_pressure"
+    ],
+    "name": "DynamicPressure",
+    "label": [
+        {
+            "text": "Dynamic Pressure",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Dynamic Pressure (indicated with q, or Q, and sometimes called velocity pressure) is the quantity defined by: $q = 1/2 * \\rho v^{2}$, where (using SI units),  $q$ is dynamic pressure in $pascals$, $\\rho$ is fluid density in $kg/m^{3}$ (for example, density of air) and $v $ is fluid velocity in $m/s$.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWb58cb5a4654f52e1804c74c035d21352"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWe8eeff6c98fe586a87ea2225190130d7"
+}

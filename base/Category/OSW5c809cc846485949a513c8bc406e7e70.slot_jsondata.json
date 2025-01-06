@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "5c809cc8-4648-5949-a513-c8bc406e7e70",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LinearAbsorptionCoefficient"
+    ],
+    "name": "LinearAbsorptionCoefficient",
+    "label": [
+        {
+            "text": "Linear Absorption Coefficient",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The Linear Absorption Coefficient is a quantity that characterizes how easily a material or medium can be penetrated by a beam of light, sound, particles, or other energy or matter.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW4d0ead8e380550d28d52ab8e235dd040"
+}

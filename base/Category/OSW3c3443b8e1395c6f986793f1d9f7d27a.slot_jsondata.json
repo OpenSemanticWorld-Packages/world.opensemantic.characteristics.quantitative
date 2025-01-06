@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "3c3443b8-e139-5c6f-9867-93f1d9f7d27a",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/IsothermalCompressibility"
+    ],
+    "name": "IsothermalCompressibility",
+    "label": [
+        {
+            "text": "Isothermal compressibility",
+            "lang": "en"
+        },
+        {
+            "text": "Isotherme Kompressibilität",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The isothermal compressibility defines the rate of change of system volume with pressure.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWfca45761797a57cfa85f70f437833702"
+}

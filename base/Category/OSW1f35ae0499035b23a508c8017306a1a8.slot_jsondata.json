@@ -1,0 +1,27 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "1f35ae04-9903-5b23-a508-c8017306a1a8",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LinearExpansionCoefficient"
+    ],
+    "name": "LinearExpansionCoefficient",
+    "label": [
+        {
+            "text": "Linear expansion coefficient",
+            "lang": "en"
+        },
+        {
+            "text": "Linearer Ausdehnungskoeffizient",
+            "lang": "de"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWa3a8179bb49f5fafa9ff680f4d7f9f34"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW35d1d97e9ee55518bcd46402fbe6ea13"
+}

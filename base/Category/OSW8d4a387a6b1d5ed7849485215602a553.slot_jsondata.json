@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "8d4a387a-6b1d-5ed7-8494-85215602a553",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/AtomicEnergy"
+    ],
+    "name": "AtomicEnergy",
+    "label": [
+        {
+            "text": "Atomic energy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "skalare Größe von Elementarteilchen, die bei beliebiger Umwandlung innerhalb eines Systems erhalten bleibt und als gespeichertes Arbeitsvermögen die Fähigkeit eines physikalischen Systems darstellt, Arbeit zu verrichten",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWc87ddd4a7d1159f0a75b686a61ef4e8e"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW86f40d0f8df55e898a469f9c52e49179"
+}

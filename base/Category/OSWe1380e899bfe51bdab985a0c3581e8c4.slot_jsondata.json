@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "e1380e89-9bfe-51bd-ab98-5a0c3581e8c4",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MeanMassRange"
+    ],
+    "name": "MeanMassRange",
+    "label": [
+        {
+            "text": "Mean Mass Range",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Mean Mass Range\" is the mean linear range multiplied by the mass density of the material.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW386a5e10814957e1b564b0b868498eed"
+}

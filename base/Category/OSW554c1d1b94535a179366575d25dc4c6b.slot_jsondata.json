@@ -1,0 +1,35 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "554c1d1b-9453-5a17-9366-575d25dc4c6b",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ElectricFluxDensity",
+        "http://dbpedia.org/resource/Electric_flux",
+        "https://si-digital-framework.org/SI/quantities/ELFD"
+    ],
+    "name": "ElectricFluxDensity",
+    "label": [
+        {
+            "text": "Electric flux density",
+            "lang": "en"
+        },
+        {
+            "text": "Elektrische Flussdichte",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Electric Flux Density}$, also referred to as $\\textit{Electric Displacement}$, is related to electric charge density by the following equation: $\\text{div} \\; D = \\rho$, where $\\text{div}$ denotes the divergence.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4f0b36aedcac5f4dafcc0eaec8eb86dd"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW194e412e3b635bc3901a05b9634d3b20"
+}

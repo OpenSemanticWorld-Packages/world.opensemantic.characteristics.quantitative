@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "4a5b46b7-3675-5f22-ab06-881a142f62e6",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/EffectiveMass"
+    ],
+    "name": "EffectiveMass",
+    "label": [
+        {
+            "text": "Effective Mass",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Effective Mass\" is used in the motional equation for electrons in solid state bodies, depending on the wavenumber and corresponding to its velocity and energy level.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWe9be062de2d15d10891397a18212f920"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW1a98aede7d105059a071c609fc5c52d4"
+}

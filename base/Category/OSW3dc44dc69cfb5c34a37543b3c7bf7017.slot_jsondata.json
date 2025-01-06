@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "3dc44dc6-9cfb-5c34-a375-43b3c7bf7017",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MeltingPoint"
+    ],
+    "name": "MeltingPointTemperature",
+    "label": [
+        {
+            "text": "Melting Point Temperature",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A temperature that is the one at which a substance will change its physical state from a solid to a liquid.  It is also the temperature where the solid and liquid forms of a pure substance can exist in equilibrium.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW20927e4900e95e93985698c92995f964"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW3c2c63a1206654918a580fdd4536a451"
+}

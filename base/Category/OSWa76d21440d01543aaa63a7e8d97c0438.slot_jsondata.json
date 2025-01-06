@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "a76d2144-0d01-543a-aa63-a7e8d97c0438",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/NormalizedDimensionlessRatio"
+    ],
+    "name": "PositiveDimensionlessRatio",
+    "label": [
+        {
+            "text": "Positive Dimensionless Ratio",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A \"Normalized Dimensionless Ratio\" is a dimensionless ratio ranging from 0.0 to 1.0",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW67faac860ed758758aa4484387e5d5c9"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW2812fbfc4a4b5bda8f3092fc94f98be7"
+}

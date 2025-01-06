@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "c4389e23-2bdd-57d9-82bf-c4bed783818e",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/StandardChemicalPotential"
+    ],
+    "name": "StandardChemicalPotential",
+    "label": [
+        {
+            "text": "Standard Chemical Potential",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Standard Chemical Potential\" is the value of the chemical potential at standard conditions",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW7119e1d761815d4facb1dbee71829517"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW386a5e10814957e1b564b0b868498eed"
+}

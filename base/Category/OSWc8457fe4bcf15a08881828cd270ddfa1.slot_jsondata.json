@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "c8457fe4-bcf1-5a08-8818-28cd270ddfa1",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/CartesianCoordinates"
+    ],
+    "name": "CartesianCoordinates",
+    "label": [
+        {
+            "text": "Cartesian coordinates",
+            "lang": "en"
+        },
+        {
+            "text": "Kartesische Koordinaten",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Cartesian Coordinates\" specify each point uniquely in a plane by a pair of numerical coordinates, which are the signed distances from the point to two fixed perpendicular directed lines, measured in the same unit of length.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWee9c7e5c343e542cb5a8b4648315902f"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW16d6aedc16785e00af658016a6d0d060"
+}

@@ -1,0 +1,34 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "140347dd-94e6-593a-aea4-daf9a1264a0a",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/AngularImpulse",
+        "http://dbpedia.org/resource/AngularMomentum"
+    ],
+    "name": "AngularImpulse",
+    "label": [
+        {
+            "text": "Angular impulse",
+            "lang": "en"
+        },
+        {
+            "text": "Drehstoß",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The Angular Impulse, also known as angular momentum, is the moment of linear momentum around a point. It is defined as$H = \\int Mdt$, where $M$ is the moment of force and $t$ is time.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWc7bc4bc39923580885b91cf36c63d11a"
+}

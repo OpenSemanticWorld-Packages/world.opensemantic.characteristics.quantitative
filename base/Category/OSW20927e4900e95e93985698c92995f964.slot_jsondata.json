@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "20927e49-00e9-5e93-9856-98c92995f964",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Temperature",
+        "http://dbpedia.org/resource/Temperature"
+    ],
+    "name": "Temperature",
+    "label": [
+        {
+            "text": "Temperature",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Temperature is a physical property of matter that quantitatively expresses the common notions of hot and cold. Objects of low temperature are cold, while various degrees of higher temperatures are referred to as warm or hot. Heat spontaneously flows from bodies of a higher temperature to bodies of lower temperature, at a rate that increases with the temperature difference and the thermal conductivity.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW04312c9196a4543d9c827a28f37878d9"
+}

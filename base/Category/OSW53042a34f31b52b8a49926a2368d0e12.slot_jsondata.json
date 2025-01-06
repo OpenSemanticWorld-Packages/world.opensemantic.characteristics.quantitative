@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "53042a34-f31b-52b8-a499-26a2368d0e12",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LinearElectricCurrent"
+    ],
+    "name": "LinearElectricCurrent",
+    "label": [
+        {
+            "text": "Linear Electric Current",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Linear Electric Linear Current\" is the electric current per unit line.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW6ce762ef103d5b15976dcfa13914bef4"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW491d4adbfc21571e942b00acc7e3ee44"
+}

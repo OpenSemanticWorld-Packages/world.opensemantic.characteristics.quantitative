@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "8ba7ac8b-06c4-53e2-885c-c41c9d9ee0bb",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ElectricCurrentPerLength"
+    ],
+    "name": "ElectricCurrentPerLength",
+    "label": [
+        {
+            "text": "Electric Current per Length",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW6ce762ef103d5b15976dcfa13914bef4"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWcbe5ef4b89d55bed8b09a354806c2b4a"
+}

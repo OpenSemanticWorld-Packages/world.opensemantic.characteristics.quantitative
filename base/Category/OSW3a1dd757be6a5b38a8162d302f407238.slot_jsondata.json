@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "3a1dd757-be6a-5b38-a816-2d302f407238",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MaxExpectedOperatingThrust"
+    ],
+    "name": "MaximumExpectedOperatingThrust",
+    "label": [
+        {
+            "text": "Maximum Expected Operating Thrust",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWb9eb9b070fb3584cb6df0d0dda581fb6"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWd577070c496e574b97b5cd6aaf0d3f78"
+}

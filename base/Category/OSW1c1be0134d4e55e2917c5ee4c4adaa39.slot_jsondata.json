@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "1c1be013-4d4e-55e2-917c-5ee4c4adaa39",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/RankineTemperature"
+    ],
+    "name": "RankineTemperature",
+    "label": [
+        {
+            "text": "Rankine temperature",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Größe, die eine Temperaturskala benutzt, die wie die Kelvin-Skala beim absoluten Temperatur-Nullpunkt (0 K) ihren Nullwert hat, jedoch im Gegensatz zu dieser den Skalenabstand der Fahrenheit-Skala verwendet",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW69b648b4fe1a5607b167a699f899be87"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW00ec0699be4351e7b4c33bd6f4fc561e"
+}

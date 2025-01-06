@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "eec705c7-a600-5269-8e01-058732a6d8de",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SpectralCrossSection"
+    ],
+    "name": "SpectralCrossSection",
+    "label": [
+        {
+            "text": "Spectral Cross-section",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Spectral Cross-section\" is the cross-section for a process in which the energy of the ejected or scattered particle is in an interval of energy, divided by the range $dE$ of this interval.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW49f25589fb5e5c84912e16a0f5c05cc0"
+}

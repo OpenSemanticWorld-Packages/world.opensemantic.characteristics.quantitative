@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "71dc7977-cd3a-5398-89a4-af664c2e02da",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MagneticField"
+    ],
+    "name": "MagneticField",
+    "label": [
+        {
+            "text": "Magnetic Field",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The Magnetic Field, denoted $B$, is a fundamental field in electrodynamics which characterizes the magnetic force exerted by electric currents.  It is closely related to the auxillary magnetic field H (see quantitykind:AuxillaryMagneticField).",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW892de67a33a55e37b089f774ab805e0e"
+}

@@ -1,0 +1,31 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "8fa24695-3141-5841-b654-12f705d138d6",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SpecificHeatCapacity",
+        "http://dbpedia.org/resource/Specific_heat_capacity",
+        "https://si-digital-framework.org/SI/quantities/SHEC"
+    ],
+    "name": "SpecificHeatCapacity",
+    "label": [
+        {
+            "text": "Specific Heat Capacity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Specific Heat Capacity of a solid or liquid is defined as the heat required to raise unit mass of substance by one degree of temperature. This is Heat Capacity divided by Mass. Note that there are corresponding molar quantities.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW4683511b386659fb870a7a60bd4c968e"
+}

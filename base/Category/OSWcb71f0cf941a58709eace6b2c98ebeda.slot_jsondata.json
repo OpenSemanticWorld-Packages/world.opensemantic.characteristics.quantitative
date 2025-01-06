@@ -1,0 +1,34 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "cb71f0cf-941a-5870-9eac-e6b2c98ebeda",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Entropy",
+        "http://dbpedia.org/resource/Entropy"
+    ],
+    "name": "Entropy",
+    "label": [
+        {
+            "text": "Entropy",
+            "lang": "en"
+        },
+        {
+            "text": "Entropie",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "When a small amount of heat $dQ$ is received by a system whose thermodynamic temperature is $T$, the entropy of the system increases by $dQ/T$, provided that no irreversible change takes place in the system.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWd4cc2ba695c25075b158891f4da7c270"
+}

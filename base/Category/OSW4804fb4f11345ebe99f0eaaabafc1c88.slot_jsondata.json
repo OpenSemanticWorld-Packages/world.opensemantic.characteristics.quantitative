@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "4804fb4f-1134-5ebe-99f0-eaaabafc1c88",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ModulusOfImpedance"
+    ],
+    "name": "ModulusOfImpedance",
+    "label": [
+        {
+            "text": "Modulus Of Impedance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Modulus Of Impedance} is the absolute value of the quantity $\\textit{impedance}$. Apparent impedance is defined more generally as\n\nthe quotient of rms voltage and rms electric current; it is often denoted by $Z$.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWa3b1025312f05af38c565fc744955153"
+}

@@ -1,0 +1,34 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "0ed75cfa-55dc-55ad-bbbe-cbf4e22744c0",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Weight",
+        "http://dbpedia.org/resource/Weight"
+    ],
+    "name": "Weight",
+    "label": [
+        {
+            "text": "Weight",
+            "lang": "en"
+        },
+        {
+            "text": "Gewicht",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The force with which a body is attracted toward an astronomical body.  Or, the product of the mass of a body and the acceleration acting on a body.  In a dynamic situation, the weight can be a multiple of that under resting conditions. Weight also varies on other planets in accordance with their gravity.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW1b832c1a42c055eb9669bb0cdda18d7f"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW628abfd0d7ca562188515be09d8ea80b"
+}

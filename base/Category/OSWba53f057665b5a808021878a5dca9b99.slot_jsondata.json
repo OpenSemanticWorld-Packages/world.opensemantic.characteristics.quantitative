@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "ba53f057-665b-5a80-8021-878a5dca9b99",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/AtomicMass"
+    ],
+    "name": "AtomicMass",
+    "label": [
+        {
+            "text": "Atomic Mass",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Atomic Mass\" is the mass of a specific isotope, most often expressed in unified atomic mass units.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWe9be062de2d15d10891397a18212f920"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWb65a8cca88fa53aeb0c1c57e9ea70fc6"
+}

@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "22e788fd-36bc-5f8d-9007-e46b1b874413",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Half-Life"
+    ],
+    "name": "HalfLife",
+    "label": [
+        {
+            "text": "Half-life",
+            "lang": "en"
+        },
+        {
+            "text": "Halbwertszeit",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Half-Life\" is the average duration required for the decay of one half of the atoms or nuclei.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW389cb87d31be515aa5d2f12e2b66e938"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWa70daa686e9b58529a898046850470f4"
+}

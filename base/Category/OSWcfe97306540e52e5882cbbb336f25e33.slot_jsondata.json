@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "cfe97306-540e-52e5-882c-bbb336f25e33",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ActivityRelatedByMass"
+    ],
+    "name": "ActivityRelatedByMass",
+    "label": [
+        {
+            "text": "Activity related by mass",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "quantitative Angabe der Radioaktivität einer Menge eines Radionuklids in einem bestimmten Energiezustand zu einem gegebenen Zeitpunkt dividiert durch die zugehörige Masse dieser Menge #,#quantitative data of the radioactivity of the amount of a radionuclide in a particular state of energy at a defined point in time, divided by the related mass of this quantity",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW9cb88f0c339451c59ecf9587128ee4b5"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW8644d73173175c63b64c487247a7aa01"
+}

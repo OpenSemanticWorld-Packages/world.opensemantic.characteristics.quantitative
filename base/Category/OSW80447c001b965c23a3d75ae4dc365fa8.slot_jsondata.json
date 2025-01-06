@@ -1,0 +1,34 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "80447c00-1b96-5c23-a3d7-5ae4dc365fa8",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MolarVolume",
+        "http://dbpedia.org/resource/Molar_volume"
+    ],
+    "name": "MolarVolume",
+    "label": [
+        {
+            "text": "Molar volume",
+            "lang": "en"
+        },
+        {
+            "text": "Molvolumen",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The molar volume, symbol $V_m$, is the volume occupied by one mole of a substance (chemical element or chemical compound) at a given temperature and pressure. It is equal to the molar mass ($M$) divided by the mass density ($\\rho$). It has the SI unit cubic metres per mole ($m^{1}/mol$). For ideal gases, the molar volume is given by the ideal gas equation: this is a good approximation for many common gases at standard temperature and pressure. For crystalline solids, the molar volume can be measured by X-ray crystallography.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW02a99b8c44505890a587073f7c7f1a9c"
+}

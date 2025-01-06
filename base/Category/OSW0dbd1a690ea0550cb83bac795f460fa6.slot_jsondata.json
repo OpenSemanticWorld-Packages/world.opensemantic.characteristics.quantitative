@@ -1,0 +1,34 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "0dbd1a69-0ea0-550c-b83b-ac795f460fa6",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/PotentialEnergy",
+        "http://dbpedia.org/resource/Potential_energy"
+    ],
+    "name": "PotentialEnergy",
+    "label": [
+        {
+            "text": "Potential energy",
+            "lang": "en"
+        },
+        {
+            "text": "Potentielle Energie",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Energy possessed by a body by virtue of its position in a gravity field in contrast with kinetic energy, that possessed by virtue of its motion.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWc87ddd4a7d1159f0a75b686a61ef4e8e"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW7a041f565fd05aa7800b4fa1cedb3d9a"
+}

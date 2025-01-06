@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "6837c50b-e0b8-5f76-835e-5fdd56bf054f",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/DensityInCombustionChamber"
+    ],
+    "name": "DensityInCombustionChamber",
+    "label": [
+        {
+            "text": "Density In Combustion Chamber",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW512cbc54b9a75f4abe8e66c48204ae0f"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW0b49cc80f9de52ff907d6ae2579d2700"
+}

@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "f27c1fdb-1295-5ad2-b624-50acb52f702f",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SpecificHeatPressure"
+    ],
+    "name": "SpecificHeatPressure",
+    "label": [
+        {
+            "text": "Specific Heat Pressure",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Specific heat at a constant pressure.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWb3a5d8236aa653fe9fe2501d7e264951"
+}

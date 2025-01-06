@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "6ce762ef-103d-5b15-976d-cfa13914bef4",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LinearElectricCurrentDensity"
+    ],
+    "name": "LinearElectricCurrentDensity",
+    "label": [
+        {
+            "text": "Linear Electric Current Density",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Linear Electric Linear Current Density\" is the electric current per unit length. Electric current, $I$, through a curve $C$ is defined as $I = \\int_C J _s \\times e_n$, where $e_n$ is a unit vector perpendicular to the surface and line vector element, and $dr$ is the differential of position vector $r$.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWcbe13361ab54520eb75dad4a5e00258f"
+}

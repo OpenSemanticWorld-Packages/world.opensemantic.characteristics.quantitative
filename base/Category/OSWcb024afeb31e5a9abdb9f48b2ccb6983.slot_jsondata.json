@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "cb024afe-b31e-5a9a-bdb9-f48b2ccb6983",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/InitialNozzleThroatDiameter"
+    ],
+    "name": "InitialNozzleThroatDiameter",
+    "label": [
+        {
+            "text": "Initial Nozzle Throat Diameter",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW02b07b5b2f095f45afb5157bce27379a"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW33359bfb4bee5d8b9fea8a8fda65c044"
+}

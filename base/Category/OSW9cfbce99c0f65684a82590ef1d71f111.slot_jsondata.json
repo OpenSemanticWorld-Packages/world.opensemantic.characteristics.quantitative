@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "9cfbce99-c0f6-5684-a825-90ef1d71f111",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SpecificHeatCapacityAtConstantVolume"
+    ],
+    "name": "SpecificHeatCapacityAtConstantVolume",
+    "label": [
+        {
+            "text": "Specific heat capacity at constant volume",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Specific heat per constant volume.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW31844323c0ca59e4bdf5f433adfddba3"
+}

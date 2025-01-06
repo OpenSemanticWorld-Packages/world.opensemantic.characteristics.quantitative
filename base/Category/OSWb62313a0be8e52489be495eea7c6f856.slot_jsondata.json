@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "b62313a0-be8e-5248-9be4-95eea7c6f856",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/VoltageRatio"
+    ],
+    "name": "VoltageRatio",
+    "label": [
+        {
+            "text": "Voltage Ratio",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW67faac860ed758758aa4484387e5d5c9"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWf766b6c3f2e65edc9566ef54ad605289"
+}

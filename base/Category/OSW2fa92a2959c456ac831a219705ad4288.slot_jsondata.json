@@ -1,0 +1,34 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "2fa92a29-59c4-56ac-831a-219705ad4288",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SpeedOfSound",
+        "http://dbpedia.org/resource/Speed_of_sound"
+    ],
+    "name": "SpeedOfSound",
+    "label": [
+        {
+            "text": "Speed of sound",
+            "lang": "en"
+        },
+        {
+            "text": "Schallgeschwindigkeit",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The speed of sound is the distance travelled during a unit of time by a sound wave propagating through an elastic medium.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW29b1dc01984d568f84c03e03ed2ed731"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW01b0d442190a5bac9090212aba85682e"
+}

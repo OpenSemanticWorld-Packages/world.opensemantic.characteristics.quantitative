@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "91fc2f11-0c7f-5262-8dce-39bc0278562b",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MagneticFluxDensity"
+    ],
+    "name": "MagneticFluxDensity",
+    "label": [
+        {
+            "text": "Magnetic flux density",
+            "lang": "en"
+        },
+        {
+            "text": "Magnetische Flussdichte",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Magnetic Flux Density\" is a vector quantity and is the magnetic flux per unit area of a magnetic field at right angles to the magnetic force. It can be defined in terms of the effects the field has, for example by $B = F/q v \\sin \\theta$, where $F$ is the force a moving charge $q$ would experience if it was travelling at a velocity $v$ in a direction making an angle θ with that of the field. The magnetic field strength is also a vector quantity and is related to $B$ by: $H = B/\\mu$, where $\\mu$ is the permeability of the medium.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW2f26f0c56c09529985ef11f376f013f0"
+}

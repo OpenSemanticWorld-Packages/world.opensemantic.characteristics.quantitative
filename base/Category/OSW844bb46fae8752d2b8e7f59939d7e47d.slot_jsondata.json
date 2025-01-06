@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "844bb46f-ae87-52d2-b8e7-f59939d7e47d",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/TemperaturePerMagneticFluxDensity"
+    ],
+    "name": "TemperaturePerMagneticFluxDensity",
+    "label": [
+        {
+            "text": "Temperature per Magnetic Flux Density",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW42fb0234fd0f51869be4df807b2dde2a"
+}

@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "cd73bd1d-42a7-5671-896b-bf11ed611b6e",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/EnergyDensityOfStates"
+    ],
+    "name": "EnergyDensityOfStates",
+    "label": [
+        {
+            "text": "Energy Density of States",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Energy Density of States\" refers to electrons or other entities, e.g. phonons. It can, for example, refer to amount of substance instead of volume.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW4d8d1ce29dc75b5ab24d22c06630cd83"
+}

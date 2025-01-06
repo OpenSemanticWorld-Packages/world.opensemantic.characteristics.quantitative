@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "bc45768e-b166-5c18-975f-ae4c802c6e63",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/OrbitalRadialDistance"
+    ],
+    "name": "OrbitalRadialDistance",
+    "label": [
+        {
+            "text": "Orbital Radial Distance",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWee9c7e5c343e542cb5a8b4648315902f"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWb89f4a6eb66e5834b0a73b7f7776cfb9"
+}

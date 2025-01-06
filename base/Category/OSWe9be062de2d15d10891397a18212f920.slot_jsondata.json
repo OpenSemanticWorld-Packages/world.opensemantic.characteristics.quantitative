@@ -1,0 +1,35 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "e9be062d-e2d1-5d10-8913-97a18212f920",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Mass",
+        "http://dbpedia.org/resource/Mass",
+        "https://si-digital-framework.org/SI/quantities/MASS"
+    ],
+    "name": "Mass",
+    "label": [
+        {
+            "text": "Mass",
+            "lang": "en"
+        },
+        {
+            "text": "Masse",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "In physics, mass, more specifically inertial mass, can be defined as a quantitative measure of an object's resistance to acceleration. The SI unit of mass is the kilogram ($kg$)",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWeb87bb7f153d5a95b371b23a00e1d84c"
+}

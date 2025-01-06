@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "9cb88f0c-3394-51c5-9ecf-9587128ee4b5",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MassicActivity"
+    ],
+    "name": "MassicActivity",
+    "label": [
+        {
+            "text": "Massic Activity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Massic Activity\" is the activity divided by the total mass of the sample.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWe4638a78ef8354ed9c89f0464de1aaa0"
+}

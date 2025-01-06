@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "55eac7b3-6313-581b-839d-0bd4957f7788",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Vorticity"
+    ],
+    "name": "Vorticity",
+    "label": [
+        {
+            "text": "Vorticity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In the simplest sense, vorticity is the tendency for elements of a fluid to \"spin.\" More formally, vorticity can be related to the amount of \"circulation\" or \"rotation\" (or more strictly, the local angular rate of rotation) in a fluid. The average vorticity in a small region of fluid flow is equal to the circulation C around the boundary of the small region, divided by the area A of the small region. Mathematically, vorticity is a vector field and is defined as the curl of the velocity field.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWd76028b659105d139a01faedd83fefbd"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW36f32c9752ee5a8faa8bfdc1ed2d17a9"
+}

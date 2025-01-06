@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "b11e150b-382c-5481-b59c-763f0d4794fb",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Mobility"
+    ],
+    "name": "Mobility",
+    "label": [
+        {
+            "text": "Mobility",
+            "lang": "en"
+        },
+        {
+            "text": "Beweglichkeit",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Mobility\" characterizes how quickly a particle can move through a metal or semiconductor, when pulled by an electric field. The average drift speed imparted to a charged particle in a medium by an electric field, divided by the electric field strength.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW8753c936eb01513dbd3a1b3f349b44a9"
+}

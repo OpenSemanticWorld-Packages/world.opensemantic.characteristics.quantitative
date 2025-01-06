@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "9c2f3029-e3d4-5f76-a070-dbc43f58ccee",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Unknown"
+    ],
+    "name": "Unknown",
+    "label": [
+        {
+            "text": "Unknown",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Placeholder value used for reference from units where it is not clear what a given unit is a measure of.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW2efbbc890c2c5b01af84c480c9285ee5"
+}

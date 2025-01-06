@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "2423ce4a-8e5c-5a27-8249-2fd72d06ee04",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Altitude",
+        "http://dbpedia.org/resource/Altitude"
+    ],
+    "name": "Altitude",
+    "label": [
+        {
+            "text": "Altitude",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Altitude or height is defined based on the context in which it is used (aviation, geometry, geographical survey, sport, and more). As a general definition, altitude is a distance measurement, usually in the vertical or \"up\" direction, between a reference datum and a point or object. The reference datum also often varies according to the context. [Wikipedia]",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWee9c7e5c343e542cb5a8b4648315902f"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWb92ae8a4e8d05cacbf1255b69282db17"
+}

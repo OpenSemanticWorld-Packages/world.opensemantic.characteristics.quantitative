@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "3a06c181-a537-5b68-b002-f7a28ff862d0",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MASS-PROPERTY-UNCERTAINTY"
+    ],
+    "name": "MassPropertyUncertainty",
+    "label": [
+        {
+            "text": "Mass Property Uncertainty",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Variation in predicted MP due to lack of definition, manufacturing variations, environment effects, or accuracy limitation of measuring devices.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWe9be062de2d15d10891397a18212f920"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW4b47532d41005a12b442504ad9b4d5c3"
+}

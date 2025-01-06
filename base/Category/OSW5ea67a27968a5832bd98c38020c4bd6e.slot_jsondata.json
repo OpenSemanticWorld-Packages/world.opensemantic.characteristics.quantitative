@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "5ea67a27-968a-5832-bd98-c38020c4bd6e",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MolarConductivity"
+    ],
+    "name": "MolarConductivity",
+    "label": [
+        {
+            "text": "Molar Conductivity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Molar Conductivity\" is the conductivity of an electrolyte solution divided by the molar concentration of the electrolyte, and so measures the efficiency with which a given electrolyte conducts electricity in solution.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWfef2dea1225352f4890da21126d77a16"
+}

@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "268c0467-204b-54ea-a630-6808bdc97f6d",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/AreicEnergyFlow"
+    ],
+    "name": "AreicEnergyFlow",
+    "label": [
+        {
+            "text": "Areic energy flow",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Leistung in festgelegter Ausbreitungsrichtung durch ein dazu senkrechtes Oberflächenelement, dividiert durch dessen Fläche",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW40c46aba16f45962a7330b7f8b88681e"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW9c9d2a228088580fbf35ffb6dda0051d"
+}

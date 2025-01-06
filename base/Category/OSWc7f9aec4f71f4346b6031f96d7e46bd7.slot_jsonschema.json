@@ -1,0 +1,60 @@
+{
+    "@context": [
+        "/wiki/Category:OSWffe74f291d354037b318c422591c5023?action=raw&slot=jsonschema",
+        {
+            "quantity": {
+                "@id": "Property:HasQuantity",
+                "@type": "@id"
+            }
+        }
+    ],
+    "allOf": [
+        {
+            "$ref": "/wiki/Category:OSWffe74f291d354037b318c422591c5023?action=raw&slot=jsonschema"
+        }
+    ],
+    "type": "object",
+    "uuid": "c7f9aec4-f71f-4346-b603-1f96d7e46bd7",
+    "title": "MetaFundamentalQuantityValue",
+    "title*": {
+        "en": "Meta Fundamental Quantity Value"
+    },
+    "description": "Generates schema for value and unit (with autocomplete)",
+    "description*": {
+        "en": "Generates schema for value and unit (with autocomplete)"
+    },
+    "required": [
+        "type",
+        "metaclass"
+    ],
+    "defaultProperties": [
+        "quantity"
+    ],
+    "properties": {
+        "type": {
+            "default": [
+                "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+            ]
+        },
+        "metaclass": {
+            "$comment": "MetaQuantityValue",
+            "default": [
+                "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+            ],
+            "options": {
+                "hidden": true
+            }
+        },
+        "quantity": {
+            "type": "string",
+            "format": "autocomplete",
+            "title": "Quantity",
+            "title*": {
+                "de": "Physikalische Größe"
+            },
+            "description": "The Quantity this value object realizes",
+            "$comment": "range: QuanityKind",
+            "range": "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "d3bbec0b-8c44-5d8a-9b7a-a98383fce1ad",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MolarHeatCapacity"
+    ],
+    "name": "MolarHeatCapacity",
+    "label": [
+        {
+            "text": "Molar Heat Capacity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Molar Heat Capacity\" is the amount of heat energy required to raise the temperature of 1 mole of a substance. In SI units, molar heat capacity (symbol: cn) is the amount of heat in joules required to raise 1 mole of a substance 1 Kelvin.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW6f004dbf369056db8f3845223a14b903"
+}

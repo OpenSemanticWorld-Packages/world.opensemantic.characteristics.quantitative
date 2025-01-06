@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "f4657206-4b58-5f95-9008-296d2c0d7bda",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/StagePropellantMass"
+    ],
+    "name": "StagePropellantMass",
+    "label": [
+        {
+            "text": "Stage Propellant Mass",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWe9be062de2d15d10891397a18212f920"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW17dd47304e925a9b96e1f5e0b169d604"
+}

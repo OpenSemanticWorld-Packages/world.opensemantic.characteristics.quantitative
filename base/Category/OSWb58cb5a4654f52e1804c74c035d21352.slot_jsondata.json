@@ -1,0 +1,35 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "b58cb5a4-654f-52e1-804c-74c035d21352",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Pressure",
+        "http://dbpedia.org/resource/Pressure",
+        "https://si-digital-framework.org/SI/quantities/PRES"
+    ],
+    "name": "Pressure",
+    "label": [
+        {
+            "text": "Pressure",
+            "lang": "en"
+        },
+        {
+            "text": "Druck",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Pressure is an effect which occurs when a force is applied on a surface. Pressure is the amount of force acting on a unit area. Pressure is distinct from stress, as the former is the ratio of the component of force normal to a surface to the surface area. Stress is a tensor that relates the vector force to the vector area.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW2ff3a26daf13563481acc8b0ebc5b37f"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW79c12017ccb35fd9b77c52a54d32e3a9"
+}

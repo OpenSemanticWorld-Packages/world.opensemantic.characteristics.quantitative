@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "6a7ba5aa-1883-572e-8086-67e4e0f83ef8",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MassAttenuationCoefficient"
+    ],
+    "name": "MassAttenuationCoefficient",
+    "label": [
+        {
+            "text": "Mass Attenuation Coefficient",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Mass Attenuation Coefficient\" is a measurement of how strongly a chemical species or substance absorbs or scatters light at a given wavelength, per unit mass.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW11ec64556ad05b398b7d1a443877c6f9"
+}

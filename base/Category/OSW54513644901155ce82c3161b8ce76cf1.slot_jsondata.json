@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "54513644-9011-55ce-82c3-161b8ce76cf1",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MOMENT-OF-INERTIA_Y"
+    ],
+    "name": "MomentOfInertiaInTheYAxis",
+    "label": [
+        {
+            "text": "Moment of Inertia in the Y axis",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The rotational inertia or resistance to change in direction or speed of rotation about a defined axis.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW2e958a0e653558a8abf2bd1fa3c6dd59"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWda69921a96ee5d68a9396f6ee7c64ee9"
+}

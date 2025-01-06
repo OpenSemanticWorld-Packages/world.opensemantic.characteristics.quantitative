@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "c92f6543-cf0b-54d0-a508-2ef1e67267ad",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/VacuumThrust"
+    ],
+    "name": "VacuumThrust",
+    "label": [
+        {
+            "text": "Vacuum Thrust",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW7bf742d673495bb8bd77d1ea5295b2cd"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWab7bc4752dec54598e1545be5f44dc8e"
+}

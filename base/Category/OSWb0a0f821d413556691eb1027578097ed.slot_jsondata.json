@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "b0a0f821-d413-5566-91eb-1027578097ed",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/HallCoefficient"
+    ],
+    "name": "HallCoefficient",
+    "label": [
+        {
+            "text": "Hall Coefficient",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Hall Coefficient\" is defined as the ratio of the induced electric field to the product of the current density and the applied magnetic field.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW448373b507f65126a22ebb2c0112b94e"
+}

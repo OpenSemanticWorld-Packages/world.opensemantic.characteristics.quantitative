@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "e98ffe7d-9377-5d5e-ae95-108872432f2f",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Compressibility"
+    ],
+    "name": "Compressibility",
+    "label": [
+        {
+            "text": "Compressibility",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Compressibility is a measure of the relative volume change of a fluid or solid as a response to a pressure (or mean stress) change.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWe936807970be5862bd081da709fe3a53"
+}

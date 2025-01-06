@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "888d4417-94f3-5e2c-a121-9afab29d38d4",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ElectricalPowerToMassRatio"
+    ],
+    "name": "ElectricalPowerToMassRatio",
+    "label": [
+        {
+            "text": "Electrical Power To Mass Ratio",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW592625bd38e75a4e87d866ef370b8a6c"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW9d1347c7a01559a194c2a927806f33a9"
+}

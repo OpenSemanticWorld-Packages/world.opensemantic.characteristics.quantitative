@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "ff95a9d8-0837-5e7c-9631-c797e43546cd",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LatticeVector"
+    ],
+    "name": "LatticeVector",
+    "label": [
+        {
+            "text": "Lattice Vector",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Lattice Vector\" is a translation vector that maps the crystal lattice on itself.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWee9c7e5c343e542cb5a8b4648315902f"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW5e4e4b31c5bd5b52bcac0b85bbc2e85b"
+}

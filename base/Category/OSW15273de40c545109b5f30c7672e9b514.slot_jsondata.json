@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "15273de4-0c54-5109-b5f3-0c7672e9b514",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LinearAttenuationCoefficient"
+    ],
+    "name": "LinearAttenuationCoefficient",
+    "label": [
+        {
+            "text": "Linear Attenuation Coefficient",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Linear Attenuation Coefficient\", also called the attenuation coefficient,  narrow beam attenuation coefficient, or absorption coefficient, is a quantity that characterizes how easily a material or medium can be penetrated by a beam of light, sound, particles, or other energy or matter.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWe7851def284452b394803147faa00388"
+}

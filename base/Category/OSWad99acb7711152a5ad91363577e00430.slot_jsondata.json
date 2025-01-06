@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "ad99acb7-7111-52a5-ad91-363577e00430",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ElectricPolarizability"
+    ],
+    "name": "ElectricPolarizability",
+    "label": [
+        {
+            "text": "Electric polarizability",
+            "lang": "en"
+        },
+        {
+            "text": "Elektrische Polarisierbarkeit",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Electric Polarizability\" is the relative tendency of a charge distribution, like the electron cloud of an atom or molecule, to be distorted from its normal shape by an external electric field, which is applied typically by inserting the molecule in a charged parallel-plate capacitor, but may also be caused by the presence of a nearby ion or dipole.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW44f9e241b5455b67a842550c10430ffc"
+}

@@ -1,0 +1,13 @@
+{
+    {{#if quantity_property}}"x-smw-quantity-property": "{{quantity_property}}"{{#if quantity}},{{/if}}{{/if}}
+    {{#if quantity}}"properties": {
+        "unit": {
+            "format": "autocomplete",
+            "options": {
+                "autocomplete": {
+                    "query": "[[-HasUnit::{{{quantity}}}]][[HasSymbol::like:*\{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::{{{quantity}}}]][[HasSymbol::like:*\{{_user_input}}*]]|?HasSymbol=label"
+                }
+            }
+        }
+    }{{/if}}
+}

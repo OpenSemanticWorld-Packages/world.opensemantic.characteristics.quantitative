@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "64253eb9-2383-544f-9b75-71c7e07cff76",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LuminousEfficacy"
+    ],
+    "name": "LuminousEfficacy",
+    "label": [
+        {
+            "text": "Luminous Efficacy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Luminous Efficacy is the ratio of luminous flux (in lumens) to power (usually measured in watts). Depending on context, the power can be either the radiant flux of the source's output, or it can be the total electric power consumed by the source.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW56f3e34882be5be987d575b0eaee83f7"
+}

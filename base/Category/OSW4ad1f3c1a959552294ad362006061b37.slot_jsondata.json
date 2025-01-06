@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "4ad1f3c1-a959-5522-94ad-362006061b37",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ThermodynamicEntropy"
+    ],
+    "name": "ThermodynamicEntropy",
+    "label": [
+        {
+            "text": "Thermodynamic Entropy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Thermodynamic Entropy is a measure of the unavailability of a system’s energy to do work. It is a measure of the randomness of molecules in a system and is central to the second law of thermodynamics and the fundamental thermodynamic relation, which deal with physical processes and whether they occur spontaneously. The dimensions of entropy are energy divided by temperature, which is the same as the dimensions of Boltzmann's constant ($kB$) and heat capacity. The SI unit of entropy is $joule\\ per\\ kelvin$. [Wikipedia]",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWc16b766eaf3e547da6407e8eee408e7c"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW2d188fb8079c57cf9ef215a038392fe5"
+}

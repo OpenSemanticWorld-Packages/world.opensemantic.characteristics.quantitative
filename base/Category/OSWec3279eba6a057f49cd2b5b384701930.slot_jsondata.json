@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "ec3279eb-a6a0-57f4-9cd2-b5b384701930",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Circulation",
+        "http://dbpedia.org/resource/Circulation_%28fluid_dynamics%29"
+    ],
+    "name": "Circulation",
+    "label": [
+        {
+            "text": "Circulation",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In fluid dynamics, circulation is the line integral around a closed curve of the fluid velocity. It has dimensions of length squared over time.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW64892b4f11e852b1873975a66e851abe"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW0ecff962cc2a5c2f9719fd1b9d85bf4f"
+}

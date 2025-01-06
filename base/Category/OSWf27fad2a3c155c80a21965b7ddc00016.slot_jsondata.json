@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "f27fad2a-3c15-5c80-a219-65b7ddc00016",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/RadiantEnergy"
+    ],
+    "name": "RadiantEnergy",
+    "label": [
+        {
+            "text": "Radiant energy",
+            "lang": "en"
+        },
+        {
+            "text": "Strahlungsenergie",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "In radiometry,\"Radiant Energy} is the energy of electromagnetic waves. The quantity of radiant energy may be calculated by integrating radiant flux (or power) with respect to time.  In nuclear physics, $\\textit{Radiant Energy\" is energy, excluding rest energy, of the particles that are emitted, transferred, or received.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWc87ddd4a7d1159f0a75b686a61ef4e8e"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW01b0d442190a5bac9090212aba85682e"
+}

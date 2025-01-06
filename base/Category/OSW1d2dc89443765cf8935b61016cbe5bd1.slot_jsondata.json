@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "1d2dc894-4376-5cf8-935b-61016cbe5bd1",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/AngleOfAttack"
+    ],
+    "name": "AngleOfAttack",
+    "label": [
+        {
+            "text": "Angle Of Attack",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Angle of attack  is the angle between the oncoming air or relative wind and a reference line on the airplane or wing.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW2339256af71e5635a541ac7f5a437141"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWb92ae8a4e8d05cacbf1255b69282db17"
+}

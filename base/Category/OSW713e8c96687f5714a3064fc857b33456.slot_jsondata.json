@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "713e8c96-687f-5714-a306-4fc857b33456",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/OpeningRatio"
+    ],
+    "name": "OpeningRatio",
+    "label": [
+        {
+            "text": "Opening Ratio",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In the context of mechanical systems, \"opening ratio\" might refer to the proportion of time \n  or the extent to which a valve or gate is open relative to its maximum capacity.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW67faac860ed758758aa4484387e5d5c9"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW4c62cd299f185e48acd512ae342f574a"
+}

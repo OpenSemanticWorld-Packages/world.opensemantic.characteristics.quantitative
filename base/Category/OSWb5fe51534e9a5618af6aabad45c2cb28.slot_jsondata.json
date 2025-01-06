@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "b5fe5153-4e9a-5618-af6a-abad45c2cb28",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/StaticFrictionCoefficient",
+        "http://dbpedia.org/resource/Friction"
+    ],
+    "name": "StaticFrictionCoefficient",
+    "label": [
+        {
+            "text": "Static Friction Coefficient",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Static friction is friction between two or more solid objects that are not moving relative to each other. For example, static friction can prevent an object from sliding down a sloped surface.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW8f66d565d52b52bab7fe2840caf54ffa"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW92db9dc3570d5978af307983e7ca045f"
+}

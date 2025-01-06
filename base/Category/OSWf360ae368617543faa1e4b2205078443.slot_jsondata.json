@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "f360ae36-8617-543f-aa1e-4b2205078443",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SoundParticleAcceleration"
+    ],
+    "name": "SoundParticleAcceleration",
+    "label": [
+        {
+            "text": "Sound particle acceleration",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In a compressible sound transmission medium - mainly air - air particles get an accelerated motion: the particle acceleration or sound acceleration with the symbol a in $m/s2$. In acoustics or physics, acceleration (symbol: $a$) is defined as the rate of change (or time derivative) of velocity.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW347462e67d905995af16f97dc7c9ef48"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW0b49cc80f9de52ff907d6ae2579d2700"
+}

@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "40c53544-9288-505c-b9bd-50a76307e6fb",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/DRY-MASS"
+    ],
+    "name": "DryMass",
+    "label": [
+        {
+            "text": "Dry Mass",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Mass of a system without the propellants, pressurants, reserve or residual fluids, personnel and personnel provisions, and cargo.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWe9be062de2d15d10891397a18212f920"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWc7bc4bc39923580885b91cf36c63d11a"
+}

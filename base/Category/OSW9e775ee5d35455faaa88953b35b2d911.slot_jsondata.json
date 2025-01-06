@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "9e775ee5-d354-55fa-aa88-953b35b2d911",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MassPerAreaTime"
+    ],
+    "name": "MassPerAreaTime",
+    "label": [
+        {
+            "text": "Mass per Area Time",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In Physics and Engineering, mass flux is the rate of mass flow per unit area. The common symbols are $j$, $J$, $\\phi$, or $\\Phi$  (Greek lower or capital Phi), sometimes with subscript $m$ to indicate mass is the flowing quantity.  Its SI units are $ kg s^{-1} m^{-2}$.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW355991130bb05ab39e068c0cc8028094"
+}

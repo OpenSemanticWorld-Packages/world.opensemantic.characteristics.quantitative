@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "656dd9cc-2233-59e3-bc88-b114c9e4c231",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MagnetizationField"
+    ],
+    "name": "MagnetizationField",
+    "label": [
+        {
+            "text": "Magnetization Field",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The Magnetization Field is defined as the ratio of magnetic moment per unit volume. It is a vector-valued quantity.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW8ba7ac8b06c453e2885cc41c9d9ee0bb"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW242cc04789e450d7a32b722794fcbc4f"
+}

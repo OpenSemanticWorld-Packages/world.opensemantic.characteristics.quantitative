@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "801c5206-7ff2-5e99-b4c8-96d99f25aa06",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/AreaMass"
+    ],
+    "name": "AreicMass",
+    "label": [
+        {
+            "text": "Areic mass",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWb9612bfb909c5eab9e57e8d8a6c86082"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW194e412e3b635bc3901a05b9634d3b20"
+}

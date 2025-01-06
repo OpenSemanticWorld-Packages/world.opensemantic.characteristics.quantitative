@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "c0379073-3d68-5432-85b9-0a8affe46b72",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/DragForce"
+    ],
+    "name": "DragForce",
+    "label": [
+        {
+            "text": "Drag Force",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In fluid dynamics, drag refers to forces which act on a solid object in the direction of the relative fluid flow velocity. Unlike other resistive forces such as dry friction, which is nearly independent of velocity, drag forces depend on velocity.\nDrag forces always decrease fluid velocity relative to the solid object in the fluid's path.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW1b832c1a42c055eb9669bb0cdda18d7f"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWd4cc2ba695c25075b158891f4da7c270"
+}

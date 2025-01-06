@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "4f80d474-3b2f-5971-bdcf-fe28391fa016",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ForceMagnitude"
+    ],
+    "name": "ForceMagnitude",
+    "label": [
+        {
+            "text": "Force Magnitude",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The 'magnitude' of a force is its 'size' or 'strength', regardless of the direction in which it acts.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW1b832c1a42c055eb9669bb0cdda18d7f"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW7cfa85d43ba456ddaf4400df3533879a"
+}

@@ -1,0 +1,31 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "60f1d4c9-0b5d-5f15-a5c3-8d7741ba689e",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ThermalConductivity",
+        "http://dbpedia.org/resource/Thermal_conductivity",
+        "https://si-digital-framework.org/SI/quantities/TCON"
+    ],
+    "name": "ThermalConductivity",
+    "label": [
+        {
+            "text": "Thermal Conductivity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In physics, thermal conductivity, $k$ (also denoted as $\\lambda$), is the property of a material's ability to conduct heat. It appears primarily in Fourier's Law for heat conduction and is the areic heat flow rate divided by temperature gradient.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW9b3018fb7171589c8c991758cd999a02"
+}

@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "7bf742d6-7349-5bb8-bd77-d1ea5295b2cd",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Thrust",
+        "http://dbpedia.org/resource/Thrust"
+    ],
+    "name": "Thrust",
+    "label": [
+        {
+            "text": "Thrust",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Thrust is a reaction force described quantitatively by Newton's Second and Third Laws. When a system expels or accelerates mass in one direction the accelerated mass will cause a proportional but opposite force on that system.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW1b832c1a42c055eb9669bb0cdda18d7f"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW14acd216b5ce56749247380e5eeb170b"
+}

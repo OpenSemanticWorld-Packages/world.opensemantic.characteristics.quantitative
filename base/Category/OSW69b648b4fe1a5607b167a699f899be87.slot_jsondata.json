@@ -1,0 +1,35 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "69b648b4-fe1a-5607-b167-a699f899be87",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ThermodynamicTemperature",
+        "http://dbpedia.org/page/Thermodynamic_temperature",
+        "https://si-digital-framework.org/SI/quantities/TEMT"
+    ],
+    "name": "ThermodynamicTemperature",
+    "label": [
+        {
+            "text": "Thermodynamic temperature",
+            "lang": "en"
+        },
+        {
+            "text": "Thermodynamische Temperatur",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Thermodynamic temperature is the absolute measure of temperature and is one of the principal parameters of thermodynamics.\nTemperature is a physical property of matter that quantitatively expresses the common notions of hot and cold.\nIn thermodynamics, in a system of which the entropy is considered as an independent externally controlled variable, absolute, or thermodynamic temperature is defined as the derivative of the internal energy with respect to the entropy. This is a base quantity in the International System of Quantities, ISQ, on which the International System of Units, SI, is based.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW20927e4900e95e93985698c92995f964"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW89896336be9f5f908642806a1e96151a"
+}

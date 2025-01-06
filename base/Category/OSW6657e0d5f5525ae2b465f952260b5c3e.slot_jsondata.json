@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "6657e0d5-f552-5ae2-b465-f952260b5c3e",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Magnetization"
+    ],
+    "name": "Magnetization",
+    "label": [
+        {
+            "text": "Magnetization",
+            "lang": "en"
+        },
+        {
+            "text": "Magnetisierung",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Magnetization\" is defined as the ratio of magnetic moment per unit volume. It is a vector-valued quantity.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW53042a34f31b52b8a49926a2368d0e12"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWa51dd30e412856fdb65e16c4bcb74960"
+}

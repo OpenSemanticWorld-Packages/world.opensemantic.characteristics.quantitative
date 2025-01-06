@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "cbd09a3b-3c53-56f6-b501-044b7a9cd13b",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LinearThermalExpansion"
+    ],
+    "name": "LinearThermalExpansion",
+    "label": [
+        {
+            "text": "Linear Thermal Expansion",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "When the temperature of a substance changes, the energy that is stored in the intermolecular bonds between atoms changes. When the stored energy increases, so does the length of the molecular bonds. As a result, solids typically expand in response to heating and contract on cooling; this dimensional response to temperature change is expressed by its coefficient of thermal expansion. Different coefficients of thermal expansion can be defined for a substance depending on whether the expansion is measured by: linear thermal expansion, area thermal expansion, or volumetric thermal expansion.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW317efef827dd575b9c99918e7abdfcc1"
+}

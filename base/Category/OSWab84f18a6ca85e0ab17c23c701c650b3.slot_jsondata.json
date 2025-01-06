@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "ab84f18a-6ca8-5e0a-b17c-23c701c650b3",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/FahrenheitTemperature"
+    ],
+    "name": "FahrenheitTemperature",
+    "label": [
+        {
+            "text": "Fahrenheit temperature",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Größe, deren Nullpunkt durch die Mischungstemperatur von Eis, Wasser und Salmiak (Ammoniumchlorid) definiert ist (-17,8 °C) und deren Fixpunkte auf der Fahrenheit-Skala 32 °F (Schmelztemperatur von Eis) und 212 °F (Siedetemperatur des Wassers) sind",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW20927e4900e95e93985698c92995f964"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW1aef0f22af9a55e58e458c5d4e94f161"
+}

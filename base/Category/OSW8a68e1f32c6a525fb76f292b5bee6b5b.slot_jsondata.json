@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "8a68e1f3-2c6a-525f-b76f-292b5bee6b5b",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/VaporPermeability"
+    ],
+    "name": "VaporPermeability",
+    "label": [
+        {
+            "text": "Vapor Permeability",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The moisture transmission rate of a material is referred to as its \"permeability\".",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWdcea482573035624bfb9737f040887c3"
+}

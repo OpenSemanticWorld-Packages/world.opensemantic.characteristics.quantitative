@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "2c615dd1-ae0c-5b73-b77a-aeb99c960a6e",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ExitPlaneCrossSectionalArea"
+    ],
+    "name": "ExitPlaneCrossSectionalArea",
+    "label": [
+        {
+            "text": "Exit Plane Cross-sectional Area",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Cross-sectional area at exit plane of nozzle",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW1fcf1694712e5684885071efdf775bd9"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW4c62cd299f185e48acd512ae342f574a"
+}

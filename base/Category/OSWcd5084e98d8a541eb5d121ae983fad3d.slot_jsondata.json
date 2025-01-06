@@ -1,0 +1,35 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "cd5084e9-8d8a-541e-b5d1-21ae983fad3d",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LuminousIntensity",
+        "http://dbpedia.org/resource/Luminous_intensity",
+        "https://si-digital-framework.org/SI/quantities/LUIN"
+    ],
+    "name": "LuminousIntensity",
+    "label": [
+        {
+            "text": "Luminous intensity",
+            "lang": "en"
+        },
+        {
+            "text": "Lichtstärke",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Luminous Intensity is a measure of the wavelength-weighted power emitted by a light source in a particular direction per unit solid angle. The weighting is determined by the luminosity function, a standardized model of the sensitivity of the human eye to different wavelengths.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW1de16ae30fbb595380681f3941efc0f0"
+}

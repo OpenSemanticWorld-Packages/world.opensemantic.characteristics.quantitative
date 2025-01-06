@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "bcaa33bd-770e-53e0-9d5e-6087d141648b",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Dimensionless",
+        "http://dbpedia.org/resource/Dimensionless_quantity"
+    ],
+    "name": "Dimensionless",
+    "label": [
+        {
+            "text": "Dimensionless",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In dimensional analysis, a dimensionless quantity or quantity of dimension one is a quantity without an associated physical dimension. It is thus a \"pure\" number, and as such always has a dimension of 1. Dimensionless quantities are widely used in mathematics, physics, engineering, economics, and in everyday life (such as in counting). Numerous well-known quantities, such as $\\pi$, $\\epsilon$, and $\\psi$, are dimensionless. By contrast, non-dimensionless quantities are measured in units of length, area, time, etc. Dimensionless quantities are often defined as products or ratios of quantities that are not dimensionless, but whose dimensions cancel out when their powers are multiplied.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW4b47532d41005a12b442504ad9b4d5c3"
+}

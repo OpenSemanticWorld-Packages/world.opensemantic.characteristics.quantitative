@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "c74bc7a7-558c-5c9a-a7aa-0282ab29e3cd",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/StageStructuralMass"
+    ],
+    "name": "StageStructureMass",
+    "label": [
+        {
+            "text": "Stage Structure Mass",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWe9be062de2d15d10891397a18212f920"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW7a02f02a0917501294c71824f0ee021b"
+}

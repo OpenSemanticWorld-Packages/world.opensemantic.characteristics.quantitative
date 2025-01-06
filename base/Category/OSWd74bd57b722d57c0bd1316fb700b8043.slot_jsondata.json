@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "d74bd57b-722d-57c0-bd13-16fb700b8043",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Acidity"
+    ],
+    "name": "Acidity",
+    "label": [
+        {
+            "text": "Acidity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Chemicals or substances having a pH less than 7 are said to be acidic; lower pH means higher acidity.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWf19709086a7c5d018647b70cbf6e1198"
+}

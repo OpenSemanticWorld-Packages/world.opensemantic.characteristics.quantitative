@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "cc4866e4-7ced-53df-bb70-9c97a8752530",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/RestMass"
+    ],
+    "name": "RestMass",
+    "label": [
+        {
+            "text": "Rest mass",
+            "lang": "en"
+        },
+        {
+            "text": "Ruhemasse",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The $\\textit{Rest Mass}$, the invariant mass, intrinsic mass, proper mass, or (in the case of bound systems or objects observed in their center of momentum frame) simply mass, is a characteristic of the total energy and momentum of an object or a system of objects that is the same in all frames of reference related by Lorentz transformations. The mass of a particle type X (electron, proton or neutron) when that particle is at rest. For an electron: $m_e = 9,109 382 15(45) 10^{-31} kg$, for a proton: $m_p = 1,672 621 637(83) 10^{-27} kg$, for a neutron: $m_n = 1,674 927 211(84) 10^{-27} kg$. Rest mass is often denoted $m_0$.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWe9be062de2d15d10891397a18212f920"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW3dca300cd5b85a2b9c4aae83e782d642"
+}

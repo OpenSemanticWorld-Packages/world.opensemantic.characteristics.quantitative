@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "bb129109-58f9-51da-a141-62c7078632f3",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/AuditoryThresholds"
+    ],
+    "name": "AuditoryThresholds",
+    "label": [
+        {
+            "text": "Auditory Thresholds",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Auditory Thresholds\" is the thresholds of sensitivity to auditory signals and other input to the ear or the sense of hearing.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW7f56c0dadee65455b206ddbb22bb84f8"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW6f004dbf369056db8f3845223a14b903"
+}

@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "7f56c0da-dee6-5455-b206-ddbb22bb84f8",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SoundPowerLevel"
+    ],
+    "name": "SoundPowerLevel",
+    "label": [
+        {
+            "text": "Sound power level",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Sound Power Level abbreviated as $SWL$ expresses sound power more practically as a relation to the threshold of hearing - 1 picoW - in a logarithmic scale.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW746caaa329d75ce2ad00a09d0a347796"
+}

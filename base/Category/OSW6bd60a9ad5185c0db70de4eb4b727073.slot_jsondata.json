@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "6bd60a9a-d518-5c0d-b70d-e4eb4b727073",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/TemperatureGradient"
+    ],
+    "name": "TemperatureGradient",
+    "label": [
+        {
+            "text": "Temperature Gradient",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The temperature gradient measures the difference of a temperature per length, as for instance used in an external wall or its layers. It is usually measured in K/m.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWf766b6c3f2e65edc9566ef54ad605289"
+}

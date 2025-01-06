@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "6d3afdeb-7207-5dae-90db-b01171c2d1db",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/CatalyticActivityConcentration",
+        "https://si-digital-framework.org/SI/quantities/CTAC"
+    ],
+    "name": "CatalyticActivityConcentration",
+    "label": [
+        {
+            "text": "Catalytic Activity Concentration",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The catalytic activity of an enzyme per unit volume, where volume refers to that of the original enzyme‐containing preparation, not that of the assay system. It may be expressed in katals per litre.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWe82d247dea8154569a6be9e457b3095e"
+}

@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "1213d592-8a79-5674-9688-545e9526d6e3",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/AtmosphericHydroxylationRate"
+    ],
+    "name": "AtmosphericHydroxylationRate",
+    "label": [
+        {
+            "text": "Atmospheric Hydroxylation Rate",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A second order reaction rate constant that is a specific second order reaction rate constant that governs the kinetics of an atmospheric, gas-phase reaction between hydroxyl radicals and an organic chemical.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWec4a0bb9cee155e3a79994b906fbd3a7"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW30b77c812cef538c8f62eaf7c6950a59"
+}

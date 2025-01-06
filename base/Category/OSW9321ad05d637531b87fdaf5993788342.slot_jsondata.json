@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "9321ad05-d637-531b-87fd-af5993788342",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Solubility_Water"
+    ],
+    "name": "WaterSolubility",
+    "label": [
+        {
+            "text": "Water Solubility",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "An amount of substance per unit volume that is the concentration of a saturated solution expressed as the ratio of the solute concentration over the volume of water.  A substance's solubility fundamentally depends on several physical and chemical properties of the solution as well as the environment it is in.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW98493d0d7b8b528fa42a2332c8cf502f"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWd5027d2f50f25fabba0134284da2a328"
+}

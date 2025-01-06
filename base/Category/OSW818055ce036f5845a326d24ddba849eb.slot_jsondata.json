@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "818055ce-036f-5845-a326-d24ddba849eb",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/CompressibilityFactor"
+    ],
+    "name": "CompressibilityFactor",
+    "label": [
+        {
+            "text": "Compressibility Factor",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The compressibility factor ($Z$) is a useful thermodynamic property for modifying the ideal gas law to account for the real gas behaviour. The closer a gas is to a phase change, the larger the deviations from ideal behavior. It is simply defined as the ratio of the molar volume of a gas to the molar volume of an ideal gas at the same temperature and pressure. Values for compressibility are calculated using equations of state (EOS), such as the virial equation and van der Waals equation. The compressibility factor for specific gases can be obtained, with out calculation, from compressibility charts. These charts are created by plotting Z as a function of pressure at constant temperature.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW67faac860ed758758aa4484387e5d5c9"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW94db60db7d025e5faf85c193158edb5e"
+}

@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "bf23a344-7dad-5d69-bc7a-45ab4de68e83",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/PolarMomentOfInertia"
+    ],
+    "name": "PolarMomentOfInertia",
+    "label": [
+        {
+            "text": "Polar moment of inertia",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The polar moment of inertia is a quantity used to predict an object's ability to resist torsion, in objects (or segments of objects) with an invariant circular cross-section and no significant warping or out-of-plane deformation. It is used to calculate the angular displacement of an object subjected to a torque. It is analogous to the area moment of inertia, which characterizes an object's ability to resist bending.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW2e958a0e653558a8abf2bd1fa3c6dd59"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW376e5bb496aa5c5d85a7d875489eff79"
+}

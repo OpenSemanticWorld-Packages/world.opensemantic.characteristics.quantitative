@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "3d68ad15-ab04-5622-8c94-8d35e26b9dfd",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/KineticEnergy",
+        "http://dbpedia.org/resource/Kinetic_energy"
+    ],
+    "name": "KineticEnergy",
+    "label": [
+        {
+            "text": "Kinetic Energy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Kinetic Energy}$ is the energy which a body possesses as a consequence of its motion, defined as one-half the product of its mass $m$ and the square of its speed $v$, $ \\frac{1}{2} mv^{2} $. The kinetic energy per unit volume of a fluid parcel is the $ \\frac{1}{2}  p v^{2}$ , where $p$ is the density and $v$ the speed of the parcel. See potential energy. For relativistic speeds the kinetic energy is given by $E_k = mc^2 - m_0 c^2$, where $c$ is the velocity of light in a vacuum, $m_0$ is the rest mass, and $m$ is the moving mass.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWc87ddd4a7d1159f0a75b686a61ef4e8e"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW491d4adbfc21571e942b00acc7e3ee44"
+}

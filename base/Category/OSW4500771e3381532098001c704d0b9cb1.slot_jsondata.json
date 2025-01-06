@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "4500771e-3381-5320-9800-1c704d0b9cb1",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SpecificHeatCapacityAtSaturation"
+    ],
+    "name": "SpecificHeatCapacityAtSaturation",
+    "label": [
+        {
+            "text": "Specific Heat Capacity at Saturation",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Specific heat per constant volume.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW194e412e3b635bc3901a05b9634d3b20"
+}

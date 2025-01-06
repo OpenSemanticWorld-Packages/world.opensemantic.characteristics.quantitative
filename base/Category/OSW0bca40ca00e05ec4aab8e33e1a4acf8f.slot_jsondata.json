@@ -1,0 +1,34 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "0bca40ca-00e0-5ec4-aab8-e33e1a4acf8f",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Wavenumber",
+        "https://si-digital-framework.org/SI/quantities/WANU"
+    ],
+    "name": "Wavenumber",
+    "label": [
+        {
+            "text": "Wavenumber",
+            "lang": "en"
+        },
+        {
+            "text": "Repetenz",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Wavenumber\" is the spatial frequency of a wave - the number of waves that exist over a specified distance. More formally, it is the reciprocal of the wavelength. It is also the magnitude of the wave vector. Light passing through different media keeps its frequency, but not its wavelength or wavenumber. The unit for wavenumber commonly used in spectroscopy is centimetre to power minus one, PER-CM, rather than metre to power minus one, PER-M.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW23837e2c50f05ba884682b08465bf173"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW4f5013ecf23c5c95aabf1ae4b3d1124b"
+}

@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "cd5753ab-faf3-5c29-92b9-887c20e8443c",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ShearStrain"
+    ],
+    "name": "ShearStrain",
+    "label": [
+        {
+            "text": "Shear Strain",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Shear Strain is the amount of deformation perpendicular to a given line rather than parallel to it.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW877f6c0b113452649d1a4ac5ea3a6710"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWe2f4e7c7b4a653c7b74c5e3ba58983bc"
+}
