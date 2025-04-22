@@ -1,0 +1,22 @@
+{
+    "uuid": "5098cb00-1903-58ff-b380-479617eb274f",
+    "name": "HasMeanFreePathValue",
+    "label": [
+        {
+            "text": "Mean Free Path",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Mean Free Path\" is the average distance travelled by a moving particle (such as an atom, a molecule, a photon) between successive impacts (collisions) which modify its direction or energy or other particle properties.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

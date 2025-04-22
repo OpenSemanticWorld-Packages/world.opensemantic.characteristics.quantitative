@@ -1,0 +1,22 @@
+{
+    "uuid": "6070d0f7-80fd-514a-997d-dd8ec58142b0",
+    "name": "HasConductionSpeedValue",
+    "label": [
+        {
+            "text": "Conduction Speed",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Conduction Speed\" is the speed of impulses in nerve fibers.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasSpeedValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasSpeedValue"
+}

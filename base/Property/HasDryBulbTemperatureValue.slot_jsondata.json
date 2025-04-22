@@ -1,0 +1,22 @@
+{
+    "uuid": "001322db-0d45-5342-940b-8b2eafe021a0",
+    "name": "HasDryBulbTemperatureValue",
+    "label": [
+        {
+            "text": "Dry Bulb Temperature",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The temperature of air measured by a thermometer freely exposed to the air, but shielded from radiation.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasTemperatureValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasTemperatureValue"
+}

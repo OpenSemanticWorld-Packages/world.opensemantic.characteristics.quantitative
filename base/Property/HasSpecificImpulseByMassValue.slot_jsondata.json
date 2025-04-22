@@ -1,0 +1,16 @@
+{
+    "uuid": "5de7282f-4b75-5624-8e1b-595a8c4944d2",
+    "name": "HasSpecificImpulseByMassValue",
+    "label": [
+        {
+            "text": "Specific Impulse by Mass",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasVelocityValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasVelocityValue"
+}

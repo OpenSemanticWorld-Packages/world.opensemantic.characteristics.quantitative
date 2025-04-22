@@ -1,0 +1,22 @@
+{
+    "uuid": "23b71301-e5fd-5ea3-b72c-a1bed9c37a89",
+    "name": "HasSpecificGibbsEnergyValue",
+    "label": [
+        {
+            "text": "Specific Gibbs Energy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Energy has corresponding intensive (size-independent) properties for pure materials. A corresponding intensive property is \"Specific Gibbs Energy}, which is $\\textit{Gibbs Energy} per mass of substance involved. $\\textit{Specific Gibbs Energy\" is denoted by a lower case g, with dimension of energy per mass (SI unit: joule/kg).",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasSpecificEnergyValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasSpecificEnergyValue"
+}

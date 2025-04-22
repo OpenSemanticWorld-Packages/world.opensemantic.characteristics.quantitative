@@ -1,0 +1,26 @@
+{
+    "uuid": "fc4f476f-c5b3-5ecf-86bd-db4eaab08332",
+    "name": "HasRadiantFluxValue",
+    "label": [
+        {
+            "text": "Radiant flux",
+            "lang": "en"
+        },
+        {
+            "text": "Strahlungsfluss",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Radiant Flux, or radiant power, is the measure of the total power of electromagnetic radiation (including infrared, ultraviolet, and visible light). The power may be the total emitted from a source, or the total landing on a particular surface.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasPowerValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasPowerValue"
+}

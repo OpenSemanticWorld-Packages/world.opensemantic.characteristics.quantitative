@@ -1,0 +1,16 @@
+{
+    "uuid": "0c84654e-9dc2-5cb5-b600-bd39ac079fda",
+    "name": "HasFissionFuelUtilizationFactorValue",
+    "label": [
+        {
+            "text": "Fission Fuel Utilization Factor",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

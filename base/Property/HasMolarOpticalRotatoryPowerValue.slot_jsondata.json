@@ -1,0 +1,25 @@
+{
+    "uuid": "f475b190-3089-585a-b4d5-94b649815768",
+    "name": "HasMolarOpticalRotatoryPowerValue",
+    "label": [
+        {
+            "text": "Molar Optical Rotatory Power",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Molar Optical Rotatory Power\" Angle of optical rotation divided by the optical path length through the medium and by the amount concentration giving the molar optical rotatory power.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "860d0f42-8430-5ccc-8fac-ca9a501770c5",
+        "name": "rad·m²/mol",
+        "main_symbol": "rad·m²/mol"
+    }
+}

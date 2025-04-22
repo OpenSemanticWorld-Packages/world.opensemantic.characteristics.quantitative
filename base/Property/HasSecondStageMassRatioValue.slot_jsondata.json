@@ -1,0 +1,22 @@
+{
+    "uuid": "77be2c20-82fb-58eb-bee3-3c965f913fbf",
+    "name": "HasSecondStageMassRatioValue",
+    "label": [
+        {
+            "text": "Second Stage Mass Ratio",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Mass ratio for the second stage of a multistage launcher.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasMassRatioValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasMassRatioValue"
+}

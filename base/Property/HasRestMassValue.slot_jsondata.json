@@ -1,0 +1,26 @@
+{
+    "uuid": "9213f18e-0393-587d-9811-0c424d835da3",
+    "name": "HasRestMassValue",
+    "label": [
+        {
+            "text": "Rest mass",
+            "lang": "en"
+        },
+        {
+            "text": "Ruhemasse",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The $\\textit{Rest Mass}$, the invariant mass, intrinsic mass, proper mass, or (in the case of bound systems or objects observed in their center of momentum frame) simply mass, is a characteristic of the total energy and momentum of an object or a system of objects that is the same in all frames of reference related by Lorentz transformations. The mass of a particle type X (electron, proton or neutron) when that particle is at rest. For an electron: $m_e = 9,109 382 15(45) 10^{-31} kg$, for a proton: $m_p = 1,672 621 637(83) 10^{-27} kg$, for a neutron: $m_n = 1,674 927 211(84) 10^{-27} kg$. Rest mass is often denoted $m_0$.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasMassValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasMassValue"
+}

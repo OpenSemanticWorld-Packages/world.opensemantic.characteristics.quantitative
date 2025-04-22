@@ -1,0 +1,33 @@
+{
+    "uuid": "241f6289-ae7d-5b71-bd49-f39e78357d61",
+    "name": "HasSpecificVolumeValue",
+    "label": [
+        {
+            "text": "Specific Volume",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Specific Volume\" ($\\nu$) is the volume occupied by a unit of mass of a material. It is equal to the inverse of density.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "0b544209-f7fa-5775-b2f3-8b079cd98c2c",
+        "name": "m³/kg",
+        "main_symbol": "m³/kg"
+    },
+    "additional_units": [
+        {
+            "uuid": "a67cbf2e-d517-5ba8-b541-e9b7979d814d",
+            "name": "mm³/kg",
+            "main_symbol": "mm³/kg",
+            "conversion_factor_to_main_unit": "1000000000.0"
+        }
+    ]
+}

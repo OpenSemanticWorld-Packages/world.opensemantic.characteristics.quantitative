@@ -1,0 +1,19 @@
+{
+    "uuid": "6921f310-0ac6-59c8-a716-82988937258f",
+    "name": "HasReciprocalMassValue",
+    "label": [
+        {
+            "text": "Reciprocal mass",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "ee1354bb-6cd5-5858-b4f2-3926eec90d30",
+        "name": "1/g",
+        "main_symbol": "1/g"
+    }
+}

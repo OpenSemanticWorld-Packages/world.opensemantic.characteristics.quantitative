@@ -1,0 +1,22 @@
+{
+    "uuid": "c97b9a62-10f3-5127-b52a-cc4ccb7e1cdd",
+    "name": "HasEquivalentAbsorptionAreaValue",
+    "label": [
+        {
+            "text": "Equivalent absorption area",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In a diffuse sound field, the Equivalent Absorption Area is that area of a surface having an absorption factor equal to 1, which, if diffraction effects are neglected, would, in the same diffuse sound field, absorb the same power.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasAreaValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasAreaValue"
+}

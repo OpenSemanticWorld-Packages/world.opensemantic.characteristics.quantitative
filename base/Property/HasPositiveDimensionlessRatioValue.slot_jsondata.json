@@ -1,0 +1,22 @@
+{
+    "uuid": "4bd5282d-485e-5705-870c-e0cc781b69e8",
+    "name": "HasPositiveDimensionlessRatioValue",
+    "label": [
+        {
+            "text": "Positive Dimensionless Ratio",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A \"Positive Dimensionless Ratio\" is a dimensionless ratio that is greater than zero",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessRatioValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

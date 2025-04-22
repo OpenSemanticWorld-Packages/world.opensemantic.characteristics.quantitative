@@ -1,0 +1,33 @@
+{
+    "uuid": "195a002e-2d4d-57c7-82cd-dc93385555d0",
+    "name": "HasReactionRateConstantValue",
+    "label": [
+        {
+            "text": "Reaction Rate Constant",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A quantity kind that is a proportionality constant that quantifies the relationship between the molar concentrations of the reactants and the rate of a second order chemical reaction.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "cb1c50fd-b5d2-5b70-9b46-48208a02d3cb",
+        "name": "m³/(mol·s)",
+        "main_symbol": "m³/(mol·s)"
+    },
+    "additional_units": [
+        {
+            "uuid": "8d8fa044-9ea6-516f-9199-acac7cd22ac1",
+            "name": "cm³/(mol·s)",
+            "main_symbol": "cm³/(mol·s)",
+            "conversion_factor_to_main_unit": "1000000.0"
+        }
+    ]
+}

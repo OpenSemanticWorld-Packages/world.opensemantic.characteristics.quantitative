@@ -1,0 +1,22 @@
+{
+    "uuid": "d383e30c-6691-5102-bd94-88fb00157a59",
+    "name": "HasThermodynamicEntropyValue",
+    "label": [
+        {
+            "text": "Thermodynamic Entropy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Thermodynamic Entropy is a measure of the unavailability of a system’s energy to do work. It is a measure of the randomness of molecules in a system and is central to the second law of thermodynamics and the fundamental thermodynamic relation, which deal with physical processes and whether they occur spontaneously. The dimensions of entropy are energy divided by temperature, which is the same as the dimensions of Boltzmann's constant ($kB$) and heat capacity. The SI unit of entropy is $joule\\ per\\ kelvin$. [Wikipedia]",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasEnergyPerTemperatureValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasEnergyPerTemperatureValue"
+}

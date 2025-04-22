@@ -1,0 +1,25 @@
+{
+    "uuid": "0efd5cf4-6d7c-5ff0-ba61-86bee1a228d9",
+    "name": "HasRadianceValue",
+    "label": [
+        {
+            "text": "Radiance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Radiance\" is a radiometric measure that describes the amount of light that passes through or is emitted from a particular area, and falls within a given solid angle in a specified direction.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "ba07429f-f8dd-5730-aafd-a771b3fbe78f",
+        "name": "W/(m²·sr)",
+        "main_symbol": "W/(m²·sr)"
+    }
+}

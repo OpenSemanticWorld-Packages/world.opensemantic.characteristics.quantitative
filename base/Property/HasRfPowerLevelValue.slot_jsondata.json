@@ -1,0 +1,22 @@
+{
+    "uuid": "f5e279fb-392f-50d2-b985-63eccea33282",
+    "name": "HasRfPowerLevelValue",
+    "label": [
+        {
+            "text": "RF-Power Level",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Radio-Frequency Power. Power level of electromagnetic waves alternating at the frequency of radio waves (up to 10^10 Hz).",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasSignalStrengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasElectricFieldStrengthValue"
+}

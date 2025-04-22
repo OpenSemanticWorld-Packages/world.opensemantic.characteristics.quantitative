@@ -1,0 +1,22 @@
+{
+    "uuid": "44ef1378-2319-5507-9f7c-4497af320e33",
+    "name": "HasElevationRelativeToNapValue",
+    "label": [
+        {
+            "text": "Elevation relative to NAP",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Height measurement relative to the Normaal Amsterdams Peil (NAP) (en: Amsterdam Ordnance System). Being a form of gravity related height",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasAltitudeValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

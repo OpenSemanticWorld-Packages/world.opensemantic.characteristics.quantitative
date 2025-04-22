@@ -1,0 +1,19 @@
+{
+    "uuid": "a862deae-5828-5008-bd37-c817b1f30466",
+    "name": "HasLengthTemperatureValue",
+    "label": [
+        {
+            "text": "Length Temperature",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "04ce1030-e08e-5aa2-86e7-d26e0003f2d3",
+        "name": "m·K",
+        "main_symbol": "m·K"
+    }
+}

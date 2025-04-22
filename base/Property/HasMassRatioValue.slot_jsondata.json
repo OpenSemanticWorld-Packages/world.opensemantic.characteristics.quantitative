@@ -1,0 +1,57 @@
+{
+    "uuid": "97d4c05d-e20e-58a3-9af9-d041708df48b",
+    "name": "HasMassRatioValue",
+    "label": [
+        {
+            "text": "Mass Ratio",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In aerospace engineering, mass ratio is a measure of the efficiency of a rocket. It describes how much more massive the vehicle is with propellant than without; that is, it is the ratio of the rocket's wet mass (vehicle plus contents plus propellant) to its dry mass (vehicle plus contents)",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "4756a21f-e475-50b7-b395-02ae76df76b8",
+        "name": "g/g",
+        "main_symbol": "g/g"
+    },
+    "additional_units": [
+        {
+            "uuid": "cf91adbc-e5bd-54f3-81ef-9e969bedb74f",
+            "name": "pg/g",
+            "main_symbol": "pg/g",
+            "conversion_factor_to_main_unit": "1000000000000.0"
+        },
+        {
+            "uuid": "aa1dfbc6-817f-5f2e-a770-690b9963ba6a",
+            "name": "kg/kg",
+            "main_symbol": "kg/kg",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "af470501-dd2c-5f48-936b-35ac3957ce92",
+            "name": "mg/g",
+            "main_symbol": "mg/g",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "16ea4e22-d805-53a5-93f4-db4e2d7c8729",
+            "name": "μg/g",
+            "main_symbol": "μg/g",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "94546b8d-1d4c-5fda-9b80-87bd7be52e2c",
+            "name": "g/kg",
+            "main_symbol": "g/kg",
+            "conversion_factor_to_main_unit": "1000.0"
+        }
+    ]
+}

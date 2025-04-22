@@ -1,0 +1,26 @@
+{
+    "uuid": "5e4304fb-a8e5-5861-b150-4d8f1463ad1b",
+    "name": "HasEfficiencyValue",
+    "label": [
+        {
+            "text": "Efficiency",
+            "lang": "en"
+        },
+        {
+            "text": "Wirkungsgrad",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Efficiency is the ratio of output power to input power.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessRatioValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

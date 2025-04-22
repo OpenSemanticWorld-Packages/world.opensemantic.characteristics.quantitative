@@ -1,0 +1,25 @@
+{
+    "uuid": "72b68c85-55fe-52ff-be6a-a63ff7f60f27",
+    "name": "HasMolarMassVariationDueToPressureValue",
+    "label": [
+        {
+            "text": "Molar Mass variation due to Pressure",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Variation of Molar Mass\" of a gas as a function of pressure.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "0852756a-9c62-5255-beba-ab1cc7f20856",
+        "name": "mol/(kg·Pa)",
+        "main_symbol": "mol/(kg·Pa)"
+    }
+}

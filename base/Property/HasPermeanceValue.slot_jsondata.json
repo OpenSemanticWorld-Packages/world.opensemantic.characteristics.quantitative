@@ -1,0 +1,51 @@
+{
+    "uuid": "eb2e8160-c7d3-5584-94d9-1dd123c52399",
+    "name": "HasPermeanceValue",
+    "label": [
+        {
+            "text": "Permeance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Permeance\" is the inverse of reluctance. Permeance is a measure of the quantity of flux for a number of current-turns in magnetic circuit. A magnetic circuit almost acts as though the flux is \"conducted\", therefore permeance is larger for large cross sections of a material and smaller for longer lengths. This concept is analogous to electrical conductance in the electric circuit.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "01976281-458d-5bc4-8a7d-33c423bc586c",
+        "name": "H",
+        "main_symbol": "H"
+    },
+    "additional_units": [
+        {
+            "uuid": "ec47beb0-8da3-5b24-a58e-be69dd5219c2",
+            "name": "pH",
+            "main_symbol": "pH",
+            "conversion_factor_to_main_unit": "1000000000000.0"
+        },
+        {
+            "uuid": "bf081514-f39b-517c-8e8b-b1e2888281f3",
+            "name": "μH",
+            "main_symbol": "μH",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "128f4c1a-619c-5148-9178-55519bc7ffd6",
+            "name": "mH",
+            "main_symbol": "mH",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "787bb004-8a01-591e-9088-4acdeb148cc6",
+            "name": "nH",
+            "main_symbol": "nH",
+            "conversion_factor_to_main_unit": "1000000000.0"
+        }
+    ]
+}

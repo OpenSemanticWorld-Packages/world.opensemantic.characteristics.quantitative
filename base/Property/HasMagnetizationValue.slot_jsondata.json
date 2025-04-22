@@ -1,0 +1,26 @@
+{
+    "uuid": "3f10e1a3-34f3-57b0-beda-229991ecb0af",
+    "name": "HasMagnetizationValue",
+    "label": [
+        {
+            "text": "Magnetization",
+            "lang": "en"
+        },
+        {
+            "text": "Magnetisierung",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Magnetization\" is defined as the ratio of magnetic moment per unit volume. It is a vector-valued quantity.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLinearElectricCurrentValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLinearElectricCurrentDensityValue"
+}

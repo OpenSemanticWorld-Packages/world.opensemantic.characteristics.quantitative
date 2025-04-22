@@ -1,0 +1,22 @@
+{
+    "uuid": "16fe8c67-7f63-53af-8995-0562957b8f35",
+    "name": "HasTransmittanceValue",
+    "label": [
+        {
+            "text": "Transmittance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Transmittance is the fraction of incident light (electromagnetic radiation) at a specified wavelength that passes through a sample.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessRatioValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

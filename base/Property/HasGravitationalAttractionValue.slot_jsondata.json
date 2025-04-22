@@ -1,0 +1,22 @@
+{
+    "uuid": "ee80929e-139e-50f3-b5dc-8928ce00fab3",
+    "name": "HasGravitationalAttractionValue",
+    "label": [
+        {
+            "text": "Gravitational Attraction",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The force of attraction between all masses in the universe; especially the attraction of the earth's mass for bodies near its surface; the more remote the body the less the gravity; the gravitation between two bodies is proportional to the product of their masses and inversely proportional to the square of the distance between them.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasForceValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasForceValue"
+}

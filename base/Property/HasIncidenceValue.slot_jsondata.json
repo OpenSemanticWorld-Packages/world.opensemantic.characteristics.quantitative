@@ -1,0 +1,22 @@
+{
+    "uuid": "9d1ca097-5b88-567f-aca0-25645e1afa10",
+    "name": "HasIncidenceValue",
+    "label": [
+        {
+            "text": "Incidence",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In epidemiology, incidence is a measure of the probability of occurrence of a given medical condition in a population within a specified period of time.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasFrequencyValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasFrequencyValue"
+}

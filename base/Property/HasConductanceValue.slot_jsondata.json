@@ -1,0 +1,45 @@
+{
+    "uuid": "bfa6ba2f-29ab-5696-b9cd-4ad2f8ebd8b8",
+    "name": "HasConductanceValue",
+    "label": [
+        {
+            "text": "Conductance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Conductance}$, for a resistive two-terminal element or two-terminal circuit with terminals A and B, quotient of the electric current i in the element or circuit by the voltage $u_{AB}$ between the terminals: $G = \\frac{1}{R}$, where the electric current is taken as positive if its direction is from A to B and negative in the opposite case. The conductance of an element or circuit is the inverse of its resistance.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "aaf34d16-25f0-5159-b859-f0ff52e987c8",
+        "name": "S",
+        "main_symbol": "S"
+    },
+    "additional_units": [
+        {
+            "uuid": "06efd988-312c-59b8-8090-a5453ce8bf31",
+            "name": "mS",
+            "main_symbol": "mS",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "6e4f0051-b37a-5c36-8fc8-0287308a2442",
+            "name": "kS",
+            "main_symbol": "kS",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "6c3ae8dd-d46e-5fa8-8b5a-1f09ecfda3ff",
+            "name": "μS",
+            "main_symbol": "μS",
+            "conversion_factor_to_main_unit": "1000000.0"
+        }
+    ]
+}

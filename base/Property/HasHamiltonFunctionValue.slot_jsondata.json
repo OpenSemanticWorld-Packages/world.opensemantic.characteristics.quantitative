@@ -1,0 +1,81 @@
+{
+    "uuid": "284babfd-9f8d-59b0-a11b-2be29d45a841",
+    "name": "HasHamiltonFunctionValue",
+    "label": [
+        {
+            "text": "Hamilton Function",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The Hamilton–Jacobi equation (HJE) is a necessary condition describing extremal geometry in generalizations of problems from the calculus of variations.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "710428e8-fdac-5305-822c-6b4ef4aee20d",
+        "name": "J",
+        "main_symbol": "J"
+    },
+    "additional_units": [
+        {
+            "uuid": "373da069-d5f5-5aae-8c9f-bc8739720bfc",
+            "name": "PJ",
+            "main_symbol": "PJ",
+            "conversion_factor_to_main_unit": "0.0"
+        },
+        {
+            "uuid": "adb8a64c-5483-52a0-9e91-c6ecb0d64f6f",
+            "name": "kJ",
+            "main_symbol": "kJ",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "f297e5d7-0d1e-5f12-8388-29a92f05458d",
+            "name": "mJ",
+            "main_symbol": "mJ",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "7ec6053b-655f-5870-b1a6-c6187601d374",
+            "name": "fJ",
+            "main_symbol": "fJ",
+            "conversion_factor_to_main_unit": "999999999999999.9"
+        },
+        {
+            "uuid": "3f3da037-2c49-5edb-8a79-60d311b42c6a",
+            "name": "TJ",
+            "main_symbol": "TJ",
+            "conversion_factor_to_main_unit": "0.0"
+        },
+        {
+            "uuid": "e1e8c21b-cafd-5f5d-b849-d984f19271ea",
+            "name": "EJ",
+            "main_symbol": "EJ",
+            "conversion_factor_to_main_unit": "0.0"
+        },
+        {
+            "uuid": "7c02e42c-3db6-5a7d-901f-5ae215309564",
+            "name": "GJ",
+            "main_symbol": "GJ",
+            "conversion_factor_to_main_unit": "0.0"
+        },
+        {
+            "uuid": "1e453e7e-c301-5ab6-bfb5-72c0f1e3e826",
+            "name": "MJ",
+            "main_symbol": "MJ",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "48b63977-b718-587f-bde6-813de7b950c9",
+            "name": "aJ",
+            "main_symbol": "aJ",
+            "conversion_factor_to_main_unit": "9.999999999999999e+17"
+        }
+    ]
+}

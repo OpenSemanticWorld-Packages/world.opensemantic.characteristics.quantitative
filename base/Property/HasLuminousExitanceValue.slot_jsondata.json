@@ -1,0 +1,22 @@
+{
+    "uuid": "a43f264c-8ce7-545f-8ed4-603e8347c8e5",
+    "name": "HasLuminousExitanceValue",
+    "label": [
+        {
+            "text": "Luminous exitance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Luminous Exitance is the ratio of the luminous flux dΦ, leaving an element of the surface containing the point, by the area dA of that element. #,#Quotient aus dem Lichtstrom dΦ, der ein den Punkt enthaltendes Element der Oberfläche verlässt, und der Fläche dA dieses Elementes",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLuminousFluxPerAreaValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLuminousFluxPerAreaValue"
+}

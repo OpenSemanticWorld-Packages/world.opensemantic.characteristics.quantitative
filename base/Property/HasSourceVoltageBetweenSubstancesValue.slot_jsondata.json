@@ -1,0 +1,22 @@
+{
+    "uuid": "1c134088-0d50-5a8b-8c4d-64913d79c167",
+    "name": "HasSourceVoltageBetweenSubstancesValue",
+    "label": [
+        {
+            "text": "Source Voltage Between Substances",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Source Voltage Between Substances\" is the source voltage between substance a and b.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasVoltageValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasVoltageValue"
+}

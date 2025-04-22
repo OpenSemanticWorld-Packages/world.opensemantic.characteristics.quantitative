@@ -1,0 +1,19 @@
+{
+    "uuid": "97c3b2c8-5e74-565c-ba28-9b241f4a7e0a",
+    "name": "HasAreaTimeValue",
+    "label": [
+        {
+            "text": "Area Time",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "9d4b6238-658a-55be-97df-bd77342e898b",
+        "name": "cm²·min",
+        "main_symbol": "cm²·min"
+    }
+}

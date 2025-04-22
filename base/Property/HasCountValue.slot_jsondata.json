@@ -1,0 +1,22 @@
+{
+    "uuid": "2f8b3abb-febd-5a2c-a685-e6d0e2669e3d",
+    "name": "HasCountValue",
+    "label": [
+        {
+            "text": "Count",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Count\" is the value of a count of items.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

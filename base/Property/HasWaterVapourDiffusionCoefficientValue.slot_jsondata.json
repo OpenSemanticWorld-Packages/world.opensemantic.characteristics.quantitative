@@ -1,0 +1,29 @@
+{
+    "uuid": "86a4757b-8d60-5a02-9dc3-ddca93aecd66",
+    "name": "HasWaterVapourDiffusionCoefficientValue",
+    "label": [
+        {
+            "text": "Water vapour diffusion coefficient",
+            "lang": "en"
+        },
+        {
+            "text": "Wasserdampfdiffusionsleitkoeffizient",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The Water vapour diffusion coefficient describes how easy vapor diffusion happens in a given material.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "09fd8dbc-11ae-5e53-841a-90ec3c9719c5",
+        "name": "kg/(Pa·s·m)",
+        "main_symbol": "kg/(Pa·s·m)"
+    }
+}

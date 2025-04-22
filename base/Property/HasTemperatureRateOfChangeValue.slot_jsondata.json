@@ -1,0 +1,22 @@
+{
+    "uuid": "d91a2ccd-3608-5266-98b9-61ee459590ea",
+    "name": "HasTemperatureRateOfChangeValue",
+    "label": [
+        {
+            "text": "Temperature Rate of Change",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Temperature Rate of Change\" measures the difference of a temperature per time (positive: rise, negative: fall), as for instance used with heat sensors. It is for example measured in K/s.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasTemperaturePerTimeValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasTemperaturePerTimeValue"
+}

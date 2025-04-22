@@ -1,0 +1,26 @@
+{
+    "uuid": "f8737ac8-2c3a-5cf7-b3af-579ec998a934",
+    "name": "HasInternalEnergyValue",
+    "label": [
+        {
+            "text": "Internal energy",
+            "lang": "en"
+        },
+        {
+            "text": "Innere Energie",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The internal energy is the total energy contained by a thermodynamic system. It is the energy needed to create the system, but excludes the energy to displace the system's surroundings, any energy associated with a move as a whole, or due to external force fields. Internal energy has two major components, kinetic energy and potential energy. The internal energy (U) is the sum of all forms of energy (Ei) intrinsic to a thermodynamic system:  $  U = \\sum_i E_i $",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasEnergyValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasEnergyValue"
+}

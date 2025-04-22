@@ -1,0 +1,22 @@
+{
+    "uuid": "1cc4d00c-33df-518a-b526-a3fa92273b22",
+    "name": "HasShearStressValue",
+    "label": [
+        {
+            "text": "Shear Stress",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Shear stress occurs when the force  occurs in shear, or perpendicular to the normal.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasStressValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasForcePerAreaValue"
+}

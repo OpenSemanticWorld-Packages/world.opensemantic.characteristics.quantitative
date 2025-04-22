@@ -1,0 +1,26 @@
+{
+    "uuid": "8bbf3d9f-c461-5cc9-a971-e0a5718dc6f2",
+    "name": "HasPhaseDifferenceValue",
+    "label": [
+        {
+            "text": "Phase difference",
+            "lang": "en"
+        },
+        {
+            "text": "Phasenverschiebungswinkel",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Phase Difference\" is the difference, expressed in electrical degrees or time, between two waves having the same frequency and referenced to the same point in time. Two oscillators that have the same frequency and different phases have a phase difference, and the oscillators are said to be out of phase with each other. The amount by which such oscillators are out of step with each other can be expressed in degrees from $0^\\circ$ to $360^\\circ$, or in radians from 0 to ${2\\pi}$. If the phase difference is $180^\\circ$ ($\\pi$ radians), then the two oscillators are said to be in antiphase.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasAngleValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

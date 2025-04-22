@@ -1,0 +1,25 @@
+{
+    "uuid": "6c73b28a-f6e8-501f-91ba-ec96bc6ab885",
+    "name": "HasThermalResistivityValue",
+    "label": [
+        {
+            "text": "Thermal Resistivity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The reciprocal of thermal conductivity is thermal resistivity, measured in $kelvin-metres$ per watt ($K \\cdot m/W$).",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "35c94e28-484c-542e-9d86-ffd615cfba02",
+        "name": "K·m/W",
+        "main_symbol": "K·m/W"
+    }
+}

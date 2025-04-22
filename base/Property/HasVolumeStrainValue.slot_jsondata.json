@@ -1,0 +1,22 @@
+{
+    "uuid": "c035690a-c036-5365-acaf-24ce230bc7d3",
+    "name": "HasVolumeStrainValue",
+    "label": [
+        {
+            "text": "Volume Strain",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Volume, or volumetric, Strain, or dilatation (the relative variation of the volume) is the trace of the tensor $\\vartheta$.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasStrainValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

@@ -1,0 +1,22 @@
+{
+    "uuid": "96a94ca5-12a2-5b51-9b62-34aae061da0e",
+    "name": "HasSourceVoltageValue",
+    "label": [
+        {
+            "text": "Source Voltage",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The quantity kind $\\textit{Source Voltage}$, also referred to as $\\textit{Source Tension}$\n   is the voltage between the two terminals of a voltage source when there is no electric current through the source. \n  The name $\\text{electromotive force}$ with the abbreviation $\\textit{EMF}$ and the symbol $E$ is deprecated.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasVoltageValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasVoltageValue"
+}

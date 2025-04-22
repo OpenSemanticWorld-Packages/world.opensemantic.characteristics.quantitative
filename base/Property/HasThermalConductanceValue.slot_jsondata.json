@@ -1,0 +1,25 @@
+{
+    "uuid": "0ab40ca6-f9d0-5a12-af48-b20aed7c4da4",
+    "name": "HasThermalConductanceValue",
+    "label": [
+        {
+            "text": "Thermal Conductance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "This quantity is also called \"Heat Transfer Coefficient\".",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "af5d6cc3-149a-5283-8b00-0b288747cb20",
+        "name": "W/K",
+        "main_symbol": "W/K"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "uuid": "bc796b67-d105-5956-86f1-d110b17b8eda",
+    "name": "HasSoundParticleAccelerationValue",
+    "label": [
+        {
+            "text": "Sound particle acceleration",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In a compressible sound transmission medium - mainly air - air particles get an accelerated motion: the particle acceleration or sound acceleration with the symbol a in $m/s2$. In acoustics or physics, acceleration (symbol: $a$) is defined as the rate of change (or time derivative) of velocity.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasAccelerationValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasAccelerationValue"
+}

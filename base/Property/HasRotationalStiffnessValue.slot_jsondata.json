@@ -1,0 +1,22 @@
+{
+    "uuid": "34ec4307-b319-5944-b0c5-059561919f64",
+    "name": "HasRotationalStiffnessValue",
+    "label": [
+        {
+            "text": "Rotational Stiffness",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Rotational Stiffness is the extent to which an object resists deformation in response to an applied torque.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasTorquePerAngleValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasTorquePerAngleValue"
+}

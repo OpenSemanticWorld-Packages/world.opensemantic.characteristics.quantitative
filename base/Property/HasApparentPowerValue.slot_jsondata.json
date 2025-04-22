@@ -1,0 +1,26 @@
+{
+    "uuid": "5731677e-924e-5f55-a69d-763bd355c9f1",
+    "name": "HasApparentPowerValue",
+    "label": [
+        {
+            "text": "Apparent power",
+            "lang": "en"
+        },
+        {
+            "text": "Scheinleistung",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Apparent Power\" is the product of the rms voltage $U$ between the terminals of a two-terminal element or two-terminal circuit and the rms electric current I in the element or circuit. Under sinusoidal conditions, the apparent power is the modulus of the complex power.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasComplexPowerValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasPowerValue"
+}

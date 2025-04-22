@@ -1,0 +1,22 @@
+{
+    "uuid": "8a46a0c9-0e25-5851-af3b-1f60067526e3",
+    "name": "HasAtmosphericPressureValue",
+    "label": [
+        {
+            "text": "Atmospheric Pressure",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The pressure exerted by the weight of the air above it at any point on the earth's surface. At sea level the atmosphere will support a column of mercury about $760 mm$ high. This decreases with increasing altitude. The standard value for the atmospheric pressure at sea level in SI units is $101,325 pascals$.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasPressureValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasForcePerAreaValue"
+}

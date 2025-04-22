@@ -1,0 +1,22 @@
+{
+    "uuid": "76d0ff03-116b-5b64-9e5a-8a3331e51cb6",
+    "name": "HasSlowingDownLengthValue",
+    "label": [
+        {
+            "text": "Slowing-Down Length",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Slowing-Down Length\" is the average straight-line distance that a fast neutron will travel between its introduction into the slowing-downmedium (moderator) and thermalization.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

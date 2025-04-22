@@ -1,0 +1,22 @@
+{
+    "uuid": "9a75725e-f5bb-59a0-bb8e-e48a13e210ef",
+    "name": "HasFishBiotransformationHalfLifeValue",
+    "label": [
+        {
+            "text": "Fish Biotransformation Half Life",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A time that quantifies how long its takes to transform 50% of a substance's total concentration from any concentration point in time in fish via whole body metabolic reactions.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasTimeValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasTimeValue"
+}

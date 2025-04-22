@@ -1,0 +1,22 @@
+{
+    "uuid": "f67dd444-1ef4-5b73-9921-72e6534964f9",
+    "name": "HasEffectiveExhaustvelocityValue",
+    "label": [
+        {
+            "text": "Effective Exhaustvelocity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The velocity of an exhaust stream after reduction by effects such as friction, non-axially directed flow, and pressure differences between the inside of the rocket and its surroundings. The effective exhaust velocity is one of two factors determining the thrust, or accelerating force, that a rocket can develop, the other factor being the quantity of reaction mass expelled from the rocket in unit time. In most cases, the effective exhaust velocity is close to the actual exhaust velocity.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasVelocityValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasVelocityValue"
+}

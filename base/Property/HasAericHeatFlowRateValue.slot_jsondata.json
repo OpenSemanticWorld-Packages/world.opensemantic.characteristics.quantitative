@@ -1,0 +1,22 @@
+{
+    "uuid": "078a79c8-b6b6-5a40-a6f8-d2db4837d257",
+    "name": "HasAericHeatFlowRateValue",
+    "label": [
+        {
+            "text": "Aeric Heat Flow Rate",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Density of heat flow rate.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasPowerPerAreaValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasPowerPerAreaValue"
+}

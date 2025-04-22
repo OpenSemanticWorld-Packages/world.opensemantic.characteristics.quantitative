@@ -1,0 +1,19 @@
+{
+    "uuid": "5997bd6b-e9b5-5843-b805-58490677e3be",
+    "name": "HasSpecificAcousticImpedanceValue",
+    "label": [
+        {
+            "text": "Specific Acoustic Impedance",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "410fb3a0-b71b-5df7-95c9-8c4fc62b8eb9",
+        "name": "N·s/m³",
+        "main_symbol": "N·s/m³"
+    }
+}

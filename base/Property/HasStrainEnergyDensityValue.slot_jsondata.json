@@ -1,0 +1,22 @@
+{
+    "uuid": "e9ebdf3e-9016-5818-a2d0-f1b14b1c0a04",
+    "name": "HasStrainEnergyDensityValue",
+    "label": [
+        {
+            "text": "Strain Energy Density",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Defined as the 'work done' for a given strain, that is the area under the stress-strain curve after a specified eation. Source(s): http://www.prepol.com/product-range/product-subpages/terminology",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasEnergyDensityValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasEnergyDensityValue"
+}

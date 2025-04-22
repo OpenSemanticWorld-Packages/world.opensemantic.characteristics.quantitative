@@ -1,0 +1,22 @@
+{
+    "uuid": "a2607feb-bc80-541b-ab67-5e45e3d2a68e",
+    "name": "HasContractEndItemCeiSpecificationMassValue",
+    "label": [
+        {
+            "text": "Contract End Item (CEI) Specification Mass.",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Contractual mass requirement of a delivered item. Note that The term 'control mass' is sometimes utilized as a limit in lieu of CEI mass when a CEI mass does not exist. The term 'Interface Control Document Mass' is another alternative for specifying a contractual mass requirement.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasMassValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasMassValue"
+}

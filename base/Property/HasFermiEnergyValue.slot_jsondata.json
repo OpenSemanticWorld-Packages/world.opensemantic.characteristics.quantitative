@@ -1,0 +1,22 @@
+{
+    "uuid": "b2496bc9-422c-56a5-aaaf-f1dc77f0b582",
+    "name": "HasFermiEnergyValue",
+    "label": [
+        {
+            "text": "Fermi Energy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Fermi Energy\" in a metal is the highest occupied energy level at zero thermodynamic temperature.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasEnergyValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasEnergyValue"
+}

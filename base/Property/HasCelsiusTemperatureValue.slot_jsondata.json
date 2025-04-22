@@ -1,0 +1,26 @@
+{
+    "uuid": "2cecde99-8dd2-5d49-858a-8188a734c157",
+    "name": "HasCelsiusTemperatureValue",
+    "label": [
+        {
+            "text": "Celsius temperature",
+            "lang": "en"
+        },
+        {
+            "text": "Celsius-Temperatur",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Celsius Temperature\", the thermodynamic temperature T_0, is exactly 0.01 kelvin below the thermodynamic temperature of the triple point of water.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasThermodynamicTemperatureValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasTemperatureValue"
+}

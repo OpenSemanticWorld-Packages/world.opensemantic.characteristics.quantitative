@@ -1,0 +1,16 @@
+{
+    "uuid": "03a3ce7b-ff7e-584b-99e4-a2d855895720",
+    "name": "HasThrustToMassRatioValue",
+    "label": [
+        {
+            "text": "Thrust To Mass Ratio",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasAccelerationValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasAccelerationValue"
+}

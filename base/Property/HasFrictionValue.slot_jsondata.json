@@ -1,0 +1,22 @@
+{
+    "uuid": "1f6a5f90-55eb-54aa-a1a7-87636b89a521",
+    "name": "HasFrictionValue",
+    "label": [
+        {
+            "text": "Friction",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Friction\" is the force of two surfaces In contact, or the force of a medium acting on a moving object (that is air on an aircraft). When contacting surfaces move relative to each other, the friction between the two objects converts kinetic energy into thermal energy.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasForceValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasForceValue"
+}

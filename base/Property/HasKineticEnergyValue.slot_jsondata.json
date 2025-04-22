@@ -1,0 +1,26 @@
+{
+    "uuid": "387e905f-9d50-5b88-a585-b04564771096",
+    "name": "HasKineticEnergyValue",
+    "label": [
+        {
+            "text": "Kinetic energy",
+            "lang": "en"
+        },
+        {
+            "text": "Kinetische Energie",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The kinetic energy of an object is the energy which it possesses due to its motion. It is defined as the work needed to accelerate a body of a given mass from rest to its stated velocity.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasEnergyValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasEnergyValue"
+}

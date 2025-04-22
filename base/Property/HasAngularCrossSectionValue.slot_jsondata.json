@@ -1,0 +1,25 @@
+{
+    "uuid": "a8ea6cbc-194f-571b-8966-1b60912ec07f",
+    "name": "HasAngularCrossSectionValue",
+    "label": [
+        {
+            "text": "Angular Cross-section",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Angular Cross-section\" is the cross-section for ejecting or scattering a particle into an elementary cone, divided by the solid angle $d\\Omega$ of that cone.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "a1474d62-b748-5c74-83c6-2378e829775a",
+        "name": "m²/sr",
+        "main_symbol": "m²/sr"
+    }
+}

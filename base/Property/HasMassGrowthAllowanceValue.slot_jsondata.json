@@ -1,0 +1,22 @@
+{
+    "uuid": "a83e8445-4e79-5ed6-b096-903632e96b0c",
+    "name": "HasMassGrowthAllowanceValue",
+    "label": [
+        {
+            "text": "Mass Growth Allowance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A factor applied to basic mass at the lowest level of design detail available based on type and maturity of hardware according to an approved MGA depletion schedule.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasMassValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasMassValue"
+}

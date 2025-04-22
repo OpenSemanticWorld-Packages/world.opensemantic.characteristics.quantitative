@@ -1,0 +1,22 @@
+{
+    "uuid": "755ca39b-684f-591b-8237-a7dcecc19e0b",
+    "name": "HasEllipticalOrbitApogeeVelocityValue",
+    "label": [
+        {
+            "text": "Elliptical Orbit Apogee Velocity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Velocity at apogee for an elliptical orbit velocity",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasVehicleVelocityValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasVelocityValue"
+}

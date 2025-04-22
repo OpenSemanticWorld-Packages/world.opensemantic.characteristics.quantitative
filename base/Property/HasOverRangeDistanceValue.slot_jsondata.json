@@ -1,0 +1,22 @@
+{
+    "uuid": "be6916a0-fd74-570b-9638-6f527273c097",
+    "name": "HasOverRangeDistanceValue",
+    "label": [
+        {
+            "text": "Over-range distance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Additional distance traveled by a rocket because Of excessive initial velocity.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

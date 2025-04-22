@@ -1,0 +1,22 @@
+{
+    "uuid": "0f28785b-db52-5a52-9097-9d052acc4954",
+    "name": "HasMassPropertyUncertaintyValue",
+    "label": [
+        {
+            "text": "Mass Property Uncertainty",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Variation in predicted MP due to lack of definition, manufacturing variations, environment effects, or accuracy limitation of measuring devices.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasMassValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasMassValue"
+}

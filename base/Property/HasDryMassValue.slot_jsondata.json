@@ -1,0 +1,22 @@
+{
+    "uuid": "96d88e33-cf4a-5eb3-a364-75389105df47",
+    "name": "HasDryMassValue",
+    "label": [
+        {
+            "text": "Dry Mass",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Mass of a system without the propellants, pressurants, reserve or residual fluids, personnel and personnel provisions, and cargo.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasMassValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasMassValue"
+}

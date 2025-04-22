@@ -1,0 +1,22 @@
+{
+    "uuid": "33127546-79ae-52dc-bf7d-4733d7d236d8",
+    "name": "HasMigrationAreaValue",
+    "label": [
+        {
+            "text": "Migration Area",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Migration Area\" is the sum of the slowing-down area from fission energy to thermal energy and the diffusion area for thermal neutrons.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasAreaValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasAreaValue"
+}

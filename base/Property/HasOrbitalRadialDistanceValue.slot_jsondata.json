@@ -1,0 +1,16 @@
+{
+    "uuid": "b8df3e68-8eb1-516b-95d8-0efff02637a2",
+    "name": "HasOrbitalRadialDistanceValue",
+    "label": [
+        {
+            "text": "Orbital Radial Distance",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

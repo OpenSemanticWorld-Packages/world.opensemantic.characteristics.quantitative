@@ -1,0 +1,45 @@
+{
+    "uuid": "aae4f4d2-598f-5263-a0a7-c0e6ec45a260",
+    "name": "HasPowerPerAreaValue",
+    "label": [
+        {
+            "text": "Power Per Area",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "a76f9003-50f7-5c6b-add7-a7596fa9407d",
+        "name": "W/m²",
+        "main_symbol": "W/m²"
+    },
+    "additional_units": [
+        {
+            "uuid": "13faab24-cd6b-57ea-8c73-56d16ca85f76",
+            "name": "W/cm²",
+            "main_symbol": "W/cm²",
+            "conversion_factor_to_main_unit": "0.0001"
+        },
+        {
+            "uuid": "dff7b752-4f45-5f6e-84f5-f8b5d345b2af",
+            "name": "µW/m²",
+            "main_symbol": "µW/m²",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "dfa246da-bd56-5fab-845e-cb910eba8400",
+            "name": "mW/m²",
+            "main_symbol": "mW/m²",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "62b0d64c-7d78-5584-ad38-6a8a4c367aaf",
+            "name": "pW/m²",
+            "main_symbol": "pW/m²",
+            "conversion_factor_to_main_unit": "1000000000000.0"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "uuid": "977aba06-aec9-58ae-a814-8e275cdc9216",
+    "name": "HasCenterOfGravityInTheYAxisValue",
+    "label": [
+        {
+            "text": "Center of Gravity in the Y axis",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

@@ -1,0 +1,26 @@
+{
+    "uuid": "93487453-5abe-5f67-b635-fa0ca0ec8298",
+    "name": "HasOsmoticPressureValue",
+    "label": [
+        {
+            "text": "Osmotic pressure",
+            "lang": "en"
+        },
+        {
+            "text": "Osmotischer Druck",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Osmotic Pressure\" is the pressure which needs to be applied to a solution to prevent the inward flow of water across a semipermeable membrane.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasPressureValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasForcePerAreaValue"
+}

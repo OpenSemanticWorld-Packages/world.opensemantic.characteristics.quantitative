@@ -1,0 +1,22 @@
+{
+    "uuid": "78427286-804a-5510-a4b9-c16d6b92dff5",
+    "name": "HasAtomicChargeValue",
+    "label": [
+        {
+            "text": "Atomic Charge",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The electric charge of an ion, equal to the number of electrons the atom has gained or lost in its ionization multiplied by the charge on one electron.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasElectricChargeValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasElectricChargeValue"
+}

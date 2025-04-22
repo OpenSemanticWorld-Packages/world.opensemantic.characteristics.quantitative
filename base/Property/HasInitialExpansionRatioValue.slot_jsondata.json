@@ -1,0 +1,16 @@
+{
+    "uuid": "588b3c09-ea20-5cec-9500-d67615103141",
+    "name": "HasInitialExpansionRatioValue",
+    "label": [
+        {
+            "text": "Initial Expansion Ratio",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasExpansionRatioValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasExpansionRatioValue"
+}

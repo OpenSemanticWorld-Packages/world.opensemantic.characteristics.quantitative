@@ -1,0 +1,22 @@
+{
+    "uuid": "fed01b02-ad5b-5b42-b1ec-52b62f0c3d7c",
+    "name": "HasSpecificEnergyImpartedValue",
+    "label": [
+        {
+            "text": "Specific Energy Imparted",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Specific Energy Imparted\", is the energy imparted to an element of irradiated matter divided by the mass, dm, of that element.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasSpecificEnergyValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasSpecificEnergyValue"
+}

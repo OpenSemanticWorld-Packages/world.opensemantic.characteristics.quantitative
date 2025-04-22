@@ -1,0 +1,19 @@
+{
+    "uuid": "8e05beb9-6b61-5de8-8c62-d5e9aaddbb93",
+    "name": "HasInversePressureValue",
+    "label": [
+        {
+            "text": "Inverse Pressure",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "00d5d31d-b5a3-5261-9338-29702ae10082",
+        "name": "1/Pa",
+        "main_symbol": "1/Pa"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "uuid": "72561be6-ea14-5ff9-878d-0c711dabe42e",
+    "name": "HasPropellantTemperatureValue",
+    "label": [
+        {
+            "text": "Propellant Temperature",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasTemperatureValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasTemperatureValue"
+}

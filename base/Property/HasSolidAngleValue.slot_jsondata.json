@@ -1,0 +1,26 @@
+{
+    "uuid": "934d8df8-3469-55ac-9f28-d19e4a45bd3e",
+    "name": "HasSolidAngleValue",
+    "label": [
+        {
+            "text": "Solid angle",
+            "lang": "en"
+        },
+        {
+            "text": "Raumwinkel",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The solid angle subtended by a surface S is defined as the surface area of a unit sphere covered by the surface S's projection onto the sphere. A solid angle is related to the surface of a sphere in the same way an ordinary angle is related to the circumference of a circle. Since the total surface area of the unit sphere is 4*pi, the measure of solid angle will always be between 0 and 4*pi.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasAreaRatioValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

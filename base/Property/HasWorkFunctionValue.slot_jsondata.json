@@ -1,0 +1,22 @@
+{
+    "uuid": "d8487b9b-3f91-5c1a-8a50-980b5202a0c1",
+    "name": "HasWorkFunctionValue",
+    "label": [
+        {
+            "text": "Work Function",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Work Function\" is the energy difference between an electron at rest at infinity and an electron at a certain energy level. The minimum energy (usually measured in electronvolts) needed to remove an electron from a solid to a point immediately outside the solid surface (or energy needed to move an electron from the Fermi level into vacuum).",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasEnergyValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasEnergyValue"
+}

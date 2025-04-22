@@ -1,0 +1,39 @@
+{
+    "uuid": "efd4540e-00c2-5d6c-a0dd-944bc9403c38",
+    "name": "HasSoundVolumeVelocityValue",
+    "label": [
+        {
+            "text": "Sound volume velocity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Sound Volume Velocity is the product of particle velocity $v$ and the surface area $S$ through which an acoustic wave of frequency $f$ propagates. Also, the surface integral of the normal component of the sound particle velocity over the cross-section (through which the sound propagates). It is used to calculate acoustic impedance.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "a7231ad3-0fe7-5fed-85d9-53f7cc694552",
+        "name": "m³/s",
+        "main_symbol": "m³/s"
+    },
+    "additional_units": [
+        {
+            "uuid": "a77bdf8d-bcf3-5bf1-bd8f-1cc84dcf4f94",
+            "name": "cm³/s",
+            "main_symbol": "cm³/s",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "13b3779e-3221-5dc1-a381-8c5043e9450e",
+            "name": "dm³/s",
+            "main_symbol": "dm³/s",
+            "conversion_factor_to_main_unit": "1000.0"
+        }
+    ]
+}

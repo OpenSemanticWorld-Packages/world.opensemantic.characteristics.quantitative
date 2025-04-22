@@ -1,0 +1,16 @@
+{
+    "uuid": "95bc8fec-b231-5c17-91a2-f5f5a4c46840",
+    "name": "HasVehicleVelocityValue",
+    "label": [
+        {
+            "text": "Vehicle Velocity",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasVelocityValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasVelocityValue"
+}

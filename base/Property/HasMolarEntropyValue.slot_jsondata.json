@@ -1,0 +1,25 @@
+{
+    "uuid": "5299488b-848b-557d-b7be-e3e0cbbf07d4",
+    "name": "HasMolarEntropyValue",
+    "label": [
+        {
+            "text": "Molar Entropy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Standard Molar Entropy\" is the entropy content of one mole of substance, under standard conditions (not standard temperature and pressure STP).",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "90583b47-6d34-54ad-a977-5bd386a4693b",
+        "name": "J/(mol·K)",
+        "main_symbol": "J/(mol·K)"
+    }
+}

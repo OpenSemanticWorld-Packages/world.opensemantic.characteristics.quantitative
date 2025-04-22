@@ -1,0 +1,22 @@
+{
+    "uuid": "7e3661ce-3d90-597d-962a-8201ca226c2c",
+    "name": "HasAccelerationOfGravityValue",
+    "label": [
+        {
+            "text": "Acceleration Of Gravity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The acceleration of freely falling bodies under the influence of terrestrial gravity, equal to approximately 9.81 meters (32 feet) per second per second.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasAccelerationValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasAccelerationValue"
+}

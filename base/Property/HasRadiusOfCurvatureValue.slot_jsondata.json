@@ -1,0 +1,22 @@
+{
+    "uuid": "a175d15f-13dd-5f74-89f2-910fdf5d6682",
+    "name": "HasRadiusOfCurvatureValue",
+    "label": [
+        {
+            "text": "Radius of Curvature",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In geometry, the \"Radius of Curvature\", R, of a curve at a point is a measure of the radius of the circular arc which best approximates the curve at that point.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

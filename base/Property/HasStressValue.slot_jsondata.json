@@ -1,0 +1,22 @@
+{
+    "uuid": "149c6802-e1e3-5ef8-ad26-e13515377643",
+    "name": "HasStressValue",
+    "label": [
+        {
+            "text": "Stress",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Stress is a measure of the average amount of force exerted per unit area of a surface within a deformable body on which internal forces act. In other words, it is a measure of the intensity or internal distribution of the total internal forces acting within a deformable body across imaginary surfaces. These internal forces are produced between the particles in the body as a reaction to external forces applied on the body. Stress is defined as ${\\rm{Stress}} = \\frac{F}{A}$.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasForcePerAreaValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasForcePerAreaValue"
+}

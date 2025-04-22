@@ -1,0 +1,55 @@
+{
+    "uuid": "816cc758-b683-591d-8f13-12f0b7a70e69",
+    "name": "HasPoyntingVectorValue",
+    "label": [
+        {
+            "text": "Poynting vector",
+            "lang": "en"
+        },
+        {
+            "text": "Poynting-Vektor",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Poynting Vector\" is the vector product of the electric field strength $\\mathbf{E}$ and the magnetic field strength $\\mathbf{H}\" of the electromagnetic field at a given point. The flux of the Poynting vector through a closed surface is equal to the electromagnetic power passing through this surface. For a periodic electromagnetic field, the time average of the Poynting vector is a vector of which, with certain reservations, the direction may be considered as being the direction of propagation of electromagnetic energy and the magnitude considered as being the average electromagnetic power flux density.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "a76f9003-50f7-5c6b-add7-a7596fa9407d",
+        "name": "W/m²",
+        "main_symbol": "W/m²"
+    },
+    "additional_units": [
+        {
+            "uuid": "13faab24-cd6b-57ea-8c73-56d16ca85f76",
+            "name": "W/cm²",
+            "main_symbol": "W/cm²",
+            "conversion_factor_to_main_unit": "0.0001"
+        },
+        {
+            "uuid": "dff7b752-4f45-5f6e-84f5-f8b5d345b2af",
+            "name": "µW/m²",
+            "main_symbol": "µW/m²",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "dfa246da-bd56-5fab-845e-cb910eba8400",
+            "name": "mW/m²",
+            "main_symbol": "mW/m²",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "62b0d64c-7d78-5584-ad38-6a8a4c367aaf",
+            "name": "pW/m²",
+            "main_symbol": "pW/m²",
+            "conversion_factor_to_main_unit": "1000000000000.0"
+        }
+    ]
+}

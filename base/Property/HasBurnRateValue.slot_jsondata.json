@@ -1,0 +1,16 @@
+{
+    "uuid": "6ca9df90-38ce-52d9-b9f8-2a85d7414934",
+    "name": "HasBurnRateValue",
+    "label": [
+        {
+            "text": "Burn Rate",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasVelocityValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasVelocityValue"
+}

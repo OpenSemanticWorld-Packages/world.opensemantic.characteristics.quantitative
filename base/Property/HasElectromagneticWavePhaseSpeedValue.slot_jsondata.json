@@ -1,0 +1,51 @@
+{
+    "uuid": "6af4acd9-a104-5790-9bd9-abdef4b5d8a1",
+    "name": "HasElectromagneticWavePhaseSpeedValue",
+    "label": [
+        {
+            "text": "Electromagnetic Wave Phase Speed",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Electromagnetic Wave Phase Speed\" is the ratio of angular velocity and wavenumber.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "c6d1c729-ec16-5744-83f6-da4db6e930f3",
+        "name": "m/s",
+        "main_symbol": "m/s"
+    },
+    "additional_units": [
+        {
+            "uuid": "d6665f6b-00fa-5122-a2ac-725be2478018",
+            "name": "cm/s",
+            "main_symbol": "cm/s",
+            "conversion_factor_to_main_unit": "100.0"
+        },
+        {
+            "uuid": "51e8f4f6-7d12-5ea6-988c-7f86034fc538",
+            "name": "μm/s",
+            "main_symbol": "μm/s",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "f01a755b-5cb5-576b-b68f-57e9f0d9e8ce",
+            "name": "mm/s",
+            "main_symbol": "mm/s",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "f6b709ec-ad78-5b83-ab82-389b864ddd9a",
+            "name": "km/s",
+            "main_symbol": "km/s",
+            "conversion_factor_to_main_unit": "0.001"
+        }
+    ]
+}

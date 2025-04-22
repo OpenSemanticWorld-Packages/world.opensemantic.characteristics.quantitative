@@ -1,0 +1,16 @@
+{
+    "uuid": "8501f6d9-ee45-52fa-a0a8-e2e34edaf44a",
+    "name": "HasFermiAngularWavenumberValue",
+    "label": [
+        {
+            "text": "Fermi Angular Wavenumber",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasInverseLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasInverseLengthValue"
+}

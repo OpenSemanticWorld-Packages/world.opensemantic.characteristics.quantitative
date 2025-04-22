@@ -1,0 +1,16 @@
+{
+    "uuid": "b8f053cc-2d7a-53d3-aa3e-05d0eda3b0bc",
+    "name": "HasRealPartOfComplexFrequencyValue",
+    "label": [
+        {
+            "text": "Real part of complex frequency",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasFrequencyValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasFrequencyValue"
+}

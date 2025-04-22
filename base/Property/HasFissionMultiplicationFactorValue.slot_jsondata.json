@@ -1,0 +1,22 @@
+{
+    "uuid": "4b6c9ce8-cea4-59a4-a844-161c18f5dea1",
+    "name": "HasFissionMultiplicationFactorValue",
+    "label": [
+        {
+            "text": "Fission Multiplication Factor",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The number of fission neutrons produced per absorption in the fuel.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

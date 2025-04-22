@@ -1,0 +1,26 @@
+{
+    "uuid": "b15e1dfb-28dd-5197-8b56-25172c1ebf66",
+    "name": "HasCartesianCoordinatesValue",
+    "label": [
+        {
+            "text": "Cartesian coordinates",
+            "lang": "en"
+        },
+        {
+            "text": "Kartesische Koordinaten",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Cartesian Coordinates\" specify each point uniquely in a plane by a pair of numerical coordinates, which are the signed distances from the point to two fixed perpendicular directed lines, measured in the same unit of length.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

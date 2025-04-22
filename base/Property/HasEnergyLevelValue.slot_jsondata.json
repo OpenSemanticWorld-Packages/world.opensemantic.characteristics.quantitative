@@ -1,0 +1,22 @@
+{
+    "uuid": "2cb9bb2e-4f96-5549-ad22-1b03373b2c76",
+    "name": "HasEnergyLevelValue",
+    "label": [
+        {
+            "text": "Energy Level",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Energy Level\" is the ionization energy for an electron at the Fermi energy in the interior of a substance.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasEnergyValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasEnergyValue"
+}

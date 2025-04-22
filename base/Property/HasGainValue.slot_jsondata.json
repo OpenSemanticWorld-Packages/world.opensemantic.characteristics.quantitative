@@ -1,0 +1,22 @@
+{
+    "uuid": "d30f4e58-e6c9-5ee0-9096-98d5bdfd7345",
+    "name": "HasGainValue",
+    "label": [
+        {
+            "text": "Gain",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A general term used to denote an increase in signal power or signal strength in transmission from one point to another. Gain is usually expressed in decibels and is widely used to denote transducer gain.  An increase or amplification. In radar there are two general usages of the term: (a) antenna gain, or gain factor, is the ratio of the power transmitted along the beam axis to that of an isotropic radiator transmitting the same total power; (b) receiver gain, or video gain, is the amplification given a signal by the receiver.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessRatioValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

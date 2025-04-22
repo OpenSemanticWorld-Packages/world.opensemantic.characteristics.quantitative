@@ -1,0 +1,22 @@
+{
+    "uuid": "ab36c4e4-849d-5dd0-b6e3-6004b8219209",
+    "name": "HasLoudnessLevelValue",
+    "label": [
+        {
+            "text": "Loudness level",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "in phon angegebener Wert als Maß für die Stärke der subjektiven Wahrnehmung eines Schallvorgange, der zahlenmäßig dem in dB angegebenen Schalldruckpegel eines Referenzschalls entspricht, der aus einer frontal einfallenden ebenen Welle mit der Frequenz 1000 Hz besteht und als gleich laut wie das Geräusch empfunden wird",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

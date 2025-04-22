@@ -1,0 +1,25 @@
+{
+    "uuid": "e362e9df-854f-518a-984e-309779ff69d1",
+    "name": "HasEnergyDensityOfStatesValue",
+    "label": [
+        {
+            "text": "Energy Density of States",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Energy Density of States\" refers to electrons or other entities, e.g. phonons. It can, for example, refer to amount of substance instead of volume.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "f047580f-daad-5fbc-b022-df405fcb8d3d",
+        "name": "1/(J·m³)",
+        "main_symbol": "1/(J·m³)"
+    }
+}

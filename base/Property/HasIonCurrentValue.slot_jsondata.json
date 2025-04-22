@@ -1,0 +1,22 @@
+{
+    "uuid": "c1d50811-a5ab-5b93-95c5-f0c7435dfe3c",
+    "name": "HasIonCurrentValue",
+    "label": [
+        {
+            "text": "Ion Current",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "An ion current is the influx and/or efflux of ions through an ion channel.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasElectricCurrentValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasElectricCurrentValue"
+}

@@ -1,0 +1,26 @@
+{
+    "uuid": "b608a258-0b64-5c24-94e2-7ce28cfde339",
+    "name": "HasHeatCapacityValue",
+    "label": [
+        {
+            "text": "Heat capacity",
+            "lang": "en"
+        },
+        {
+            "text": "Wärmekapazität",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Heat Capacity\" (usually denoted by a capital $C$, often with subscripts), or thermal capacity, is the measurable physical quantity that characterizes the amount of heat required to change a substance's temperature by a given amount. In the International System of Units (SI), heat capacity is expressed in units of joule(s) (J) per kelvin (K).",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasEnergyPerTemperatureValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasEnergyPerTemperatureValue"
+}

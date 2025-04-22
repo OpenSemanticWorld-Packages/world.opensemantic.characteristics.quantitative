@@ -1,0 +1,22 @@
+{
+    "uuid": "490fe430-2114-5e9c-a0b6-eb43e995574f",
+    "name": "HasDonorIonizationEnergyValue",
+    "label": [
+        {
+            "text": "Donor Ionization Energy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Donor Ionization Energy\" is the ionization energy of a donor.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasIonizationEnergyValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasEnergyValue"
+}

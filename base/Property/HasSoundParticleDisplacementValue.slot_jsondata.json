@@ -1,0 +1,22 @@
+{
+    "uuid": "fcf5d5e1-72e5-5a4e-8065-6db90e3c277f",
+    "name": "HasSoundParticleDisplacementValue",
+    "label": [
+        {
+            "text": "Sound Particle Displacement",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Sound Particle Displacement is the nstantaneous displacement of a particle in a medium from what would be its position in the absence of sound waves.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

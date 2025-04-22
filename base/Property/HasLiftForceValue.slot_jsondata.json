@@ -1,0 +1,22 @@
+{
+    "uuid": "86f90272-7002-539e-9e7c-87cbf005e2ae",
+    "name": "HasLiftForceValue",
+    "label": [
+        {
+            "text": "Lift Force",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The lift force, lifting force or simply lift is the sum of all the forces on a body that force it to move perpendicular to the direction of flow.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasForceValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasForceValue"
+}

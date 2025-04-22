@@ -1,0 +1,55 @@
+{
+    "uuid": "85b67bed-463e-5580-b322-155df712f352",
+    "name": "HasFrequencyValue",
+    "label": [
+        {
+            "text": "Frequency",
+            "lang": "en"
+        },
+        {
+            "text": "Frequenz",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Frequency\" is the number of occurrences of a repeating event per unit time. The repetition of the events may be periodic (that is. the length of time between event repetitions is fixed) or aperiodic (i.e. the length of time between event repetitions varies). Therefore, we distinguish between periodic and aperiodic frequencies. In the SI system, periodic frequency is measured in hertz (Hz) or multiples of hertz, while aperiodic frequency is measured in becquerel (Bq).  In spectroscopy, $\\nu$ is mostly used. Light passing through different media keeps its frequency, but not its wavelength or wavenumber.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "b887ca2f-1646-5b46-9c10-5ee1ed5fa313",
+        "name": "Hz",
+        "main_symbol": "Hz"
+    },
+    "additional_units": [
+        {
+            "uuid": "798c6805-95d8-50f5-8a6c-0b8f6689616e",
+            "name": "MHz",
+            "main_symbol": "MHz",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "54908209-3ebe-523f-97bf-d6f9afa2a764",
+            "name": "kHz",
+            "main_symbol": "kHz",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "238da487-5cb2-5e23-b05e-bbc479c3908e",
+            "name": "GHz",
+            "main_symbol": "GHz",
+            "conversion_factor_to_main_unit": "0.0"
+        },
+        {
+            "uuid": "0f69e61c-07d7-530f-b5dd-0372788d95d6",
+            "name": "THz",
+            "main_symbol": "THz",
+            "conversion_factor_to_main_unit": "0.0"
+        }
+    ]
+}

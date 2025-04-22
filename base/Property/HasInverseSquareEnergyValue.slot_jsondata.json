@@ -1,0 +1,19 @@
+{
+    "uuid": "fd2fa699-f8fe-5080-b19a-149bee5d9025",
+    "name": "HasInverseSquareEnergyValue",
+    "label": [
+        {
+            "text": "Inverse Square Energy",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "0debdd1a-1225-5138-945b-1bc8408fa06c",
+        "name": "1/J²",
+        "main_symbol": "1/J²"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "uuid": "cb81b687-9f45-5e04-b0f7-a96216f9f435",
+    "name": "HasPowerValue",
+    "label": [
+        {
+            "text": "Power",
+            "lang": "en"
+        },
+        {
+            "text": "Leistung",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Power is the rate at which work is performed or energy is transmitted, or the amount of energy required or expended for a given unit of time. As a rate of change of work done or the energy of a subsystem, power is: $P = W/t$, where $P$ is power, $W$ is work and {t} is time.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "ca31bd59-c8ae-5cec-9c54-96f16f29315c",
+        "name": "W",
+        "main_symbol": "W"
+    },
+    "additional_units": [
+        {
+            "uuid": "4d7946fb-374d-567e-a6d6-6e32adfcb86f",
+            "name": "MW",
+            "main_symbol": "MW",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "496e69a7-c909-54bc-a8b5-8f1f4c8030d4",
+            "name": "kW",
+            "main_symbol": "kW",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "9816d97d-18aa-5c71-b348-1c8f7249e3c4",
+            "name": "pW",
+            "main_symbol": "pW",
+            "conversion_factor_to_main_unit": "1000000000000.0"
+        },
+        {
+            "uuid": "0cfcbb33-0dd9-574c-806b-58b66ea6996d",
+            "name": "mW",
+            "main_symbol": "mW",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "d30fe5da-2181-58cd-b67e-cf83c37c488e",
+            "name": "nW",
+            "main_symbol": "nW",
+            "conversion_factor_to_main_unit": "1000000000.0"
+        },
+        {
+            "uuid": "5fd9e6cd-4bf5-5ad4-96c1-12c2481c7e55",
+            "name": "TW",
+            "main_symbol": "TW",
+            "conversion_factor_to_main_unit": "0.0"
+        },
+        {
+            "uuid": "a05b2ab8-a915-5662-b973-960fa4040d5c",
+            "name": "GW",
+            "main_symbol": "GW",
+            "conversion_factor_to_main_unit": "0.0"
+        },
+        {
+            "uuid": "c4a7a67e-83c2-5399-899f-05a3dd960afc",
+            "name": "µW",
+            "main_symbol": "µW",
+            "conversion_factor_to_main_unit": "1000000.0"
+        }
+    ]
+}

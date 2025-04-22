@@ -1,0 +1,22 @@
+{
+    "uuid": "0f845196-56c3-5ca8-8a4a-b33b42eb56d3",
+    "name": "HasMacroscopicCrossSectionValue",
+    "label": [
+        {
+            "text": "Macroscopic Cross-section",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Macroscopic Cross-section\" is the sum of the cross-sections for a reaction or process of a specified type over all atoms or other entities in a given 3D domain, divided by the volume of that domain.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasCrossSectionValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasAreaValue"
+}

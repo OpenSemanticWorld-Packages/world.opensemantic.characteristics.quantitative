@@ -1,0 +1,16 @@
+{
+    "uuid": "415e2ab0-5cf6-521f-ad9e-d804e8cc611f",
+    "name": "HasStagePropellantMassValue",
+    "label": [
+        {
+            "text": "Stage Propellant Mass",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasMassValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasMassValue"
+}

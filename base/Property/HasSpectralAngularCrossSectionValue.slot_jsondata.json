@@ -1,0 +1,25 @@
+{
+    "uuid": "855b228e-e99e-541d-b3c7-0a2f57e9399a",
+    "name": "HasSpectralAngularCrossSectionValue",
+    "label": [
+        {
+            "text": "Spectral Angular Cross-section",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Spectral Angular Cross-section\" is the cross-section for ejecting or scattering a particle into an elementary cone with energy $E$ in an energy interval, divided by the solid angle $d\\Omega$ of that cone and the range $dE$ of that interval.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "1a414a3a-ed9d-5ed6-a22a-b5ef8e399679",
+        "name": "m²/(sr·J)",
+        "main_symbol": "m²/(sr·J)"
+    }
+}

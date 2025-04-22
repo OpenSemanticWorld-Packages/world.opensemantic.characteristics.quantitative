@@ -1,0 +1,26 @@
+{
+    "uuid": "574c9c0a-8b67-58cd-9f42-c17375664586",
+    "name": "HasSpinValue",
+    "label": [
+        {
+            "text": "Spin",
+            "lang": "en"
+        },
+        {
+            "text": "Spin",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "In quantum mechanics and particle physics \"Spin\" is an intrinsic form of angular momentum carried by elementary particles, composite particles (hadrons), and atomic nuclei.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasAngularMomentumValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasAngularMomentumValue"
+}

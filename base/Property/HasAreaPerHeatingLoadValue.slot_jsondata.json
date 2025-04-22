@@ -1,0 +1,37 @@
+{
+    "uuid": "2272bdc4-15e0-5bbb-9b02-fa671720897e",
+    "name": "HasAreaPerHeatingLoadValue",
+    "label": [
+        {
+            "text": "Area per heating load",
+            "lang": "en"
+        },
+        {
+            "text": "Fläche pro Heizlast",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The ratio of an area and the power required for maintaining room temperature at a given level",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "a3a1394f-7311-5469-ae9f-4cd5fd259b3b",
+        "name": "m²/W",
+        "main_symbol": "m²/W"
+    },
+    "additional_units": [
+        {
+            "uuid": "70705d91-64c4-5dd2-b690-3d7d07a35c88",
+            "name": "m²/kW",
+            "main_symbol": "m²/kW",
+            "conversion_factor_to_main_unit": "1000.0"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "uuid": "0b702b54-cee3-5f8b-bbbd-ee377a89299e",
+    "name": "HasAreaValue",
+    "label": [
+        {
+            "text": "Area",
+            "lang": "en"
+        },
+        {
+            "text": "Fläche",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Area is a quantity expressing the two-dimensional size of a defined part of a surface, typically a region bounded by a closed curve.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "f35d3d56-9232-51d4-aad0-a44695925443",
+        "name": "m²",
+        "main_symbol": "m²"
+    },
+    "additional_units": [
+        {
+            "uuid": "469bab4b-49b0-514e-a219-4e9a4a1b517b",
+            "name": "cm²",
+            "main_symbol": "cm²",
+            "conversion_factor_to_main_unit": "10000.0"
+        },
+        {
+            "uuid": "fe4cf51f-c459-508b-b7b1-8dff7ff984ea",
+            "name": "mm²",
+            "main_symbol": "mm²",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "cef5e91f-4952-5d90-9137-7a6ad46f3842",
+            "name": "μm²",
+            "main_symbol": "μm²",
+            "conversion_factor_to_main_unit": "1000000000000.0"
+        },
+        {
+            "uuid": "bd5165e3-4cfb-5a33-9a51-d4376138e781",
+            "name": "nm²",
+            "main_symbol": "nm²",
+            "conversion_factor_to_main_unit": "9.999999999999999e+17"
+        },
+        {
+            "uuid": "f269bae3-74a6-5c76-b366-0c75f31af463",
+            "name": "dm²",
+            "main_symbol": "dm²",
+            "conversion_factor_to_main_unit": "100.0"
+        }
+    ]
+}

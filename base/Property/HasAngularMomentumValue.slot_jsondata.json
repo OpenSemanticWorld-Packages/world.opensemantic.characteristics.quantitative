@@ -1,0 +1,33 @@
+{
+    "uuid": "a82c61cf-2da8-551a-b0af-01d557e18bb5",
+    "name": "HasAngularMomentumValue",
+    "label": [
+        {
+            "text": "Angular Momentum",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Angular Momentum of an object rotating about some reference point is the measure of the extent to which the object will continue to rotate about that point unless acted upon by an external torque. In particular, if a point mass rotates about an axis, then the angular momentum with respect to a point on the axis is related to the mass of the object, the velocity and the distance of the mass to the axis. While the motion associated with linear momentum has no absolute frame of reference, the rotation associated with angular momentum is sometimes spoken of as being measured relative to the fixed stars.  $\\textit{Angular Momentum}$, $\\textit{Moment of Momentum}, or $\\textit{Rotational Momentum\", is a vector quantity that represents the product of a body's rotational inertia and rotational velocity about a particular axis.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "8c8b9274-ae33-5997-9299-0bf4a6424e71",
+        "name": "J·s",
+        "main_symbol": "J·s"
+    },
+    "additional_units": [
+        {
+            "uuid": "50c74f59-7251-5b17-85f8-b4f38ba6ecd5",
+            "name": "aJ·s",
+            "main_symbol": "aJ·s",
+            "conversion_factor_to_main_unit": "9.999999999999999e+17"
+        }
+    ]
+}

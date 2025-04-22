@@ -1,0 +1,22 @@
+{
+    "uuid": "6c97f9df-bee4-5171-919f-72fc82d52da9",
+    "name": "HasOpeningRatioValue",
+    "label": [
+        {
+            "text": "Opening Ratio",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In the context of mechanical systems, \"opening ratio\" might refer to the proportion of time \n  or the extent to which a valve or gate is open relative to its maximum capacity.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessRatioValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

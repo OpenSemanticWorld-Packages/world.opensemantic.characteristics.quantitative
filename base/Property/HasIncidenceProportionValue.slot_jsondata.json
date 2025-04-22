@@ -1,0 +1,22 @@
+{
+    "uuid": "ae2f0c38-11ae-5c06-9962-996fbed47a75",
+    "name": "HasIncidenceProportionValue",
+    "label": [
+        {
+            "text": "Incidence Proportion",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Incidence proportion (also known as cumulative incidence) is the number of new cases within a specified time period divided by the size of the population initially at risk. For example, if a population initially contains 1,000 non-diseased persons and 28 develop a condition over two years of observation, the incidence proportion is 28 cases per 1,000 persons per two years, i.e. 2.8% per two years.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasIncidenceValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasFrequencyValue"
+}

@@ -1,0 +1,26 @@
+{
+    "uuid": "da3ee4be-0cb2-53a5-99af-8b1b3238e423",
+    "name": "HasHelmholtzEnergyValue",
+    "label": [
+        {
+            "text": "Helmholtz energy",
+            "lang": "en"
+        },
+        {
+            "text": "Freie Energie",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Helmholtz Energy}$ is one of the potentials are used to measure energy changes in systems as they evolve from an initial state to a final state. The potential used depends on the constraints of the system, such as constant temperature or pressure. $\\textit{Internal Energy}$ is the internal energy of the system, $\\textit{Enthalpy}$ is the internal energy of the system plus the energy related to pressure-volume work, and Helmholtz and Gibbs free energy are the energies available in a system to do useful work when the temperature and volume or the pressure and temperature are fixed, respectively. The name $\\textit{Helmholz Free Energy}$ is also used.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasEnergyValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasEnergyValue"
+}

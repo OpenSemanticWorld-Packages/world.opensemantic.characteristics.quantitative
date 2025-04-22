@@ -1,0 +1,22 @@
+{
+    "uuid": "14850b6f-24ed-5513-8950-508f9f81b16d",
+    "name": "HasFirstStageMassRatioValue",
+    "label": [
+        {
+            "text": "First Stage Mass Ratio",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Mass ratio for the first stage of a multistage launcher.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasMassRatioValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasMassRatioValue"
+}

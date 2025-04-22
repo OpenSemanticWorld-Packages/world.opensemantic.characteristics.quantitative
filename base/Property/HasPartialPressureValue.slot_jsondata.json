@@ -1,0 +1,22 @@
+{
+    "uuid": "c25a13e2-2a5b-5cf3-8238-467b41dbdef5",
+    "name": "HasPartialPressureValue",
+    "label": [
+        {
+            "text": "Partial Pressure",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Partial Pressure\" is the pressure that the gas would have if it alone occupied the volume of the mixture at the same temperature.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasPressureValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasForcePerAreaValue"
+}

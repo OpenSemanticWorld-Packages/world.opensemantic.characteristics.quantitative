@@ -1,0 +1,22 @@
+{
+    "uuid": "3c8c535a-e88d-5d1f-895f-1d8e846ccdd8",
+    "name": "HasCenterOfMassComValue",
+    "label": [
+        {
+            "text": "Center of Mass (CoM)",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The point at which the distributed mass of a composite body can be acted upon by a force without inducing any rotation of the composite body.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasPositionVectorValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

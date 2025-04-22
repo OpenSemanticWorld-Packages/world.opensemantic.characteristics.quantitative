@@ -1,0 +1,16 @@
+{
+    "uuid": "ffe1768a-6a59-5081-a778-a669600d555f",
+    "name": "HasPressureBurningRateIndexValue",
+    "label": [
+        {
+            "text": "Pressure Burning Rate Index",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

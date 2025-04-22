@@ -1,0 +1,43 @@
+{
+    "uuid": "8d818049-f88c-561f-b0d2-e9e5b44e4d5f",
+    "name": "HasEntropyValue",
+    "label": [
+        {
+            "text": "Entropy",
+            "lang": "en"
+        },
+        {
+            "text": "Entropie",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "When a small amount of heat $dQ$ is received by a system whose thermodynamic temperature is $T$, the entropy of the system increases by $dQ/T$, provided that no irreversible change takes place in the system.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "9ee66572-78de-55f7-91f2-c7171329426d",
+        "name": "J/K",
+        "main_symbol": "J/K"
+    },
+    "additional_units": [
+        {
+            "uuid": "30360d32-8603-51a2-a907-7520ff41af26",
+            "name": "kJ/K",
+            "main_symbol": "kJ/K",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "9bcb9c51-2e6e-5fc2-8bd7-9b220e5807e4",
+            "name": "MJ/K",
+            "main_symbol": "MJ/K",
+            "conversion_factor_to_main_unit": "1e-06"
+        }
+    ]
+}

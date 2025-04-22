@@ -1,0 +1,19 @@
+{
+    "uuid": "38a28eb8-9b61-5767-87cc-49bc0a1d1558",
+    "name": "HasInverseEnergyValue",
+    "label": [
+        {
+            "text": "Inverse Energy",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "32eb6690-d6c9-5c91-a565-282255414fe1",
+        "name": "1/(kVA·h)",
+        "main_symbol": "1/(kVA·h)"
+    }
+}

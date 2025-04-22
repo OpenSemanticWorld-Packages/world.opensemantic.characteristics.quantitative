@@ -1,0 +1,25 @@
+{
+    "uuid": "5e1e13ee-fe2e-5e12-827b-d99aac603d40",
+    "name": "HasBodyMassIndexValue",
+    "label": [
+        {
+            "text": "Body Mass Index",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Body Mass Index}$, BMI, is an index of weight for height, calculated as: $BMI = \\frac{M_{body}}{H^2}$, where $M_{body}$ is body mass in kg, and $H$ is height in metres. The BMI has been used as a guideline for defining whether a person is overweight because it minimizes the effect of height, but it does not take into consideration other important factors, such as age and body build. The BMI has also been used as an indicator of obesity on the assumption that the higher the index, the greater the level of body fat.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "9234c420-52ef-5301-8547-f5e63b094573",
+        "name": "kg/m²",
+        "main_symbol": "kg/m²"
+    }
+}

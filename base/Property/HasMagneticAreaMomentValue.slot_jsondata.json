@@ -1,0 +1,25 @@
+{
+    "uuid": "a95d479c-299e-5c3c-b3f0-66879f120460",
+    "name": "HasMagneticAreaMomentValue",
+    "label": [
+        {
+            "text": "Magnetic Area Moment",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Magnetic Area Moment\", for a magnetic dipole, is a vector quantity equal to the product of the current, the loop area, and the unit vector normal to the loop plane, the direction of which corresponds to the loop orientation. \"Magnetic Area Moment\" is also referred to as \"Magnetic Moment\".",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "61ac7092-c125-5292-9e15-a54955b6db81",
+        "name": "J/T",
+        "main_symbol": "J/T"
+    }
+}

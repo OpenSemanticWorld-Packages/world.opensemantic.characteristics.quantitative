@@ -1,0 +1,25 @@
+{
+    "uuid": "150d5230-00d2-5526-b250-a252143df56e",
+    "name": "HasLuminousEnergyValue",
+    "label": [
+        {
+            "text": "Luminous Energy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Luminous Energy is the perceived energy of light. This is sometimes also called the quantity of light.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "ccf4b1c7-ec1e-5418-ba42-4653f2fb779d",
+        "name": "lm·s",
+        "main_symbol": "lm·s"
+    }
+}

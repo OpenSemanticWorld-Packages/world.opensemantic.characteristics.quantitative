@@ -1,0 +1,22 @@
+{
+    "uuid": "f75fadf3-4d8f-5ef3-9cff-05294b87dc12",
+    "name": "HasMagneticQuantumNumberValue",
+    "label": [
+        {
+            "text": "Magnetic Quantum Number",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Magnetic Quantum Number\" describes the specific orbital (or \"cloud\") within that subshell, and yields the projection of the orbital angular momentum along a specified axis.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasQuantumNumberValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

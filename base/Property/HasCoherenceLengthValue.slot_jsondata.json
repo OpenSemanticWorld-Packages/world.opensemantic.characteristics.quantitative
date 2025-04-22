@@ -1,0 +1,22 @@
+{
+    "uuid": "e5c9df38-e174-5fee-93b3-f70db91eea96",
+    "name": "HasCoherenceLengthValue",
+    "label": [
+        {
+            "text": "Coherence Length",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Coherence Length\" characterizes the distance in a superconductor over which the effect of a perturbation is appreciable.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

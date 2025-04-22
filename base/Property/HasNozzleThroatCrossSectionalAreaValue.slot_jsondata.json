@@ -1,0 +1,22 @@
+{
+    "uuid": "939a662d-73f3-51e3-ba3b-6022a61d46d3",
+    "name": "HasNozzleThroatCrossSectionalAreaValue",
+    "label": [
+        {
+            "text": "Nozzle Throat Cross-sectional Area",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Cross-sectional area of the nozzle at the throat.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasAreaValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasAreaValue"
+}

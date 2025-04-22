@@ -1,0 +1,19 @@
+{
+    "uuid": "13d15b75-9ed1-5282-88b5-95d19cc571e3",
+    "name": "HasTemperaturePerMagneticFluxDensityValue",
+    "label": [
+        {
+            "text": "Temperature per Magnetic Flux Density",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "f4c64450-9b23-5b77-8120-4f016306b859",
+        "name": "K/T",
+        "main_symbol": "K/T"
+    }
+}

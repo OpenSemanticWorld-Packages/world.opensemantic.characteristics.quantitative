@@ -1,0 +1,22 @@
+{
+    "uuid": "f462ccb3-0d45-5443-b983-dfcc73a8b256",
+    "name": "HasAngularDistanceValue",
+    "label": [
+        {
+            "text": "Angular Distance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Angular distance travelled by orbiting vehicle measured from the azimuth of closest approach.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasAngleValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

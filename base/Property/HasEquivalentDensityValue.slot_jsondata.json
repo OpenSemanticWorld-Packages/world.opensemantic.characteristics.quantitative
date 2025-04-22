@@ -1,0 +1,22 @@
+{
+    "uuid": "89c3b715-a858-550a-8f92-1f8738fa9636",
+    "name": "HasEquivalentDensityValue",
+    "label": [
+        {
+            "text": "Equivalent Density",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Equivalent Density\" is the mass of a substance that reacts with (or is equivalent to) an arbitrary mass of \nanother substance in a given chemical reaction, per volume.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDensityValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDensityValue"
+}

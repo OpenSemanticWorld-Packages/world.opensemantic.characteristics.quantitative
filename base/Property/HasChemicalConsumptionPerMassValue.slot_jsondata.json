@@ -1,0 +1,22 @@
+{
+    "uuid": "726f384b-a2e7-5f2a-a027-6c781825f610",
+    "name": "HasChemicalConsumptionPerMassValue",
+    "label": [
+        {
+            "text": "Chemical Consumption per Mass",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In the context of a chemical durability test, this is measure of how much of a solution (often a corrosive or reactive one) is consumed or used up per unit mass of a material being tested. In other words, this the volume of solution needed to cause a certain level of chemical reaction or damage to a given mass of the material.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasSpecificVolumeValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasSpecificVolumeValue"
+}

@@ -1,0 +1,75 @@
+{
+    "uuid": "1b757112-572d-5e16-8770-a0180c32169b",
+    "name": "HasElectrolyticConductivityValue",
+    "label": [
+        {
+            "text": "Electrolytic Conductivity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Electrolytic Conductivity\" of an electrolyte solution is a measure of its ability to conduct electricity.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "5e024994-a121-5292-bd54-e5315657b959",
+        "name": "S/m",
+        "main_symbol": "S/m"
+    },
+    "additional_units": [
+        {
+            "uuid": "d022f8f2-7f3d-545a-a349-adab87e237a5",
+            "name": "pS/m",
+            "main_symbol": "pS/m",
+            "conversion_factor_to_main_unit": "1000000000000.0"
+        },
+        {
+            "uuid": "8e877e4e-cd77-591e-881a-d32287232464",
+            "name": "mS/m",
+            "main_symbol": "mS/m",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "7732d14c-0f9c-56d2-a084-00a57096c388",
+            "name": "nS/m",
+            "main_symbol": "nS/m",
+            "conversion_factor_to_main_unit": "1000000000.0"
+        },
+        {
+            "uuid": "45836c06-3e69-5c1c-bfb8-c2c5efa6f933",
+            "name": "MS/m",
+            "main_symbol": "MS/m",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "bea8fef6-5cf8-59f8-9787-57561bd740df",
+            "name": "μS/m",
+            "main_symbol": "μS/m",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "150f571b-3ed7-5d0f-9355-9d74c80424cb",
+            "name": "S/cm",
+            "main_symbol": "S/cm",
+            "conversion_factor_to_main_unit": "0.01"
+        },
+        {
+            "uuid": "a2356955-a178-5509-9151-62a20b3d70bd",
+            "name": "kS/m",
+            "main_symbol": "kS/m",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "aeb8f7e2-f861-55f3-aa39-2a76d181cb49",
+            "name": "dS/m",
+            "main_symbol": "dS/m",
+            "conversion_factor_to_main_unit": "10.0"
+        }
+    ]
+}

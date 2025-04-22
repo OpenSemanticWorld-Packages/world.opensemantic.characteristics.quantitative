@@ -1,0 +1,29 @@
+{
+    "uuid": "540fd008-9630-506d-b7c6-da1c15dae296",
+    "name": "HasMassValue",
+    "label": [
+        {
+            "text": "Mass",
+            "lang": "en"
+        },
+        {
+            "text": "Masse",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "In physics, mass, more specifically inertial mass, can be defined as a quantitative measure of an object's resistance to acceleration. The SI unit of mass is the kilogram ($kg$)",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "e9f2830d-b4d4-5b7f-bd14-b434688b8745",
+        "name": "kg",
+        "main_symbol": "kg"
+    }
+}

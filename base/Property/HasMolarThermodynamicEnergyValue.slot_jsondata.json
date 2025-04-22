@@ -1,0 +1,22 @@
+{
+    "uuid": "ca97e2c6-aa46-5e2f-9f65-fe26c2cacb4f",
+    "name": "HasMolarThermodynamicEnergyValue",
+    "label": [
+        {
+            "text": "Molar thermodynamic energy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "auf die Stoffmenge bezogene Energie",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasMolarEnergyValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasMolarEnergyValue"
+}

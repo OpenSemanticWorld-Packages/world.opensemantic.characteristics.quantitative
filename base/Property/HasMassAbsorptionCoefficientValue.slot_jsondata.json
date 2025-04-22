@@ -1,0 +1,25 @@
+{
+    "uuid": "ba45e23e-c220-52e1-9795-30e68ab166fd",
+    "name": "HasMassAbsorptionCoefficientValue",
+    "label": [
+        {
+            "text": "Mass Absorption Coefficient",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The mass absorption coefficient is the linear absorption coefficient divided by the density of the absorber.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "d9e3cf43-4e8d-5462-b01c-c1151b969109",
+        "name": "m²/kg",
+        "main_symbol": "m²/kg"
+    }
+}

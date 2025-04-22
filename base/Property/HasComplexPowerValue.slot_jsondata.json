@@ -1,0 +1,22 @@
+{
+    "uuid": "dbc25c7d-6ff7-5831-ac5b-3cd36007832b",
+    "name": "HasComplexPowerValue",
+    "label": [
+        {
+            "text": "Complex Power",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Complex Power}$, under sinusoidal conditions,\n   is the product of the phasor $\\mathbf{U}$ representing the voltage between the terminals of a linear two-terminal element,\n   or two-terminal circuit and the complex conjugate of the phasor $I$ representing the electric current in the element or circuit.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasElectricPowerValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasPowerValue"
+}

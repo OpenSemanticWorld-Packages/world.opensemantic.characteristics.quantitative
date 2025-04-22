@@ -1,0 +1,16 @@
+{
+    "uuid": "e575fd79-0068-5f53-ab57-9ba89c8e670b",
+    "name": "HasStageStructureMassValue",
+    "label": [
+        {
+            "text": "Stage Structure Mass",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasMassValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasMassValue"
+}

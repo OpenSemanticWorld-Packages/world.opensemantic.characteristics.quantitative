@@ -1,0 +1,22 @@
+{
+    "uuid": "74433ea8-6819-5fb9-bde0-14451188568b",
+    "name": "HasInertMassValue",
+    "label": [
+        {
+            "text": "Inert Mass",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The sum of the vehicle dry mass, residual fluids and gasses, personnel and personnel provisions, and cargo.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasMassValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasMassValue"
+}

@@ -1,0 +1,25 @@
+{
+    "uuid": "49f9bb65-217b-59ea-bcd7-f3e2ff54df33",
+    "name": "HasThermalInsulanceValue",
+    "label": [
+        {
+            "text": "Thermal Insulance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Thermal Insulance}$ is the reduction of heat transfer (the transfer of thermal energy between objects of differing temperature) between objects in thermal contact or in range of radiative influence. In building technology, this quantity is often called $\\textit{Thermal Resistance}$, with the symbol $R$.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "356b39e9-e01b-5e88-88fa-bf6ee17b0333",
+        "name": "m²·K/W",
+        "main_symbol": "m²·K/W"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "uuid": "c28b7029-6d61-543b-b6eb-a9c57d0325f0",
+    "name": "HasIlluminanceValue",
+    "label": [
+        {
+            "text": "Illuminance",
+            "lang": "en"
+        },
+        {
+            "text": "Beleuchtungsstärke",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Illuminance is the total luminous flux incident on a surface, per unit area. It is a measure of the intensity of the incident light, wavelength-weighted by the luminosity function to correlate with human brightness perception.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLuminousFluxPerAreaValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLuminousFluxPerAreaValue"
+}

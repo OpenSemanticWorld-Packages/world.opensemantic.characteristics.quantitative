@@ -1,0 +1,25 @@
+{
+    "uuid": "b089f9b2-eb21-5b62-bdaf-c428e1c463d6",
+    "name": "HasLuminousEfficacyValue",
+    "label": [
+        {
+            "text": "Luminous Efficacy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Luminous Efficacy is the ratio of luminous flux (in lumens) to power (usually measured in watts). Depending on context, the power can be either the radiant flux of the source's output, or it can be the total electric power consumed by the source.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "3c49dd3f-cd5d-55e3-b148-f95cab9bc72a",
+        "name": "lm/W",
+        "main_symbol": "lm/W"
+    }
+}

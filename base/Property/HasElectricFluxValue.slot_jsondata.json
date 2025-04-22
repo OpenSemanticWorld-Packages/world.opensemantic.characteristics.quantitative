@@ -1,0 +1,25 @@
+{
+    "uuid": "069644ea-14de-5b89-afe5-259c16e74c11",
+    "name": "HasElectricFluxValue",
+    "label": [
+        {
+            "text": "Electric Flux",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Electric Flux\" through an area is defined as the electric field multiplied by the area of the surface projected in a plane perpendicular to the field. Electric Flux is a scalar-valued quantity.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "62ed5927-c3c6-55e7-b13e-d33b710045e3",
+        "name": "V·m",
+        "main_symbol": "V·m"
+    }
+}

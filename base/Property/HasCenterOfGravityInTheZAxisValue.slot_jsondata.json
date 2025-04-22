@@ -1,0 +1,16 @@
+{
+    "uuid": "1913ceb2-6476-561a-b08d-7d72f8a79f4f",
+    "name": "HasCenterOfGravityInTheZAxisValue",
+    "label": [
+        {
+            "text": "Center of Gravity in the Z axis",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

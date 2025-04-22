@@ -1,0 +1,22 @@
+{
+    "uuid": "64bd4937-6848-53f9-98a5-316b90377f50",
+    "name": "HasPopulationValue",
+    "label": [
+        {
+            "text": "Population",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Population typically refers to the number of people in a single area, whether it be a city or town, region, country, continent, or the world, but can also represent the number of any kind of entity.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasCountValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

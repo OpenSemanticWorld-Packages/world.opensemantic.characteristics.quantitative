@@ -1,0 +1,22 @@
+{
+    "uuid": "37204e2c-5dfd-5178-838b-542e4b3bef37",
+    "name": "HasEnergyImpartedValue",
+    "label": [
+        {
+            "text": "Energy Imparted",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Energy Imparted\", is a physical quantity associated with the energy delivered to a particular volume of matter by all the directly and indirectly ionizing particles (i.e. charged and uncharged) entering that volume.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasEnergyValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasEnergyValue"
+}

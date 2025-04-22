@@ -1,0 +1,25 @@
+{
+    "uuid": "a31637e9-09cf-52b0-a959-f41400f4ffa3",
+    "name": "HasVolumetricFluxValue",
+    "label": [
+        {
+            "text": "Volumetric Flux",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In fluid dynamics, the volumetric flux is the rate of volume flow across a unit area (m3·s−1·m−2).[Wikipedia]",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "62f4ae36-72bf-5056-ad51-cef3c76a485e",
+        "name": "mL/(cm²·min)",
+        "main_symbol": "mL/(cm²·min)"
+    }
+}

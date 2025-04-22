@@ -1,0 +1,22 @@
+{
+    "uuid": "fcbf3874-f636-506f-8d71-c307adaa8bcc",
+    "name": "HasEffectiveMassValue",
+    "label": [
+        {
+            "text": "Effective Mass",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Effective Mass\" is used in the motional equation for electrons in solid state bodies, depending on the wavenumber and corresponding to its velocity and energy level.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasMassValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasMassValue"
+}

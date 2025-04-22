@@ -1,0 +1,22 @@
+{
+    "uuid": "09b4bc4e-b5bf-5807-9bc3-fd72ddbca74c",
+    "name": "HasPositionVectorValue",
+    "label": [
+        {
+            "text": "Position Vector",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A \"Position Vector\", also known as location vector or radius vector, is a Euclidean vector which represents the position of a point P in space in relation to an arbitrary reference origin O.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

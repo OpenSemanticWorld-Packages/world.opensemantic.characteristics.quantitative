@@ -1,0 +1,33 @@
+{
+    "uuid": "ce9f9fe7-4632-5525-a777-672deb072af0",
+    "name": "HasElectromagneticEnergyDensityValue",
+    "label": [
+        {
+            "text": "Electromagnetic Energy Density",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Electromagnetic Energy Density}$, also known as the $\\color{indigo} {\\text{Volumic Electromagnetic Energy}}$, is the energy associated with an electromagnetic field, per unit volume of the field.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "0914f4be-da11-5aa4-a4b8-84b8bea9de38",
+        "name": "J/m³",
+        "main_symbol": "J/m³"
+    },
+    "additional_units": [
+        {
+            "uuid": "e18e8b39-8d84-580b-b9cd-4f1897ad8a6f",
+            "name": "MJ/m³",
+            "main_symbol": "MJ/m³",
+            "conversion_factor_to_main_unit": "1e-06"
+        }
+    ]
+}

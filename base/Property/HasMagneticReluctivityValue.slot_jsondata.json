@@ -1,0 +1,25 @@
+{
+    "uuid": "85d001a9-cb43-5b95-9e95-e8dce31791e2",
+    "name": "HasMagneticReluctivityValue",
+    "label": [
+        {
+            "text": "Magnetic Reluctivity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Length Per Unit Magnetic Flux is the the resistance of a material to the establishment of a magnetic field in it. It is the reciprocal of Magnetic Permeability, the inverse of the measure of the ability of a material to support the formation of a magnetic field within itself.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "6f53b54b-3d90-5b9a-8056-718e318f603a",
+        "name": "1/(T·m)",
+        "main_symbol": "1/(T·m)"
+    }
+}

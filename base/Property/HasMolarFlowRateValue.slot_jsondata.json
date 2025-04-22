@@ -1,0 +1,39 @@
+{
+    "uuid": "b32315a0-0c56-509a-8149-a447bc5da106",
+    "name": "HasMolarFlowRateValue",
+    "label": [
+        {
+            "text": "Molar Flow Rate",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Molar Flow Rate is a measure of the amount of substance (the number of molecules) that passes through a given area perpendicular to the flow in a given time. Typically this area is constrained, for example a section through a pipe, but it could also apply to an open flow.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "30bcc3be-dcc2-54e7-90cb-558ebcc6ad7e",
+        "name": "mol/s",
+        "main_symbol": "mol/s"
+    },
+    "additional_units": [
+        {
+            "uuid": "ea745027-5fdd-501a-976c-560e24ef4db4",
+            "name": "μmol/s",
+            "main_symbol": "μmol/s",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "f34f1253-1670-592c-a19a-69df946d3a8f",
+            "name": "kmol/s",
+            "main_symbol": "kmol/s",
+            "conversion_factor_to_main_unit": "0.001"
+        }
+    ]
+}

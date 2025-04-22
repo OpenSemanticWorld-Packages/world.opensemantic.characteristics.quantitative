@@ -1,0 +1,22 @@
+{
+    "uuid": "35a872c0-aa44-52a0-9069-dd0a818c1766",
+    "name": "HasSoundPressureValue",
+    "label": [
+        {
+            "text": "Sound pressure",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Sound Pressure is the difference between instantaneous total pressure and static pressure.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasPressureValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasForcePerAreaValue"
+}

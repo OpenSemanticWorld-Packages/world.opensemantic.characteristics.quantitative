@@ -1,0 +1,19 @@
+{
+    "uuid": "b7ca02c9-04a9-51d1-bbe3-d1ee475fe2f0",
+    "name": "HasMassPerTimeValue",
+    "label": [
+        {
+            "text": "Mass per Time",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "720b9632-82bf-55b7-b00b-887424160aca",
+        "name": "N·s/m",
+        "main_symbol": "N·s/m"
+    }
+}

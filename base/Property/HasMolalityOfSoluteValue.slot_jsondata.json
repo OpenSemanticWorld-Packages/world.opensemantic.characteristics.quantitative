@@ -1,0 +1,22 @@
+{
+    "uuid": "37aa6de5-51d7-5dbd-816e-19da022c8406",
+    "name": "HasMolalityOfSoluteValue",
+    "label": [
+        {
+            "text": "Molality of Solute",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Molality of Solute\" of a solution is defined as the amount of substance of solute divided by the mass in kg of the solvent.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasAmountOfSubstancePerMassValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasAmountOfSubstancePerMassValue"
+}

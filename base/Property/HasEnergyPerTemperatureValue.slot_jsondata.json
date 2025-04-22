@@ -1,0 +1,33 @@
+{
+    "uuid": "4fc1ceaa-b4d6-5dbb-87ec-856aa202b526",
+    "name": "HasEnergyPerTemperatureValue",
+    "label": [
+        {
+            "text": "Energy per temperature",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "9ee66572-78de-55f7-91f2-c7171329426d",
+        "name": "J/K",
+        "main_symbol": "J/K"
+    },
+    "additional_units": [
+        {
+            "uuid": "30360d32-8603-51a2-a907-7520ff41af26",
+            "name": "kJ/K",
+            "main_symbol": "kJ/K",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "9bcb9c51-2e6e-5fc2-8bd7-9b220e5807e4",
+            "name": "MJ/K",
+            "main_symbol": "MJ/K",
+            "conversion_factor_to_main_unit": "1e-06"
+        }
+    ]
+}

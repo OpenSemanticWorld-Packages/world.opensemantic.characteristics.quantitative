@@ -1,0 +1,29 @@
+{
+    "uuid": "3776885b-eac1-5c66-8928-f30900d96a48",
+    "name": "HasAngularFrequencyValue",
+    "label": [
+        {
+            "text": "Angular frequency",
+            "lang": "en"
+        },
+        {
+            "text": "Kreisfrequenz",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Angular frequency\", symbol $\\omega$ (also referred to by the terms angular speed, radial frequency, circular frequency, orbital frequency, radian frequency, and pulsatance) is a scalar measure of rotation rate. Angular frequency (or angular speed) is the magnitude of the vector quantity angular velocity.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "d677f1d6-34e6-58f0-8126-b07c4bbcbc8e",
+        "name": "rad/s",
+        "main_symbol": "rad/s"
+    }
+}

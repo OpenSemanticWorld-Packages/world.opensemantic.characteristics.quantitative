@@ -1,0 +1,29 @@
+{
+    "uuid": "ba6d6658-0beb-5e90-a0d1-949efb88f3f6",
+    "name": "HasTorsionalSpringConstantValue",
+    "label": [
+        {
+            "text": "Torsional spring constant",
+            "lang": "en"
+        },
+        {
+            "text": "Federkonstante Drehfeder",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "A torsional spring constant is a measure of the stiffness of a torsional spring, which is a type of spring that experiences twisting or torque rather than compression or extension. It is typically measured in newton-meters per radian (N·m/rad) and is used to calculate the amount of torque required to twist a spring a certain amount. It is related to the spring's geometry, material properties, and manufacturing process. #,#Quotient Drehmoment zur elastischen Verformung einer Drehfeder durch den zugehörigen Drehwinkel",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "1f922ac3-6714-57c1-b622-e396050f3427",
+        "name": "N·m/rad",
+        "main_symbol": "N·m/rad"
+    }
+}

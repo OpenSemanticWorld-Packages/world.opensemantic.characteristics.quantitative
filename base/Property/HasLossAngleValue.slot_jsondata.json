@@ -1,0 +1,16 @@
+{
+    "uuid": "f4f6bfc7-be06-52f8-bc66-a7e655e97a95",
+    "name": "HasLossAngleValue",
+    "label": [
+        {
+            "text": "Loss Angle",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasAngleValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

@@ -1,0 +1,26 @@
+{
+    "uuid": "02a9873a-9479-5438-951f-c380778037a1",
+    "name": "HasWavenumberValue",
+    "label": [
+        {
+            "text": "Wavenumber",
+            "lang": "en"
+        },
+        {
+            "text": "Repetenz",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Wavenumber\" is the spatial frequency of a wave - the number of waves that exist over a specified distance. More formally, it is the reciprocal of the wavelength. It is also the magnitude of the wave vector. Light passing through different media keeps its frequency, but not its wavelength or wavenumber. The unit for wavenumber commonly used in spectroscopy is centimetre to power minus one, PER-CM, rather than metre to power minus one, PER-M.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasInverseLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasInverseLengthValue"
+}

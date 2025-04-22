@@ -1,0 +1,26 @@
+{
+    "uuid": "a489c33f-9da6-522c-9822-d84b58284824",
+    "name": "HasWeightValue",
+    "label": [
+        {
+            "text": "Weight",
+            "lang": "en"
+        },
+        {
+            "text": "Gewicht",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The force with which a body is attracted toward an astronomical body.  Or, the product of the mass of a body and the acceleration acting on a body.  In a dynamic situation, the weight can be a multiple of that under resting conditions. Weight also varies on other planets in accordance with their gravity.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasForceValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasForceValue"
+}

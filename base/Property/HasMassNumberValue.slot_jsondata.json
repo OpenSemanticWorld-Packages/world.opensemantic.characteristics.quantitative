@@ -1,0 +1,22 @@
+{
+    "uuid": "8f87ddb2-6436-5301-a3fd-b39e6b47032a",
+    "name": "HasMassNumberValue",
+    "label": [
+        {
+            "text": "Mass Number",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Mass Number\" (A), also called atomic mass number or nucleon number, is the total number of protons and neutrons (together known as nucleons) in an atomic nucleus. Nuclides with the same value of $A$ are called isobars.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasCountValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

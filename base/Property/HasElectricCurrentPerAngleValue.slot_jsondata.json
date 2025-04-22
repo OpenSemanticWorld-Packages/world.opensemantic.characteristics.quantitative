@@ -1,0 +1,19 @@
+{
+    "uuid": "851f9caa-0478-5aca-bdd6-f15ab13fe680",
+    "name": "HasElectricCurrentPerAngleValue",
+    "label": [
+        {
+            "text": "Electric Current per Angle",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "f24135cf-0fdb-5da7-844e-d75aa3a9675b",
+        "name": "A/rad",
+        "main_symbol": "A/rad"
+    }
+}

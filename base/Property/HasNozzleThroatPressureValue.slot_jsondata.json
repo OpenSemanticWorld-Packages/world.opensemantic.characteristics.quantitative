@@ -1,0 +1,16 @@
+{
+    "uuid": "af18a73a-29be-51fd-8dca-9079100eef15",
+    "name": "HasNozzleThroatPressureValue",
+    "label": [
+        {
+            "text": "Nozzle Throat Pressure",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasPressureValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasForcePerAreaValue"
+}

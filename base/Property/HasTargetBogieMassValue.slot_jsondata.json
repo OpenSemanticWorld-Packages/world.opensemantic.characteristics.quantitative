@@ -1,0 +1,22 @@
+{
+    "uuid": "435dd8a4-dde5-51af-8d50-832c66754df7",
+    "name": "HasTargetBogieMassValue",
+    "label": [
+        {
+            "text": "Target Bogie Mass",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "An informal mass limit established by a Project Office (at the Element Integrated Product Team (IPT) level or below) to control mass.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasMassValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasMassValue"
+}

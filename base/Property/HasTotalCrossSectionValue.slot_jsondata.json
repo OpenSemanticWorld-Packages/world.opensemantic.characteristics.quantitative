@@ -1,0 +1,22 @@
+{
+    "uuid": "3c033d15-800f-58ad-8361-dc8e1bbe96f0",
+    "name": "HasTotalCrossSectionValue",
+    "label": [
+        {
+            "text": "Total Cross-section",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Total Cross-section\" is related to the absorbance of the light intensity through Beer-Lambert's law. It is the sum of all cross-sections corresponding to the various reactions or processes between an incident particle of specified type and energy and a target particle.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasCrossSectionValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasAreaValue"
+}

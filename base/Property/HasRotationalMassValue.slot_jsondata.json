@@ -1,0 +1,25 @@
+{
+    "uuid": "8f28817a-c3cb-59f8-bd39-b35be004d228",
+    "name": "HasRotationalMassValue",
+    "label": [
+        {
+            "text": "Rotational Mass",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Rotational Mass\" denotes the inertia of a body with respect to angular acceleration. It is usually measured in kg*m^2.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "809a0dba-be1f-5567-8307-5dd4631e2624",
+        "name": "kg·m²",
+        "main_symbol": "kg·m²"
+    }
+}

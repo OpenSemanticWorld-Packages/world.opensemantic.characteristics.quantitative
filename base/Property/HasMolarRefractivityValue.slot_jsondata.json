@@ -1,0 +1,39 @@
+{
+    "uuid": "5bd29061-b75e-59cf-b0fe-ab11f279c819",
+    "name": "HasMolarRefractivityValue",
+    "label": [
+        {
+            "text": "Molar Refractivity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A quantity kind that is a measure of the total polarizability of a mole of substance that depends on the temperature, the index of refraction and the pressure.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "da83f5fb-f796-5e59-b032-9de9e729882f",
+        "name": "m³/mol",
+        "main_symbol": "m³/mol"
+    },
+    "additional_units": [
+        {
+            "uuid": "3e68b0c2-0124-5e30-80df-0060b61c7866",
+            "name": "dm³/mol",
+            "main_symbol": "dm³/mol",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "d045ab9a-7df0-5172-9a28-e3b1f7820b07",
+            "name": "cm³/mol",
+            "main_symbol": "cm³/mol",
+            "conversion_factor_to_main_unit": "1000000.0"
+        }
+    ]
+}

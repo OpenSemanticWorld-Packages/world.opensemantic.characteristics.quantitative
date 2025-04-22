@@ -1,0 +1,22 @@
+{
+    "uuid": "043be685-48d2-5f0f-8836-9bcfb95538f3",
+    "name": "HasSlowingDownAreaValue",
+    "label": [
+        {
+            "text": "Slowing-Down Area",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Slowing-Down Area\" in an infinite homogenous medium, is one-sixth of the mean square distance between the neutron source and the point where a neutron reaches a given energy.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasAreaValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasAreaValue"
+}

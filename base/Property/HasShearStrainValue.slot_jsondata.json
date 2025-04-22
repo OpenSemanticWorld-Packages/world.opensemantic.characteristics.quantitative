@@ -1,0 +1,22 @@
+{
+    "uuid": "c9905f13-aee2-5c4c-9e91-10ddca8933e4",
+    "name": "HasShearStrainValue",
+    "label": [
+        {
+            "text": "Shear Strain",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Shear Strain is the amount of deformation perpendicular to a given line rather than parallel to it.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasStrainValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

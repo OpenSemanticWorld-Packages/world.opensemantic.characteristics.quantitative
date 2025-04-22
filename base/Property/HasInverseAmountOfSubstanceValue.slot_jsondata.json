@@ -1,0 +1,19 @@
+{
+    "uuid": "77c93155-fdc8-5098-a537-14528a236627",
+    "name": "HasInverseAmountOfSubstanceValue",
+    "label": [
+        {
+            "text": "Inverse amount of substance",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "17c7404e-0c8a-551d-bb25-34367d55c47c",
+        "name": "1/mol",
+        "main_symbol": "1/mol"
+    }
+}

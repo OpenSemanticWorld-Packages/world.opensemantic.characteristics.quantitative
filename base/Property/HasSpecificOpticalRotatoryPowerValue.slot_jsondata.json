@@ -1,0 +1,25 @@
+{
+    "uuid": "fe865001-28a4-5c32-a6a8-2cfbc2ae7843",
+    "name": "HasSpecificOpticalRotatoryPowerValue",
+    "label": [
+        {
+            "text": "Specific Optical Rotatory Power",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Specific Optical Rotatory Power\" Angle of optical rotation divided by the optical path length through the medium and by the mass concentration of the substance giving the specific optical rotatory power.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "a912dd5f-1a5e-5631-9016-ee882c012583",
+        "name": "rad·m²/kg",
+        "main_symbol": "rad·m²/kg"
+    }
+}

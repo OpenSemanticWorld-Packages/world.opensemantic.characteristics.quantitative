@@ -1,0 +1,22 @@
+{
+    "uuid": "21efa5ed-10e4-59be-85e1-60dc06e18164",
+    "name": "HasRadialDistanceValue",
+    "label": [
+        {
+            "text": "Radial Distance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In classical geometry, the \"Radial Distance\" is a coordinate in polar coordinate systems (r, $\\theta$). Basically the radial distance is the scalar Euclidean distance between a point and the origin of the system of coordinates.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

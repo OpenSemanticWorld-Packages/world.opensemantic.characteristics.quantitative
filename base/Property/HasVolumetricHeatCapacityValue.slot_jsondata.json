@@ -1,0 +1,33 @@
+{
+    "uuid": "aabbec74-1d8d-574c-aa01-73565b4a2b3d",
+    "name": "HasVolumetricHeatCapacityValue",
+    "label": [
+        {
+            "text": "Volumetric Heat Capacity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Volumetric Heat Capacity (VHC)}$, also termed $\\textit{volume-specific heat capacity}$, describes the ability of a given volume of a substance to store internal energy while undergoing a given temperature change, but without undergoing a phase transition. It is different from specific heat capacity in that the VHC is a $\\textit{per unit volume}$ measure of the relationship between thermal energy and temperature of a material, while the specific heat is a $\\textit{per unit mass}$ measure (or occasionally per molar quantity of the material).",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "9be12d50-9e56-5046-b380-7453598a19f7",
+        "name": "J/(m³·K)",
+        "main_symbol": "J/(m³·K)"
+    },
+    "additional_units": [
+        {
+            "uuid": "87b869db-0d9b-52d9-8520-399da180fb69",
+            "name": "J/(cm³·K)",
+            "main_symbol": "J/(cm³·K)",
+            "conversion_factor_to_main_unit": "1e-06"
+        }
+    ]
+}

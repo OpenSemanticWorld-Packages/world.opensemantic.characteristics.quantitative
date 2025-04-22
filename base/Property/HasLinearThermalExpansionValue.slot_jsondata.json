@@ -1,0 +1,45 @@
+{
+    "uuid": "24835ab7-a21e-5b5e-a041-a2839691c147",
+    "name": "HasLinearThermalExpansionValue",
+    "label": [
+        {
+            "text": "Linear Thermal Expansion",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "When the temperature of a substance changes, the energy that is stored in the intermolecular bonds between atoms changes. When the stored energy increases, so does the length of the molecular bonds. As a result, solids typically expand in response to heating and contract on cooling; this dimensional response to temperature change is expressed by its coefficient of thermal expansion. Different coefficients of thermal expansion can be defined for a substance depending on whether the expansion is measured by: linear thermal expansion, area thermal expansion, or volumetric thermal expansion.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "d972a69d-5234-548b-ac97-a3a03f7d2507",
+        "name": "m/K",
+        "main_symbol": "m/K"
+    },
+    "additional_units": [
+        {
+            "uuid": "243414ad-7234-5d06-a37f-bc2f57bf33c5",
+            "name": "μm/K",
+            "main_symbol": "μm/K",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "fbdbddd7-9a5b-595b-8026-ea18a4472b3f",
+            "name": "cm/K",
+            "main_symbol": "cm/K",
+            "conversion_factor_to_main_unit": "100.0"
+        },
+        {
+            "uuid": "dff0d74e-8910-5d9e-bb7b-57f0bd7343b0",
+            "name": "mm/K",
+            "main_symbol": "mm/K",
+            "conversion_factor_to_main_unit": "1000.0"
+        }
+    ]
+}

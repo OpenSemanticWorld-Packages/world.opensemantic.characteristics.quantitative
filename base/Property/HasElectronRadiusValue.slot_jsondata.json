@@ -1,0 +1,22 @@
+{
+    "uuid": "d68a7a5b-5e0d-5b5b-8081-e6b5a7516e17",
+    "name": "HasElectronRadiusValue",
+    "label": [
+        {
+            "text": "Electron Radius",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Electron Radius\", also known as the Lorentz radius or the Thomson scattering length, is based on a classical (i.e., non-quantum) relativistic model of the electron.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

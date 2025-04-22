@@ -1,0 +1,22 @@
+{
+    "uuid": "210ca9a8-0c47-5cc0-9ad1-0939de80f704",
+    "name": "HasLinkedFluxValue",
+    "label": [
+        {
+            "text": "Linked Flux",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Linked Flux\" is defined as the path integral of the magnetic vector potential. This is the line integral of a magnetic vector potential $A$ along a curve $C$. The line vector element $dr$ is the differential of position vector $r$.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasMagneticFluxValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasMagneticFluxValue"
+}

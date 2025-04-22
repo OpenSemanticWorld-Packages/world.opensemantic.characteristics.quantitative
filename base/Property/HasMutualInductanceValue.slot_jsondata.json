@@ -1,0 +1,22 @@
+{
+    "uuid": "7ad7b0ec-4e58-5dbb-b519-1fed839a8921",
+    "name": "HasMutualInductanceValue",
+    "label": [
+        {
+            "text": "Mutual Inductance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Mutual Inductance}$ is the non-diagonal term of the inductance matrix. For two loops, the symbol $M$ is used for $L_{12}$.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasInductanceValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasInductanceValue"
+}

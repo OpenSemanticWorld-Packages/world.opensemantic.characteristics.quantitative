@@ -1,0 +1,25 @@
+{
+    "uuid": "a0c932f0-7bae-5f65-b1c6-0b92cdd0851f",
+    "name": "HasCatalyticActivityConcentrationValue",
+    "label": [
+        {
+            "text": "Catalytic Activity Concentration",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The catalytic activity of an enzyme per unit volume, where volume refers to that of the original enzyme‐containing preparation, not that of the assay system. It may be expressed in katals per litre.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "62131039-fd7f-5822-891a-34a41b48c3b6",
+        "name": "mol/(m²·m·s)",
+        "main_symbol": "mol/(m²·m·s)"
+    }
+}

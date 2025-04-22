@@ -1,0 +1,29 @@
+{
+    "uuid": "14ee8a32-c2d1-5173-85b2-0838ed81d1a7",
+    "name": "HasMomentumValue",
+    "label": [
+        {
+            "text": "Momentum",
+            "lang": "en"
+        },
+        {
+            "text": "Impuls",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The momentum of a system of particles is given by the sum of the momentums of the individual particles which make up the system or by the product of the total mass of the system and the velocity of the center of gravity of the system. The momentum of a continuous medium is given by the integral of the velocity over the mass of the medium or by the product of the total mass of the medium and the velocity of the center of gravity of the medium.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "534c0c56-78c5-510a-9730-e0a2ac026d41",
+        "name": "N·m·s/m",
+        "main_symbol": "N·m·s/m"
+    }
+}

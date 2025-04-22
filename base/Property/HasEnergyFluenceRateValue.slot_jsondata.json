@@ -1,0 +1,22 @@
+{
+    "uuid": "db0a3448-4401-5517-9f4b-8bf2fd0047a9",
+    "name": "HasEnergyFluenceRateValue",
+    "label": [
+        {
+            "text": "Energy Fluence Rate",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Energy Fluence Rate\" can be used to describe the energy fluence delivered per unit time.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasPowerPerAreaValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasPowerPerAreaValue"
+}

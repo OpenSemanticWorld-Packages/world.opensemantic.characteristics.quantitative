@@ -1,0 +1,22 @@
+{
+    "uuid": "42a8bd94-85f9-5227-ac2a-deacd506c540",
+    "name": "HasCharacteristicNumberValue",
+    "label": [
+        {
+            "text": "Characteristic number",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Größe der Dimension 1 (als Ergebnis der metrisierenden Messtheorie), die Sachverhalte, Zustände oder Entwicklungen verdeutlicht und als Maßstab dient, um z. B. Ursache und Wirkung von Vorgängen in kausalem Zusammenhang darzustellen",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

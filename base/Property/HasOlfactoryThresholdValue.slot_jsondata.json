@@ -1,0 +1,22 @@
+{
+    "uuid": "06d22a5f-a887-5ed1-9965-0eca7dac3b78",
+    "name": "HasOlfactoryThresholdValue",
+    "label": [
+        {
+            "text": "Olfactory Threshold",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Olfactory Threshold\" are thresholds for the concentrations of various classes of smell that can be detected.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasConcentrationValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasConcentrationValue"
+}

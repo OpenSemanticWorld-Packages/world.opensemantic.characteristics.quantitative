@@ -1,0 +1,26 @@
+{
+    "uuid": "f2a92be9-629f-5dc4-92b7-07145316fda9",
+    "name": "HasHeightValue",
+    "label": [
+        {
+            "text": "Height",
+            "lang": "en"
+        },
+        {
+            "text": "Höhe",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Height\" is the measurement of vertical distance, but has two meanings in common use. It can either indicate how \"tall\" something is, or how \"high up\" it is.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

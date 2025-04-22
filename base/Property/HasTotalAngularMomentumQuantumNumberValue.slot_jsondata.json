@@ -1,0 +1,22 @@
+{
+    "uuid": "a1356a9a-05e1-51e1-8fc0-62b5cddf2aa4",
+    "name": "HasTotalAngularMomentumQuantumNumberValue",
+    "label": [
+        {
+            "text": "Total Angular Momentum Quantum Number",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Total Angular Quantum Number\" describes the magnitude of total angular momentum $J$, where $j$ refers to a specific particle and $J$ is used for the whole system.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasQuantumNumberValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

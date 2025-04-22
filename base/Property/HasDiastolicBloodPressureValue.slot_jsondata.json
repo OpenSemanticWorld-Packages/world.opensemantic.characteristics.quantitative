@@ -1,0 +1,22 @@
+{
+    "uuid": "a1da7212-dfb3-5856-9f3c-f0bac737ffe8",
+    "name": "HasDiastolicBloodPressureValue",
+    "label": [
+        {
+            "text": "Diastolic Blood Pressure",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The pressure of blood in the arteries which rises to a maximum as blood is pumped out by the left ventricle (systole) and drops to a minimum in diastole. The systolic/diastolic pressure is normally ~120/80 mmHg in a young adult.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasPressureValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasForcePerAreaValue"
+}

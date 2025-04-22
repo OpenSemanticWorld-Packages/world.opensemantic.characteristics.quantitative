@@ -1,0 +1,22 @@
+{
+    "uuid": "d3f38730-223a-5e8c-a79e-d2f4ad05b05e",
+    "name": "HasStrainEnergyReleaseRateValue",
+    "label": [
+        {
+            "text": "Strain Energy Release Rate",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In fracture mechanics, the energy release rate, G, is the rate at which energy is transformed as a material undergoes fracture. Mathematically, the energy release rate is expressed as the decrease in total potential energy per increase in fracture surface area, and is thus expressed in terms of energy per unit area.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasEnergyPerAreaValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasEnergyPerAreaValue"
+}

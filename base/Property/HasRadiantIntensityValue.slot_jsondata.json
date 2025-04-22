@@ -1,0 +1,25 @@
+{
+    "uuid": "60ef6784-49ba-554d-ad8e-8321dcc43f0b",
+    "name": "HasRadiantIntensityValue",
+    "label": [
+        {
+            "text": "Radiant Intensity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Radiant Intensity is a measure of the intensity of electromagnetic radiation. It is defined as power per unit solid angle.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "149a7d05-4175-52db-93b2-d6e8e8572675",
+        "name": "W/sr",
+        "main_symbol": "W/sr"
+    }
+}

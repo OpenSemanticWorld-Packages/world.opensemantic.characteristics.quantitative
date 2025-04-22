@@ -1,0 +1,22 @@
+{
+    "uuid": "839f0e1d-278e-5caf-b733-97dc81f5c35d",
+    "name": "HasPrevalenceValue",
+    "label": [
+        {
+            "text": "Prevalence",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In epidemiology, prevalence is the proportion of a particular population found to be affected by a medical condition (typically a disease or a risk factor such as smoking or seatbelt use) at a specific time. (Wikipedia)",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessRatioValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

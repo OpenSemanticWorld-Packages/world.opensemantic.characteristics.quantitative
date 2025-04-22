@@ -1,0 +1,26 @@
+{
+    "uuid": "0c4cd1a0-6fe2-5120-90ea-21cd76e390cf",
+    "name": "HasPressureValue",
+    "label": [
+        {
+            "text": "Pressure",
+            "lang": "en"
+        },
+        {
+            "text": "Druck",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Pressure is an effect which occurs when a force is applied on a surface. Pressure is the amount of force acting on a unit area. Pressure is distinct from stress, as the former is the ratio of the component of force normal to a surface to the surface area. Stress is a tensor that relates the vector force to the vector area.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasForcePerAreaValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasForcePerAreaValue"
+}

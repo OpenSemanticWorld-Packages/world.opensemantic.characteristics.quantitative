@@ -1,0 +1,22 @@
+{
+    "uuid": "247bf8d9-7dc0-5d81-b408-2fe22f16143a",
+    "name": "HasVerticalVelocityValue",
+    "label": [
+        {
+            "text": "Vertical Velocity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The rate at which a body moves upwards at an angle of 90 degrees to the ground. It is the component of a projectile's velocity which is concerned with lifting the projectile.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasVelocityValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasVelocityValue"
+}

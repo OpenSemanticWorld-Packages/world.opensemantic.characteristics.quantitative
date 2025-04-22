@@ -1,0 +1,22 @@
+{
+    "uuid": "5103c95b-774f-5927-870b-b2d04ad5250b",
+    "name": "HasBetaDisintegrationEnergyValue",
+    "label": [
+        {
+            "text": "Beta Disintegration Energy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Beta Disintegration Energy\" is the  energy released by a beta particle radioactive decay. It is the sum of the maximum beta-particle kinetic energy and the recoil energy of the atom produced in the reference frame in which the emitting nucleus is at rest before its disintegration.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasEnergyValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasEnergyValue"
+}

@@ -1,0 +1,22 @@
+{
+    "uuid": "b2a5dcc2-190c-5f54-a315-cda4ddbbae76",
+    "name": "HasVorticityValue",
+    "label": [
+        {
+            "text": "Vorticity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In the simplest sense, vorticity is the tendency for elements of a fluid to \"spin.\" More formally, vorticity can be related to the amount of \"circulation\" or \"rotation\" (or more strictly, the local angular rate of rotation) in a fluid. The average vorticity in a small region of fluid flow is equal to the circulation C around the boundary of the small region, divided by the area A of the small region. Mathematically, vorticity is a vector field and is defined as the curl of the velocity field.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasAngularVelocityValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasAngularVelocityValue"
+}

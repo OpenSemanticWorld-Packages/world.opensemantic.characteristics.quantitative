@@ -1,0 +1,22 @@
+{
+    "uuid": "2164a069-70ed-5be0-ad70-3cac193e1e4c",
+    "name": "HasGroupSpeedOfSoundValue",
+    "label": [
+        {
+            "text": "Group Speed of Sound",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In a dispersive medium sound speed is a function of sound frequency, through the dispersion relation. The spatial and temporal distribution of a propagating disturbance will continually change. The group speed of sound describes the propagation of the disturbance.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasSpeedOfSoundValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasSpeedValue"
+}

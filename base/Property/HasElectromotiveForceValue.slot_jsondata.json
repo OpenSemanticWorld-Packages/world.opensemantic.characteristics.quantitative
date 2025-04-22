@@ -1,0 +1,26 @@
+{
+    "uuid": "4f2bdc8b-1209-5f90-bc9c-dbfb76f9dd1b",
+    "name": "HasElectromotiveForceValue",
+    "label": [
+        {
+            "text": "Electromotive force",
+            "lang": "en"
+        },
+        {
+            "text": "Elektromotorische Kraft",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "In physics, $\\textit{Electromotive Force}$, or most commonly $emf$ (seldom capitalized), or (occasionally) electromotance is that which tends to cause current (actual electrons and ions) to flow. \n  More formally, $emf$ is the external work expended per unit of charge to produce an electric potential difference across two open-circuited terminals.\n  $\\textit{Electromotive Force}$ is deprecated in the ISO System of Quantities.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasEnergyPerElectricChargeValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasEnergyPerElectricChargeValue"
+}

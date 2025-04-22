@@ -1,0 +1,22 @@
+{
+    "uuid": "02d5e6e7-17b9-5ee7-8973-7394a567b873",
+    "name": "HasMassicPowerValue",
+    "label": [
+        {
+            "text": "Massic power",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Quotient Energie durch Zeit und durch zugehöriger Masse",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasSpecificPowerValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasSpecificPowerValue"
+}

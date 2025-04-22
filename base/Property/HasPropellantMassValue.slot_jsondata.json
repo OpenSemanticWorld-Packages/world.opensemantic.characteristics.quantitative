@@ -1,0 +1,16 @@
+{
+    "uuid": "22a949d6-590a-5285-bb23-b1dfcc03ed60",
+    "name": "HasPropellantMassValue",
+    "label": [
+        {
+            "text": "Propellant Mass",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasMassValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasMassValue"
+}

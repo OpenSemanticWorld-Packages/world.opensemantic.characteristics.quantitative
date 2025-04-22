@@ -1,0 +1,16 @@
+{
+    "uuid": "32ec6ded-4851-5397-936c-f84d7860a42b",
+    "name": "HasMaximumExpectedOperatingThrustValue",
+    "label": [
+        {
+            "text": "Maximum Expected Operating Thrust",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasMaxOperatingThrustValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasForceValue"
+}

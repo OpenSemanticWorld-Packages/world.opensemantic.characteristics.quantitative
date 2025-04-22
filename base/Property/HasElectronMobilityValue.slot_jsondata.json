@@ -1,0 +1,16 @@
+{
+    "uuid": "94e99b34-f4c1-534c-bf6d-d1d43304c900",
+    "name": "HasElectronMobilityValue",
+    "label": [
+        {
+            "text": "Electron mobility",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasMobilityValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasMobilityValue"
+}

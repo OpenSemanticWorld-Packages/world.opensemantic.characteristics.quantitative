@@ -1,0 +1,25 @@
+{
+    "uuid": "4f295755-4a69-5a19-a884-e1dbb4d018a5",
+    "name": "HasThermalConductivityValue",
+    "label": [
+        {
+            "text": "Thermal Conductivity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In physics, thermal conductivity, $k$ (also denoted as $\\lambda$), is the property of a material's ability to conduct heat. It appears primarily in Fourier's Law for heat conduction and is the areic heat flow rate divided by temperature gradient.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "553a2f24-2f97-5ccb-a484-5b0942a980ba",
+        "name": "W/(m·K)",
+        "main_symbol": "W/(m·K)"
+    }
+}

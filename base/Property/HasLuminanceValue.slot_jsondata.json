@@ -1,0 +1,25 @@
+{
+    "uuid": "2063ea19-5e4b-56f1-97c1-b1d9573650a5",
+    "name": "HasLuminanceValue",
+    "label": [
+        {
+            "text": "Luminance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Luminance is a photometric measure of the luminous intensity per unit area of light travelling in a given direction. It describes the amount of light that passes through or is emitted from a particular area, and falls within a given solid angle.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "68ac24be-a9c2-5765-9d9b-dc1d50d86b51",
+        "name": "cd/m²",
+        "main_symbol": "cd/m²"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "uuid": "1b78b3ef-ebbf-53df-9151-a974467557cd",
+    "name": "HasPowerPerAreaQuarticTemperatureValue",
+    "label": [
+        {
+            "text": "Power per area quartic temperature",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "a16d6c02-5e50-5929-821d-9aeb8d112ed3",
+        "name": "W/(m²·K⁴)",
+        "main_symbol": "W/(m²·K⁴)"
+    }
+}

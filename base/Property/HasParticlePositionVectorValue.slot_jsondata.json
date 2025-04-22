@@ -1,0 +1,22 @@
+{
+    "uuid": "6ec47cfe-7139-5e83-af02-a414131e211c",
+    "name": "HasParticlePositionVectorValue",
+    "label": [
+        {
+            "text": "Particle Position Vector",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Particle Position Vector\" is the position vector of a particle.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

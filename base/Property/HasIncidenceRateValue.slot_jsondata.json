@@ -1,0 +1,22 @@
+{
+    "uuid": "316f55c8-169a-5d7f-8c06-e6ea574368d8",
+    "name": "HasIncidenceRateValue",
+    "label": [
+        {
+            "text": "Incidence Rate",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The incidence rate is a measure of the frequency with which a disease or other incident occurs over a specified time period. It is also known as the incidence density rate or person-time incidence rate, when the denominator is the combined person-time of the population at risk (the sum of the time duration of exposure across all persons exposed)",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasIncidenceValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasFrequencyValue"
+}

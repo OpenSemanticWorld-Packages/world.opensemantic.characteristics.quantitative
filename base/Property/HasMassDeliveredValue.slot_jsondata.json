@@ -1,0 +1,22 @@
+{
+    "uuid": "d42809f3-b040-556e-a59a-a8fd931c795d",
+    "name": "HasMassDeliveredValue",
+    "label": [
+        {
+            "text": "Mass Delivered",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The minimum mass a propulsive system can deliver to a specified target or location. Most mass- delivered requirements have associated Delta-V requirements, effectively specifying the path between the two points.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasMassValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasMassValue"
+}

@@ -1,0 +1,22 @@
+{
+    "uuid": "362e9950-f980-539b-b23c-dfbb78a53bdf",
+    "name": "HasPredictedMassValue",
+    "label": [
+        {
+            "text": "Predicted Mass",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Sum of the basic mass and the MGA. Current prediction of the final mass based on the current requirements and design.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasMassValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasMassValue"
+}

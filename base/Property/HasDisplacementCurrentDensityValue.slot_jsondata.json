@@ -1,0 +1,51 @@
+{
+    "uuid": "8a45c656-2f0f-5d6b-8cca-d507c237b71b",
+    "name": "HasDisplacementCurrentDensityValue",
+    "label": [
+        {
+            "text": "Displacement Current Density",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\text{Displacement Current Density}$ is the time rate of change of the $\\textit{Electric Flux Density}$. \n  This is a measure of how quickly the electric field changes if we observe it as a function of time. \n  This is different than if we look at how the electric field changes spatially, that is, over a region of space for a fixed amount of time.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "40f6cf3e-2793-53b8-92a7-0f65a79d6218",
+        "name": "A/m²",
+        "main_symbol": "A/m²"
+    },
+    "additional_units": [
+        {
+            "uuid": "ecf37e1f-5976-5c8c-b3ca-ab7757e93e56",
+            "name": "MA/m²",
+            "main_symbol": "MA/m²",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "2b72ba73-09c6-5c27-9916-fb291fdfc446",
+            "name": "kA/m²",
+            "main_symbol": "kA/m²",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "058c594b-9885-560c-b78f-19042efcdaf6",
+            "name": "A/mm²",
+            "main_symbol": "A/mm²",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "d7457312-b746-5285-a062-64bf29144411",
+            "name": "A/cm²",
+            "main_symbol": "A/cm²",
+            "conversion_factor_to_main_unit": "0.0001"
+        }
+    ]
+}

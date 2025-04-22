@@ -1,0 +1,22 @@
+{
+    "uuid": "bb679aca-75e7-5c2c-8d01-79b125458190",
+    "name": "HasMassOfTheEarthValue",
+    "label": [
+        {
+            "text": "Mass Of The Earth",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Earth mass is the unit of mass equal to that of the Earth.  Earth mass is often used to describe masses of rocky terrestrial planets.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasMassValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasMassValue"
+}

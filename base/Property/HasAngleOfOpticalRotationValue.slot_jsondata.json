@@ -1,0 +1,22 @@
+{
+    "uuid": "08998627-c875-537f-bd06-9f504ab12b5e",
+    "name": "HasAngleOfOpticalRotationValue",
+    "label": [
+        {
+            "text": "Angle of Optical Rotation",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Angle of Optical Rotation\" is the angle through which plane-polarized light is rotated clockwise, as seen when facing the light source, in passing through an optically active medium.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasAngleValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

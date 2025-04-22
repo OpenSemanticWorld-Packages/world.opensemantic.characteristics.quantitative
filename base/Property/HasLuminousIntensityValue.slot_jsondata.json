@@ -1,0 +1,29 @@
+{
+    "uuid": "b04b7ed3-0f32-596e-938b-dd3a8e324af9",
+    "name": "HasLuminousIntensityValue",
+    "label": [
+        {
+            "text": "Luminous intensity",
+            "lang": "en"
+        },
+        {
+            "text": "Lichtstärke",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Luminous Intensity is a measure of the wavelength-weighted power emitted by a light source in a particular direction per unit solid angle. The weighting is determined by the luminosity function, a standardized model of the sensitivity of the human eye to different wavelengths.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "b2b784e4-8f04-5c8c-864f-2a7bcdd56db2",
+        "name": "cd",
+        "main_symbol": "cd"
+    }
+}

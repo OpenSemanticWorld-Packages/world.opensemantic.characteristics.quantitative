@@ -1,0 +1,25 @@
+{
+    "uuid": "b9a72fbb-7bc3-515e-9495-0113b136055e",
+    "name": "HasElectricChargeLinearDensityValue",
+    "label": [
+        {
+            "text": "Electric Charge Linear Density",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In electromagnetism, charge density is a measure of electric charge per unit volume of space, in one, two or three dimensions. More specifically: the linear, surface, or volume charge density is the amount of electric charge per unit length, surface area, or volume, respectively.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "972a7fd5-8d3e-59b5-872a-cb107231f9aa",
+        "name": "C/m",
+        "main_symbol": "C/m"
+    }
+}

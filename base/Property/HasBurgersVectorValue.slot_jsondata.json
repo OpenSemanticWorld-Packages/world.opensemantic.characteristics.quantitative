@@ -1,0 +1,22 @@
+{
+    "uuid": "0b64f037-ad04-5b33-bffd-822349f1ffd1",
+    "name": "HasBurgersVectorValue",
+    "label": [
+        {
+            "text": "Burgers Vector",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Burgers Vector\" is the vector characterizing a dislocation, i.e. the closing vector in a Burgers circuit encircling a dislocation line.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

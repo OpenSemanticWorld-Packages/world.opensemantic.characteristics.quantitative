@@ -1,0 +1,25 @@
+{
+    "uuid": "81dac9cf-52e8-532a-9f26-b71c8463b1d0",
+    "name": "HasElectricCurrentPerTemperatureValue",
+    "label": [
+        {
+            "text": "Electric Current per Temperature",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Electric Current per Temperature\" is used to express how a current is subject to temperature. Originally used in Wien's Law to describe phenomena related to filaments. One use today is to express how a current generator derates with temperature.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "74d9e0ee-82e7-5201-bb13-7c2a7ded5cf5",
+        "name": "A/°C",
+        "main_symbol": "A/°C"
+    }
+}

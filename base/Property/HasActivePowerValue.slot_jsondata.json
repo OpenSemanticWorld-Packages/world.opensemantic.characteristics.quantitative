@@ -1,0 +1,22 @@
+{
+    "uuid": "3ee70d37-7a79-5dca-94d0-2ffd9910413e",
+    "name": "HasActivePowerValue",
+    "label": [
+        {
+            "text": "Active Power",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "An $Active Power$ is, under periodic conditions, the mean value, taken over one period $T$, of the instantaneous power $p$. \n  In complex notation, $P = \\mathbf{Re} \\; \\underline{S}$, where $\\underline{S}$ is $\\textit{complex power}$.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasComplexPowerValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasPowerValue"
+}

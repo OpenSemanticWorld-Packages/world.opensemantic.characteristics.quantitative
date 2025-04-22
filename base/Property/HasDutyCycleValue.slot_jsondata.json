@@ -1,0 +1,22 @@
+{
+    "uuid": "c3c4648d-a491-567f-a646-7898a3be4c57",
+    "name": "HasDutyCycleValue",
+    "label": [
+        {
+            "text": "Duty Cycle",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A duty cycle or power cycle is the fraction of one period in which a signal or system is active.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessRatioValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

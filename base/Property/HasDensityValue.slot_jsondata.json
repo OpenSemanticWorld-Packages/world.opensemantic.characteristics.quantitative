@@ -1,0 +1,81 @@
+{
+    "uuid": "f3a59a85-c442-54be-b50c-ba2c37ccec80",
+    "name": "HasDensityValue",
+    "label": [
+        {
+            "text": "Density",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The mass density or density of a material is defined as its mass per unit volume. \n  The symbol most often used for density is $\\rho$. \n   Mathematically, density is defined as mass divided by volume: $\\rho = m/V$,\n    where $\\rho$ is the density, $m$ is the mass, and $V$ is the volume. \n    In some cases, density is also defined as its weight per unit volume, although this quantity is more properly called specific weight.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "8c57f4b5-5b8b-5f23-84ec-399dc5f5a1d9",
+        "name": "g/L",
+        "main_symbol": "g/L"
+    },
+    "additional_units": [
+        {
+            "uuid": "9cb87b7d-d93c-5f4a-8597-4db0bf3eb802",
+            "name": "mg/L",
+            "main_symbol": "mg/L",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "6735ce5d-92e1-5696-9a88-0f3d6ca93ded",
+            "name": "μg/L",
+            "main_symbol": "μg/L",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "ad09be31-4425-5102-bcf9-11bba6e023e4",
+            "name": "g/mL",
+            "main_symbol": "g/mL",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "b4dbdd40-b07c-5f15-bda6-d7c3d99e5997",
+            "name": "kg/L",
+            "main_symbol": "kg/L",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "877be685-46ea-54df-9e5d-4b3ac710cd79",
+            "name": "pg/L",
+            "main_symbol": "pg/L",
+            "conversion_factor_to_main_unit": "1000000000000.0"
+        },
+        {
+            "uuid": "285a9e4c-cc72-559a-9fe5-a20f61d96e88",
+            "name": "mg/mL",
+            "main_symbol": "mg/mL",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "2a60c070-8de2-5e9d-afa5-30d680e5c108",
+            "name": "g/dL",
+            "main_symbol": "g/dL",
+            "conversion_factor_to_main_unit": "0.1"
+        },
+        {
+            "uuid": "8fe18288-38db-5098-b70c-28289bfe75da",
+            "name": "fg/L",
+            "main_symbol": "fg/L",
+            "conversion_factor_to_main_unit": "999999999999999.9"
+        },
+        {
+            "uuid": "64d06201-27ed-5240-ace2-0f1a45afd199",
+            "name": "ng/L",
+            "main_symbol": "ng/L",
+            "conversion_factor_to_main_unit": "1000000000.0"
+        }
+    ]
+}

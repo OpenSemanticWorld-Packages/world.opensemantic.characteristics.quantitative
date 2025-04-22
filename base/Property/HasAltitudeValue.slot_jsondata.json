@@ -1,0 +1,22 @@
+{
+    "uuid": "1f7ce633-4adc-5111-9839-0be4d37c6436",
+    "name": "HasAltitudeValue",
+    "label": [
+        {
+            "text": "Altitude",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Altitude or height is defined based on the context in which it is used (aviation, geometry, geographical survey, sport, and more). As a general definition, altitude is a distance measurement, usually in the vertical or \"up\" direction, between a reference datum and a point or object. The reference datum also often varies according to the context. [Wikipedia]",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

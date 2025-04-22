@@ -1,0 +1,19 @@
+{
+    "uuid": "8e5e716a-e4f3-5c7f-8f28-7d111195d0f2",
+    "name": "HasTorquePerAngleValue",
+    "label": [
+        {
+            "text": "Torque per Angle",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "1f922ac3-6714-57c1-b622-e396050f3427",
+        "name": "N·m/rad",
+        "main_symbol": "N·m/rad"
+    }
+}

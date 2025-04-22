@@ -1,0 +1,22 @@
+{
+    "uuid": "e684f1ed-21d6-5de4-b403-e6d3491ad639",
+    "name": "HasMeanLifetimeValue",
+    "label": [
+        {
+            "text": "Mean Lifetime",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Mean Lifetime\" is the average length of time that an element remains in the set of discrete elements in a decaying quantity, $N(t)$.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasTimeValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasTimeValue"
+}

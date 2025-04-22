@@ -1,0 +1,22 @@
+{
+    "uuid": "4a2c49ce-c349-5431-81fd-7bf7c6eb9a2c",
+    "name": "HasSpinQuantumNumberValue",
+    "label": [
+        {
+            "text": "Spin Quantum Number",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Spin Quantum Number\"  describes the spin (intrinsic angular momentum) of the electron within that orbital, and gives the projection of the spin angular momentum S along the specified axis",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasQuantumNumberValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

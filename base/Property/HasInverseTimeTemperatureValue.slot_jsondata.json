@@ -1,0 +1,27 @@
+{
+    "uuid": "d8c4e230-1d58-5df3-b6a9-9c0930802cff",
+    "name": "HasInverseTimeTemperatureValue",
+    "label": [
+        {
+            "text": "Inverse Time Temperature",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "61f52c35-343d-5b19-80f1-6de7cc0f515c",
+        "name": "Hz/K",
+        "main_symbol": "Hz/K"
+    },
+    "additional_units": [
+        {
+            "uuid": "592e0611-a4e6-5728-8686-447ee9753a69",
+            "name": "MHz/K",
+            "main_symbol": "MHz/K",
+            "conversion_factor_to_main_unit": "1e-06"
+        }
+    ]
+}

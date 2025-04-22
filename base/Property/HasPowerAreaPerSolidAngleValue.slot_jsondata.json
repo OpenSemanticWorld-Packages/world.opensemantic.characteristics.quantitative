@@ -1,0 +1,19 @@
+{
+    "uuid": "81015acc-56fb-5fdd-829a-9de6e9a6865c",
+    "name": "HasPowerAreaPerSolidAngleValue",
+    "label": [
+        {
+            "text": "Power Area per Solid Angle",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "fffcb3e1-9b13-555b-88f4-cdaaf3fc2317",
+        "name": "W·m²/sr",
+        "main_symbol": "W·m²/sr"
+    }
+}

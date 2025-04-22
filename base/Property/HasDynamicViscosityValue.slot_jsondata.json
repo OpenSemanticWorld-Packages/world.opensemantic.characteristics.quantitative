@@ -1,0 +1,37 @@
+{
+    "uuid": "38434835-9bba-53a5-acf6-b268d36ac0e0",
+    "name": "HasDynamicViscosityValue",
+    "label": [
+        {
+            "text": "Dynamic viscosity",
+            "lang": "en"
+        },
+        {
+            "text": "Dynamische Viskosität",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "A measure of the molecular frictional resistance of a fluid as calculated using Newton's law.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "ea71202a-8942-5d59-8318-ee1d6c902930",
+        "name": "Pa·s",
+        "main_symbol": "Pa·s"
+    },
+    "additional_units": [
+        {
+            "uuid": "90812c3e-b2ca-5ef0-9a94-9daa29faffb0",
+            "name": "mPa·s",
+            "main_symbol": "mPa·s",
+            "conversion_factor_to_main_unit": "1000.0"
+        }
+    ]
+}

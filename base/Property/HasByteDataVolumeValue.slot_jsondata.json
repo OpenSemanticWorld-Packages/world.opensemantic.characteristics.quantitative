@@ -1,0 +1,22 @@
+{
+    "uuid": "a2c67045-7500-5646-8dfa-18fe37b912a7",
+    "name": "HasByteDataVolumeValue",
+    "label": [
+        {
+            "text": "Byte data volume",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Anzahl von Daten auf Basis einer Zeichenfolge, die aus je 8 Bit besteht",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasCountValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

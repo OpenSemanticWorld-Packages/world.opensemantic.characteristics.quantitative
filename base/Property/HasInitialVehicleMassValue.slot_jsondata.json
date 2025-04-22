@@ -1,0 +1,16 @@
+{
+    "uuid": "9d651dce-3ea4-5760-bfdc-245bb5b8e3f9",
+    "name": "HasInitialVehicleMassValue",
+    "label": [
+        {
+            "text": "Initial Vehicle Mass",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasMassValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasMassValue"
+}

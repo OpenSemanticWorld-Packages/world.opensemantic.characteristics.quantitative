@@ -1,0 +1,22 @@
+{
+    "uuid": "3006c4db-0cbf-5184-ac54-0ce6ed260f33",
+    "name": "HasDebyeAngularWavenumberValue",
+    "label": [
+        {
+            "text": "Debye Angular Wavenumber",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Debye Angular Wavenumber\" is the cut-off angular wavenumber in the Debye model of the vibrational spectrum of a solid.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasInverseLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasInverseLengthValue"
+}

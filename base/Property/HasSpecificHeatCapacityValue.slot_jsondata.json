@@ -1,0 +1,25 @@
+{
+    "uuid": "6db3eb5d-a2b4-5350-bd10-896553cc4449",
+    "name": "HasSpecificHeatCapacityValue",
+    "label": [
+        {
+            "text": "Specific Heat Capacity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Specific Heat Capacity of a solid or liquid is defined as the heat required to raise unit mass of substance by one degree of temperature. This is Heat Capacity divided by Mass. Note that there are corresponding molar quantities.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "e2b7d34f-5663-5c71-8482-13c890aba26d",
+        "name": "m²/(s²·K)",
+        "main_symbol": "m²/(s²·K)"
+    }
+}

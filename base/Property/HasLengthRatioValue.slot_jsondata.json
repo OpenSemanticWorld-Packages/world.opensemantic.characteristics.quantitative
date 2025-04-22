@@ -1,0 +1,16 @@
+{
+    "uuid": "dddbab86-730e-5c62-bc6c-82a3d80dfafc",
+    "name": "HasLengthRatioValue",
+    "label": [
+        {
+            "text": "Length Ratio",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessRatioValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

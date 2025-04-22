@@ -1,0 +1,22 @@
+{
+    "uuid": "c5310a95-653d-525a-8260-564e8731168b",
+    "name": "HasAmbientPressureValue",
+    "label": [
+        {
+            "text": "Ambient Pressure",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The ambient pressure on an object is the pressure of the surrounding medium, such as a gas or liquid, which comes into contact with the object.\nThe SI unit of pressure is the pascal (Pa), which is a very small unit relative to atmospheric pressure on Earth, so kilopascals ($kPa$) are more commonly used in this context.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasPressureValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasForcePerAreaValue"
+}

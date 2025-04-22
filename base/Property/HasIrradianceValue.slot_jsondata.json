@@ -1,0 +1,26 @@
+{
+    "uuid": "3b896fcc-5291-546f-9abe-6b5ffe0e0704",
+    "name": "HasIrradianceValue",
+    "label": [
+        {
+            "text": "Irradiance",
+            "lang": "en"
+        },
+        {
+            "text": "Bestrahlungsstärke",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Irradiance and Radiant Emittance are radiometry terms for the power per unit area of electromagnetic radiation at a surface. \"Irradiance\" is used when the electromagnetic radiation is incident on the surface. \"Radiant emmitance\" (or \"radiant exitance\") is used when the radiation is emerging from the surface.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasPowerPerAreaValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasPowerPerAreaValue"
+}

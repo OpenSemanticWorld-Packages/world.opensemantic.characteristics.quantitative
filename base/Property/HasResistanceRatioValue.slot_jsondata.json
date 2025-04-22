@@ -1,0 +1,16 @@
+{
+    "uuid": "86ff732c-4424-5ef0-9777-968baa06ac9b",
+    "name": "HasResistanceRatioValue",
+    "label": [
+        {
+            "text": "Resistance Ratio",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessRatioValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

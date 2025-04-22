@@ -1,0 +1,63 @@
+{
+    "uuid": "1f6fb70a-6b63-50e2-a8ad-d757e01a5c44",
+    "name": "HasElectricFieldValue",
+    "label": [
+        {
+            "text": "Electric Field",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The space surrounding an electric charge or in the presence of a time-varying magnetic field has a property called an electric field. This electric field exerts a force on other electrically charged objects. In the idealized case, the force exerted between two point charges is inversely proportional to the square of the distance between them. (Coulomb's Law).",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "7711f6fb-d328-54c4-8c3f-95ed1afd0174",
+        "name": "V/m",
+        "main_symbol": "V/m"
+    },
+    "additional_units": [
+        {
+            "uuid": "45a8a9e4-c8f4-552e-8aab-18ffea6af001",
+            "name": "µV/m",
+            "main_symbol": "µV/m",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "88c75d03-57b0-5551-9a0b-ea0b8e76fa74",
+            "name": "V/mm",
+            "main_symbol": "V/mm",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "537a2c05-9323-53f2-8d62-350ecfa7fe3a",
+            "name": "V/cm",
+            "main_symbol": "V/cm",
+            "conversion_factor_to_main_unit": "0.01"
+        },
+        {
+            "uuid": "d19dd010-d118-562d-a38a-9307783eadd6",
+            "name": "kV/m",
+            "main_symbol": "kV/m",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "28c0d432-ef03-52b8-8280-c28939455d78",
+            "name": "MV/m",
+            "main_symbol": "MV/m",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "34945978-1bef-55a8-87fe-1d3a878b494c",
+            "name": "mV/m",
+            "main_symbol": "mV/m",
+            "conversion_factor_to_main_unit": "1000.0"
+        }
+    ]
+}

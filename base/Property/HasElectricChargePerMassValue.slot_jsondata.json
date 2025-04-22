@@ -1,0 +1,25 @@
+{
+    "uuid": "5063bbfc-e8d0-542f-9d3d-e80357e0ba53",
+    "name": "HasElectricChargePerMassValue",
+    "label": [
+        {
+            "text": "Electric Charge Per Mass",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Electric Charge Per Mass\" is the charge associated with a specific mass of a substance. In the SI and ISO systems this is $1 kg$.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "4d0d9296-cfce-53f2-b322-25a97ba6f69c",
+        "name": "A·m²/(J·s)",
+        "main_symbol": "A·m²/(J·s)"
+    }
+}

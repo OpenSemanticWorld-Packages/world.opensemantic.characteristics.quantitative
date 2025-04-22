@@ -1,0 +1,33 @@
+{
+    "uuid": "748e158a-b5de-573c-904b-ddbb39d861ec",
+    "name": "HasVolumePerTimeValue",
+    "label": [
+        {
+            "text": "Volume per Time",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "a7231ad3-0fe7-5fed-85d9-53f7cc694552",
+        "name": "m³/s",
+        "main_symbol": "m³/s"
+    },
+    "additional_units": [
+        {
+            "uuid": "a77bdf8d-bcf3-5bf1-bd8f-1cc84dcf4f94",
+            "name": "cm³/s",
+            "main_symbol": "cm³/s",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "13b3779e-3221-5dc1-a381-8c5043e9450e",
+            "name": "dm³/s",
+            "main_symbol": "dm³/s",
+            "conversion_factor_to_main_unit": "1000.0"
+        }
+    ]
+}

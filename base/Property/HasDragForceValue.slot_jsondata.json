@@ -1,0 +1,22 @@
+{
+    "uuid": "b01c64ce-0370-5d11-a30e-3e5b3b438d2f",
+    "name": "HasDragForceValue",
+    "label": [
+        {
+            "text": "Drag Force",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In fluid dynamics, drag refers to forces which act on a solid object in the direction of the relative fluid flow velocity. Unlike other resistive forces such as dry friction, which is nearly independent of velocity, drag forces depend on velocity.\nDrag forces always decrease fluid velocity relative to the solid object in the fluid's path.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasForceValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasForceValue"
+}

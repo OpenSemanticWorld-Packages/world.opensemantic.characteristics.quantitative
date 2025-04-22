@@ -1,0 +1,22 @@
+{
+    "uuid": "d10d77ef-e537-5fdb-9edd-0673f174099d",
+    "name": "HasKermaValue",
+    "label": [
+        {
+            "text": "Kerma",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Kerma\" is the sum of the initial kinetic energies of all the charged particles liberated by uncharged ionizing radiation (i.e., indirectly ionizing radiation such as photons and neutrons) in a sample of matter, divided by the mass of the sample.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasSpecificEnergyValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasSpecificEnergyValue"
+}

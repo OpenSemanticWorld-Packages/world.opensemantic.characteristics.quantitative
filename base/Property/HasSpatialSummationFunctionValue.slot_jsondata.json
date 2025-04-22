@@ -1,0 +1,22 @@
+{
+    "uuid": "7ccacd17-c257-504f-a978-4c3f7f2d5a0d",
+    "name": "HasSpatialSummationFunctionValue",
+    "label": [
+        {
+            "text": "Spatial Summation Function",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Spatial Summation Function\" is he ability to produce a composite signal from the signals coming into the eyes from different directions.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

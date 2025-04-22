@@ -1,0 +1,22 @@
+{
+    "uuid": "a703dd33-7425-5ebe-86f6-fd79aef36260",
+    "name": "HasExposureValue",
+    "label": [
+        {
+            "text": "Exposure",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Exposure\" reflects the extent of ionization events taking place when air is irradiated by ionizing photons (gamma radiation and/or x rays). In photography, exposure is the amount of light allowed to fall on each area unit of a photographic medium (photographic film or image sensor) during the process of taking a photograph. Exposure is measured in lux seconds, and can be computed from exposure value (EV) and scene luminance in a specified region.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasElectricChargePerMassValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasElectricChargePerMassValue"
+}

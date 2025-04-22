@@ -1,0 +1,22 @@
+{
+    "uuid": "c74f2bfe-af63-538a-a060-ea33f1d18bfe",
+    "name": "HasDepthValue",
+    "label": [
+        {
+            "text": "Depth",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Depth typically refers to the vertical measure of length from the surface of a liquid.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

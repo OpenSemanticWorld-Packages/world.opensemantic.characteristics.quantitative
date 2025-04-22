@@ -1,0 +1,22 @@
+{
+    "uuid": "dd0a3c02-865c-503e-9d73-975106d4ffb3",
+    "name": "HasThermalEnergyValue",
+    "label": [
+        {
+            "text": "Thermal Energy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Thermal Energy\" is the portion of the thermodynamic or internal energy of a system that is responsible for the temperature of the system. From a macroscopic thermodynamic description, the thermal energy of a system is given by its constant volume specific heat capacity C(T), a temperature coefficient also called thermal capacity, at any given absolute temperature (T): $U_{thermal} = C(T) \\cdot T$.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasEnergyValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasEnergyValue"
+}

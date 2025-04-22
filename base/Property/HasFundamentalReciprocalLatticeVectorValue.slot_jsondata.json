@@ -1,0 +1,22 @@
+{
+    "uuid": "2e95197a-9b15-590b-b25d-43a9a559f28c",
+    "name": "HasFundamentalReciprocalLatticeVectorValue",
+    "label": [
+        {
+            "text": "Fundamental Reciprocal Lattice Vector",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Fundamental Reciprocal Lattice Vector\" are fundamental, or primary, translation vectors the reciprocal lattice.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasAngularReciprocalLatticeVectorValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasAngularReciprocalLatticeVectorValue"
+}

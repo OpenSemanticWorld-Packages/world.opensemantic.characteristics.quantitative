@@ -1,0 +1,16 @@
+{
+    "uuid": "37294fb6-c537-513e-80c9-036dbd6690d0",
+    "name": "HasPropellantMeanBulkTemperatureValue",
+    "label": [
+        {
+            "text": "Propellant Mean Bulk Temperature",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasPropellantTemperatureValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasTemperatureValue"
+}

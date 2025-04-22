@@ -1,0 +1,26 @@
+{
+    "uuid": "4875e767-7ff2-575e-9cb6-31188f0c5890",
+    "name": "HasNucleonNumberValue",
+    "label": [
+        {
+            "text": "Nucleon number",
+            "lang": "en"
+        },
+        {
+            "text": "Nukleonenzahl",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Number of nucleons in an atomic nucleus.A = Z+N. Nuclides with the same value of A are called isobars.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasCountValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

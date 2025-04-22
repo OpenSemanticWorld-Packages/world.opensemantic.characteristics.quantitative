@@ -1,0 +1,16 @@
+{
+    "uuid": "30d0c2de-37da-573d-ba8b-df4a7a574f79",
+    "name": "HasMaximumOperatingPressureValue",
+    "label": [
+        {
+            "text": "Maximum Operating Pressure",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasPressureValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasForcePerAreaValue"
+}

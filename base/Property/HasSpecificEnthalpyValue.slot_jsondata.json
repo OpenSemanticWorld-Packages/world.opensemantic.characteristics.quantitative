@@ -1,0 +1,22 @@
+{
+    "uuid": "023d2f9a-4475-5ef1-aba2-894f74e92a1b",
+    "name": "HasSpecificEnthalpyValue",
+    "label": [
+        {
+            "text": "Specific Enthalpy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Specific Enthalpy}$ is enthalpy per mass of substance involved. Specific enthalpy is denoted by a lower case h, with dimension of energy per mass (SI unit: joule/kg). In thermodynamics, $\\textit{enthalpy}$ is the sum of the internal energy U and the product of pressure p and volume V of a system: $H = U + pV$.  The internal energy U and the work term pV have dimension of energy, in SI units this is joule; the extensive (linear in size) quantity H has the same dimension.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasSpecificEnergyValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasSpecificEnergyValue"
+}

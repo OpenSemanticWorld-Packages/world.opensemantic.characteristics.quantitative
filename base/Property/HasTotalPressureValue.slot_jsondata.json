@@ -1,0 +1,22 @@
+{
+    "uuid": "8753b5e0-a6bd-5d2a-9a0b-035d7aa91c77",
+    "name": "HasTotalPressureValue",
+    "label": [
+        {
+            "text": "Total Pressure",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The total pressure is the sum of the dynamic and static pressures, that is $P_0 = P + q$.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasPressureValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasForcePerAreaValue"
+}

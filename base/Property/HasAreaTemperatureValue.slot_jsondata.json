@@ -1,0 +1,19 @@
+{
+    "uuid": "1b3d8c88-98f4-57ed-bd49-e2d40c637605",
+    "name": "HasAreaTemperatureValue",
+    "label": [
+        {
+            "text": "Area Temperature",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "a9d0846a-efc8-5b2e-a38b-da1f56bf5e68",
+        "name": "m²·K",
+        "main_symbol": "m²·K"
+    }
+}

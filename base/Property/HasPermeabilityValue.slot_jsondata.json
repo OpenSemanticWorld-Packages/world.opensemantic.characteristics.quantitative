@@ -1,0 +1,39 @@
+{
+    "uuid": "5dcedce0-6ec9-5c15-af45-85d9c96fa3e7",
+    "name": "HasPermeabilityValue",
+    "label": [
+        {
+            "text": "Permeability",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Permeability}$ is the degree of magnetization of a material that responds linearly to an applied magnetic field. \n  In general permeability is a tensor-valued quantity. \n  The definition given applies to an isotropic medium. \n  For an anisotropic medium permeability is a second order tensor. \n  In electromagnetism, permeability is the measure of the ability of a material to support the formation of a magnetic field within itself. \n  In other words, it is the degree of magnetization that a material obtains in response to an applied magnetic field. \n  Magnetic permeability is typically represented by the Greek letter $\\mu$. \n  The term was coined in September, 1885 by Oliver Heaviside. \n  The reciprocal of magnetic permeability is $\\textit{Magnetic Reluctivity}$.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "5e3c4804-a8d1-57bf-9d3f-bc9d6e1f0372",
+        "name": "H/m",
+        "main_symbol": "H/m"
+    },
+    "additional_units": [
+        {
+            "uuid": "3fc74b23-8e1a-55a3-b553-b535196c76c1",
+            "name": "μH/m",
+            "main_symbol": "μH/m",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "afef2bc6-70b5-51cd-be02-073ef2c684c4",
+            "name": "nH/m",
+            "main_symbol": "nH/m",
+            "conversion_factor_to_main_unit": "1000000000.0"
+        }
+    ]
+}

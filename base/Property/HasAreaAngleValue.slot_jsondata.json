@@ -1,0 +1,19 @@
+{
+    "uuid": "a91c64cb-2eed-58b6-952b-1d9dd56950e6",
+    "name": "HasAreaAngleValue",
+    "label": [
+        {
+            "text": "Area Angle",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "97ad82e6-8b02-5053-acf1-f12b91be7caf",
+        "name": "m²·sr",
+        "main_symbol": "m²·sr"
+    }
+}

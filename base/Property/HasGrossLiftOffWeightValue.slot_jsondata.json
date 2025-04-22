@@ -1,0 +1,22 @@
+{
+    "uuid": "41e67bdd-9f7d-539f-81f0-ddf6c776d7ad",
+    "name": "HasGrossLiftOffWeightValue",
+    "label": [
+        {
+            "text": "Gross Lift-Off Weight",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The sum of a rocket's inert mass and usable fluids and gases at sea level.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasMassValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasMassValue"
+}

@@ -1,0 +1,22 @@
+{
+    "uuid": "bf27ef52-5258-56ce-afa1-c0068ccba60c",
+    "name": "HasRadiusValue",
+    "label": [
+        {
+            "text": "Radius",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In classical geometry, the \"Radius\" of a circle or sphere is any line segment from its center to its perimeter the radius of a circle or sphere is the length of any such segment.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

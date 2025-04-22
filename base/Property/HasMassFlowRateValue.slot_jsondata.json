@@ -1,0 +1,25 @@
+{
+    "uuid": "0ca8f0bc-5fe5-53d5-946d-9aec9422e1f6",
+    "name": "HasMassFlowRateValue",
+    "label": [
+        {
+            "text": "Mass Flow Rate",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Mass Flow Rate\" is a measure of Mass flux. The common symbol is $\\dot{m}$ (pronounced $m-dot$), although sometimes $\\mu$ is used. The SI units are $kg s-1$.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "d4315cae-884d-572c-8220-2cfa2d72e7e5",
+        "name": "kg/s",
+        "main_symbol": "kg/s"
+    }
+}

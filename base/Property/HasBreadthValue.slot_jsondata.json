@@ -1,0 +1,26 @@
+{
+    "uuid": "d8a988f2-be17-5c60-90c2-5efc96de142c",
+    "name": "HasBreadthValue",
+    "label": [
+        {
+            "text": "Breadth",
+            "lang": "en"
+        },
+        {
+            "text": "Breite",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Breadth\" is the extent or measure of how broad or wide something is.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

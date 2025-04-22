@@ -1,0 +1,25 @@
+{
+    "uuid": "ec7aa861-73a4-5fcf-adce-88e258181d3b",
+    "name": "HasSpecificHeatCapacityAtConstantVolumeValue",
+    "label": [
+        {
+            "text": "Specific heat capacity at constant volume",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Specific heat per constant volume.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "3ebf6bf4-17f6-56fa-9f49-62a98bcd37fb",
+        "name": "J/(kg·°C)",
+        "main_symbol": "J/(kg·°C)"
+    }
+}

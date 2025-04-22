@@ -1,0 +1,16 @@
+{
+    "uuid": "72bbd510-0c1a-584f-bd1c-7c08997cf6ec",
+    "name": "HasPieceValue",
+    "label": [
+        {
+            "text": "Piece",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasCountValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

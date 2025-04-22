@@ -1,0 +1,19 @@
+{
+    "uuid": "3d767ddf-9440-5377-b4da-6edd156d6d74",
+    "name": "HasTemperaturePerTimeValue",
+    "label": [
+        {
+            "text": "Temperature per Time",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "082b5781-e205-5d7c-805e-07518d2c3488",
+        "name": "°C/s",
+        "main_symbol": "°C/s"
+    }
+}

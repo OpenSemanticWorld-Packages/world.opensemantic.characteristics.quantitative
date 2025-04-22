@@ -1,0 +1,25 @@
+{
+    "uuid": "9d47c41b-0a0e-5aaf-8e80-b093792e536a",
+    "name": "HasSpecificEnergyValue",
+    "label": [
+        {
+            "text": "Specific Energy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Specific Energy}$ is defined as the energy per unit mass. \n  Common metric units are $J/kg$. \n  It is an intensive property. \n  Contrast this with energy, which is an extensive property. \n  There are two main types of specific energy: potential energy and specific kinetic energy. \n  Others are the $\\textit{gray}$ and $\\textit{sievert}$, which are measures for the absorption of radiation. \n  $$$$\n  The concept of specific energy applies to a particular or theoretical way of extracting useful energy from the material considered that is usually implied by context. \n  These intensive properties are each symbolized by using the lower case letter of the symbol for the corresponding extensive property,\n   which is symbolized by a capital letter. \n  For example, the extensive thermodynamic property enthalpy is symbolized by $H$; specific enthalpy is symbolized by $h$.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "16e72fbd-1bcd-59aa-96f6-142c7dea0ac8",
+        "name": "mJ/g",
+        "main_symbol": "mJ/g"
+    }
+}

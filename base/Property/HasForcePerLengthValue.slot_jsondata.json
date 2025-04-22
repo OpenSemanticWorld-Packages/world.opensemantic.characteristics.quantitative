@@ -1,0 +1,19 @@
+{
+    "uuid": "0ba14a49-e33d-5317-b4ec-b0b3f03b98ee",
+    "name": "HasForcePerLengthValue",
+    "label": [
+        {
+            "text": "Force per Length",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "80c6a620-d01a-56f9-a703-96950102f3cb",
+        "name": "N·m/m²",
+        "main_symbol": "N·m/m²"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "uuid": "f4249bcf-3a80-5f85-8a82-0ab305eebfa4",
+    "name": "HasParticleCurrentValue",
+    "label": [
+        {
+            "text": "Particle Current",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Particle Current\" can be used to describe the net number of particles passing through a surface in an infinitesimal time interval.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasFrequencyValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasFrequencyValue"
+}

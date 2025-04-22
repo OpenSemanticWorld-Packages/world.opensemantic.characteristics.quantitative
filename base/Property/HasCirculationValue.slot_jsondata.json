@@ -1,0 +1,22 @@
+{
+    "uuid": "d8e99168-4962-57bb-91bb-8f99a5726587",
+    "name": "HasCirculationValue",
+    "label": [
+        {
+            "text": "Circulation",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In fluid dynamics, circulation is the line integral around a closed curve of the fluid velocity. It has dimensions of length squared over time.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasAreaPerTimeValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasAreaPerTimeValue"
+}

@@ -1,0 +1,25 @@
+{
+    "uuid": "f2003295-5f69-54d5-b213-a61f393ae789",
+    "name": "HasMolarAbsorptionCoefficientValue",
+    "label": [
+        {
+            "text": "Molar Absorption Coefficient",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Molar Absorption Coefficient\" is a spectrophotometric unit indicating the light a substance absorbs with respect to length, usually centimeters, and concentration, usually moles per liter.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "1ffc24a2-0a50-5743-8bb6-0b06586bb410",
+        "name": "m²/mol",
+        "main_symbol": "m²/mol"
+    }
+}

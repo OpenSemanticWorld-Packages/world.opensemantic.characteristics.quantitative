@@ -1,0 +1,19 @@
+{
+    "uuid": "ce0230d0-ae58-5a58-bc76-3d0b75d715e6",
+    "name": "HasMomentumPerAngleValue",
+    "label": [
+        {
+            "text": "Momentum per Angle",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "830e43b7-e37b-54a5-bf63-87d8b8db4a02",
+        "name": "N·s/rad",
+        "main_symbol": "N·s/rad"
+    }
+}

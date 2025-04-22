@@ -1,0 +1,16 @@
+{
+    "uuid": "adf9908e-8707-5bb6-9c90-fcf1da9afbb3",
+    "name": "HasSingleStageLauncherMassRatioValue",
+    "label": [
+        {
+            "text": "Single Stage Launcher Mass Ratio",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasMassRatioValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasMassRatioValue"
+}

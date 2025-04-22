@@ -1,0 +1,33 @@
+{
+    "uuid": "593ebee1-c9ff-5180-9f0b-1655a7cada40",
+    "name": "HasAreaPerTimeValue",
+    "label": [
+        {
+            "text": "Area per Time",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "185912a3-aa6b-5943-a9a3-7db6bac9cd96",
+        "name": "m²/s",
+        "main_symbol": "m²/s"
+    },
+    "additional_units": [
+        {
+            "uuid": "90bd74dd-62d4-513b-a8b4-574505807b18",
+            "name": "mm²/s",
+            "main_symbol": "mm²/s",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "ba0e83ac-8032-5865-83dc-524f3ef41887",
+            "name": "cm²/s",
+            "main_symbol": "cm²/s",
+            "conversion_factor_to_main_unit": "10000.0"
+        }
+    ]
+}

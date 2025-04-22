@@ -1,0 +1,16 @@
+{
+    "uuid": "1df81555-8b8a-536a-878c-2df4ff742433",
+    "name": "HasExitPlaneTemperatureValue",
+    "label": [
+        {
+            "text": "Exit Plane Temperature",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasTemperatureValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasTemperatureValue"
+}

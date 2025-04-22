@@ -1,0 +1,22 @@
+{
+    "uuid": "1b02183d-7480-5aca-88cc-886d6f3d888c",
+    "name": "HasPrincipalQuantumNumberValue",
+    "label": [
+        {
+            "text": "Principal Quantum Number",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Principal Quantum Number\" describes the electron shell, or energy level, of an atom. The value of $n$ ranges from 1 to the shell containing the outermost electron of that atom.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasQuantumNumberValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

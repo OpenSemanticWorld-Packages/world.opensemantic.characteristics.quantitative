@@ -1,0 +1,19 @@
+{
+    "uuid": "512a673b-e9bf-5d10-9cb6-7fd3a8ddff00",
+    "name": "HasLengthTemperatureTimeValue",
+    "label": [
+        {
+            "text": "Length Temperature Time",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "880083ed-1ad8-56e1-91fd-9e86ac5171a4",
+        "name": "cm·s·°C",
+        "main_symbol": "cm·s·°C"
+    }
+}

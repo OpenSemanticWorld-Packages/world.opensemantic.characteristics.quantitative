@@ -1,0 +1,22 @@
+{
+    "uuid": "dfee6f32-7a54-5dfd-9729-9a31ce95c1ac",
+    "name": "HasAngleValue",
+    "label": [
+        {
+            "text": "Angle",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The abstract notion of angle. Narrow concepts include plane angle and solid angle. While both plane angle and solid angle are dimensionless, they are actually length/length and area/area respectively.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessRatioValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

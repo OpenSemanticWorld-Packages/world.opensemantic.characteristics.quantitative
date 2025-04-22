@@ -1,0 +1,25 @@
+{
+    "uuid": "11a2575b-2342-5af1-ae6a-274fd55d3771",
+    "name": "HasSoundExposureLevelValue",
+    "label": [
+        {
+            "text": "Sound exposure level",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Sound Exposure Level abbreviated as $SEL$ and $LAE$, is the total noise energy produced from a single noise event, expressed as a logarithmic ratio from a reference level.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "a098482f-dada-5694-88d7-d6e436bf55dd",
+        "name": "B",
+        "main_symbol": "B"
+    }
+}

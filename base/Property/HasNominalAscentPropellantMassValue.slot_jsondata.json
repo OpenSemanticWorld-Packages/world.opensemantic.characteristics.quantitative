@@ -1,0 +1,22 @@
+{
+    "uuid": "0754ef68-2e47-5bdb-ad79-814cc55d4e78",
+    "name": "HasNominalAscentPropellantMassValue",
+    "label": [
+        {
+            "text": "Nominal Ascent Propellant Mass",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The amount of propellant mass within a stage that is available for impulse for use in nominal payload performance prediction. This mass excludes loaded propellant that has been set aside for off- nominal performance behavior (FPR and fuel bias).",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasMassValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasMassValue"
+}

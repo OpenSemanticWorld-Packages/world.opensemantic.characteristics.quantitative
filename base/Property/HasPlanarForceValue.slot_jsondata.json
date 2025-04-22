@@ -1,0 +1,26 @@
+{
+    "uuid": "ca3b5dc7-e77e-5459-a30d-7a576f927f15",
+    "name": "HasPlanarForceValue",
+    "label": [
+        {
+            "text": "Planar Force",
+            "lang": "en"
+        },
+        {
+            "text": "Flächenlast",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Another name for Force Per Area, used by the Industry Foundation Classes (IFC) standard.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasForcePerAreaValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasForcePerAreaValue"
+}

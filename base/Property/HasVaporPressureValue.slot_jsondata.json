@@ -1,0 +1,22 @@
+{
+    "uuid": "3a4c1fce-9f13-5528-8931-3bee1a17c76f",
+    "name": "HasVaporPressureValue",
+    "label": [
+        {
+            "text": "Vapor Pressure",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A pressure that is the one exerted by a substance vapor in thermodynamic equilibrium with either its solid or liquid phase at a given temperature in a closed system.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasPressureValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasForcePerAreaValue"
+}

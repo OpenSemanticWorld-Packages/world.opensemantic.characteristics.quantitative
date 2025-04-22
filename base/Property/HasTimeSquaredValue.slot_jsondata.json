@@ -1,0 +1,19 @@
+{
+    "uuid": "ec3d9d1e-291c-5ce6-a7bc-9d4f30cf6837",
+    "name": "HasTimeSquaredValue",
+    "label": [
+        {
+            "text": "Time Squared",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "571d519a-ea28-5c8a-89cc-0f9a9a1f1f46",
+        "name": "s²",
+        "main_symbol": "s²"
+    }
+}

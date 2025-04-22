@@ -1,0 +1,16 @@
+{
+    "uuid": "173d8ee4-ad09-5ba5-87c8-444b9b65d104",
+    "name": "HasElectricPropulsionPropellantMassValue",
+    "label": [
+        {
+            "text": "Electric Propulsion Propellant Mass",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasPropellantMassValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasMassValue"
+}

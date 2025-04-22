@@ -1,0 +1,16 @@
+{
+    "uuid": "0947ddf3-ec85-5831-9311-a6f93dfa2ab5",
+    "name": "HasMaxSeaLevelThrustValue",
+    "label": [
+        {
+            "text": "Max Sea Level Thrust",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasThrustValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasForceValue"
+}

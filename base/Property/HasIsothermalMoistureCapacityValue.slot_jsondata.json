@@ -1,0 +1,22 @@
+{
+    "uuid": "1508ada1-d95d-5f4c-aae2-37b9cdcd15bb",
+    "name": "HasIsothermalMoistureCapacityValue",
+    "label": [
+        {
+            "text": "Isothermal Moisture Capacity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Isothermal Moisture Capacity\" is the capacity of a material to absorb moisture in the Effective Moisture Penetration Depth (EMPD) model.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasSpecificVolumeValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasSpecificVolumeValue"
+}

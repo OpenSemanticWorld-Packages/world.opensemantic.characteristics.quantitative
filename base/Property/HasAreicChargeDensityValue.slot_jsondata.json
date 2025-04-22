@@ -1,0 +1,16 @@
+{
+    "uuid": "92084f0e-b965-5a1b-9054-318c29f73e9a",
+    "name": "HasAreicChargeDensityValue",
+    "label": [
+        {
+            "text": "Areic charge density",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasElectricChargePerAreaValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasElectricChargePerAreaValue"
+}

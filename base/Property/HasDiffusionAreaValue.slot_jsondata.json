@@ -1,0 +1,22 @@
+{
+    "uuid": "b96a58f5-4809-59cb-938e-e4286d07b702",
+    "name": "HasDiffusionAreaValue",
+    "label": [
+        {
+            "text": "Diffusion Area",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Diffusion Area\" in an infinite homogenous medium, is one-sixth of the mean square distance between the point where a neutron enters a specified class and the point where it leaves that class.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasAreaValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasAreaValue"
+}

@@ -1,0 +1,29 @@
+{
+    "uuid": "5b27bb9d-6d59-58ca-ade7-62af04537d23",
+    "name": "HasAngularVelocityValue",
+    "label": [
+        {
+            "text": "Angular velocity",
+            "lang": "en"
+        },
+        {
+            "text": "Winkelgeschwindigkeit",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The change of angle per unit time; specifically, in celestial mechanics, the change in angle of the radius vector per unit time.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "d677f1d6-34e6-58f0-8126-b07c4bbcbc8e",
+        "name": "rad/s",
+        "main_symbol": "rad/s"
+    }
+}

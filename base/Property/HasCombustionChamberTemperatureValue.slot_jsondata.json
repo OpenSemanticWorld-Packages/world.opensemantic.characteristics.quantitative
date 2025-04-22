@@ -1,0 +1,16 @@
+{
+    "uuid": "fee24ccd-61b8-5b08-8b1a-05ed4e844785",
+    "name": "HasCombustionChamberTemperatureValue",
+    "label": [
+        {
+            "text": "Combustion Chamber Temperature",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasThermodynamicTemperatureValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasTemperatureValue"
+}

@@ -1,0 +1,25 @@
+{
+    "uuid": "5a11bf43-2447-5db7-bd34-e346ac5a7e4d",
+    "name": "HasThomsonCoefficientValue",
+    "label": [
+        {
+            "text": "Thomson Coefficient",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Thomson Coefficient\" represents Thomson heat power developed, divided by the electric current and the temperature difference.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "245b2de2-8939-58bf-9563-15e9182ebb3c",
+        "name": "V/K",
+        "main_symbol": "V/K"
+    }
+}

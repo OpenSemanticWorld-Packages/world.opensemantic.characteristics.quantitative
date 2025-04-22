@@ -1,0 +1,20 @@
+{
+    "uuid": "df05e5bd-a60c-503b-b407-06227c7738a9",
+    "name": "HasLinearExpansionCoefficientValue",
+    "label": [
+        {
+            "text": "Linear expansion coefficient",
+            "lang": "en"
+        },
+        {
+            "text": "Linearer Ausdehnungskoeffizient",
+            "lang": "de"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasExpansionRatioValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasExpansionRatioValue"
+}

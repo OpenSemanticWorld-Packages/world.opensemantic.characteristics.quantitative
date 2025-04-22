@@ -1,0 +1,19 @@
+{
+    "uuid": "6b0edad7-0f8f-501e-b3fd-50164bedd9bc",
+    "name": "HasSurfaceCoefficientOfHeatTransferValue",
+    "label": [
+        {
+            "text": "Surface Coefficient of Heat Transfer",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "6ef8db77-3eef-5c46-9987-f77d43c99c79",
+        "name": "W/(m²·K)",
+        "main_symbol": "W/(m²·K)"
+    }
+}

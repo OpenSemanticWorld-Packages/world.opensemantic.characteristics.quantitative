@@ -1,0 +1,33 @@
+{
+    "uuid": "16e79003-1352-5156-9926-3a08893a288f",
+    "name": "HasInverseVolumeValue",
+    "label": [
+        {
+            "text": "Inverse Volume",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "d6059d89-ee77-51e7-9779-a5d568e05292",
+        "name": "1/m³",
+        "main_symbol": "1/m³"
+    },
+    "additional_units": [
+        {
+            "uuid": "d85a7690-4112-510c-9bce-122c08bc8c31",
+            "name": "/mm³",
+            "main_symbol": "/mm³",
+            "conversion_factor_to_main_unit": "0.0"
+        },
+        {
+            "uuid": "140fe8cb-d38c-5802-adc9-53f3168f3637",
+            "name": "/cm³",
+            "main_symbol": "/cm³",
+            "conversion_factor_to_main_unit": "1e-06"
+        }
+    ]
+}

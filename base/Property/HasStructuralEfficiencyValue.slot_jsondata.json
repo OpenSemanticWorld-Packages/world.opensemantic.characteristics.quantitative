@@ -1,0 +1,22 @@
+{
+    "uuid": "4bf1cd20-7376-52ae-aadb-f58b5fba63b3",
+    "name": "HasStructuralEfficiencyValue",
+    "label": [
+        {
+            "text": "Structural Efficiency",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Structural efficiency is a function of the weight of structure to the afforded vehicle's strength.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

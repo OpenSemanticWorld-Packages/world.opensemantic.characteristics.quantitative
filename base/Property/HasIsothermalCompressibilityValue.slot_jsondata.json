@@ -1,0 +1,29 @@
+{
+    "uuid": "1f641e06-a594-591c-8c6d-4568ddded77f",
+    "name": "HasIsothermalCompressibilityValue",
+    "label": [
+        {
+            "text": "Isothermal compressibility",
+            "lang": "en"
+        },
+        {
+            "text": "Isotherme Kompressibilität",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The isothermal compressibility defines the rate of change of system volume with pressure.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "00d5d31d-b5a3-5261-9338-29702ae10082",
+        "name": "1/Pa",
+        "main_symbol": "1/Pa"
+    }
+}

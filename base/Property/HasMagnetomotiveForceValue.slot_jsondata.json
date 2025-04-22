@@ -1,0 +1,57 @@
+{
+    "uuid": "f417ec82-82a8-5c77-9668-28d60d64a733",
+    "name": "HasMagnetomotiveForceValue",
+    "label": [
+        {
+            "text": "Magnetomotive Force",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\text{Magnetomotive Force}$, also referred to as ($mmf$), is the ability of an electric circuit to produce magnetic flux. \n  Just as the ability of a battery to produce electric current is called its electromotive force \n  or emf, mmf is taken as the work required to move a unit magnet pole from any point through any path \n  which links the electric circuit back the same point in the presence of the magnetic force produced \n  by the electric current in the circuit. \n$\\text{Magnetomotive Force}$ is the scalar line integral of the magnetic field strength along a closed path.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "b5317d33-93b4-57e3-900f-8094d44b502d",
+        "name": "A",
+        "main_symbol": "A"
+    },
+    "additional_units": [
+        {
+            "uuid": "4293fa6c-ffd2-58c9-bb9d-cf12b388532f",
+            "name": "pA",
+            "main_symbol": "pA",
+            "conversion_factor_to_main_unit": "1000000000000.0"
+        },
+        {
+            "uuid": "45d53682-9638-516d-9974-b519673f0ada",
+            "name": "MA",
+            "main_symbol": "MA",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "4b1892c3-f328-5909-b176-07231e8ac857",
+            "name": "kA",
+            "main_symbol": "kA",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "5274bc3b-981d-5b9d-b342-2bc610cff3de",
+            "name": "μA",
+            "main_symbol": "μA",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "f048dfaf-4ada-5c7a-b6f1-ce55aaeb0805",
+            "name": "mA",
+            "main_symbol": "mA",
+            "conversion_factor_to_main_unit": "1000.0"
+        }
+    ]
+}

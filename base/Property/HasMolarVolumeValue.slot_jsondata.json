@@ -1,0 +1,43 @@
+{
+    "uuid": "3b181c30-ca9f-5a6c-9b34-f2778915d5fb",
+    "name": "HasMolarVolumeValue",
+    "label": [
+        {
+            "text": "Molar volume",
+            "lang": "en"
+        },
+        {
+            "text": "Molvolumen",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The molar volume, symbol $V_m$, is the volume occupied by one mole of a substance (chemical element or chemical compound) at a given temperature and pressure. It is equal to the molar mass ($M$) divided by the mass density ($\\rho$). It has the SI unit cubic metres per mole ($m^{1}/mol$). For ideal gases, the molar volume is given by the ideal gas equation: this is a good approximation for many common gases at standard temperature and pressure. For crystalline solids, the molar volume can be measured by X-ray crystallography.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "da83f5fb-f796-5e59-b032-9de9e729882f",
+        "name": "m³/mol",
+        "main_symbol": "m³/mol"
+    },
+    "additional_units": [
+        {
+            "uuid": "3e68b0c2-0124-5e30-80df-0060b61c7866",
+            "name": "dm³/mol",
+            "main_symbol": "dm³/mol",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "d045ab9a-7df0-5172-9a28-e3b1f7820b07",
+            "name": "cm³/mol",
+            "main_symbol": "cm³/mol",
+            "conversion_factor_to_main_unit": "1000000.0"
+        }
+    ]
+}

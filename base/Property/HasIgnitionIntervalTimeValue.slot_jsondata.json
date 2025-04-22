@@ -1,0 +1,16 @@
+{
+    "uuid": "22d5f6b2-a186-5b9b-9ea2-73607d0b6e49",
+    "name": "HasIgnitionIntervalTimeValue",
+    "label": [
+        {
+            "text": "Ignition interval time",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasTimeValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasTimeValue"
+}

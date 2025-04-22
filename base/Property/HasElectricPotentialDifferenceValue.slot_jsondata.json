@@ -1,0 +1,55 @@
+{
+    "uuid": "3a81c956-d073-5c2d-a4db-976375022428",
+    "name": "HasElectricPotentialDifferenceValue",
+    "label": [
+        {
+            "text": "Electric potential difference",
+            "lang": "en"
+        },
+        {
+            "text": "Elektrische Spannung",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Electric Potential Difference\" is a scalar valued quantity associated with an electric field.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "10090aa0-1f91-5908-a6e3-16a05cf27eaa",
+        "name": "V",
+        "main_symbol": "V"
+    },
+    "additional_units": [
+        {
+            "uuid": "441c2940-7a83-5303-818a-a9a2328e29d3",
+            "name": "mV",
+            "main_symbol": "mV",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "aaa3a0bb-3208-580c-b97d-f92d06109610",
+            "name": "µV",
+            "main_symbol": "µV",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "65bac576-ce64-5d74-9be5-2901a14ddb6d",
+            "name": "kV",
+            "main_symbol": "kV",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "34b118c0-4663-5c37-81f4-a51bf5b8a1ce",
+            "name": "MV",
+            "main_symbol": "MV",
+            "conversion_factor_to_main_unit": "1e-06"
+        }
+    ]
+}

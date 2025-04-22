@@ -1,0 +1,16 @@
+{
+    "uuid": "885b68e4-53dc-5621-99f6-e5e185575e30",
+    "name": "HasVacuumThrustValue",
+    "label": [
+        {
+            "text": "Vacuum Thrust",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasThrustValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasForceValue"
+}

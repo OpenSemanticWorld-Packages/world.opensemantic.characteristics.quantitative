@@ -1,0 +1,22 @@
+{
+    "uuid": "67c8abeb-36e8-52df-8ba0-c279ff70bf6d",
+    "name": "HasMagnetizationFieldValue",
+    "label": [
+        {
+            "text": "Magnetization Field",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The Magnetization Field is defined as the ratio of magnetic moment per unit volume. It is a vector-valued quantity.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasElectricCurrentPerLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLinearElectricCurrentDensityValue"
+}

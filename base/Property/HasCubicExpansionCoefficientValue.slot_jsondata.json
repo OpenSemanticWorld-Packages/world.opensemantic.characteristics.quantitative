@@ -1,0 +1,20 @@
+{
+    "uuid": "b4a54461-6829-5050-b8c8-ddb42aa0be1a",
+    "name": "HasCubicExpansionCoefficientValue",
+    "label": [
+        {
+            "text": "Cubic expansion coefficient",
+            "lang": "en"
+        },
+        {
+            "text": "Volumenausdehnungskoeffizient",
+            "lang": "de"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasExpansionRatioValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasExpansionRatioValue"
+}

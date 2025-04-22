@@ -1,0 +1,25 @@
+{
+    "uuid": "80203f56-1906-5141-b7d8-f10fdbe9101d",
+    "name": "HasIsentropicCompressibilityValue",
+    "label": [
+        {
+            "text": "Isentropic Compressibility",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Isentropic compressibility is the extent to which a material reduces its volume when it is subjected to compressive stresses at a constant value of entropy.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "00d5d31d-b5a3-5261-9338-29702ae10082",
+        "name": "1/Pa",
+        "main_symbol": "1/Pa"
+    }
+}

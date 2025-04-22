@@ -1,0 +1,37 @@
+{
+    "uuid": "82d28b7a-f5b4-5c61-adaf-8c70bb442fef",
+    "name": "HasElectricPolarizabilityValue",
+    "label": [
+        {
+            "text": "Electric polarizability",
+            "lang": "en"
+        },
+        {
+            "text": "Elektrische Polarisierbarkeit",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Electric Polarizability\" is the relative tendency of a charge distribution, like the electron cloud of an atom or molecule, to be distorted from its normal shape by an external electric field, which is applied typically by inserting the molecule in a charged parallel-plate capacitor, but may also be caused by the presence of a nearby ion or dipole.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "da436d0a-f512-5528-874e-2a30f76cb78d",
+        "name": "J/mol",
+        "main_symbol": "J/mol"
+    },
+    "additional_units": [
+        {
+            "uuid": "f05cac56-ce3c-53ed-a7fc-306ce96d8b77",
+            "name": "kJ/mol",
+            "main_symbol": "kJ/mol",
+            "conversion_factor_to_main_unit": "0.001"
+        }
+    ]
+}

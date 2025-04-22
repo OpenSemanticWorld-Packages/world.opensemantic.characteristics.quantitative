@@ -1,0 +1,22 @@
+{
+    "uuid": "fae47811-a169-59ff-8f11-cf1ae46254af",
+    "name": "HasNeutralRatioValue",
+    "label": [
+        {
+            "text": "Neutral ratio",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Quotient aus zwei physikalischen Größen gleicher Art als Zahl, welche das Verhältnis dieser Größen zueinander ausdrückt, wobei die einheiten gegeneinander gekürzt sind",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessRatioValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

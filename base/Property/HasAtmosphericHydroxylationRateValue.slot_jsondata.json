@@ -1,0 +1,22 @@
+{
+    "uuid": "4926b1a0-db97-5145-a975-45881a60442d",
+    "name": "HasAtmosphericHydroxylationRateValue",
+    "label": [
+        {
+            "text": "Atmospheric Hydroxylation Rate",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A second order reaction rate constant that is a specific second order reaction rate constant that governs the kinetics of an atmospheric, gas-phase reaction between hydroxyl radicals and an organic chemical.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasReactionRateConstantValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasReactionRateConstantValue"
+}

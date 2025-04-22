@@ -1,0 +1,25 @@
+{
+    "uuid": "cc9fe963-eb92-51b9-9e49-32540246cb24",
+    "name": "HasTotalAtomicStoppingPowerValue",
+    "label": [
+        {
+            "text": "Total Atomic Stopping Power",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Total Atomic Stopping Power\" for an ionizing particle passing through an element, is the particle's energy loss per atom within a unit area normal to the particle's path; equal to the linear energy transfer (energy loss per unit path length) divided by the number of atoms per unit volume.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "bef1e7e3-93ae-5fac-b858-ac9a72cd8314",
+        "name": "J·m²",
+        "main_symbol": "J·m²"
+    }
+}

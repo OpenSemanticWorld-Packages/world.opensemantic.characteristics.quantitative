@@ -1,0 +1,33 @@
+{
+    "uuid": "4d874af9-9365-59b7-8d83-ee715d4a0c78",
+    "name": "HasSpecificModulusValue",
+    "label": [
+        {
+            "text": "Specific Modulus",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "<p><b>Specific modulus</b> is a <a href=\"/wiki/Materials_property\" class=\"mw-redirect\" title=\"Materials property\">materials property</a> consisting of the <a href=\"/wiki/Elastic_modulus\" title=\"Elastic modulus\">elastic modulus</a> per mass <a href=\"/wiki/Density\" title=\"Density\">density</a> of a material. It is also known as the <b>stiffness to weight ratio</b> or <b>specific stiffness</b>. High specific modulus materials find wide application in <a href=\"/wiki/Aerospace\" title=\"Aerospace\">aerospace</a> applications where minimum structural <a href=\"/wiki/Weight\" title=\"Weight\">weight</a> is required. The <a href=\"/wiki/Dimensional_analysis\" title=\"Dimensional analysis\">dimensional analysis</a> yields units of distance squared per time squared.</p>",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "aed1d8d6-9321-5acc-858c-151846ba249b",
+        "name": "m²/s²",
+        "main_symbol": "m²/s²"
+    },
+    "additional_units": [
+        {
+            "uuid": "2adfd339-e7d7-5546-b825-d18ce155a586",
+            "name": "km²/s²",
+            "main_symbol": "km²/s²",
+            "conversion_factor_to_main_unit": "1e-06"
+        }
+    ]
+}

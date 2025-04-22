@@ -1,0 +1,16 @@
+{
+    "uuid": "463c490b-8930-53c5-89eb-f36d747382ac",
+    "name": "HasPressureBurningRateConstantValue",
+    "label": [
+        {
+            "text": "Pressure Burning Rate Constant",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

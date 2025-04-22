@@ -1,0 +1,26 @@
+{
+    "uuid": "f39b3d50-32e2-5e77-b974-081ab8be2546",
+    "name": "HasTemperatureDifferenceValue",
+    "label": [
+        {
+            "text": "Temperature difference",
+            "lang": "en"
+        },
+        {
+            "text": "Temperaturdifferenz",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Temperature difference (Delta T) is the difference of temperatures between two measuring points",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasTemperatureValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasTemperatureValue"
+}

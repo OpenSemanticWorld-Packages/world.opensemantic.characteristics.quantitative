@@ -1,0 +1,22 @@
+{
+    "uuid": "084298d9-28fb-5c1f-85af-eda0770e1818",
+    "name": "HasThermalEfficiencyValue",
+    "label": [
+        {
+            "text": "Thermal Efficiency",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Thermal efficiency is a dimensionless performance measure of a thermal device such as an internal combustion engine, a boiler, or a furnace. The input to the device is heat, or the heat-content of a fuel that is consumed. The desired output is mechanical work, or heat, or possibly both.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessRatioValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

@@ -1,0 +1,22 @@
+{
+    "uuid": "5f6e7f22-41b7-5245-9488-259427d87cbe",
+    "name": "HasStochasticProcessValue",
+    "label": [
+        {
+            "text": "Stochastic Process",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In probability theory, a stochastic process, or sometimes random process  is a collection of random variables; this is often used to represent the evolution of some random value, or system, over time. This is the probabilistic counterpart to a deterministic process (or deterministic system).",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasFrequencyValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasFrequencyValue"
+}

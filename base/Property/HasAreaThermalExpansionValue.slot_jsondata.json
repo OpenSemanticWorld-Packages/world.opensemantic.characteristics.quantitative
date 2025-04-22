@@ -1,0 +1,25 @@
+{
+    "uuid": "e0f2f0ed-41e6-5be0-8759-75419a5fb56d",
+    "name": "HasAreaThermalExpansionValue",
+    "label": [
+        {
+            "text": "Area Thermal Expansion",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "When the temperature of a substance changes, the energy that is stored in the intermolecular bonds between atoms changes. When the stored energy increases, so does the length of the molecular bonds. As a result, solids typically expand in response to heating and contract on cooling; this dimensional response to temperature change is expressed by its coefficient of thermal expansion.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "56622d82-18f1-5dbc-930b-cdeefe05b401",
+        "name": "m²/K",
+        "main_symbol": "m²/K"
+    }
+}

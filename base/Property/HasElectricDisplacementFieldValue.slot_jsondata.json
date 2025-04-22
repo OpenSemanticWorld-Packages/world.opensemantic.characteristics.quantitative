@@ -1,0 +1,16 @@
+{
+    "uuid": "640553c3-f683-5f46-8499-48e18dc5d03d",
+    "name": "HasElectricDisplacementFieldValue",
+    "label": [
+        {
+            "text": "Electric Displacement Field",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasElectricChargePerAreaValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasElectricChargePerAreaValue"
+}

@@ -1,0 +1,25 @@
+{
+    "uuid": "4f87421d-81a6-51e0-b8ac-9dc014ff20a8",
+    "name": "HasAbsorbedDoseRateValue",
+    "label": [
+        {
+            "text": "Absorbed Dose Rate",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Absorbed Dose Rate\" is the absorbed dose of ionizing radiation imparted at a given location per unit of time (second, minute, hour, or day).",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "0dcdcfb4-6b3d-5b94-8aaf-8b830f380f9e",
+        "name": "Gy/s",
+        "main_symbol": "Gy/s"
+    }
+}

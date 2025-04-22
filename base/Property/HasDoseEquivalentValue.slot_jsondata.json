@@ -1,0 +1,22 @@
+{
+    "uuid": "01dcc98d-4009-58a7-ac98-d2defa7f1c15",
+    "name": "HasDoseEquivalentValue",
+    "label": [
+        {
+            "text": "Dose Equivalent",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Dose Equivalent\" (former), or $\\textit{Equivalent Absorbed Radiation Dose}$, usually shortened to $\\textit{Equivalent Dose}$, is a computed average measure of the radiation absorbed by a fixed mass of biological tissue, that attempts to account for the different biological damage potential of different types of ionizing radiation. The equivalent dose to a tissue is found by multiplying the absorbed dose, in gray, by a dimensionless \"quality factor\" $Q$, dependent upon radiation type, and by another dimensionless factor $N$, dependent on all other pertinent factors. N depends upon the part of the body irradiated, the time and volume over which the dose was spread, even the species of the subject.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasSpecificEnergyValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasSpecificEnergyValue"
+}

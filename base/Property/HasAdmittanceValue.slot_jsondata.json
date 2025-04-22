@@ -1,0 +1,45 @@
+{
+    "uuid": "ed44da00-a30a-582f-9e51-364bbce8c182",
+    "name": "HasAdmittanceValue",
+    "label": [
+        {
+            "text": "Admittance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Admittance\" is a measure of how easily a circuit or device will allow a current to flow. It is defined as the inverse of the impedance ($Z$).",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "aaf34d16-25f0-5159-b859-f0ff52e987c8",
+        "name": "S",
+        "main_symbol": "S"
+    },
+    "additional_units": [
+        {
+            "uuid": "06efd988-312c-59b8-8090-a5453ce8bf31",
+            "name": "mS",
+            "main_symbol": "mS",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "6e4f0051-b37a-5c36-8fc8-0287308a2442",
+            "name": "kS",
+            "main_symbol": "kS",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "6c3ae8dd-d46e-5fa8-8b5a-1f09ecfda3ff",
+            "name": "μS",
+            "main_symbol": "μS",
+            "conversion_factor_to_main_unit": "1000000.0"
+        }
+    ]
+}

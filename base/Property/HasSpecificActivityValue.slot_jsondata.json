@@ -1,0 +1,39 @@
+{
+    "uuid": "9f370090-e2b9-5206-aeca-4ab4adba8d56",
+    "name": "HasSpecificActivityValue",
+    "label": [
+        {
+            "text": "Specific Activity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Specific Activity\" is the number of decays per unit time of a radioactive sample. The SI unit of radioactive activity is the becquerel (Bq), in honor of the scientist Henri Becquerel.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "a5961ce9-fc48-5a0d-bc37-374efd4dd7b9",
+        "name": "Bq/kg",
+        "main_symbol": "Bq/kg"
+    },
+    "additional_units": [
+        {
+            "uuid": "83353e97-28a9-5373-b3bb-adc2b4d28d49",
+            "name": "mBq/kg",
+            "main_symbol": "mBq/kg",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "c6e7ba05-6b3a-55a5-af38-25fa0d54ecf0",
+            "name": "μBq/kg",
+            "main_symbol": "μBq/kg",
+            "conversion_factor_to_main_unit": "1000000.0"
+        }
+    ]
+}

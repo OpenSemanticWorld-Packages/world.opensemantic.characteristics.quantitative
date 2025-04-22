@@ -1,0 +1,16 @@
+{
+    "uuid": "d0ac657e-0030-561f-ab90-2025d3bcfb52",
+    "name": "HasDimensionlessRatioValue",
+    "label": [
+        {
+            "text": "Dimensionless Ratio",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

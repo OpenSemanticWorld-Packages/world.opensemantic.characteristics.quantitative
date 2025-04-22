@@ -1,0 +1,25 @@
+{
+    "uuid": "9a7ea9a9-23ce-5394-96a1-2ae4178c8bb6",
+    "name": "HasMolarConductivityValue",
+    "label": [
+        {
+            "text": "Molar Conductivity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Molar Conductivity\" is the conductivity of an electrolyte solution divided by the molar concentration of the electrolyte, and so measures the efficiency with which a given electrolyte conducts electricity in solution.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "428f5898-0af2-5323-96b7-7d1fdeb41f8d",
+        "name": "S·m²/mol",
+        "main_symbol": "S·m²/mol"
+    }
+}

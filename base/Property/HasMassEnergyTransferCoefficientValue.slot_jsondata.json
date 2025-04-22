@@ -1,0 +1,25 @@
+{
+    "uuid": "0129e803-b7e2-594e-8d71-5c2308b4040e",
+    "name": "HasMassEnergyTransferCoefficientValue",
+    "label": [
+        {
+            "text": "Mass Energy Transfer Coefficient",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Mass Energy Transfer Coefficient\" is that fraction of the mass attenuation coefficient which contributes to the production of kinetic energy in charged particles.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "d9e3cf43-4e8d-5462-b01c-c1151b969109",
+        "name": "m²/kg",
+        "main_symbol": "m²/kg"
+    }
+}

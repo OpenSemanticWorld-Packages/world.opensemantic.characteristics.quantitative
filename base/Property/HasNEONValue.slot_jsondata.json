@@ -1,0 +1,25 @@
+{
+    "uuid": "ae3bfb3a-9255-5ad7-b4b7-69f073c5c6e2",
+    "name": "HasNEONValue",
+    "label": [
+        {
+            "text": "NEON",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Variance for NEON conductivity data measured in MicroS-PER-CM",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "b936c7e6-d05f-5047-ad52-dd821de298b5",
+        "name": "uS2/cm2",
+        "main_symbol": "uS2/cm2"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "uuid": "74b593b3-72d4-561e-9e24-8ec5d6cf877f",
+    "name": "HasFlashPointTemperatureValue",
+    "label": [
+        {
+            "text": "Flash Point Temperature",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A temperature that is the lowest one at which the vapors of a volatile material will ignite if exposed to an ignition source.  It is frequently used to characterize fire hazards and distinguish different flammable fuels.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasTemperatureValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasTemperatureValue"
+}

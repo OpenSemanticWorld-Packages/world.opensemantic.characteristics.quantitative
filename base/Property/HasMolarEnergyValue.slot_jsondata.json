@@ -1,0 +1,33 @@
+{
+    "uuid": "5ec15881-cb91-5f81-ab44-b6b7d9477fbc",
+    "name": "HasMolarEnergyValue",
+    "label": [
+        {
+            "text": "Molar Energy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Molar Energy\" is the total energy contained by a thermodynamic system. The unit is $$J/mol$$, also expressed as $$joule/mole$$,  or $$joules per mole$$. This unit is commonly used in the SI unit system. The quantity has the dimension of $$M \\cdot L^2 \\cdot  T^{-2} \\cdot N^{-1}$$ where $$M$$ is mass, $$L$$ is length, $$T$$ is time, and $$N$$ is amount of substance.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "da436d0a-f512-5528-874e-2a30f76cb78d",
+        "name": "J/mol",
+        "main_symbol": "J/mol"
+    },
+    "additional_units": [
+        {
+            "uuid": "f05cac56-ce3c-53ed-a7fc-306ce96d8b77",
+            "name": "kJ/mol",
+            "main_symbol": "kJ/mol",
+            "conversion_factor_to_main_unit": "0.001"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "uuid": "edb52049-22a9-5ed5-9b92-aa691c7b8f4f",
+    "name": "HasMassicActivityValue",
+    "label": [
+        {
+            "text": "Massic Activity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Massic Activity\" is the activity divided by the total mass of the sample.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "a5961ce9-fc48-5a0d-bc37-374efd4dd7b9",
+        "name": "Bq/kg",
+        "main_symbol": "Bq/kg"
+    },
+    "additional_units": [
+        {
+            "uuid": "83353e97-28a9-5373-b3bb-adc2b4d28d49",
+            "name": "mBq/kg",
+            "main_symbol": "mBq/kg",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "c6e7ba05-6b3a-55a5-af38-25fa0d54ecf0",
+            "name": "μBq/kg",
+            "main_symbol": "μBq/kg",
+            "conversion_factor_to_main_unit": "1000000.0"
+        }
+    ]
+}

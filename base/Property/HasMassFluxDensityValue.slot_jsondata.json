@@ -1,0 +1,22 @@
+{
+    "uuid": "4b9d4995-b1e8-5fe6-b6d4-1fe72110c3c0",
+    "name": "HasMassFluxDensityValue",
+    "label": [
+        {
+            "text": "Mass flux density",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Produkt aus Strömungsgeschwindigkeit und Dichte",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasMassPerAreaTimeValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasMassPerAreaTimeValue"
+}

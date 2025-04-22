@@ -1,0 +1,22 @@
+{
+    "uuid": "b67a9db2-91fa-56a0-84a7-c14c13a2da7e",
+    "name": "HasAtomicEnergyValue",
+    "label": [
+        {
+            "text": "Atomic energy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "skalare Größe von Elementarteilchen, die bei beliebiger Umwandlung innerhalb eines Systems erhalten bleibt und als gespeichertes Arbeitsvermögen die Fähigkeit eines physikalischen Systems darstellt, Arbeit zu verrichten",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasEnergyValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasEnergyValue"
+}

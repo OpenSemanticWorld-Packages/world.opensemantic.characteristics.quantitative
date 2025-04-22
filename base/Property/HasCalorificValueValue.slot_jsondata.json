@@ -1,0 +1,22 @@
+{
+    "uuid": "8e83b94d-be54-5ef3-bba8-dcd1aab0b0c8",
+    "name": "HasCalorificValueValue",
+    "label": [
+        {
+            "text": "Calorific Value",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The heating value (or energy value or calorific value) of a substance, usually a fuel or food (see food energy), is the amount of heat released during the combustion of a specified amount of it.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasSpecificEnergyValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasSpecificEnergyValue"
+}

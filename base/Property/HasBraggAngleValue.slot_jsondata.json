@@ -1,0 +1,22 @@
+{
+    "uuid": "efd38815-9cb0-554c-81c8-38f4fb488df9",
+    "name": "HasBraggAngleValue",
+    "label": [
+        {
+            "text": "Bragg Angle",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Bragg Angle\" describes the condition for a plane wave to be diffracted from a family of lattice planes, the angle between the wavevector of the incident plane wave, and the lattice planes.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasAngleValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

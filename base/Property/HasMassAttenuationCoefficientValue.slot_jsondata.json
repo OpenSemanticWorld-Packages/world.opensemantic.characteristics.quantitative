@@ -1,0 +1,25 @@
+{
+    "uuid": "00a6b233-e021-55c7-b8a5-004f7e1071f5",
+    "name": "HasMassAttenuationCoefficientValue",
+    "label": [
+        {
+            "text": "Mass Attenuation Coefficient",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Mass Attenuation Coefficient\" is a measurement of how strongly a chemical species or substance absorbs or scatters light at a given wavelength, per unit mass.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "d9e3cf43-4e8d-5462-b01c-c1151b969109",
+        "name": "m²/kg",
+        "main_symbol": "m²/kg"
+    }
+}

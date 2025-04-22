@@ -1,0 +1,22 @@
+{
+    "uuid": "e6342227-b118-5f79-93c5-16f698327052",
+    "name": "HasCartesianAreaValue",
+    "label": [
+        {
+            "text": "Cartesian Area",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Area\" is a quantity that expresses the extent of a two-dimensional surface or shape, or planar lamina, in the plane.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasAreaValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasAreaValue"
+}

@@ -1,0 +1,33 @@
+{
+    "uuid": "65e17bde-2f03-5ec6-9048-475919803551",
+    "name": "HasWarpingMomentValue",
+    "label": [
+        {
+            "text": "Warping Moment",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The warping moment measure is a measure for the warping moment, which occurs in warping torsional analysis. It is usually measured in kNm².",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "bf2a944e-911c-5725-a233-d663982ab325",
+        "name": "N·m²",
+        "main_symbol": "N·m²"
+    },
+    "additional_units": [
+        {
+            "uuid": "7e5b5861-1181-51a8-b744-9739f1d12149",
+            "name": "kN·m²",
+            "main_symbol": "kN·m²",
+            "conversion_factor_to_main_unit": "0.001"
+        }
+    ]
+}

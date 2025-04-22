@@ -1,0 +1,25 @@
+{
+    "uuid": "26847431-43f3-5e8a-91fe-c356065b593e",
+    "name": "HasTemperatureValue",
+    "label": [
+        {
+            "text": "Temperature",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Temperature is a physical property of matter that quantitatively expresses the common notions of hot and cold. Objects of low temperature are cold, while various degrees of higher temperatures are referred to as warm or hot. Heat spontaneously flows from bodies of a higher temperature to bodies of lower temperature, at a rate that increases with the temperature difference and the thermal conductivity.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "7c7c6b5f-d76a-5abe-92e1-006bc49ce7e4",
+        "name": "K",
+        "main_symbol": "K"
+    }
+}

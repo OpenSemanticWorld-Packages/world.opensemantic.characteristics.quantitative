@@ -1,0 +1,16 @@
+{
+    "uuid": "c4f18778-600d-5958-b099-702a829aeb24",
+    "name": "HasNozzleWallsThrustReactionValue",
+    "label": [
+        {
+            "text": "Nozzle Walls Thrust Reaction",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasForceValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasForceValue"
+}

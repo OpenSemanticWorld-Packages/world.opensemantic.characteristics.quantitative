@@ -1,0 +1,16 @@
+{
+    "uuid": "75e4e12e-a6a9-5fd4-b841-77942268f7a3",
+    "name": "HasActionTimeValue",
+    "label": [
+        {
+            "text": "Action Time",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasTimeValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasTimeValue"
+}

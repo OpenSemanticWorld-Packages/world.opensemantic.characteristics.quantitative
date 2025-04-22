@@ -1,0 +1,25 @@
+{
+    "uuid": "f77f4a8f-d873-50be-a720-0a5801f612d2",
+    "name": "HasDensityOfStatesValue",
+    "label": [
+        {
+            "text": "Density of states",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Density of States\" is the number of vibrational modes in an infinitesimal interval of angular frequency divided by the range of that interval and by volume.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "757000c4-17f0-51f9-af00-170ce18c071b",
+        "name": "s/(rad·m³)",
+        "main_symbol": "s/(rad·m³)"
+    }
+}

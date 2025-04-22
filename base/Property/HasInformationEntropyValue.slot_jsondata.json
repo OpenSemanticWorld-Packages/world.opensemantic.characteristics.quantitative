@@ -1,0 +1,22 @@
+{
+    "uuid": "3f0b4ce6-c6a9-53ba-b01a-7a55ea9162d6",
+    "name": "HasInformationEntropyValue",
+    "label": [
+        {
+            "text": "Information Entropy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Information Entropy is a concept from information theory. It tells how much information there is in an event. In general, the more uncertain or random the event is, the more information it will contain. The concept of information entropy was created by a mathematician. He was named Claude Elwood Shannon. It has applications in many areas, including lossless data compression, statistical inference, cryptography and recently in other disciplines as biology, physics or machine learning.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

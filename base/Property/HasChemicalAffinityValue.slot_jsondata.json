@@ -1,0 +1,33 @@
+{
+    "uuid": "874e0bef-b7a3-5056-ad5b-a4ede9099784",
+    "name": "HasChemicalAffinityValue",
+    "label": [
+        {
+            "text": "Chemical Affinity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In chemical physics and physical chemistry, \"Chemical Affinity\" is the electronic property by which dissimilar chemical species are capable of forming chemical compounds. Chemical affinity can also refer to the tendency of an atom or compound to combine by chemical reaction with atoms or compounds of unlike composition.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "da436d0a-f512-5528-874e-2a30f76cb78d",
+        "name": "J/mol",
+        "main_symbol": "J/mol"
+    },
+    "additional_units": [
+        {
+            "uuid": "f05cac56-ce3c-53ed-a7fc-306ce96d8b77",
+            "name": "kJ/mol",
+            "main_symbol": "kJ/mol",
+            "conversion_factor_to_main_unit": "0.001"
+        }
+    ]
+}

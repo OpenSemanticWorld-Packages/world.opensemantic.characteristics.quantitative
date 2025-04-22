@@ -1,0 +1,25 @@
+{
+    "uuid": "4d23f0f4-6d0f-5948-bf45-5d5014cfbb9e",
+    "name": "HasSpecificSurfaceAreaValue",
+    "label": [
+        {
+            "text": "Specific Surface Area",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Specific surface area (SSA) is a property of solids defined as the total surface area (SA) of a material per unit mass, (with units of m²/kg or m²/g). It is a physical value that can be used to determine the type and properties of a material (e.g. soil or snow). It has a particular importance for adsorption, heterogeneous catalysis, and reactions on surfaces.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "d9e3cf43-4e8d-5462-b01c-c1151b969109",
+        "name": "m²/kg",
+        "main_symbol": "m²/kg"
+    }
+}

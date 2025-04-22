@@ -1,0 +1,22 @@
+{
+    "uuid": "e364b0a6-200a-502f-aa8c-42766b518038",
+    "name": "HasPhaseSpeedOfSoundValue",
+    "label": [
+        {
+            "text": "Phase speed of sound",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In a dispersive medium sound speed is a function of sound frequency, through the dispersion relation. The spatial and temporal distribution of a propagating disturbance will continually change. Each frequency component propagates at its own Phase Velocity of Sound.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasSpeedOfSoundValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasSpeedValue"
+}

@@ -1,0 +1,16 @@
+{
+    "uuid": "f8385391-babe-5955-840e-98775d91fb23",
+    "name": "HasCenterOfGravityInTheXAxisValue",
+    "label": [
+        {
+            "text": "Center of Gravity in the X axis",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

@@ -1,0 +1,22 @@
+{
+    "uuid": "3be7e5ab-0218-5095-8bc3-a31202edd326",
+    "name": "HasPositivePlaneAngleValue",
+    "label": [
+        {
+            "text": "Positive Plane Angle",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A \"PositivePlaneAngle\" is a plane angle strictly greater than zero.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasPlaneAngleValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasPlaneAngleValue"
+}

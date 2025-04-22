@@ -1,0 +1,22 @@
+{
+    "uuid": "625e2c0d-4401-55ef-9889-b810e53f4e95",
+    "name": "HasRelaxationTimeValue",
+    "label": [
+        {
+            "text": "Relaxation TIme",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Relaxation TIme\" is a time constant for exponential decay towards equilibrium.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasTimeValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasTimeValue"
+}

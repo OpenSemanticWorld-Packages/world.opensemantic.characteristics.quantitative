@@ -1,0 +1,22 @@
+{
+    "uuid": "2a27d9fa-42e2-5db7-8ef1-2e0180c1b55e",
+    "name": "HasStoichiometricNumberValue",
+    "label": [
+        {
+            "text": "Stoichiometric Number",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Chemical reactions, as macroscopic unit operations, consist of simply a very large number of elementary reactions, where a single molecule reacts with another molecule. As the reacting molecules (or moieties) consist of a definite set of atoms in an integer ratio, the ratio between reactants in a complete reaction is also in integer ratio. A reaction may consume more than one molecule, and the \"Stoichiometric Number\" counts this number, defined as positive for products (added) and negative for reactants (removed).",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

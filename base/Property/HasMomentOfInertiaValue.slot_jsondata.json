@@ -1,0 +1,29 @@
+{
+    "uuid": "be8103fe-e250-5d5c-ad5d-b5a7d7c82753",
+    "name": "HasMomentOfInertiaValue",
+    "label": [
+        {
+            "text": "Moment of inertia",
+            "lang": "en"
+        },
+        {
+            "text": "Massenträgheitsmoment",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The rotational inertia or resistance to change in direction or speed of rotation about a defined axis.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "809a0dba-be1f-5567-8307-5dd4631e2624",
+        "name": "kg·m²",
+        "main_symbol": "kg·m²"
+    }
+}

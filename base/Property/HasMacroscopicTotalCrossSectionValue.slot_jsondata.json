@@ -1,0 +1,22 @@
+{
+    "uuid": "2b707c78-6dd3-5854-a262-dc81a4afd7ae",
+    "name": "HasMacroscopicTotalCrossSectionValue",
+    "label": [
+        {
+            "text": "Macroscopic Total Cross-section",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Macroscopic Total Cross-section\" is the total cross-sections for all atoms or other entities in a given 3D domain, divided by the volume of that domain.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasCrossSectionValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasAreaValue"
+}

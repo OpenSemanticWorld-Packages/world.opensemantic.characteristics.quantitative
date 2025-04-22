@@ -1,0 +1,22 @@
+{
+    "uuid": "b8f398ed-ded2-56fb-b537-edac74021de9",
+    "name": "HasFlightPerformanceReservePropellantMassValue",
+    "label": [
+        {
+            "text": "Flight Performance Reserve Propellant Mass",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A quantity of propellant, at a nominal mixture ratio, along with fuel bias that is set aside from total propellant loaded to cover for statistical variations of flight hardware characteristics and environment conditions on the day of launch. The launch vehicle is designed to accommodate the maximum FPR loading.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasMassValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasMassValue"
+}

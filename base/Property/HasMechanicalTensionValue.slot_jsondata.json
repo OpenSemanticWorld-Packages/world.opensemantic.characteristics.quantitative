@@ -1,0 +1,22 @@
+{
+    "uuid": "95476819-a2c4-5b24-8801-078fd9f4a4e1",
+    "name": "HasMechanicalTensionValue",
+    "label": [
+        {
+            "text": "Mechanical tension",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "an einem Punkt eines Körpers, an dem eine Kraft angreift, welche die Form des Körpers zu verändern sucht, der Grenzwert des Quotienten Kraft durch Fläche einer ebenen Oberfläche um diesen Punkt, wenn deren Abmessungen gegen null gehen",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasForcePerAreaValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasForcePerAreaValue"
+}

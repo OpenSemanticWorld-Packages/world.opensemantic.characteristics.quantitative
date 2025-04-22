@@ -1,0 +1,16 @@
+{
+    "uuid": "3a576bcc-2dff-5135-a881-8c760673af78",
+    "name": "HasMolarInternalEnergyValue",
+    "label": [
+        {
+            "text": "Molar internal energy",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasMolarEnergyValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasMolarEnergyValue"
+}

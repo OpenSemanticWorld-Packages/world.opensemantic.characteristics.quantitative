@@ -1,0 +1,22 @@
+{
+    "uuid": "235606a6-9f8c-5154-ad6b-c547b6c440e9",
+    "name": "HasFailureRateValue",
+    "label": [
+        {
+            "text": "Failure rate",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Grenzwert - falls er existiert - des Quotienten aus der bedingten Wahrscheinlichkeit, dass der Ausfallzeitpunkt t eines Betriebsmittels in ein gegebenes Zeitintervall (t, t + Δt) fällt, und der Dauer dieses Zeitintervalls, wenn Δt gegen null geht und das Betriebsmittel sich zu Beginn des Zeitintervalls im betriebsfähigen Zustand befindet",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasIncidenceValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasFrequencyValue"
+}

@@ -1,0 +1,22 @@
+{
+    "uuid": "c688dc30-a066-5d36-b9ad-603c15f8391a",
+    "name": "HasMoleFractionValue",
+    "label": [
+        {
+            "text": "Mole Fraction",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In chemistry, the mole fraction of a component in a mixture is the relative proportion of molecules belonging to the component to those in the mixture, by number of molecules. It is one way of measuring concentration.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessRatioValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

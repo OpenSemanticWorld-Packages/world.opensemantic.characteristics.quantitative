@@ -1,0 +1,25 @@
+{
+    "uuid": "52260a6e-6bfc-5aa9-ab24-991a82222443",
+    "name": "HasMassSpecificBiogeochemicalRateValue",
+    "label": [
+        {
+            "text": "Mass Specific Biogeochemical Rate",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "the rate at which a specific chemical element or compound is processed or transformed within an ecosystem, calculated per unit mass of the relevant biological material. Unreduced, SI unit is g * g-1 * s-1",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "4ef8a628-50ca-5eee-9fa7-8d524e0f3cff",
+        "name": "μg/(g·d)",
+        "main_symbol": "μg/(g·d)"
+    }
+}

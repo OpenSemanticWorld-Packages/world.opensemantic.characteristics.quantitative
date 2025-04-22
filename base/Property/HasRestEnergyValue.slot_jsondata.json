@@ -1,0 +1,22 @@
+{
+    "uuid": "24581c50-c8fd-5255-b930-dd85c7dd5241",
+    "name": "HasRestEnergyValue",
+    "label": [
+        {
+            "text": "Rest Energy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Rest Energy\" is the energy equivalent of the rest mass of a body, equal to the rest mass multiplied by the speed of light squared.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasEnergyValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasEnergyValue"
+}

@@ -1,0 +1,22 @@
+{
+    "uuid": "0964d549-b44a-5d63-bc13-2952307d23ef",
+    "name": "HasForceMagnitudeValue",
+    "label": [
+        {
+            "text": "Force Magnitude",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The 'magnitude' of a force is its 'size' or 'strength', regardless of the direction in which it acts.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasForceValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasForceValue"
+}

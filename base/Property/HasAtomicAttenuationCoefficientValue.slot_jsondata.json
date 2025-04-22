@@ -1,0 +1,22 @@
+{
+    "uuid": "0ef4ccf3-598b-5031-9833-8946495aec63",
+    "name": "HasAtomicAttenuationCoefficientValue",
+    "label": [
+        {
+            "text": "Atomic Attenuation Coefficient",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Atomic Attenuation Coefficient\" is a measurement of how strongly a chemical species or substance absorbs or scatters light at a given wavelength, per the number of atoms in the substance.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasAreaValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasAreaValue"
+}

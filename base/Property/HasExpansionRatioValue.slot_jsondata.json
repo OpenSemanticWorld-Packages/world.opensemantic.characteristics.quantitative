@@ -1,0 +1,19 @@
+{
+    "uuid": "22623e2a-9c77-5987-ad4f-7cab1f3676df",
+    "name": "HasExpansionRatioValue",
+    "label": [
+        {
+            "text": "Expansion Ratio",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "1e7ef827-94bd-5119-aaf2-b8528919c925",
+        "name": "1/K",
+        "main_symbol": "1/K"
+    }
+}

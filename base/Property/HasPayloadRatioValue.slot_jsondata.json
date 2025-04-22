@@ -1,0 +1,22 @@
+{
+    "uuid": "5fbab205-2e68-5129-a0c1-761bc5c13843",
+    "name": "HasPayloadRatioValue",
+    "label": [
+        {
+            "text": "Payload Ratio",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The payload ratio is defined as the mass of the payload divided by the empty mass of the structure. Because of the extra cost involved in staging rockets, given the choice, it's often more economic to use few stages with a small payload ratio rather than more stages each with a high payload ratio.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessRatioValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

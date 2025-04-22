@@ -1,0 +1,26 @@
+{
+    "uuid": "d3433098-b707-5d48-bc0a-3dc0693b5caa",
+    "name": "HasHeatValue",
+    "label": [
+        {
+            "text": "Heat",
+            "lang": "en"
+        },
+        {
+            "text": "Wärme",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Heat\" is the energy transferred by a thermal process.  Heat can be measured in terms of the dynamical units of energy, as the erg, joule, etc., or in terms of the amount of energy required to produce a definite thermal change in some substance, as, for example, the energy required per degree to raise the temperature of a unit mass of water at some temperature ( calorie, Btu).",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasThermalEnergyValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasEnergyValue"
+}

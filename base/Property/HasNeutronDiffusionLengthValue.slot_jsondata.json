@@ -1,0 +1,22 @@
+{
+    "uuid": "ed487376-db93-5e12-b7d3-6c18babae7bd",
+    "name": "HasNeutronDiffusionLengthValue",
+    "label": [
+        {
+            "text": "Neutron Diffusion Length",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The neutron diffusion length is equivalent to the relaxation length, that is, to the distance, in which the neutron flux decreases by a factor e",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

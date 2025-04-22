@@ -1,0 +1,26 @@
+{
+    "uuid": "60bed351-9ada-5f14-a4d7-4e80a07a131e",
+    "name": "HasAngularAccelerationValue",
+    "label": [
+        {
+            "text": "Angular acceleration",
+            "lang": "en"
+        },
+        {
+            "text": "Winkelbeschleunigung",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Angular acceleration is the rate of change of angular velocity over time. Measurement of the change made in the rate of change of an angle that a spinning object undergoes per unit time. It is a vector quantity.  Also called Rotational acceleration. In SI units, it is measured in radians per second squared ($rad/s^2$), and is usually denoted by the Greek letter alpha.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasInverseSquareTimeValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasInverseSquareTimeValue"
+}

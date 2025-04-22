@@ -1,0 +1,22 @@
+{
+    "uuid": "afc56529-8cc3-5c23-ace0-d88b17d244d8",
+    "name": "HasFlightPathAngleValue",
+    "label": [
+        {
+            "text": "Flight Path Angle",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Flight path angle is defined in two different ways. To the aerodynamicist, it is the angle between the flight path vector (where the airplane is going) and the local atmosphere. To the flight crew, it is normally known as the angle between the flight path vector and the horizon, also known as the climb (or descent) angle.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasAngleValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

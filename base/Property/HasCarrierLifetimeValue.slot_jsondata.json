@@ -1,0 +1,22 @@
+{
+    "uuid": "fbdd4e5d-8b48-5a32-ba9a-2edd28ed7a2c",
+    "name": "HasCarrierLifetimeValue",
+    "label": [
+        {
+            "text": "Carrier LifetIme",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Carrier LifetIme\" is a time constant for recombination or trapping of minority charge carriers in semiconductors.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasTimeValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasTimeValue"
+}

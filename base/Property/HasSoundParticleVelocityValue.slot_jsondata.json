@@ -1,0 +1,26 @@
+{
+    "uuid": "9cba4912-05e3-51e1-9962-a98f5c9008df",
+    "name": "HasSoundParticleVelocityValue",
+    "label": [
+        {
+            "text": "Sound particle velocity",
+            "lang": "en"
+        },
+        {
+            "text": "Schallschnelle",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Sound Particle velocity is the velocity v of a particle (real or imagined) in a medium as it transmits a wave. In many cases this is a longitudinal wave of pressure as with sound, but it can also be a transverse wave as with the vibration of a taut string. When applied to a sound wave through a medium of a fluid like air, particle velocity would be the physical speed of a parcel of fluid as it moves back and forth in the direction the sound wave is travelling as it passes.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasVelocityValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasVelocityValue"
+}

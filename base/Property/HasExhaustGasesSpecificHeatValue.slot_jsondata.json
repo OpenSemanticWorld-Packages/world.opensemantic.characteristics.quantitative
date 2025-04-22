@@ -1,0 +1,22 @@
+{
+    "uuid": "b9957403-d855-5d98-bb48-d94000be2a97",
+    "name": "HasExhaustGasesSpecificHeatValue",
+    "label": [
+        {
+            "text": "Exhaust Gases Specific Heat",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Specific heat of exhaust gases at constant pressure.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasSpecificHeatCapacityValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasSpecificHeatCapacityValue"
+}

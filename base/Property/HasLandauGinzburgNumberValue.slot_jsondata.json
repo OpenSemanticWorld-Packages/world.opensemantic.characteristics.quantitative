@@ -1,0 +1,22 @@
+{
+    "uuid": "7559b455-a9c7-52c2-a0ca-b401fa467d58",
+    "name": "HasLandauGinzburgNumberValue",
+    "label": [
+        {
+            "text": "Landau-Ginzburg Number",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Landau-Ginzburg Number\", also known as the Ginzburg-Landau parameter, describes the relationship between London penetration depth and coherence length.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessRatioValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

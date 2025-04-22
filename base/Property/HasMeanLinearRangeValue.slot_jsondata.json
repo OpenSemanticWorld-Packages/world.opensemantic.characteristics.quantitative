@@ -1,0 +1,22 @@
+{
+    "uuid": "7f8022e7-a450-54fe-8b33-f1d30eba7c34",
+    "name": "HasMeanLinearRangeValue",
+    "label": [
+        {
+            "text": "Mean Linear Range",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Mean Linear Range\" is, in a given material, for specified charged particles of a specified energy, the average displacement of the particles before they stop. That is, the mean totl rectified path length travelled by a particle in the course of slowing down to rest (or to some suitable cut-off energy) in a given substance under specified conditions averaged over a group of particles having the same initial energy.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

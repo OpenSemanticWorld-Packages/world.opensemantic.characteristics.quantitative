@@ -1,0 +1,29 @@
+{
+    "uuid": "5ba60f94-bcb9-5b0d-8a2d-17d752c34a17",
+    "name": "HasMolarMassValue",
+    "label": [
+        {
+            "text": "Molar mass",
+            "lang": "en"
+        },
+        {
+            "text": "Molmasse",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "In chemistry, the molar mass M is defined as the mass of a given substance (chemical element or chemical compound) divided by its amount of substance. It is a physical property of a given substance. The base SI unit for molar mass is $kg/mol$.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "4b97bf05-06f5-5d4f-8a2e-b4ce9ea1c8e1",
+        "name": "kg/mol",
+        "main_symbol": "kg/mol"
+    }
+}

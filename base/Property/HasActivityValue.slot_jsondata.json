@@ -1,0 +1,22 @@
+{
+    "uuid": "a50207bc-1b68-5f76-bede-2eb0197cd3c3",
+    "name": "HasActivityValue",
+    "label": [
+        {
+            "text": "Activity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Activity}$ is the number of decays per unit time of a radioactive sample,\n   the term used to characterise the number of nuclei which disintegrate in a radioactive substance per unit time. \n  Activity is usually measured in Becquerels ($Bq$), where 1 $Bq$ is 1 disintegration per second,\n   in honor of the scientist Henri Becquerel.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasStochasticProcessValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasFrequencyValue"
+}

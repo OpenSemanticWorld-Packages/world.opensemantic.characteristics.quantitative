@@ -1,0 +1,16 @@
+{
+    "uuid": "3381b96e-b952-5e99-8ead-58fa477e1f08",
+    "name": "HasEarthClosestApproachVehicleVelocityValue",
+    "label": [
+        {
+            "text": "Earth Closest Approach Vehicle Velocity",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasVehicleVelocityValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasVelocityValue"
+}

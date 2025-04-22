@@ -1,0 +1,22 @@
+{
+    "uuid": "f2e9df21-be86-5e40-b22e-d8d8659684f8",
+    "name": "HasMomentOfInertiaInTheYAxisValue",
+    "label": [
+        {
+            "text": "Moment of Inertia in the Y axis",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The rotational inertia or resistance to change in direction or speed of rotation about a defined axis.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasMomentOfInertiaValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasMomentOfInertiaValue"
+}

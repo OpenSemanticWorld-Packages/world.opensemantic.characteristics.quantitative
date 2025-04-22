@@ -1,0 +1,19 @@
+{
+    "uuid": "21a197fd-230c-5a37-af61-01af259fbe55",
+    "name": "HasLengthMolarEnergyValue",
+    "label": [
+        {
+            "text": "Length Molar Energy",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "95238ff6-2390-50db-b5e5-0427dc6fd801",
+        "name": "J·m/mol",
+        "main_symbol": "J·m/mol"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "uuid": "e1f9b38d-1f4e-5e6a-8cc1-4eb18a46e9e0",
+    "name": "HasTemperatureRatioValue",
+    "label": [
+        {
+            "text": "Temperature Ratio",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessRatioValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

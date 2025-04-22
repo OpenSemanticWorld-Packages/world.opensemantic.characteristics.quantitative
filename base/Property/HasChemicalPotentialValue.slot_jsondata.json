@@ -1,0 +1,26 @@
+{
+    "uuid": "4eae8463-0eb9-5987-9dee-d971213f1f7e",
+    "name": "HasChemicalPotentialValue",
+    "label": [
+        {
+            "text": "Chemical potential",
+            "lang": "en"
+        },
+        {
+            "text": "Chemisches Potential des Stoffs B",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Chemical Potential\", also known as partial molar free energy, is a form of potential energy that can be absorbed or released during a chemical reaction.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasMolarEnergyValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasMolarEnergyValue"
+}

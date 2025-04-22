@@ -1,0 +1,22 @@
+{
+    "uuid": "caf9911c-3c8e-5714-bba8-2a6339394a7c",
+    "name": "HasStaticPressureValue",
+    "label": [
+        {
+            "text": "Static pressure",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Static Pressure\" is the pressure at a nominated point in a fluid. Every point in a steadily flowing fluid, regardless of the fluid speed at that point, has its own static pressure $P$, dynamic pressure $q$, and total pressure $P_0$. The total pressure is the sum of the dynamic and static pressures, that is $P_0 = P + q$.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasPressureValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasForcePerAreaValue"
+}

@@ -1,0 +1,25 @@
+{
+    "uuid": "107acd5d-3b2b-5749-9e53-b91a0d2b2cc8",
+    "name": "HasFluxValue",
+    "label": [
+        {
+            "text": "Flux",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Flux describes any effect that appears to pass or travel (whether it actually moves or not) through a surface or substance. [Wikipedia]",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "c54940c5-17f7-5f85-a9b1-a37cdd3b9554",
+        "name": "1/(m²·s)",
+        "main_symbol": "1/(m²·s)"
+    }
+}

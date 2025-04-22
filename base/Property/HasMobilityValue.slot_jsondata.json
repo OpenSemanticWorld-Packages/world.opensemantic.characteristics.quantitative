@@ -1,0 +1,37 @@
+{
+    "uuid": "59c588ca-8c80-5be5-9db2-2608f9bb48c0",
+    "name": "HasMobilityValue",
+    "label": [
+        {
+            "text": "Mobility",
+            "lang": "en"
+        },
+        {
+            "text": "Beweglichkeit",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Mobility\" characterizes how quickly a particle can move through a metal or semiconductor, when pulled by an electric field. The average drift speed imparted to a charged particle in a medium by an electric field, divided by the electric field strength.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "65505a3d-635d-5ac4-9035-98b6d06fdde5",
+        "name": "m²/(V·s)",
+        "main_symbol": "m²/(V·s)"
+    },
+    "additional_units": [
+        {
+            "uuid": "7da34e92-6dbb-5a0c-9336-8978df4c205c",
+            "name": "cm²/(V·s)",
+            "main_symbol": "cm²/(V·s)",
+            "conversion_factor_to_main_unit": "10000.0"
+        }
+    ]
+}

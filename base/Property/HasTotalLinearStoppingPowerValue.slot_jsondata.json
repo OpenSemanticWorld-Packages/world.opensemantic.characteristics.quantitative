@@ -1,0 +1,25 @@
+{
+    "uuid": "e08cb028-e038-5bd7-9d87-51bf25e70904",
+    "name": "HasTotalLinearStoppingPowerValue",
+    "label": [
+        {
+            "text": "Total Linear Stopping Power",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Total Linear Stopping Power\" is defined as the average energy loss of the particle per unit path length.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "63b230e8-78d2-5777-b374-f74a4761f754",
+        "name": "J/m",
+        "main_symbol": "J/m"
+    }
+}

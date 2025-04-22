@@ -1,0 +1,22 @@
+{
+    "uuid": "d55d04a0-c4e1-5fbb-b15c-7e7b9e8bc033",
+    "name": "HasMolarEquivalentValue",
+    "label": [
+        {
+            "text": "Molar Equivalent",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Molar Equivalent\" is the amount of a substance that reacts with (or is equivalent to) an arbitrary amount (typically one mole) of \nanother substance in a given chemical reaction.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasAmountOfSubstanceValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasAmountOfSubstanceValue"
+}

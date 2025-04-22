@@ -1,0 +1,25 @@
+{
+    "uuid": "8caad782-5599-53d6-afb7-5e068833462d",
+    "name": "HasMassConcentrationOfWaterValue",
+    "label": [
+        {
+            "text": "Mass Concentration of Water",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Mass Concentration of Water is one of a number of Concentration quantities defined by ISO 80000.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "00ccc829-6835-5ef2-9367-eeaf40f31544",
+        "name": "kg/m³",
+        "main_symbol": "kg/m³"
+    }
+}

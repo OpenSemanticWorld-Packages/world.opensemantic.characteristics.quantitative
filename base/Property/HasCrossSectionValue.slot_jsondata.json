@@ -1,0 +1,22 @@
+{
+    "uuid": "3b7b8474-3efc-55c4-9e7f-78b034b8e4b2",
+    "name": "HasCrossSectionValue",
+    "label": [
+        {
+            "text": "Cross-section",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Cross-section\" is used to express the likelihood of interaction between particles. For a specified target particle and for a specified reaction or process produced by incident charged or uncharged particles of specified type and energy, it is the mean number of such reactions or processes divided by the incident-particle fluence.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasAreaValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasAreaValue"
+}

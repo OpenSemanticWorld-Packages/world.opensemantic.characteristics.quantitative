@@ -1,0 +1,25 @@
+{
+    "uuid": "5db4b191-bf2f-59db-a3ba-422e1929dbd3",
+    "name": "HasSpectralRadiantEnergyDensityValue",
+    "label": [
+        {
+            "text": "Spectral Radiant Energy Density",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Spectral Radiant Energy Density\" is the spectral concentration of radiant energy density (in terms of wavelength), or the spectral radiant energy density (in terms of wave length).",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "2c8daf12-299e-5c7b-99ba-5173eabfd706",
+        "name": "J/m⁴",
+        "main_symbol": "J/m⁴"
+    }
+}

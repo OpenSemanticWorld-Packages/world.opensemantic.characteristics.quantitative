@@ -1,0 +1,19 @@
+{
+    "uuid": "44941826-a1b0-5d49-b5aa-f1767c45f5dc",
+    "name": "HasLengthEnergyValue",
+    "label": [
+        {
+            "text": "Length Energy",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "77a81241-cbe3-5915-91ec-f4239a1991f0",
+        "name": "MeV·fm",
+        "main_symbol": "MeV·fm"
+    }
+}

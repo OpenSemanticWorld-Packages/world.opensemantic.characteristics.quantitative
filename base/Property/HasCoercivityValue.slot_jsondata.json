@@ -1,0 +1,51 @@
+{
+    "uuid": "c4940db8-2189-5570-b477-74515f90c28b",
+    "name": "HasCoercivityValue",
+    "label": [
+        {
+            "text": "Coercivity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Coercivity}$, also referred to as $\\textit{Coercive Field Strength}$, is the magnetic field strength to be applied to bring the magnetic flux density in a substance from its remaining magnetic flux density to zero. This is defined as the coercive field strength in a substance when either the magnetic flux density or the magnetic polarization and magnetization is brought from its value at magnetic saturation to zero by monotonic reduction of the applied magnetic field strength. The quantity which is brought to zero should be stated, and the appropriate symbol used: $H_{cB}$, $H_{cJ}$ or $H_{cM}$ for the coercivity relating to the magnetic flux density, the magnetic polarization or the magnetization respectively, where $H_{cJ} = H_{cM}$.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "6fa236e9-a68a-5860-ad1b-78e4661cd868",
+        "name": "A/m",
+        "main_symbol": "A/m"
+    },
+    "additional_units": [
+        {
+            "uuid": "833dfeeb-eec0-52b3-8b83-fadfd000c6aa",
+            "name": "A/mm",
+            "main_symbol": "A/mm",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "4a1c9876-e5b9-5cdd-9e3c-91c4bcb4a1b9",
+            "name": "mA/mm",
+            "main_symbol": "mA/mm",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "99297bb9-0534-5118-99ba-c3777780ca81",
+            "name": "kA/m",
+            "main_symbol": "kA/m",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "b7c4daea-ba2e-5529-a9dc-4626f9036524",
+            "name": "A/cm",
+            "main_symbol": "A/cm",
+            "conversion_factor_to_main_unit": "0.01"
+        }
+    ]
+}

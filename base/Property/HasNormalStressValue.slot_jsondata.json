@@ -1,0 +1,22 @@
+{
+    "uuid": "39d40af9-7fd0-59e2-acbc-19c2cf1b8ec2",
+    "name": "HasNormalStressValue",
+    "label": [
+        {
+            "text": "Normal Stress",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Normal stress is defined as the stress resulting from a force acting normal to a body surface. Normal stress can be caused by several loading methods, the most common being axial tension and compression, bending, and hoop stress.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasStressValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasForcePerAreaValue"
+}

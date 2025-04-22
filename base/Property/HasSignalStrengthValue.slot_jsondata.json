@@ -1,0 +1,22 @@
+{
+    "uuid": "0c568d6b-c05c-5fa3-80a2-fc7ff97b892b",
+    "name": "HasSignalStrengthValue",
+    "label": [
+        {
+            "text": "Signal Strength",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In telecommunications, particularly in radio, signal strength refers to the magnitude of the electric field at a reference point that is a significant distance from the transmitting antenna. It may also be referred to as received signal level or field strength. Typically, it is expressed in voltage per length or signal power received by a reference antenna. High-powered transmissions, such as those used in broadcasting, are expressed in dB-millivolts per metre (dBmV/m).",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasElectricFieldStrengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasElectricFieldStrengthValue"
+}

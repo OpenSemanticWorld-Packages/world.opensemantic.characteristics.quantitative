@@ -1,0 +1,25 @@
+{
+    "uuid": "09eed736-b8ec-533d-9a65-6c43f406ba57",
+    "name": "HasUnknownValue",
+    "label": [
+        {
+            "text": "Unknown",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Placeholder value used for reference from units where it is not clear what a given unit is a measure of.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "a4875bfd-74f9-5f8e-abd2-dae162aa00db",
+        "name": "°C²/s",
+        "main_symbol": "°C²/s"
+    }
+}

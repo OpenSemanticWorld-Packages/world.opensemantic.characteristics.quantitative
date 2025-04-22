@@ -1,0 +1,16 @@
+{
+    "uuid": "75fafda6-f71a-5413-807a-defd6f4bee2d",
+    "name": "HasPressureRatioValue",
+    "label": [
+        {
+            "text": "Pressure Ratio",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessRatioValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

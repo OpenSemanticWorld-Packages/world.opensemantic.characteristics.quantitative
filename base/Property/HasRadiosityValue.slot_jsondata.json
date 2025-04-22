@@ -1,0 +1,22 @@
+{
+    "uuid": "5a263636-e83d-5c2b-8bec-8322dc31f5ca",
+    "name": "HasRadiosityValue",
+    "label": [
+        {
+            "text": "Radiosity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Radiosity is the total emitted and reflected radiation leaving a surface.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasPowerPerAreaValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasPowerPerAreaValue"
+}

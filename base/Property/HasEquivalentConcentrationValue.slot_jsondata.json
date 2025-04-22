@@ -1,0 +1,22 @@
+{
+    "uuid": "a88388f6-ed68-57be-861a-22d1d1777bde",
+    "name": "HasEquivalentConcentrationValue",
+    "label": [
+        {
+            "text": "Equivalent Concentration",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The amount of a substance that reacts with (or is equivalent to) an arbitrary amount (typically one mole) of another substance in a given chemical reaction, per volume.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasConcentrationValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasConcentrationValue"
+}

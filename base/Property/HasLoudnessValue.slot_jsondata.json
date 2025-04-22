@@ -1,0 +1,22 @@
+{
+    "uuid": "62f9a811-a445-5fd0-ac71-f9b93dc2e5fd",
+    "name": "HasLoudnessValue",
+    "label": [
+        {
+            "text": "Loudness",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Maß für die Stärke der subjektiven Hörempfindung, welche auf einer Skala \"leise-laut\" in sone skaliert wird; einer frei fortschreitenden monofrequenten Welle mit der Frequenz 1 kHz und dem Schalldruckpegel 40 dB, die frontal auf die Zuhörer trifft, ist die Lautheit 1 sone zugeordnet und ein Laut, welcher von den Zuhörern als n-mal so laut wie derjenige mit 1 sone bezeichnet wird, erhält die Lautheit n sone zugeordnet",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

@@ -1,0 +1,22 @@
+{
+    "uuid": "39140d84-bae6-5958-bcb8-f7ff5c4404b1",
+    "name": "HasDynamicFrictionCoefficientValue",
+    "label": [
+        {
+            "text": "Dynamic Friction Coefficient",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Kinetic (or dynamic) friction occurs when two objects are moving relative to each other and rub together (like a sled on the ground).",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasFrictionCoefficientValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

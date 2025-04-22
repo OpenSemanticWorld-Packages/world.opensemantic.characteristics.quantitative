@@ -1,0 +1,22 @@
+{
+    "uuid": "c5b04219-f36f-5d4a-bab9-5c207d46c2cc",
+    "name": "HasInitialVelocityValue",
+    "label": [
+        {
+            "text": "Initial Velocity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The velocity of a moving body at starting; especially, the velocity of a projectile as it leaves the mouth of a firearm from which it is discharged.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasVelocityValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasVelocityValue"
+}

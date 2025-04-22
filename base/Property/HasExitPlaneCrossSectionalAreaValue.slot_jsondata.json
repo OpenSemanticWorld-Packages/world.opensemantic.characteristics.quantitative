@@ -1,0 +1,22 @@
+{
+    "uuid": "51c1649a-3507-5452-93a2-d1f83fa9e9f2",
+    "name": "HasExitPlaneCrossSectionalAreaValue",
+    "label": [
+        {
+            "text": "Exit Plane Cross-sectional Area",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Cross-sectional area at exit plane of nozzle",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasAreaValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasAreaValue"
+}

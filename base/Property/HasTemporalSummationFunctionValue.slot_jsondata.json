@@ -1,0 +1,25 @@
+{
+    "uuid": "256aab07-52ed-5913-b636-d9adc3a85bcd",
+    "name": "HasTemporalSummationFunctionValue",
+    "label": [
+        {
+            "text": "Temporal Summation Function",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Temporal Summation Function\" is the ability of the human eye to produce a composite signal from the signals coming into an eye during a short time interval.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "d987d348-d793-5c6b-8d9c-3c73ef992b9d",
+        "name": "1/(s·sr)",
+        "main_symbol": "1/(s·sr)"
+    }
+}

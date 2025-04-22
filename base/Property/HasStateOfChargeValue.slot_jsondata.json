@@ -1,0 +1,22 @@
+{
+    "uuid": "c63a7c36-c3e1-5bf2-b815-5a2b1b921265",
+    "name": "HasStateOfChargeValue",
+    "label": [
+        {
+            "text": "StateOfCharge",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"\"State of Charge\",quantifies the remaining capacity available in a battery at a given time and in relation to a given state of ageing.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessRatioValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

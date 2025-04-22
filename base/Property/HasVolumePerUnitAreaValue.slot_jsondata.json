@@ -1,0 +1,19 @@
+{
+    "uuid": "568b208c-69d6-5f56-b8d6-b6e0f4e32718",
+    "name": "HasVolumePerUnitAreaValue",
+    "label": [
+        {
+            "text": "Volume per Unit Area",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "751ec90e-105e-5c59-9496-48a489b2bb4a",
+        "name": "m³/m²",
+        "main_symbol": "m³/m²"
+    }
+}

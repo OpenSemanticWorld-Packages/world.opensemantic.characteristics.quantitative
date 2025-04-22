@@ -1,0 +1,22 @@
+{
+    "uuid": "5b976d45-69a2-59a1-9f05-65f6055c1511",
+    "name": "HasDisplacementVectorOfIonValue",
+    "label": [
+        {
+            "text": "Displacement Vector of Ion",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Displacement Vector of Ion\" is the .",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

@@ -1,0 +1,19 @@
+{
+    "uuid": "a42b6903-8f4c-5715-a964-86c707df7507",
+    "name": "HasTemperaturePerTimeSquaredValue",
+    "label": [
+        {
+            "text": "Temperature per Time Squared",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "a714152c-800f-53b4-acc4-e09fda0435e1",
+        "name": "K/s²",
+        "main_symbol": "K/s²"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "uuid": "8fccabd8-7e8c-5036-b7b4-da59a799b4fd",
+    "name": "HasMassDefectValue",
+    "label": [
+        {
+            "text": "Mass Defect",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Mass Defect\", also termed mass deficit, or mass packing fraction, describes mass change (decrease) in bound systems, particularly atomic nuclei.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasMassValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasMassValue"
+}

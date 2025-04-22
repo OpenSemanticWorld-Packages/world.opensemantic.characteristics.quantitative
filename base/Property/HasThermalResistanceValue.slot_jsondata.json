@@ -1,0 +1,29 @@
+{
+    "uuid": "c24d055d-a16e-59ad-bedc-388ae3a4230f",
+    "name": "HasThermalResistanceValue",
+    "label": [
+        {
+            "text": "Thermal resistance",
+            "lang": "en"
+        },
+        {
+            "text": "Thermischer Widerstand",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Thermal Resistance}$ is a heat property and a measure of a temperature difference by which an object or material resists a heat flow (heat per time unit or thermal resistance). Thermal resistance is the reciprocal thermal conductance. the thermodynamic temperature difference divided by heat flow rate. Thermal resistance $R$ has the units $\\frac{m^2 \\cdot K}{W}$.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "c9591ca9-dd28-5d5a-a43a-722f474252f5",
+        "name": "K/W",
+        "main_symbol": "K/W"
+    }
+}

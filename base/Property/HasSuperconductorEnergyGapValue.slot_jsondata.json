@@ -1,0 +1,22 @@
+{
+    "uuid": "c99f7013-9443-54f1-8eb3-031c30f3a595",
+    "name": "HasSuperconductorEnergyGapValue",
+    "label": [
+        {
+            "text": "Superconductor Energy Gap",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Superconductor Energy Gap\" is the width of the forbidden energy band in a superconductor.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasGapEnergyValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasEnergyValue"
+}

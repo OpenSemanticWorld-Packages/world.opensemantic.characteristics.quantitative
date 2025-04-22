@@ -1,0 +1,22 @@
+{
+    "uuid": "d9278f78-4b2f-5ad8-bbb2-7c6644718f8e",
+    "name": "HasCharacteristicVelocityValue",
+    "label": [
+        {
+            "text": "Characteristic Velocity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Characteristic velocity or $c^{*}$ is a measure of the combustion performance of a rocket engine independent of nozzle performance, and is used to compare different propellants and propulsion systems.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasVelocityValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasVelocityValue"
+}

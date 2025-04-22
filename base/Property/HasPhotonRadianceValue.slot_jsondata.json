@@ -1,0 +1,25 @@
+{
+    "uuid": "c0d27635-d029-52e4-9206-73e4070e5b14",
+    "name": "HasPhotonRadianceValue",
+    "label": [
+        {
+            "text": "Photon Radiance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A measure of flux of photons per surface area per solid angle",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "b8301b00-9383-5032-9541-c16a806c1f88",
+        "name": "1/(s·m²·sr)",
+        "main_symbol": "1/(s·m²·sr)"
+    }
+}

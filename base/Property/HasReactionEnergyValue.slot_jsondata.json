@@ -1,0 +1,22 @@
+{
+    "uuid": "a00b5929-fe7a-52b6-bbba-8aa04237521f",
+    "name": "HasReactionEnergyValue",
+    "label": [
+        {
+            "text": "Reaction Energy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Reaction Energy\" in a nuclear reaction, is the sum of the kinetic energies and photon energies of the reaction products minus the sum of the kinetic and photon energies of the reactants.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasEnergyValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasEnergyValue"
+}

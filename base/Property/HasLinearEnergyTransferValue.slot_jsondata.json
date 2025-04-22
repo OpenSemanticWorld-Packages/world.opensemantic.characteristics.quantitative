@@ -1,0 +1,25 @@
+{
+    "uuid": "ec6cc00c-4dcf-50cf-aeb0-08db0768c072",
+    "name": "HasLinearEnergyTransferValue",
+    "label": [
+        {
+            "text": "Linear Energy Transfer",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Linear Energy Transfer\"  (LET) is the linear density of energy lost by a charged ionizing particle travelling through matter.Typically, this measure is used to quantify the effects of ionizing radiation on biological specimens or electronic devices.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "63b230e8-78d2-5777-b374-f74a4761f754",
+        "name": "J/m",
+        "main_symbol": "J/m"
+    }
+}

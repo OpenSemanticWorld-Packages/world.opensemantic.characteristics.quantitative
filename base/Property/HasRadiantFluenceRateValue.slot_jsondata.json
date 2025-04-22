@@ -1,0 +1,22 @@
+{
+    "uuid": "5f347734-454c-5cd9-9fc8-979713f8557e",
+    "name": "HasRadiantFluenceRateValue",
+    "label": [
+        {
+            "text": "Radiant Fluence Rate",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Radiant fluence rate, or spherical irradiance, is equal to the total radiant flux incident on a small sphere divided by the area of the diametrical cross-section of the sphere.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasPowerPerAreaValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasPowerPerAreaValue"
+}

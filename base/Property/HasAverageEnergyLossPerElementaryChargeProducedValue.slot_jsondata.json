@@ -1,0 +1,22 @@
+{
+    "uuid": "4f330e84-b8e2-5dc9-82e4-13a918f75276",
+    "name": "HasAverageEnergyLossPerElementaryChargeProducedValue",
+    "label": [
+        {
+            "text": "Average Energy Loss per Elementary Charge Produced",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Average Energy Loss per Elementary Charge Produced\" is also referred to as average energy loss per ion pair formed.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasEnergyValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasEnergyValue"
+}

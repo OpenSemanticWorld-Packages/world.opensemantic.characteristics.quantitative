@@ -1,0 +1,57 @@
+{
+    "uuid": "b688ad1b-d02d-5d6d-b563-d91ff7c5ce6e",
+    "name": "HasSectionModulusValue",
+    "label": [
+        {
+            "text": "Section Modulus",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The Section Modulus is a geometric property for a given cross-section used in the design of beams or flexural members.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "0831ca23-6225-563a-adc5-e6c4f748fc44",
+        "name": "m³",
+        "main_symbol": "m³"
+    },
+    "additional_units": [
+        {
+            "uuid": "15946fec-027e-53da-a2e2-3ab48c87dda6",
+            "name": "mm³",
+            "main_symbol": "mm³",
+            "conversion_factor_to_main_unit": "1000000000.0"
+        },
+        {
+            "uuid": "0136226d-7b0a-5f76-bd5d-8676d5245a4c",
+            "name": "dam³",
+            "main_symbol": "dam³",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "6b93ef00-ad07-5989-9827-e2c19b47748e",
+            "name": "μm³",
+            "main_symbol": "μm³",
+            "conversion_factor_to_main_unit": "9.999999999999999e+17"
+        },
+        {
+            "uuid": "2d0df6f5-316e-519f-8cb9-35ba1338612a",
+            "name": "cm³",
+            "main_symbol": "cm³",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "0d9f266c-f5ef-5d56-a4f3-991b2e8add66",
+            "name": "dm³",
+            "main_symbol": "dm³",
+            "conversion_factor_to_main_unit": "1000.0"
+        }
+    ]
+}

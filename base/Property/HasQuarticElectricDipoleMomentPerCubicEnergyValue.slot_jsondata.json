@@ -1,0 +1,19 @@
+{
+    "uuid": "60c8cde3-0e2c-5033-81e2-322f7bbc38b9",
+    "name": "HasQuarticElectricDipoleMomentPerCubicEnergyValue",
+    "label": [
+        {
+            "text": "Quartic Electric Dipole Moment per Cubic Energy",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "3f635a1a-b263-545b-b3b4-0982bb8c399c",
+        "name": "C⁴·m⁴/J³",
+        "main_symbol": "C⁴·m⁴/J³"
+    }
+}

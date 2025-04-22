@@ -1,0 +1,22 @@
+{
+    "uuid": "dbff6be6-6eac-564b-93a3-7e5427593a85",
+    "name": "HasPathLengthValue",
+    "label": [
+        {
+            "text": "Path Length",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"PathLength\" is",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

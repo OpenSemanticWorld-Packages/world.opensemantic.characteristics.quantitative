@@ -1,0 +1,25 @@
+{
+    "uuid": "88618e52-ad3d-52b2-9691-e922a39a0e63",
+    "name": "HasMassPerEnergyValue",
+    "label": [
+        {
+            "text": "Mass per Energy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Mass per Energy is a physical quantity that can be used to relate the energy of a system to its mass.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "96514e46-e0b6-5a3c-ac24-6d6966a4f58d",
+        "name": "kg/J",
+        "main_symbol": "kg/J"
+    }
+}

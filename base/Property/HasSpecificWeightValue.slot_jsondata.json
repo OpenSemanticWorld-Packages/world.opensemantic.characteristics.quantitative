@@ -1,0 +1,33 @@
+{
+    "uuid": "5ec1ddc7-84e9-5f0d-9f77-b1dd46c2cf31",
+    "name": "HasSpecificWeightValue",
+    "label": [
+        {
+            "text": "Specific weight",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The specific weight, also known as the unit weight is a volume-specific quantity defined as the weight per unit volume of a material. Note that weight is defined as a force, distinct from mass.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "80e3d12c-4b7a-5e3a-93ad-764035fce370",
+        "name": "N/m³",
+        "main_symbol": "N/m³"
+    },
+    "additional_units": [
+        {
+            "uuid": "4a97b9ca-ad6e-50e8-abd8-c6859cbba79a",
+            "name": "kN/m³",
+            "main_symbol": "kN/m³",
+            "conversion_factor_to_main_unit": "0.001"
+        }
+    ]
+}

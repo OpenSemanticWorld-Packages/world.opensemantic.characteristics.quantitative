@@ -1,0 +1,22 @@
+{
+    "uuid": "006d3fd0-e3a3-53d8-b3f3-829f52c889de",
+    "name": "HasAngleOfAttackValue",
+    "label": [
+        {
+            "text": "Angle Of Attack",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Angle of attack  is the angle between the oncoming air or relative wind and a reference line on the airplane or wing.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasAngleValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

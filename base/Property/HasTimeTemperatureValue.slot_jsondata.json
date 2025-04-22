@@ -1,0 +1,19 @@
+{
+    "uuid": "dd9cd964-7842-5110-b079-12b6c75e0bdb",
+    "name": "HasTimeTemperatureValue",
+    "label": [
+        {
+            "text": "Time Temperature",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "2ecc46d3-b1c4-5bcb-af32-aa034839c3fc",
+        "name": "K·s",
+        "main_symbol": "K·s"
+    }
+}

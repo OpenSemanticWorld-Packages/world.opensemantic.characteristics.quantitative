@@ -1,0 +1,22 @@
+{
+    "uuid": "fefcf304-2221-5c35-954e-2f3ea6693775",
+    "name": "HasFuelBiasValue",
+    "label": [
+        {
+            "text": "Fuel Bias",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "An additional quantity of fuel to ensure depletion of high-weight oxidizer before fuel for systems with high-oxidizer mixing ratios (e.g., 6:1). This practice allows for more efficient propellant utilization. Denoted as a percentage.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

@@ -1,0 +1,25 @@
+{
+    "uuid": "eaa441f9-140d-5e42-bff6-38f0870b8f63",
+    "name": "HasBasicityValue",
+    "label": [
+        {
+            "text": "Basicity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Chemicals or substances having a pH higher than 7 are said to be basic; higher pH means higher basicity.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "51ada84b-997d-5843-900f-1a53ee592518",
+        "name": "pH",
+        "main_symbol": "pH"
+    }
+}

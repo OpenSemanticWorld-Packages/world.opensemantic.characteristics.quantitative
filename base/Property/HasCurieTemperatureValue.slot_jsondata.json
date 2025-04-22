@@ -1,0 +1,26 @@
+{
+    "uuid": "fbf5b301-bd5e-55c7-9a6c-2b6294e3a504",
+    "name": "HasCurieTemperatureValue",
+    "label": [
+        {
+            "text": "Curie temperature",
+            "lang": "en"
+        },
+        {
+            "text": "Curie-Temperatur",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Curie Temperature\" is the critical thermodynamic temperature of a ferromagnet.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasTemperatureValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasTemperatureValue"
+}

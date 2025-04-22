@@ -1,0 +1,22 @@
+{
+    "uuid": "f67f800e-5b16-5a7d-b807-84a271cff7ca",
+    "name": "HasCharacteristicAcousticImpedanceValue",
+    "label": [
+        {
+            "text": "Characteristic Acoustic Impedance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Characteristic impedance at a point in a non-dissipative medium and for a plane progressive wave, the quotient of the sound pressure $p$ by the component of the sound particle velocity $v$ in the direction of the wave propagation.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasAcousticImpedianceValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasMassPerAreaTimeValue"
+}

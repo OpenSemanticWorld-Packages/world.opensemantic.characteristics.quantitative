@@ -1,0 +1,16 @@
+{
+    "uuid": "ee5469b1-d255-5819-9798-2d432f5bb6e8",
+    "name": "HasVoltageRatioValue",
+    "label": [
+        {
+            "text": "Voltage Ratio",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessRatioValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

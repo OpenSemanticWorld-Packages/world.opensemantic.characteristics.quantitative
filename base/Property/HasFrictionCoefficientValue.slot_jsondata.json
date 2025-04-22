@@ -1,0 +1,22 @@
+{
+    "uuid": "ccbe426d-0615-5770-9197-6c341c94a5a1",
+    "name": "HasFrictionCoefficientValue",
+    "label": [
+        {
+            "text": "Friction Coefficient",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Friction Coefficient\" is the ratio of the force of friction between two bodies and the force pressing them together",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessRatioValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

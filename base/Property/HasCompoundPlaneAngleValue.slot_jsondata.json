@@ -1,0 +1,22 @@
+{
+    "uuid": "bb5fc452-da53-5d63-bb61-6a750fad3ac8",
+    "name": "HasCompoundPlaneAngleValue",
+    "label": [
+        {
+            "text": "Compound Plane Angle",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A \"Compound Plane Angle\" is a compound measure of plane angle in degrees, minutes, seconds, and optionally millionth-seconds of arc.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasPlaneAngleValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasPlaneAngleValue"
+}

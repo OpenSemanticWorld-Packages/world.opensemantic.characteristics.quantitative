@@ -1,0 +1,25 @@
+{
+    "uuid": "37e42c90-3faa-58d8-8b7a-3dfaac5dc3e5",
+    "name": "HasResidualResistivityValue",
+    "label": [
+        {
+            "text": "Residual Resistivity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Residual Resistivity\" for metals, is the resistivity extrapolated to zero thermodynamic temperature.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "87cbcc9a-dac0-5dc9-9b65-e0a05665bcf1",
+        "name": "Ω·m",
+        "main_symbol": "Ω·m"
+    }
+}

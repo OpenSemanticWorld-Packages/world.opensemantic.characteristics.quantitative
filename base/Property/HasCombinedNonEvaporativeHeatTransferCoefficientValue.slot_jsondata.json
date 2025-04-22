@@ -1,0 +1,25 @@
+{
+    "uuid": "fa516457-9e27-5f8e-8649-f2c724ce3fff",
+    "name": "HasCombinedNonEvaporativeHeatTransferCoefficientValue",
+    "label": [
+        {
+            "text": "Combined Non Evaporative Heat Transfer Coefficient",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Evaporative Heat Transfer Coefficient\" is the areic heat transfer coefficient multiplied by the water vapor pressure difference between skind and the environment, and by the exchange area.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "877b749b-243f-5867-930d-3a3d4524d688",
+        "name": "W/(m²·Pa)",
+        "main_symbol": "W/(m²·Pa)"
+    }
+}

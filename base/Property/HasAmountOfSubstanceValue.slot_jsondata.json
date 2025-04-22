@@ -1,0 +1,55 @@
+{
+    "uuid": "30c8e979-53a4-5abb-ae25-42bdb11b4589",
+    "name": "HasAmountOfSubstanceValue",
+    "label": [
+        {
+            "text": "Amount of substance",
+            "lang": "en"
+        },
+        {
+            "text": "Stoffmenge",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Amount of Substance}$ is a standards-defined quantity that measures the size of an ensemble of elementary entities,\n   such as atoms, molecules, electrons, and other particles. \n  It is sometimes referred to as chemical amount.\n\n  The International System of Units (SI) defines the amount of substance to be proportional to the number of elementary entities present. \n  The SI unit for amount of substance is mole. \n  It has the unit symbol $mol$.\n\n  The mole is defined as the amount of substance that contains an equal number of elementary entities as there are atoms in 0.012kg of the isotope carbon-12. \n  This number is called Avogadro's number and has the value $6.02214179(30) \\times 10^{23}$. \n  \n  The only other unit of amount of substance in current use is the $pound-mole$ with the symbol $lb-mol$,\n   which is sometimes used in chemical engineering in the United States. \n  One $pound-mole$ is exactly $453.59237 mol$.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "3f332a85-c699-56a3-81f4-919ccb6969c8",
+        "name": "mol",
+        "main_symbol": "mol"
+    },
+    "additional_units": [
+        {
+            "uuid": "3f231d19-2676-5b70-bec4-409784bff895",
+            "name": "mmol",
+            "main_symbol": "mmol",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "f0a7b39d-7ebc-54bb-b753-4256a7d00d8d",
+            "name": "kmol",
+            "main_symbol": "kmol",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "d84237c5-1c18-5fe0-8427-b549b4dfd79c",
+            "name": "fmol",
+            "main_symbol": "fmol",
+            "conversion_factor_to_main_unit": "999999999999999.9"
+        },
+        {
+            "uuid": "d0886728-1e9b-56e2-a51b-fdba6de6ed2b",
+            "name": "μmol",
+            "main_symbol": "μmol",
+            "conversion_factor_to_main_unit": "1000000.0"
+        }
+    ]
+}

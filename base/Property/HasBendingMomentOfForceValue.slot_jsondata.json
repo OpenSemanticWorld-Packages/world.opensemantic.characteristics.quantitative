@@ -1,0 +1,22 @@
+{
+    "uuid": "76cec895-7d59-5a6d-9f36-6cc52bc553fc",
+    "name": "HasBendingMomentOfForceValue",
+    "label": [
+        {
+            "text": "Bending Moment of Force",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A bending moment exists in a structural element when a moment is applied to the element so that the element bends. It is the component of moment of force perpendicular to the longitudinal axis of a beam or a shaft.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasTorqueValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasTorqueValue"
+}

@@ -1,0 +1,22 @@
+{
+    "uuid": "c879cbe6-010d-5649-a165-6f9b7ba15289",
+    "name": "HasLuminousEmmitanceValue",
+    "label": [
+        {
+            "text": "Luminous Emmitance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Luminous Emittance\" is the luminous flux per unit area emitted from a surface.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLuminousFluxPerAreaValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLuminousFluxPerAreaValue"
+}

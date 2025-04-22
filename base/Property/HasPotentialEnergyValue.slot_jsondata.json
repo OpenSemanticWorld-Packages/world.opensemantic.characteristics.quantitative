@@ -1,0 +1,26 @@
+{
+    "uuid": "6b124efe-7862-5813-9637-3e20621a19a6",
+    "name": "HasPotentialEnergyValue",
+    "label": [
+        {
+            "text": "Potential energy",
+            "lang": "en"
+        },
+        {
+            "text": "Potentielle Energie",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Energy possessed by a body by virtue of its position in a gravity field in contrast with kinetic energy, that possessed by virtue of its motion.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasEnergyValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasEnergyValue"
+}

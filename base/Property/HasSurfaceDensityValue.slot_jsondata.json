@@ -1,0 +1,25 @@
+{
+    "uuid": "88004613-e64e-55a2-8dce-b2d7796b553c",
+    "name": "HasSurfaceDensityValue",
+    "label": [
+        {
+            "text": "Surface Density",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The area density (also known as areal density, surface density, or superficial density) of a two-dimensional object is calculated as the mass per unit area.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "9234c420-52ef-5301-8547-f5e63b094573",
+        "name": "kg/m²",
+        "main_symbol": "kg/m²"
+    }
+}

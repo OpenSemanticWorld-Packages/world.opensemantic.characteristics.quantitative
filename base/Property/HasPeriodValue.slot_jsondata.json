@@ -1,0 +1,75 @@
+{
+    "uuid": "8975f98d-3e34-58d0-8bbb-f9e2ab22adad",
+    "name": "HasPeriodValue",
+    "label": [
+        {
+            "text": "Period",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Duration of one cycle of a periodic phenomenon.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "d344008e-5333-5f5f-a609-20865adfbcfa",
+        "name": "s",
+        "main_symbol": "s"
+    },
+    "additional_units": [
+        {
+            "uuid": "1e7506c0-baef-5d5f-a572-3fe4b7ce388d",
+            "name": "ds",
+            "main_symbol": "ds",
+            "conversion_factor_to_main_unit": "10.0"
+        },
+        {
+            "uuid": "4a9eb81f-5117-5360-aac3-388e8220d483",
+            "name": "µs",
+            "main_symbol": "µs",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "3bf6dd03-fed3-50a4-9b89-fe96d4e9ada0",
+            "name": "as",
+            "main_symbol": "as",
+            "conversion_factor_to_main_unit": "9.999999999999999e+17"
+        },
+        {
+            "uuid": "9b5c1ad4-63da-56d3-916a-4fc772396c31",
+            "name": "ps",
+            "main_symbol": "ps",
+            "conversion_factor_to_main_unit": "1000000000000.0"
+        },
+        {
+            "uuid": "42370c30-92d5-529e-895b-50d85fafa20a",
+            "name": "ms",
+            "main_symbol": "ms",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "f309dddd-5251-5ed0-8574-8997228f6eb1",
+            "name": "fs",
+            "main_symbol": "fs",
+            "conversion_factor_to_main_unit": "999999999999999.9"
+        },
+        {
+            "uuid": "e9d39cae-adfb-5433-a2a4-1580bca9a9e8",
+            "name": "ns",
+            "main_symbol": "ns",
+            "conversion_factor_to_main_unit": "1000000000.0"
+        },
+        {
+            "uuid": "87c1a08a-c7a1-51c6-8df5-facc2ea50581",
+            "name": "ks",
+            "main_symbol": "ks",
+            "conversion_factor_to_main_unit": "0.001"
+        }
+    ]
+}

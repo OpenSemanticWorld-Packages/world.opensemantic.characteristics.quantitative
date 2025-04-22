@@ -1,0 +1,22 @@
+{
+    "uuid": "e53976bb-997c-5ad5-8ca9-7680fc56d559",
+    "name": "HasAuditoryThresholdsValue",
+    "label": [
+        {
+            "text": "Auditory Thresholds",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Auditory Thresholds\" is the thresholds of sensitivity to auditory signals and other input to the ear or the sense of hearing.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasSoundPowerLevelValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasSoundPowerLevelValue"
+}

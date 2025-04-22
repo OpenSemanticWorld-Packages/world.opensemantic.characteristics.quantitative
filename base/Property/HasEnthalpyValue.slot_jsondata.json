@@ -1,0 +1,26 @@
+{
+    "uuid": "c13dac6d-8f71-50bf-9903-de5e63fbe3de",
+    "name": "HasEnthalpyValue",
+    "label": [
+        {
+            "text": "Enthalpy",
+            "lang": "en"
+        },
+        {
+            "text": "Enthalpie",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "In thermodynamics, $\\textit{enthalpy}$ is the sum of the internal energy $U$ and the product of pressure $p$ and volume $V$ of a system. The characteristic function (also known as thermodynamic potential) $\\textit{enthalpy}$ used to be called $\\textit{heat content}$, which is why it is conventionally indicated by $H$. The specific enthalpy of a working mass is a property of that mass used in thermodynamics, defined as $h=u+p \\cdot v$,  where $u$ is the specific internal energy, $p$ is the pressure, and $v$ is specific volume. In other words, $h = H / m$ where $m$ is the mass of the system. The SI unit for $\\textit{Specific Enthalpy}$ is $\\textit{joules per kilogram}$",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasEnergyValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasEnergyValue"
+}

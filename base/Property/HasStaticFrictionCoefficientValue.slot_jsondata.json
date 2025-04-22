@@ -1,0 +1,22 @@
+{
+    "uuid": "437d9a2c-da6f-5a80-9eba-923523082891",
+    "name": "HasStaticFrictionCoefficientValue",
+    "label": [
+        {
+            "text": "Static Friction Coefficient",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Static friction is friction between two or more solid objects that are not moving relative to each other. For example, static friction can prevent an object from sliding down a sloped surface.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasFrictionCoefficientValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

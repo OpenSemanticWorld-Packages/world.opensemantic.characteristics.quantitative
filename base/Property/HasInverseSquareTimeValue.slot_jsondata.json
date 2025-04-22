@@ -1,0 +1,19 @@
+{
+    "uuid": "230d1d33-c78f-5302-9f1a-fa486a9855cf",
+    "name": "HasInverseSquareTimeValue",
+    "label": [
+        {
+            "text": "Inverse Square Time",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "3715b1b5-ba3e-5dff-b1d1-472d913f9dbd",
+        "name": "1/s²",
+        "main_symbol": "1/s²"
+    }
+}

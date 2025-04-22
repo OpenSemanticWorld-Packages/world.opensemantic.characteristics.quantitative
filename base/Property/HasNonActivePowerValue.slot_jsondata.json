@@ -1,0 +1,39 @@
+{
+    "uuid": "cda44798-14b7-514f-9c6e-b6251babfeae",
+    "name": "HasNonActivePowerValue",
+    "label": [
+        {
+            "text": "Non-active Power",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Non-active Power\", for a two-terminal element or a two-terminal circuit under periodic conditions, is the quantity equal to the square root of the difference of the squares of the apparent power and the active power.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "6de088e7-1b12-5d08-bd7f-484a48fa87b6",
+        "name": "VA",
+        "main_symbol": "VA"
+    },
+    "additional_units": [
+        {
+            "uuid": "0b0c3cc4-e497-58bb-b898-0a60871bb3db",
+            "name": "MVA",
+            "main_symbol": "MVA",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "c9696f29-aed9-53f5-9620-09e1970c7e8d",
+            "name": "kVA",
+            "main_symbol": "kVA",
+            "conversion_factor_to_main_unit": "0.001"
+        }
+    ]
+}

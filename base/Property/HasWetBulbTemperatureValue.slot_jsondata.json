@@ -1,0 +1,22 @@
+{
+    "uuid": "14f730f1-50d4-5691-a851-f1db6213a79b",
+    "name": "HasWetBulbTemperatureValue",
+    "label": [
+        {
+            "text": "Wet Bulb Temperature",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "the temperature of a parcel of air cooled to saturation (100% relative humidity) by the evaporation of water into it, with the latent heat supplied by the parcel.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasTemperatureValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasTemperatureValue"
+}

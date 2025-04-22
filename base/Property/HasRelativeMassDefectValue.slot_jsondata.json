@@ -1,0 +1,22 @@
+{
+    "uuid": "c34b3607-4630-5b73-b237-c95ea359d145",
+    "name": "HasRelativeMassDefectValue",
+    "label": [
+        {
+            "text": "Relative Mass Defect",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Relative Mass Defect\" is the mass defect between the monoisotopic mass of an element and the mass of its A + 1 or its A + 2 isotopic cluster.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessRatioValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

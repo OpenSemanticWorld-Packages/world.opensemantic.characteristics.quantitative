@@ -1,0 +1,22 @@
+{
+    "uuid": "a3ae99e7-c1e0-5a40-ae03-6d730c57db4c",
+    "name": "HasServiceFactorValue",
+    "label": [
+        {
+            "text": "Service Factor",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The value indicates the multiplier of the rated power that equipment can handle for some period of time when operating according to a manufacturer's specified conditions; typically applicable to motors.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessRatioValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

@@ -1,0 +1,22 @@
+{
+    "uuid": "73f38fba-6b5b-5da8-abc4-b461b664ba24",
+    "name": "HasDeltaVValue",
+    "label": [
+        {
+            "text": "Delta-V",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The change in translational velocity including all losses for a propulsive system or module. Delta-V losses include, but are not limited to, gravity losses and steering losses.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasVelocityValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasVelocityValue"
+}

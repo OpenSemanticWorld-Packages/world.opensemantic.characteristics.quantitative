@@ -1,0 +1,33 @@
+{
+    "uuid": "4c3c3d6b-abf8-5eb9-9c2c-5fe376323c7c",
+    "name": "HasWarpingConstantValue",
+    "label": [
+        {
+            "text": "Warping Constant",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Warping Constant\" is a measure for the warping constant or warping resistance of a cross section under torsional loading. It is usually measured in m⁶.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "742f787d-f26c-5fe3-b70f-f9bf63cda951",
+        "name": "m⁶",
+        "main_symbol": "m⁶"
+    },
+    "additional_units": [
+        {
+            "uuid": "57f6eae2-f0fb-5a36-8311-b7d2076db28a",
+            "name": "cm⁶",
+            "main_symbol": "cm⁶",
+            "conversion_factor_to_main_unit": "1000000000000.0"
+        }
+    ]
+}

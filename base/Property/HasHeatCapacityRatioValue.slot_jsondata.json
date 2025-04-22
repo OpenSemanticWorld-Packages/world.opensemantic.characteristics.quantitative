@@ -1,0 +1,22 @@
+{
+    "uuid": "94d0a494-51a7-53e2-83db-4e2b1bc164da",
+    "name": "HasHeatCapacityRatioValue",
+    "label": [
+        {
+            "text": "Heat Capacity Ratio",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The heat capacity ratio, or ratio of specific heats, is the ratio of the heat capacity at constant pressure ($C_P$) to heat capacity at constant volume ($C_V$). For an ideal gas, the heat capacity is constant with temperature ($\\theta$). Accordingly we can express the enthalpy as $H = C_P*\\theta$ and the internal energy as $U = C_V \\cdot \\theta$. Thus, it can also be said that the heat capacity ratio is the ratio between enthalpy and internal energy.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessRatioValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

@@ -1,0 +1,25 @@
+{
+    "uuid": "ab190ac3-3784-55b7-bb38-8c6242ba89e4",
+    "name": "HasLinearCompressibilityValue",
+    "label": [
+        {
+            "text": "Linear Compressibility",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Linear Compressibility is a measure of the relative length change of a solid as a response to a normal force change.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "e6d5620d-f90e-5463-b7b5-3446758ce996",
+        "name": "μm/N",
+        "main_symbol": "μm/N"
+    }
+}

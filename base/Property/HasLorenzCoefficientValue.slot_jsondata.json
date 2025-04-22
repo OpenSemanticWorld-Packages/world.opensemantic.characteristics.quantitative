@@ -1,0 +1,25 @@
+{
+    "uuid": "0f3ac8e5-3c2e-5529-945f-ff26dca9f4ac",
+    "name": "HasLorenzCoefficientValue",
+    "label": [
+        {
+            "text": "Lorenz Coefficient",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Lorenz Coefficient\" is part mof the Lorenz curve.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "deb6a315-40b7-58f9-8168-3dd91aab73f5",
+        "name": "V²/K²",
+        "main_symbol": "V²/K²"
+    }
+}

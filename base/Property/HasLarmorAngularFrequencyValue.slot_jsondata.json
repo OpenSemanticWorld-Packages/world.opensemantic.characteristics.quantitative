@@ -1,0 +1,22 @@
+{
+    "uuid": "89de6062-6394-57c8-87e8-01867a8ebbe1",
+    "name": "HasLarmorAngularFrequencyValue",
+    "label": [
+        {
+            "text": "Larmor Angular Frequency",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Cyclotron Angular Frequency\" describes angular momentum vector precession about the external field axis with an angular frequency.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasAngularFrequencyValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasAngularFrequencyValue"
+}

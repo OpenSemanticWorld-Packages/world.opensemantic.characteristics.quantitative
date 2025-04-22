@@ -1,0 +1,26 @@
+{
+    "uuid": "1cbf19ce-ab3f-5cd3-b67f-a45ebc4199ff",
+    "name": "HasSpeedOfSoundValue",
+    "label": [
+        {
+            "text": "Speed of sound",
+            "lang": "en"
+        },
+        {
+            "text": "Schallgeschwindigkeit",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The speed of sound is the distance travelled during a unit of time by a sound wave propagating through an elastic medium.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasSpeedValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasSpeedValue"
+}

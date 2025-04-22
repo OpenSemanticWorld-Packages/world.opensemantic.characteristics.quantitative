@@ -1,0 +1,37 @@
+{
+    "uuid": "0b66e7b2-fbe6-5484-8e79-cef4a363b3ed",
+    "name": "HasLuminousFluxValue",
+    "label": [
+        {
+            "text": "Luminous flux",
+            "lang": "en"
+        },
+        {
+            "text": "Lichtstrom",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Luminous Flux or Luminous Power is the measure of the perceived power of light. It differs from radiant flux, the measure of the total power of light emitted, in that luminous flux is adjusted to reflect the varying sensitivity of the human eye to different wavelengths of light.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "a36456a1-4f70-5c7f-96b2-a23a19e4c9b2",
+        "name": "lm",
+        "main_symbol": "lm"
+    },
+    "additional_units": [
+        {
+            "uuid": "e3869155-756a-54b5-9675-10d13cabfdfa",
+            "name": "klm",
+            "main_symbol": "klm",
+            "conversion_factor_to_main_unit": "0.001"
+        }
+    ]
+}

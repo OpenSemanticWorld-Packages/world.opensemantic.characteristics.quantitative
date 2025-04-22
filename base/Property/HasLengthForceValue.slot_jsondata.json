@@ -1,0 +1,16 @@
+{
+    "uuid": "5dd6e973-e416-5f88-9767-f72cadef568d",
+    "name": "HasLengthForceValue",
+    "label": [
+        {
+            "text": "Length Force",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasWorkValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasEnergyValue"
+}

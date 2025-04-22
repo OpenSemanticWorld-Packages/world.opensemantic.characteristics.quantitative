@@ -1,0 +1,151 @@
+{
+    "uuid": "7d1c5c93-e579-558a-b69a-93c45544d58b",
+    "name": "HasElectricChargeValue",
+    "label": [
+        {
+            "text": "Electric charge",
+            "lang": "en"
+        },
+        {
+            "text": "Elektrische Ladung",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Electric Charge\" is a fundamental conserved property of some subatomic particles, which determines their electromagnetic interaction. Electrically charged matter is influenced by, and produces, electromagnetic fields. The electric charge on a body may be positive or negative. Two positively charged bodies experience a mutual repulsive force, as do two negatively charged bodies. A positively charged body and a negatively charged body experience an attractive force. Electric charge is carried by discrete particles and can be positive or negative. The sign convention is such that the elementary electric charge $e$, that is, the charge of the proton, is positive. The SI derived unit of electric charge is the coulomb.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "35986df6-2507-5609-9a47-d10801b88f7c",
+        "name": "C",
+        "main_symbol": "C"
+    },
+    "additional_units": [
+        {
+            "uuid": "127a4c52-5d45-5260-9bdb-9e9d4a982e29",
+            "name": "dC",
+            "main_symbol": "dC",
+            "conversion_factor_to_main_unit": "10.0"
+        },
+        {
+            "uuid": "c0033e51-1bcb-5c2c-82f4-add7346c3f08",
+            "name": "aC",
+            "main_symbol": "aC",
+            "conversion_factor_to_main_unit": "9.999999999999999e+17"
+        },
+        {
+            "uuid": "790ba3af-f10a-505a-a55d-095b63c332dc",
+            "name": "ZC",
+            "main_symbol": "ZC",
+            "conversion_factor_to_main_unit": "0.0"
+        },
+        {
+            "uuid": "5a266432-29c1-57e4-b4b5-ebb4bfaa3319",
+            "name": "daC",
+            "main_symbol": "daC",
+            "conversion_factor_to_main_unit": "0.1"
+        },
+        {
+            "uuid": "b66dcdde-7053-5201-b6ff-de62fd427607",
+            "name": "μC",
+            "main_symbol": "μC",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "8b3716d1-e50e-5951-8efe-60b810f7eea6",
+            "name": "hC",
+            "main_symbol": "hC",
+            "conversion_factor_to_main_unit": "0.01"
+        },
+        {
+            "uuid": "6336e431-131d-5d95-85cc-0c5fac1ccecd",
+            "name": "nC",
+            "main_symbol": "nC",
+            "conversion_factor_to_main_unit": "1000000000.0"
+        },
+        {
+            "uuid": "381b8261-576c-5007-af9b-f5dfde693104",
+            "name": "PC",
+            "main_symbol": "PC",
+            "conversion_factor_to_main_unit": "0.0"
+        },
+        {
+            "uuid": "ac9cd802-563c-55a3-9108-a0c1a0432127",
+            "name": "TC",
+            "main_symbol": "TC",
+            "conversion_factor_to_main_unit": "0.0"
+        },
+        {
+            "uuid": "a04601ce-0863-5ea8-beca-f47bcaaa6539",
+            "name": "fC",
+            "main_symbol": "fC",
+            "conversion_factor_to_main_unit": "999999999999999.9"
+        },
+        {
+            "uuid": "ceee1125-c48c-5859-9021-b8f82fbb95b3",
+            "name": "mC",
+            "main_symbol": "mC",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "9dcd7766-31ad-5079-852c-00e902f0f951",
+            "name": "MC",
+            "main_symbol": "MC",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "caef42c1-587d-536d-8670-7819321335a9",
+            "name": "cC",
+            "main_symbol": "cC",
+            "conversion_factor_to_main_unit": "100.0"
+        },
+        {
+            "uuid": "7ef2c0d0-dd5d-5972-8203-0640bf0d88b8",
+            "name": "pC",
+            "main_symbol": "pC",
+            "conversion_factor_to_main_unit": "1000000000000.0"
+        },
+        {
+            "uuid": "02175f0a-9ce4-551d-b0a1-012446e5f561",
+            "name": "yC",
+            "main_symbol": "yC",
+            "conversion_factor_to_main_unit": "1.0000000000000001e+24"
+        },
+        {
+            "uuid": "7ecdba5e-fddb-54c2-bf9d-c1cfa150dd8d",
+            "name": "zC",
+            "main_symbol": "zC",
+            "conversion_factor_to_main_unit": "1.0000000000000001e+21"
+        },
+        {
+            "uuid": "718cafe8-f583-570d-978e-c537878b0c41",
+            "name": "YC",
+            "main_symbol": "YC",
+            "conversion_factor_to_main_unit": "0.0"
+        },
+        {
+            "uuid": "fce09e4f-567b-5927-80d9-07fd64d554b9",
+            "name": "kC",
+            "main_symbol": "kC",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "a9689ed3-8f53-55f7-b704-c14a7d2caf00",
+            "name": "GC",
+            "main_symbol": "GC",
+            "conversion_factor_to_main_unit": "0.0"
+        },
+        {
+            "uuid": "ee88d7c4-e46b-5582-bd61-779cd471d536",
+            "name": "EC",
+            "main_symbol": "EC",
+            "conversion_factor_to_main_unit": "0.0"
+        }
+    ]
+}

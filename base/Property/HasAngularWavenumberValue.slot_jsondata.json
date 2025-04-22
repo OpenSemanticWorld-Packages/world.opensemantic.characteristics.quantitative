@@ -1,0 +1,26 @@
+{
+    "uuid": "2d3194c2-ce81-5a83-9c9a-295684aecea1",
+    "name": "HasAngularWavenumberValue",
+    "label": [
+        {
+            "text": "Angular wavenumber",
+            "lang": "en"
+        },
+        {
+            "text": "Kreisrepetenz",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"wavenumber\" is the spatial frequency of a wave - the number of waves that exist over a specified distance. More formally, it is the reciprocal of the wavelength. It is also the magnitude of the wave vector.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasInverseLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasInverseLengthValue"
+}

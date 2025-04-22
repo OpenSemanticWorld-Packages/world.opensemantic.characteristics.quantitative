@@ -1,0 +1,22 @@
+{
+    "uuid": "e890e204-4716-5b64-bc95-ec4adec32a06",
+    "name": "HasElectronMeanFreePathValue",
+    "label": [
+        {
+            "text": "Electron Mean Free Path",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Electron Mean Free Path\" is the mean free path of electrons.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

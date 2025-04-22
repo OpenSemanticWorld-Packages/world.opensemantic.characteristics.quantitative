@@ -1,0 +1,25 @@
+{
+    "uuid": "80fbb8bc-7d47-5153-ac81-e0c9a4e77564",
+    "name": "HasSoundExposureValue",
+    "label": [
+        {
+            "text": "Sound exposure",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Sound Exposure is the energy of the A-weighted sound calculated over the measurement time(s). For a given period of time, an increase of 10 dB(A) in sound pressure level corresponds to a tenfold increase in E.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "24211f6b-4785-5d92-8479-d9a7b664e6d6",
+        "name": "Pa²·s",
+        "main_symbol": "Pa²·s"
+    }
+}

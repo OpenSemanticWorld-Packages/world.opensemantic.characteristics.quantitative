@@ -1,0 +1,22 @@
+{
+    "uuid": "3902f85c-1f8c-5997-b2c7-1227a99bc566",
+    "name": "HasStandardChemicalPotentialValue",
+    "label": [
+        {
+            "text": "Standard Chemical Potential",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Standard Chemical Potential\" is the value of the chemical potential at standard conditions",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasChemicalPotentialValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasMolarEnergyValue"
+}

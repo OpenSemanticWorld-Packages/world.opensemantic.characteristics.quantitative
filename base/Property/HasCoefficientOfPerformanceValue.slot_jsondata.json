@@ -1,0 +1,22 @@
+{
+    "uuid": "dc700e01-0df9-5da9-a407-a08444db0bfb",
+    "name": "HasCoefficientOfPerformanceValue",
+    "label": [
+        {
+            "text": "CoefficientOfPerformance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"\"Coefficient of Performance\",is a measure of the efficiency of a heating or cooling system, defined as the ratio of useful heating or cooling output to the energy input required to achieve it.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessRatioValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

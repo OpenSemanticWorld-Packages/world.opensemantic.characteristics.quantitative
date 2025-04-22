@@ -1,0 +1,37 @@
+{
+    "uuid": "d09f2ee6-a8d5-5096-a3da-e5b1a507c5e5",
+    "name": "HasAngularImpulseValue",
+    "label": [
+        {
+            "text": "Angular impulse",
+            "lang": "en"
+        },
+        {
+            "text": "Drehstoß",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The Angular Impulse, also known as angular momentum, is the moment of linear momentum around a point. It is defined as$H = \\int Mdt$, where $M$ is the moment of force and $t$ is time.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "8c8b9274-ae33-5997-9299-0bf4a6424e71",
+        "name": "J·s",
+        "main_symbol": "J·s"
+    },
+    "additional_units": [
+        {
+            "uuid": "50c74f59-7251-5b17-85f8-b4f38ba6ecd5",
+            "name": "aJ·s",
+            "main_symbol": "aJ·s",
+            "conversion_factor_to_main_unit": "9.999999999999999e+17"
+        }
+    ]
+}

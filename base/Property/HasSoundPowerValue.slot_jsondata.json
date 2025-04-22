@@ -1,0 +1,26 @@
+{
+    "uuid": "210ae748-5cd0-5b35-9f00-acecf27cdbab",
+    "name": "HasSoundPowerValue",
+    "label": [
+        {
+            "text": "Sound power",
+            "lang": "en"
+        },
+        {
+            "text": "Schallleistung",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Sound power or acoustic power $P_a$ is a measure of sonic energy $E$ per time $t$ unit. It is measured in watts and can be computed as sound intensity ($I$) times area ($A$).",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasPowerValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasPowerValue"
+}

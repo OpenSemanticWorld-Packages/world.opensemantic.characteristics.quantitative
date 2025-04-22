@@ -1,0 +1,67 @@
+{
+    "uuid": "8e0246f9-7987-5d80-ae2c-84a20e234123",
+    "name": "HasElectricFieldStrengthValue",
+    "label": [
+        {
+            "text": "Electric field strength",
+            "lang": "en"
+        },
+        {
+            "text": "Elektrische Feldstärke",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Electric Field Strength}$ is the magnitude and direction of an electric field, expressed by the value of $E$, also referred to as $\\color{indigo} {\\textit{electric field intensity}}$ or simply the electric field.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "7711f6fb-d328-54c4-8c3f-95ed1afd0174",
+        "name": "V/m",
+        "main_symbol": "V/m"
+    },
+    "additional_units": [
+        {
+            "uuid": "45a8a9e4-c8f4-552e-8aab-18ffea6af001",
+            "name": "µV/m",
+            "main_symbol": "µV/m",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "88c75d03-57b0-5551-9a0b-ea0b8e76fa74",
+            "name": "V/mm",
+            "main_symbol": "V/mm",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "537a2c05-9323-53f2-8d62-350ecfa7fe3a",
+            "name": "V/cm",
+            "main_symbol": "V/cm",
+            "conversion_factor_to_main_unit": "0.01"
+        },
+        {
+            "uuid": "d19dd010-d118-562d-a38a-9307783eadd6",
+            "name": "kV/m",
+            "main_symbol": "kV/m",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "28c0d432-ef03-52b8-8280-c28939455d78",
+            "name": "MV/m",
+            "main_symbol": "MV/m",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "34945978-1bef-55a8-87fe-1d3a878b494c",
+            "name": "mV/m",
+            "main_symbol": "mV/m",
+            "conversion_factor_to_main_unit": "1000.0"
+        }
+    ]
+}

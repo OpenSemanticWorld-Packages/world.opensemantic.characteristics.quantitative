@@ -1,0 +1,16 @@
+{
+    "uuid": "4e6d4432-981e-5118-8eb5-9f17f78d0182",
+    "name": "HasElectricCurrentPerLengthValue",
+    "label": [
+        {
+            "text": "Electric Current per Length",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLinearElectricCurrentDensityValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLinearElectricCurrentDensityValue"
+}

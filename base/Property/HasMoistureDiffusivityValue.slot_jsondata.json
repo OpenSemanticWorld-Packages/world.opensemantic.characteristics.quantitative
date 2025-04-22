@@ -1,0 +1,16 @@
+{
+    "uuid": "be8edfdd-a136-52f2-8912-4171381300b0",
+    "name": "HasMoistureDiffusivityValue",
+    "label": [
+        {
+            "text": "Moisture Diffusivity",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasVolumeFlowRateValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasVolumeFlowRateValue"
+}

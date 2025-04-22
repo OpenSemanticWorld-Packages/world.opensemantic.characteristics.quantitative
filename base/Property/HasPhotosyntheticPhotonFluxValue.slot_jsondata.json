@@ -1,0 +1,39 @@
+{
+    "uuid": "1872708a-dff3-5fde-bd8d-da7222d07f99",
+    "name": "HasPhotosyntheticPhotonFluxValue",
+    "label": [
+        {
+            "text": "Photosynthetic Photon Flux",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Photosynthetic Photon Flux (PPF) is a measurement of the total number of photons emitted by a light source each second within the PAR wavelength range and is measured in μmol/s. Lighting manufacturers may specify their grow light products in terms of PPF. It can be considered as analogous to measuring the luminous flux (lumens) of visible light which would typically require the use of an integrating sphere or a goniometer system with spectroradiometer sensor.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "30bcc3be-dcc2-54e7-90cb-558ebcc6ad7e",
+        "name": "mol/s",
+        "main_symbol": "mol/s"
+    },
+    "additional_units": [
+        {
+            "uuid": "ea745027-5fdd-501a-976c-560e24ef4db4",
+            "name": "μmol/s",
+            "main_symbol": "μmol/s",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "f34f1253-1670-592c-a19a-69df946d3a8f",
+            "name": "kmol/s",
+            "main_symbol": "kmol/s",
+            "conversion_factor_to_main_unit": "0.001"
+        }
+    ]
+}

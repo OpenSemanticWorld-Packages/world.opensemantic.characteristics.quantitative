@@ -1,0 +1,22 @@
+{
+    "uuid": "08ac908a-6178-5902-b89f-1435571ab9a8",
+    "name": "HasAtomicMassValue",
+    "label": [
+        {
+            "text": "Atomic Mass",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Atomic Mass\" is the mass of a specific isotope, most often expressed in unified atomic mass units.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasMassValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasMassValue"
+}

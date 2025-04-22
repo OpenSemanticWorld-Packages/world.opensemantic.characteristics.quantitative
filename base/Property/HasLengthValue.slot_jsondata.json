@@ -1,0 +1,91 @@
+{
+    "uuid": "39325abb-8506-5932-90c7-74790de994af",
+    "name": "HasLengthValue",
+    "label": [
+        {
+            "text": "Length",
+            "lang": "en"
+        },
+        {
+            "text": "Länge",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "In geometric measurements, length most commonly refers to the est dimension of an object. In some contexts, the term \"length\" is reserved for a certain dimension of an object along which the length is measured.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "ec181b37-12ae-593c-99e4-e4e96a6801f7",
+        "name": "m",
+        "main_symbol": "m"
+    },
+    "additional_units": [
+        {
+            "uuid": "ad4d4f80-c265-58c2-b5e9-eeaf0fe46083",
+            "name": "cm",
+            "main_symbol": "cm",
+            "conversion_factor_to_main_unit": "100.0"
+        },
+        {
+            "uuid": "8283b17b-b8a3-509b-bcec-41f8c315c9d5",
+            "name": "μm",
+            "main_symbol": "μm",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "a2766599-2877-5d48-854c-44509ad97ef0",
+            "name": "km",
+            "main_symbol": "km",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "1c75206a-a6a5-5c89-b058-e7ebca23f6aa",
+            "name": "hm",
+            "main_symbol": "hm",
+            "conversion_factor_to_main_unit": "0.01"
+        },
+        {
+            "uuid": "2f7ffd7e-4373-50b2-ba3a-c6f40e77dae7",
+            "name": "dm",
+            "main_symbol": "dm",
+            "conversion_factor_to_main_unit": "10.0"
+        },
+        {
+            "uuid": "58a4db99-ef94-532e-8eb7-b9ab43fe79dc",
+            "name": "nm",
+            "main_symbol": "nm",
+            "conversion_factor_to_main_unit": "1000000000.0"
+        },
+        {
+            "uuid": "291d9b00-9d86-549d-9027-ed1395f4db42",
+            "name": "dam",
+            "main_symbol": "dam",
+            "conversion_factor_to_main_unit": "0.1"
+        },
+        {
+            "uuid": "84392002-9a9e-59e6-81ba-0df7ea672f6a",
+            "name": "fm",
+            "main_symbol": "fm",
+            "conversion_factor_to_main_unit": "999999999999999.9"
+        },
+        {
+            "uuid": "e16fd6b6-070a-55e7-b0dd-fe3f502b21b8",
+            "name": "mm",
+            "main_symbol": "mm",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "204a73b3-18a6-56e1-b967-1c1560a42ba3",
+            "name": "pm",
+            "main_symbol": "pm",
+            "conversion_factor_to_main_unit": "1000000000000.0"
+        }
+    ]
+}

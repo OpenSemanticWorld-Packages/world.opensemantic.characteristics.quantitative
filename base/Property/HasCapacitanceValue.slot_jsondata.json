@@ -1,0 +1,57 @@
+{
+    "uuid": "65da5e02-a075-59ee-9f84-312f2b8b75f1",
+    "name": "HasCapacitanceValue",
+    "label": [
+        {
+            "text": "Capacitance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Capacitance\" is the ability of a body to hold an electrical charge; it is quantified as the amount of electric charge stored for a given electric potential. Capacitance is a scalar-valued quantity.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "3b00991a-111f-52be-9532-3b4b89d63cf3",
+        "name": "F",
+        "main_symbol": "F"
+    },
+    "additional_units": [
+        {
+            "uuid": "37f4ff6d-4af4-5be2-b5b0-effdda5d47df",
+            "name": "pF",
+            "main_symbol": "pF",
+            "conversion_factor_to_main_unit": "1000000000000.0"
+        },
+        {
+            "uuid": "543cfa65-2532-5870-bca6-43a892fa78c9",
+            "name": "mF",
+            "main_symbol": "mF",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "32c18d26-c7f9-5c97-ac75-9444716e71e8",
+            "name": "μF",
+            "main_symbol": "μF",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "457c740c-6ee0-54ed-8ca9-ec1872034bf3",
+            "name": "nF",
+            "main_symbol": "nF",
+            "conversion_factor_to_main_unit": "1000000000.0"
+        },
+        {
+            "uuid": "0d5a9753-fc7c-58c2-8f08-24e4ebecc147",
+            "name": "aF",
+            "main_symbol": "aF",
+            "conversion_factor_to_main_unit": "9.999999999999999e+17"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "uuid": "71d9cbdc-4e6b-550e-8af0-963337c16b14",
+    "name": "HasRichardsonConstantValue",
+    "label": [
+        {
+            "text": "Richardson Constant",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Richardson Constant\" is a constant used in developing thermionic emission current density for a metal.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "c4423458-a808-58d9-8fc6-da473c09269f",
+        "name": "A/(m²·K²)",
+        "main_symbol": "A/(m²·K²)"
+    }
+}

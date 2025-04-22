@@ -1,0 +1,16 @@
+{
+    "uuid": "d63cebb4-60a4-5010-a964-cfe4631dc928",
+    "name": "HasTimeRatioValue",
+    "label": [
+        {
+            "text": "Time Ratio",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessRatioValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

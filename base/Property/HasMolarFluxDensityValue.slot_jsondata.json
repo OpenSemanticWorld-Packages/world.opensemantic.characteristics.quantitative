@@ -1,0 +1,39 @@
+{
+    "uuid": "5122a55a-f3b8-5b71-ade8-12a0b7e8c1c4",
+    "name": "HasMolarFluxDensityValue",
+    "label": [
+        {
+            "text": "Molar Flux Density",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "the rate at which moles of a substance pass through a unit area per unit time. It is used for describing the flow of materials in terms of the transport of molecules or particles rather than bulk mass. The SI units are mol m-2 s-1",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "08d840f8-1838-5e2d-bcb9-c7e84869f0f4",
+        "name": "mol/(m²·s)",
+        "main_symbol": "mol/(m²·s)"
+    },
+    "additional_units": [
+        {
+            "uuid": "993a4940-8872-5f6f-9b17-891ab319bebf",
+            "name": "mmol/(m²·s)",
+            "main_symbol": "mmol/(m²·s)",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "a9099937-0cf6-5439-a00c-f6d248c80635",
+            "name": "μmol/(m²·s)",
+            "main_symbol": "μmol/(m²·s)",
+            "conversion_factor_to_main_unit": "1000000.0"
+        }
+    ]
+}

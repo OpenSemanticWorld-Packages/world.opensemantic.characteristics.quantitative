@@ -1,0 +1,25 @@
+{
+    "uuid": "bb91ff9b-e4ee-5be5-8fee-b919a680de9b",
+    "name": "HasForcePerElectricChargeValue",
+    "label": [
+        {
+            "text": "Force per Electric Charge",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The electric field depicts the force exerted on other electrically charged objects by the electrically charged particle the field is surrounding. The electric field is a vector field with SI units of newtons per coulomb ($N C^{-1}$) or, equivalently, volts per metre ($V m^{-1}$ ). The SI base units of the electric field are $kg m s^{-3} A^{-1}$. The strength or magnitude of the field at a given point is defined as the force that would be exerted on a positive test charge of 1 coulomb placed at that point",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "3b4fe4a0-947d-5397-a12c-225683ac5812",
+        "name": "N/C",
+        "main_symbol": "N/C"
+    }
+}

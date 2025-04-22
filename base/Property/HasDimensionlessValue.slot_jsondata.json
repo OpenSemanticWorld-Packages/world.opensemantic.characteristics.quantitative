@@ -1,0 +1,25 @@
+{
+    "uuid": "e98c4201-fd17-5acc-a7d1-946b5323fe13",
+    "name": "HasDimensionlessValue",
+    "label": [
+        {
+            "text": "Dimensionless",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In dimensional analysis, a dimensionless quantity or quantity of dimension one is a quantity without an associated physical dimension. It is thus a \"pure\" number, and as such always has a dimension of 1. Dimensionless quantities are widely used in mathematics, physics, engineering, economics, and in everyday life (such as in counting). Numerous well-known quantities, such as $\\pi$, $\\epsilon$, and $\\psi$, are dimensionless. By contrast, non-dimensionless quantities are measured in units of length, area, time, etc. Dimensionless quantities are often defined as products or ratios of quantities that are not dimensionless, but whose dimensions cancel out when their powers are multiplied.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "8f61e972-498f-51b6-9c88-bc54fee65fed",
+        "name": "#",
+        "main_symbol": "#"
+    }
+}

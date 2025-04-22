@@ -1,0 +1,25 @@
+{
+    "uuid": "d2f7c725-87c9-50b2-8b92-12a6f8cfbb88",
+    "name": "HasMolarAttenuationCoefficientValue",
+    "label": [
+        {
+            "text": "Molar Attenuation Coefficient",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Molar Attenuation Coefficient\" is a measurement of how strongly a chemical species or substance absorbs or scatters light at a given wavelength, per amount of substance.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "1ffc24a2-0a50-5743-8bb6-0b06586bb410",
+        "name": "m²/mol",
+        "main_symbol": "m²/mol"
+    }
+}

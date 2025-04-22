@@ -1,0 +1,51 @@
+{
+    "uuid": "f3fb7c3f-32e9-5448-b788-d7f9aaef406f",
+    "name": "HasEnergyPerAreaValue",
+    "label": [
+        {
+            "text": "Energy per Area",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Energy per unit area is a measure of the energy either impinging upon or generated from a given unit of area. This can be a measure of the \"toughness\" of a material, being the amount of energy that needs to be applied per unit area of a crack to cause it to fracture. This is a constant for a given material..",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "7b14471c-455d-525b-98cb-b8cc991bbe11",
+        "name": "J/m²",
+        "main_symbol": "J/m²"
+    },
+    "additional_units": [
+        {
+            "uuid": "2e50ec7a-f67c-52bd-9b29-90951c52fcc2",
+            "name": "MJ/m²",
+            "main_symbol": "MJ/m²",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "654ad898-910e-5039-ba15-6c8d2c78736c",
+            "name": "mJ/m²",
+            "main_symbol": "mJ/m²",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "a6ec66eb-d055-547a-944e-cecf72818c15",
+            "name": "J/cm²",
+            "main_symbol": "J/cm²",
+            "conversion_factor_to_main_unit": "0.0001"
+        },
+        {
+            "uuid": "444676f0-241a-5f42-8267-d141e7ac512f",
+            "name": "GJ/m²",
+            "main_symbol": "GJ/m²",
+            "conversion_factor_to_main_unit": "0.0"
+        }
+    ]
+}

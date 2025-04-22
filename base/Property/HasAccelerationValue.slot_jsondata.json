@@ -1,0 +1,37 @@
+{
+    "uuid": "d18e9263-a7bf-5b7c-8c2f-0026fffdab11",
+    "name": "HasAccelerationValue",
+    "label": [
+        {
+            "text": "Acceleration",
+            "lang": "en"
+        },
+        {
+            "text": "Beschleunigung",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Acceleration}$ is the (instantaneous) rate of change of velocity. \n  Acceleration may be either linear acceleration, or angular acceleration. \n  It is a vector quantity with dimension $length/time^{2}$ for linear acceleration,\n   or in the case of angular acceleration, with dimension $angle/time^{2}$. \n  $$$$\n  In SI units, linear acceleration is measured in $meters/second^{2}$ ($m \\cdot s^{-2}$),\n   and angular acceleration is measured in $radians/second^{2}$. \n  $$$$\n  In physics, any increase or decrease in speed is referred to as acceleration and similarly,\n   motion in a circle at constant speed is also an acceleration, since the direction component of the velocity is changing.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "aeb15552-6656-5fad-8581-9f1a2188d45c",
+        "name": "m/s²",
+        "main_symbol": "m/s²"
+    },
+    "additional_units": [
+        {
+            "uuid": "9e859eb7-8757-5183-9ec3-3360d9e1798f",
+            "name": "cm/s²",
+            "main_symbol": "cm/s²",
+            "conversion_factor_to_main_unit": "100.0"
+        }
+    ]
+}

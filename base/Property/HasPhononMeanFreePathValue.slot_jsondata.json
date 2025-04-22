@@ -1,0 +1,22 @@
+{
+    "uuid": "079ba69f-6d50-5f1d-b24e-dc90bc574a34",
+    "name": "HasPhononMeanFreePathValue",
+    "label": [
+        {
+            "text": "Phonon Mean Free Path",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Phonon Mean Free Path\" is the mean free path of phonons.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

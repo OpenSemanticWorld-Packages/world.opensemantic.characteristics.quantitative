@@ -1,0 +1,22 @@
+{
+    "uuid": "e4054ef3-0efa-50cd-a0fa-31dc215e7443",
+    "name": "HasDiffusionLengthSolidStatePhysicsValue",
+    "label": [
+        {
+            "text": "Diffusion Length (Solid State Physics)",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Solid State Diffusion Length\" is the average distance traveled by a particle, such as a minority carrier in a semiconductor",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

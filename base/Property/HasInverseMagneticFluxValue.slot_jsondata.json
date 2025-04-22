@@ -1,0 +1,19 @@
+{
+    "uuid": "9bd62421-eb7f-505d-b030-7f6698434c0a",
+    "name": "HasInverseMagneticFluxValue",
+    "label": [
+        {
+            "text": "Inverse Magnetic Flux",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "b4e3a590-867a-5092-9fc8-8810104911d8",
+        "name": "1/Wb",
+        "main_symbol": "1/Wb"
+    }
+}

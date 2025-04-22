@@ -1,0 +1,22 @@
+{
+    "uuid": "5ed72f14-6555-51ee-90ba-74bc49f4ce2e",
+    "name": "HasRankineTemperatureValue",
+    "label": [
+        {
+            "text": "Rankine temperature",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Größe, die eine Temperaturskala benutzt, die wie die Kelvin-Skala beim absoluten Temperatur-Nullpunkt (0 K) ihren Nullwert hat, jedoch im Gegensatz zu dieser den Skalenabstand der Fahrenheit-Skala verwendet",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasThermodynamicTemperatureValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasTemperatureValue"
+}

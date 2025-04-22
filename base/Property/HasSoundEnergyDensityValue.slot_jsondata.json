@@ -1,0 +1,22 @@
+{
+    "uuid": "718796ec-8d14-5eb3-8bab-0a83497a98f9",
+    "name": "HasSoundEnergyDensityValue",
+    "label": [
+        {
+            "text": "Sound energy density",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Sound energy density is the time-averaged sound energy in a given volume divided by that volume. The sound energy density or sound density (symbol $E$ or $w$) is an adequate measure to describe the sound field at a given point as a sound energy value.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasEnergyDensityValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasEnergyDensityValue"
+}

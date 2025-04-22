@@ -1,0 +1,22 @@
+{
+    "uuid": "84728882-fa6d-5b76-802b-b00d286d032a",
+    "name": "HasHalfValueThicknessValue",
+    "label": [
+        {
+            "text": "Half-Value Thickness",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Half-Value Thickness\" is the thickness of the material at which the intensity of radiation entering it is reduced by one half.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

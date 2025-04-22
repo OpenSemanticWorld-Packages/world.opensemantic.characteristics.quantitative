@@ -1,0 +1,22 @@
+{
+    "uuid": "42a1e6bc-f73f-5e6f-88f2-00f66ef210b1",
+    "name": "HasVolumeFractionValue",
+    "label": [
+        {
+            "text": "Volume Fraction",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Volume Fraction\" is the volume of a constituent divided by the volume of all constituents of the mixture prior to mixing. Volume fraction is also called volume concentration in ideal solutions where the volumes of the constituents are additive (the volume of the solution is equal to the sum of the volumes of its ingredients).",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessRatioValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

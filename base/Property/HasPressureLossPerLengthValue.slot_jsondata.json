@@ -1,0 +1,25 @@
+{
+    "uuid": "4faffb0d-f663-5d51-9891-0da6ea1514cd",
+    "name": "HasPressureLossPerLengthValue",
+    "label": [
+        {
+            "text": "Pressure Loss per Length",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Pressure Loss per Length\" refers to the power lost in overcoming the friction between two moving surfaces. Also referred to as \"Friction Loss\".",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "933164a1-7f76-5348-88bc-0e09c41ec7a5",
+        "name": "kg/(m²·s²)",
+        "main_symbol": "kg/(m²·s²)"
+    }
+}

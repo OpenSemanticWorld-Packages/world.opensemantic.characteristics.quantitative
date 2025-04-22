@@ -1,0 +1,22 @@
+{
+    "uuid": "1a89b3c8-2c0b-5e56-92e5-f54f9ee228d8",
+    "name": "HasPositiveLengthValue",
+    "label": [
+        {
+            "text": "Positive Length",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"NonNegativeLength\" is a measure of length greater than or equal to zero.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

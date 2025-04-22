@@ -1,0 +1,26 @@
+{
+    "uuid": "ebc8b327-242a-5603-9f55-8cd847199c7f",
+    "name": "HasNeutronNumberValue",
+    "label": [
+        {
+            "text": "Neutron number",
+            "lang": "en"
+        },
+        {
+            "text": "Neutronenzahl",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Neutron Number\", symbol $N$, is the number of neutrons in a nuclide. Nuclides with the same value of $N$ but different values of $Z$ are called isotones. $N - Z$ is called the neutron excess number.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasCountValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

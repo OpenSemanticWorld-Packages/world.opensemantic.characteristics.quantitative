@@ -1,0 +1,19 @@
+{
+    "uuid": "4055faaa-64c2-5a2a-a175-93524ba47d03",
+    "name": "HasCubicElectricDipoleMomentPerSquareEnergyValue",
+    "label": [
+        {
+            "text": "Cubic Electric Dipole Moment per Square Energy",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "e313bafe-45b3-55a3-84cd-414e76e44cdc",
+        "name": "C³·m/J²",
+        "main_symbol": "C³·m/J²"
+    }
+}

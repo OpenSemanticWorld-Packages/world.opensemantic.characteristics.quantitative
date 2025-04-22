@@ -1,0 +1,25 @@
+{
+    "uuid": "1a653e48-a817-5632-8d3f-154f93558d84",
+    "name": "HasPolarisabilityValue",
+    "label": [
+        {
+            "text": "Polarisability",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Maß für die Deformierbarkeit der Elektronenhülle von Molekülen und Atomen",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "b2c55eec-a33d-5e12-8aa5-3eac6e43707e",
+        "name": "C²·m²/J",
+        "main_symbol": "C²·m²/J"
+    }
+}

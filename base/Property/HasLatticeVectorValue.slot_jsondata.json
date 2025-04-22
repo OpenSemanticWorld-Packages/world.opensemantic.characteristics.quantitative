@@ -1,0 +1,22 @@
+{
+    "uuid": "302ea07a-468c-5a91-98b5-6a74868e6f34",
+    "name": "HasLatticeVectorValue",
+    "label": [
+        {
+            "text": "Lattice Vector",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Lattice Vector\" is a translation vector that maps the crystal lattice on itself.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

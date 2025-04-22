@@ -1,0 +1,22 @@
+{
+    "uuid": "d8bd4000-d5a8-5391-b4c0-d955acb3e20d",
+    "name": "HasRocketAtmosphericTransverseForceValue",
+    "label": [
+        {
+            "text": "Rocket Atmospheric Transverse Force",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Transverse force on rocket due to an atmosphere",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasForceValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasForceValue"
+}

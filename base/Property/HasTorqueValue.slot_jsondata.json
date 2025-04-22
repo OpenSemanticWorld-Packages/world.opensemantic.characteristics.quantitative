@@ -1,0 +1,73 @@
+{
+    "uuid": "82c5f1c9-76f8-5755-8c74-18aa1782bfb8",
+    "name": "HasTorqueValue",
+    "label": [
+        {
+            "text": "Torque",
+            "lang": "en"
+        },
+        {
+            "text": "Torsionmoment",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "In physics, a torque ($\\tau$) is a vector that measures the tendency of a force to rotate an object about some axis. The magnitude of a torque is defined as force times its lever arm. Just as a force is a push or a pull, a torque can be thought of as a twist. The SI unit for torque is newton meters ($N m$). In U.S. customary units, it is measured in foot pounds (ft lbf) (also known as \"pounds feet\").\nMathematically, the torque on a particle (which has the position r in some reference frame) can be defined as the cross product: $τ = r x F$\nwhere,\nr is the particle's position vector relative to the fulcrum\nF is the force acting on the particles,\nor, more generally, torque can be defined as the rate of change of angular momentum: $τ = dL/dt$\nwhere,\nL is the angular momentum vector\nt stands for time.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "3f40829e-0cc2-5bb2-8c0d-bc858cd6a981",
+        "name": "N·m",
+        "main_symbol": "N·m"
+    },
+    "additional_units": [
+        {
+            "uuid": "f250d5cd-639a-5ac6-a382-1bb29970a0a8",
+            "name": "dN·m",
+            "main_symbol": "dN·m",
+            "conversion_factor_to_main_unit": "10.0"
+        },
+        {
+            "uuid": "09f896ba-172b-5ad2-b764-0f817b53d4d2",
+            "name": "cN·m",
+            "main_symbol": "cN·m",
+            "conversion_factor_to_main_unit": "100.0"
+        },
+        {
+            "uuid": "1f7c364b-08ac-5743-b5d7-6bea585d53a9",
+            "name": "m·mN",
+            "main_symbol": "m·mN",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "d448d815-ec8e-5254-b8c3-b3c2475d7338",
+            "name": "kN·m",
+            "main_symbol": "kN·m",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "9e82e62a-a889-529f-b195-51d761380c2c",
+            "name": "m·μN",
+            "main_symbol": "m·μN",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "c466ab8a-dc98-519e-9be2-5b509795c567",
+            "name": "m·MN",
+            "main_symbol": "m·MN",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "97207ba8-7f04-5477-a8c8-fd028413eb3d",
+            "name": "N·cm",
+            "main_symbol": "N·cm",
+            "conversion_factor_to_main_unit": "100.0"
+        }
+    ]
+}

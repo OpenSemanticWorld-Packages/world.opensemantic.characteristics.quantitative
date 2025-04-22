@@ -1,0 +1,22 @@
+{
+    "uuid": "4c352073-b2f8-56ca-a405-d6fe7a10561a",
+    "name": "HasMassExcessValue",
+    "label": [
+        {
+            "text": "Mass Excess",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Mass Excess\" of a nuclide is the difference between its actual mass and its mass number in atomic mass units. It is one of the predominant methods for tabulating nuclear mass.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasMassValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasMassValue"
+}

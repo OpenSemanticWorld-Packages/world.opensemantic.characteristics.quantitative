@@ -1,0 +1,22 @@
+{
+    "uuid": "5ba43e0b-e789-59c4-a7c6-890396424bf2",
+    "name": "HasActivityRelatedByMassValue",
+    "label": [
+        {
+            "text": "Activity related by mass",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "quantitative Angabe der Radioaktivität einer Menge eines Radionuklids in einem bestimmten Energiezustand zu einem gegebenen Zeitpunkt dividiert durch die zugehörige Masse dieser Menge #,#quantitative data of the radioactivity of the amount of a radionuclide in a particular state of energy at a defined point in time, divided by the related mass of this quantity",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasMassicActivityValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasMassicActivityValue"
+}

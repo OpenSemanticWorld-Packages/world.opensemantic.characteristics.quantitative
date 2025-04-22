@@ -1,0 +1,25 @@
+{
+    "uuid": "348021c4-973f-535b-b790-ea16d282eee4",
+    "name": "HasActivityConcentrationValue",
+    "label": [
+        {
+            "text": "Activity Concentration",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Activity Concentration\", also known as volume activity, and activity density, is .",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "712b6021-48fb-5422-89b2-9a4fc9644f36",
+        "name": "Bq/m³",
+        "main_symbol": "Bq/m³"
+    }
+}

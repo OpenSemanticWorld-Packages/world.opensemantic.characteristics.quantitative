@@ -1,0 +1,22 @@
+{
+    "uuid": "bbe976b4-f156-51c8-b5fd-3b804153e643",
+    "name": "HasRelativeAtomicMassValue",
+    "label": [
+        {
+            "text": "Relative Atomic Mass",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Relative Atomic Mass \" is a dimensionless physical quantity, the ratio of the average mass of atoms of an element (from a given source) to 1/12 of the mass of an atom of carbon-12 (known as the unified atomic mass unit)",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessRatioValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

@@ -1,0 +1,22 @@
+{
+    "uuid": "2d45b729-3313-5378-85c5-d5d7b4b9908e",
+    "name": "HasIonizationEnergyValue",
+    "label": [
+        {
+            "text": "Ionization Energy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Ionization Energy\" is the energy difference between an electron at rest at infinity and an electron at a certain energy level. The amount of energy required to remove an electron from that atom or molecule in the gas phase.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasEnergyValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasEnergyValue"
+}

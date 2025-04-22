@@ -1,0 +1,16 @@
+{
+    "uuid": "679a4938-c815-5f08-bc85-cb78085be639",
+    "name": "HasBucklingFactorValue",
+    "label": [
+        {
+            "text": "Buckling Factor",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

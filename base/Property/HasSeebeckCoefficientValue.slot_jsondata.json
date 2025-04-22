@@ -1,0 +1,25 @@
+{
+    "uuid": "8dc9564f-0c0e-5606-ad2a-3638f2266313",
+    "name": "HasSeebeckCoefficientValue",
+    "label": [
+        {
+            "text": "Seebeck Coefficient",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Seebeck Coefficient\", or thermopower, or thermoelectric power of a material is a measure of the magnitude of an induced thermoelectric voltage in response to a temperature difference across that material.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "245b2de2-8939-58bf-9563-15e9182ebb3c",
+        "name": "V/K",
+        "main_symbol": "V/K"
+    }
+}

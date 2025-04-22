@@ -1,0 +1,16 @@
+{
+    "uuid": "56f27ac4-4f3a-5fce-b77c-7904f7957178",
+    "name": "HasInitialNozzleThroatDiameterValue",
+    "label": [
+        {
+            "text": "Initial Nozzle Throat Diameter",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasNozzleThroatDiameterValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

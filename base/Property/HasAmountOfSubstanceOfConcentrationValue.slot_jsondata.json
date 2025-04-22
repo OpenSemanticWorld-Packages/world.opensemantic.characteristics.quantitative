@@ -1,0 +1,22 @@
+{
+    "uuid": "da6533d9-f50e-5edc-af3d-cd61e2dc7314",
+    "name": "HasAmountOfSubstanceOfConcentrationValue",
+    "label": [
+        {
+            "text": "Amount of Substance of Concentration",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Amount of Substance of Concentration of B\" is defined as the amount of a constituent divided by the volume of the mixture.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasConcentrationValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasConcentrationValue"
+}

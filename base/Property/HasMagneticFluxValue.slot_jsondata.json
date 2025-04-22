@@ -1,0 +1,37 @@
+{
+    "uuid": "ccdd6427-5e88-599c-bd85-03f1bb7d4a55",
+    "name": "HasMagneticFluxValue",
+    "label": [
+        {
+            "text": "Magnetic flux",
+            "lang": "en"
+        },
+        {
+            "text": "Magnetischer Flux",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Magnetic Flux\" is the product of the average magnetic field times the perpendicular area that it penetrates.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "80b62a52-9e41-5555-ae9c-4c97bf1cdc47",
+        "name": "Wb",
+        "main_symbol": "Wb"
+    },
+    "additional_units": [
+        {
+            "uuid": "669cebbb-7857-5695-a2e2-f49490f26e77",
+            "name": "mWb",
+            "main_symbol": "mWb",
+            "conversion_factor_to_main_unit": "1000.0"
+        }
+    ]
+}

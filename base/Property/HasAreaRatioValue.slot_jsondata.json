@@ -1,0 +1,16 @@
+{
+    "uuid": "fc042566-9606-593c-a941-a8ea9b5d09b1",
+    "name": "HasAreaRatioValue",
+    "label": [
+        {
+            "text": "Area Ratio",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessRatioValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

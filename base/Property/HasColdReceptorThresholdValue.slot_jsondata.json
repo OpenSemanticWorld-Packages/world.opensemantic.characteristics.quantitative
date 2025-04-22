@@ -1,0 +1,22 @@
+{
+    "uuid": "aae7c672-f5ce-566a-9051-9b43ae81761c",
+    "name": "HasColdReceptorThresholdValue",
+    "label": [
+        {
+            "text": "Cold Receptor Threshold",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Cold Receptor Threshold\" is the threshold of cold-sensitive free nerve-ending.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasTemperatureValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasTemperatureValue"
+}

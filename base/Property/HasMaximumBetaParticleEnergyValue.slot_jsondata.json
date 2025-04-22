@@ -1,0 +1,22 @@
+{
+    "uuid": "451de8c4-f20b-59f5-a8e9-e62f68ecc756",
+    "name": "HasMaximumBetaParticleEnergyValue",
+    "label": [
+        {
+            "text": "Maximum Beta-Particle Energy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Maximum Beta-Particle Energy\" is the maximum energy of the energy spectrum in a beta-particle disintegration process.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasEnergyValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasEnergyValue"
+}

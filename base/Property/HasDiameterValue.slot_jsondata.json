@@ -1,0 +1,26 @@
+{
+    "uuid": "14f5be29-6e9f-53f3-ad35-e613038687a1",
+    "name": "HasDiameterValue",
+    "label": [
+        {
+            "text": "Diameter",
+            "lang": "en"
+        },
+        {
+            "text": "Durchmesser",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "In classical geometry, the \"Diameter\" of a circle is any straight line segment that passes through the center of the circle and whose endpoints lie on the circle.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

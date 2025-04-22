@@ -1,0 +1,29 @@
+{
+    "uuid": "133495b0-1459-56bb-a0a8-b88b99130634",
+    "name": "HasAreaPerLengthValue",
+    "label": [
+        {
+            "text": "Area per length",
+            "lang": "en"
+        },
+        {
+            "text": "Fläche pro Längeneinheit",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Measure used to indicate the surface area of structural steel per unit length of the steel part.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "36520930-adc1-549f-b8b3-c8e1bb4f3641",
+        "name": "m²/m",
+        "main_symbol": "m²/m"
+    }
+}

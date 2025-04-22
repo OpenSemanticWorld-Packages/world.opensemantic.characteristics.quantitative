@@ -1,0 +1,25 @@
+{
+    "uuid": "b638ceff-27db-58b2-bc03-69c1368afb3a",
+    "name": "HasCompressibilityValue",
+    "label": [
+        {
+            "text": "Compressibility",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Compressibility is a measure of the relative volume change of a fluid or solid as a response to a pressure (or mean stress) change.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "46a83f33-0f79-55d1-a0b0-9199b950a282",
+        "name": "m²/N",
+        "main_symbol": "m²/N"
+    }
+}

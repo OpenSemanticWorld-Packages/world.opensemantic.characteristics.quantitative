@@ -1,0 +1,22 @@
+{
+    "uuid": "aa11c20c-abe7-51e7-aca7-e2cf03d57b89",
+    "name": "HasNuclearRadiusValue",
+    "label": [
+        {
+            "text": "Nuclear Radius",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Nuclear Radius\" is the conventional radius of sphere in which the nuclear matter is included",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

@@ -1,0 +1,22 @@
+{
+    "uuid": "ead97d4d-99d5-5353-91e1-6d390301adbb",
+    "name": "HasFermiTemperatureValue",
+    "label": [
+        {
+            "text": "Fermi Temperature",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Fermi Temperature\" is the temperature associated with the Fermi energy.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasTemperatureValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasTemperatureValue"
+}

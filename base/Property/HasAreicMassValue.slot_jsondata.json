@@ -1,0 +1,16 @@
+{
+    "uuid": "ec25ca59-fc72-5bff-a9d9-999b21ab25cc",
+    "name": "HasAreicMassValue",
+    "label": [
+        {
+            "text": "Areic mass",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasMassPerAreaValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasMassPerAreaValue"
+}

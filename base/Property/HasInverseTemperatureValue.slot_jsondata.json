@@ -1,0 +1,19 @@
+{
+    "uuid": "306c3234-915a-5617-bdf1-00633e0a1bdf",
+    "name": "HasInverseTemperatureValue",
+    "label": [
+        {
+            "text": "Inverse Temperature",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "1e7ef827-94bd-5119-aaf2-b8528919c925",
+        "name": "1/K",
+        "main_symbol": "1/K"
+    }
+}

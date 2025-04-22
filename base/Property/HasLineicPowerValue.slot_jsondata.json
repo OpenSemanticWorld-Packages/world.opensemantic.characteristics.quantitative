@@ -1,0 +1,25 @@
+{
+    "uuid": "f12051bf-84a2-5d67-bba4-de46f3a0fe8a",
+    "name": "HasLineicPowerValue",
+    "label": [
+        {
+            "text": "Lineic power",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Leistung dividiert durch die zugehörige Länge",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "1cef8d57-5c25-5154-9271-65051367462b",
+        "name": "W/m",
+        "main_symbol": "W/m"
+    }
+}

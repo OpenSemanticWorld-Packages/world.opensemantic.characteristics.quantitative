@@ -1,0 +1,16 @@
+{
+    "uuid": "f468351c-5f62-596f-a755-5744f787c4cb",
+    "name": "HasTensionValue",
+    "label": [
+        {
+            "text": "Tension",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasForceMagnitudeValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasForceValue"
+}

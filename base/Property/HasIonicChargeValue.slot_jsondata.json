@@ -1,0 +1,22 @@
+{
+    "uuid": "1055fd2e-66e3-53aa-88f9-5868c7725989",
+    "name": "HasIonicChargeValue",
+    "label": [
+        {
+            "text": "Ionic Charge",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The total charge of an ion. The charge of an electron; the charge of any ion is equal to this electron charge in magnitude, or is an integral multiple of it.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasElectricChargeValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasElectricChargeValue"
+}

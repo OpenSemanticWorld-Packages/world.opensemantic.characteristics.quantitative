@@ -1,0 +1,19 @@
+{
+    "uuid": "c9437552-705e-5e64-804b-5aa141fbd6f7",
+    "name": "HasInversePermittivityValue",
+    "label": [
+        {
+            "text": "Inverse Permittivity",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "007a612f-5b50-5894-818f-b58671ea3c5c",
+        "name": "m/F",
+        "main_symbol": "m/F"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "uuid": "c4e37bb1-2be7-51dc-b87b-c44edb02b522",
+    "name": "HasSoundIntensityValue",
+    "label": [
+        {
+            "text": "Sound intensity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Sound intensity or acoustic intensity ($I$) is defined as the sound power $P_a$ per unit area $A$. The usual context is the noise measurement of sound intensity in the air at a listener's location as a sound energy quantity.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasPowerPerAreaValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasPowerPerAreaValue"
+}

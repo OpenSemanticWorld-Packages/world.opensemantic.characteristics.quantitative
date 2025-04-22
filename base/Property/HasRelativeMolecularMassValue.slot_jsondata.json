@@ -1,0 +1,22 @@
+{
+    "uuid": "84c41da3-4dfe-5f79-9b21-1cbe34c4daee",
+    "name": "HasRelativeMolecularMassValue",
+    "label": [
+        {
+            "text": "Relative Molecular Mass",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Relative Molecular Mass \" is equivalent to the numerical value of the molecular mass expressed in unified atomic mass units. The molecular mass (m) is the mass of a molecule.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessRatioValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

@@ -1,0 +1,22 @@
+{
+    "uuid": "f3a87216-f5a4-59c7-951f-db0b58bfd174",
+    "name": "HasFirstMomentOfAreaValue",
+    "label": [
+        {
+            "text": "First Moment of Area",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The first moment of area is the summation of area times distance to an axis. It is a measure of the distribution of the area of a shape in relationship to an axis.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasVolumeValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasVolumeValue"
+}

@@ -1,0 +1,22 @@
+{
+    "uuid": "5d44126e-bb7d-581d-99e2-07ad9af24d3c",
+    "name": "HasAzimuthValue",
+    "label": [
+        {
+            "text": "Azimuth",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The horizontal angle between an object and a cardinal direction, generally north. \n  In the context of architecture, this would refer to the direction a structure faces relative to the direction north.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasAngleValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

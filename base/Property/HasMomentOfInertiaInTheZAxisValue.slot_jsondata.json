@@ -1,0 +1,22 @@
+{
+    "uuid": "4a721102-9897-5a6f-934a-5b46ef613762",
+    "name": "HasMomentOfInertiaInTheZAxisValue",
+    "label": [
+        {
+            "text": "Moment of Inertia in the Z axis",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The rotational inertia or resistance to change in direction or speed of rotation about a defined axis.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasMomentOfInertiaValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasMomentOfInertiaValue"
+}

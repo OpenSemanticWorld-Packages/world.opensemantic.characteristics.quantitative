@@ -1,0 +1,25 @@
+{
+    "uuid": "cfdc83d3-d26f-5b9c-abac-6f5667bd003d",
+    "name": "HasMassPerLengthValue",
+    "label": [
+        {
+            "text": "Mass per Length",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Linear density, linear mass density or linear mass is a measure of mass per unit of length, and it is a characteristic of strings or other one-dimensional objects. The SI unit of linear density is the kilogram per metre ($kg/m$).",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "80403beb-2a0c-54ca-ae6c-abfda6e38bee",
+        "name": "kg/m",
+        "main_symbol": "kg/m"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "uuid": "718483f7-1e45-53c8-a8b3-d71eeb4a910d",
+    "name": "HasShannonDiversityIndexValue",
+    "label": [
+        {
+            "text": "Shannon Diversity Index",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Information entropy applied to a collection of indiviual organisms [of selected species] in a sample area. A measure of biodiversity.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasInformationEntropyValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

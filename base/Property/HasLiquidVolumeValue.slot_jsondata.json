@@ -1,0 +1,22 @@
+{
+    "uuid": "3361892d-4f6a-56a4-bb28-1f53d13be1c1",
+    "name": "HasLiquidVolumeValue",
+    "label": [
+        {
+            "text": "Liquid Volume",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Liquid volume is the volume of a given amount of liquid, that is, the amount of space a liquid takes up. There are a number of different units used to measure liquid volume, but most of them fall under either the metric system of measurement or the Imperial system of measurement.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasVolumeValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasVolumeValue"
+}

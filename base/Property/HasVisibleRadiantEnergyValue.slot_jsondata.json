@@ -1,0 +1,22 @@
+{
+    "uuid": "122234b9-38b6-5f74-8801-5ecc62997bf8",
+    "name": "HasVisibleRadiantEnergyValue",
+    "label": [
+        {
+            "text": "Visible Radiant Energy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Visible Radiant Energy\", also known as luminous energy, is the energy of electromagnetic waves. It is energy of the particles that are emitted, transferred, or received as radiation.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasEnergyValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasEnergyValue"
+}

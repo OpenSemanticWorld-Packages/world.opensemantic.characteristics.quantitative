@@ -1,0 +1,16 @@
+{
+    "uuid": "ca47efc1-f21b-5980-8922-13ee2efdbf87",
+    "name": "HasThermodynamicEnergyValue",
+    "label": [
+        {
+            "text": "Thermodynamic Energy",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasEnergyValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasEnergyValue"
+}

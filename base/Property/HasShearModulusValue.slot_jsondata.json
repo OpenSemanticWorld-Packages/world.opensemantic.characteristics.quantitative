@@ -1,0 +1,69 @@
+{
+    "uuid": "bca0edaa-cb4b-5546-8e8d-14c78caacaab",
+    "name": "HasShearModulusValue",
+    "label": [
+        {
+            "text": "Shear Modulus",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The Shear Modulus or modulus of rigidity, denoted by $G$, or sometimes $S$ or $\\mu$, is defined as the ratio of shear stress to the shear strain.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "1398bdb9-b980-5eb2-a804-8f2f2a0dfed8",
+        "name": "Pa",
+        "main_symbol": "Pa"
+    },
+    "additional_units": [
+        {
+            "uuid": "c633df4c-6d4a-5f22-8ef8-5ec1031933da",
+            "name": "GPa",
+            "main_symbol": "GPa",
+            "conversion_factor_to_main_unit": "0.0"
+        },
+        {
+            "uuid": "06ba55c1-e227-5aea-8cb4-9f6495ca9bbd",
+            "name": "daPa",
+            "main_symbol": "daPa",
+            "conversion_factor_to_main_unit": "0.1"
+        },
+        {
+            "uuid": "45df3459-d31e-52f1-8cbb-1f24359148b4",
+            "name": "mPa",
+            "main_symbol": "mPa",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "cf575cb5-07f0-5022-9fc5-41ec056632ad",
+            "name": "MPa",
+            "main_symbol": "MPa",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "0674cd5a-72f0-5c2b-a8ee-1c5fa7c28e02",
+            "name": "kPa",
+            "main_symbol": "kPa",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "ec7c5d19-00cd-5eb8-9ef4-a4b64f03e336",
+            "name": "hPa",
+            "main_symbol": "hPa",
+            "conversion_factor_to_main_unit": "0.01"
+        },
+        {
+            "uuid": "09339574-3743-5479-96ba-e642d73a2e5d",
+            "name": "μPa",
+            "main_symbol": "μPa",
+            "conversion_factor_to_main_unit": "1000000.0"
+        }
+    ]
+}

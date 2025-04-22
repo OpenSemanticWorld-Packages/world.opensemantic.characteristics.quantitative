@@ -1,0 +1,27 @@
+{
+    "uuid": "2746ace2-7973-5bb9-98af-dcc5f5821a22",
+    "name": "HasLinearAccelerationValue",
+    "label": [
+        {
+            "text": "Linear Acceleration",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "aeb15552-6656-5fad-8581-9f1a2188d45c",
+        "name": "m/s²",
+        "main_symbol": "m/s²"
+    },
+    "additional_units": [
+        {
+            "uuid": "9e859eb7-8757-5183-9ec3-3360d9e1798f",
+            "name": "cm/s²",
+            "main_symbol": "cm/s²",
+            "conversion_factor_to_main_unit": "100.0"
+        }
+    ]
+}

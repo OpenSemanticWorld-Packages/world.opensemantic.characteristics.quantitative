@@ -1,0 +1,22 @@
+{
+    "uuid": "cf85e8e2-2918-5494-af9e-1c95b1322fa7",
+    "name": "HasResonanceEnergyValue",
+    "label": [
+        {
+            "text": "Resonance Energy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Resonance Energy\" in a nuclear reaction, is the kinetic energy of an incident particle, in the reference frame of the target, corresponding to a resonance in a nuclear reaction.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasEnergyValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasEnergyValue"
+}

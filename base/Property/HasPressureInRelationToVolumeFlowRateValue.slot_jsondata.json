@@ -1,0 +1,19 @@
+{
+    "uuid": "c9578f05-5e33-566b-b6de-0eb42d37a6b6",
+    "name": "HasPressureInRelationToVolumeFlowRateValue",
+    "label": [
+        {
+            "text": "Pressure in relation to volume flow rate",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "3c6dcf04-679e-5264-8807-84308ace2fdb",
+        "name": "Pa·s/m³",
+        "main_symbol": "Pa·s/m³"
+    }
+}

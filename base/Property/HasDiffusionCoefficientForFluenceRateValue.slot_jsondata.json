@@ -1,0 +1,22 @@
+{
+    "uuid": "aaed22d1-31b7-5c0e-ba9c-4425c9074f25",
+    "name": "HasDiffusionCoefficientForFluenceRateValue",
+    "label": [
+        {
+            "text": "Diffusion Coefficient for Fluence Rate",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Diffusion Coefficient for Fluence Rate\" is a proportionality constant between the .",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

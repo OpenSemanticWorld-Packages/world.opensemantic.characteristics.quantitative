@@ -1,0 +1,19 @@
+{
+    "uuid": "447c66b9-576f-5ee8-87bf-bfe8e535c50f",
+    "name": "HasForcePerAngleValue",
+    "label": [
+        {
+            "text": "Force per Angle",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "ea45917c-0849-5a26-b8ab-75c73265abe8",
+        "name": "N/rad",
+        "main_symbol": "N/rad"
+    }
+}

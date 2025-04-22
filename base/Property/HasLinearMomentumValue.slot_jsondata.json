@@ -1,0 +1,25 @@
+{
+    "uuid": "4d2aeedf-9013-5f45-a551-19071f49b56f",
+    "name": "HasLinearMomentumValue",
+    "label": [
+        {
+            "text": "Linear Momentum",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Linear momentum is the quantity obtained by multiplying the mass of a body by its linear velocity. The momentum of a continuous medium is given by the integral of the velocity over the mass of the medium or by the product of the total mass of the medium and the velocity of the center of gravity of the medium.The SI unit for linear momentum is meter-kilogram per second ($m-kg/s$).",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "534c0c56-78c5-510a-9730-e0a2ac026d41",
+        "name": "N·m·s/m",
+        "main_symbol": "N·m·s/m"
+    }
+}

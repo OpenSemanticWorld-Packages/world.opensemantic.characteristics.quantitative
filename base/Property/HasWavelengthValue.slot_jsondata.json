@@ -1,0 +1,26 @@
+{
+    "uuid": "46d7a820-cab2-56cb-8804-e2b99d110002",
+    "name": "HasWavelengthValue",
+    "label": [
+        {
+            "text": "Wavelength",
+            "lang": "en"
+        },
+        {
+            "text": "Wellenlänge",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "For a monochromatic wave, \"wavelength\" is the distance between two successive points in a direction perpendicular to the wavefront where at a given instant the phase differs by $2\\pi$. The wavelength of a sinusoidal wave is the spatial period of the wave—the distance over which the wave's shape repeats. The SI unit of wavelength is the meter.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

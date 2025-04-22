@@ -1,0 +1,22 @@
+{
+    "uuid": "05718764-ef9a-55cf-887b-e6e2d7318279",
+    "name": "HasAmountOfSubstancePerVolumeValue",
+    "label": [
+        {
+            "text": "Amount of Substance per Volume",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The amount of substance per unit volume is called the molar density. Molar density is an intensive property of a substance and depends on the temperature and pressure.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasConcentrationValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasConcentrationValue"
+}

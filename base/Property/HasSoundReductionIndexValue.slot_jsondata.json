@@ -1,0 +1,25 @@
+{
+    "uuid": "d1a1e98e-584b-5f67-bac0-4f2773672ba6",
+    "name": "HasSoundReductionIndexValue",
+    "label": [
+        {
+            "text": "Sound reduction index",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The Sound Reduction Index is used to measure the level of sound insulation provided by a structure such as a wall, window, door, or ventilator.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "a098482f-dada-5694-88d7-d6e436bf55dd",
+        "name": "B",
+        "main_symbol": "B"
+    }
+}

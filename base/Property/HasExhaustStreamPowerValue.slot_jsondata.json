@@ -1,0 +1,16 @@
+{
+    "uuid": "53e5a3e9-96b5-5556-85a1-8d829e89500b",
+    "name": "HasExhaustStreamPowerValue",
+    "label": [
+        {
+            "text": "Exhaust Stream Power",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasPowerValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasPowerValue"
+}

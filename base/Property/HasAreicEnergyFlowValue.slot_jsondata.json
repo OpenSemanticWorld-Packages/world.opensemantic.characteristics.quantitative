@@ -1,0 +1,22 @@
+{
+    "uuid": "3fe9af84-7012-5602-8b8d-6f3093e0923f",
+    "name": "HasAreicEnergyFlowValue",
+    "label": [
+        {
+            "text": "Areic energy flow",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Leistung in festgelegter Ausbreitungsrichtung durch ein dazu senkrechtes Oberflächenelement, dividiert durch dessen Fläche",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasPowerPerAreaValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasPowerPerAreaValue"
+}

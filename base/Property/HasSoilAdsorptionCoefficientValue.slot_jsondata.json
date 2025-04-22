@@ -1,0 +1,22 @@
+{
+    "uuid": "4792395a-3c65-5fbe-81c0-384f60e1d915",
+    "name": "HasSoilAdsorptionCoefficientValue",
+    "label": [
+        {
+            "text": "Soil Adsorption Coefficient",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A specific volume that is the ratio of the amount of substance adsorbed per unit weight of organic carbon in the soil or sediment to the concentration of the chemical in aqueous solution at equilibrium.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasSpecificVolumeValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasSpecificVolumeValue"
+}

@@ -1,0 +1,22 @@
+{
+    "uuid": "9497de65-91db-527d-9b2e-33071cc61a94",
+    "name": "HasHorizontalVelocityValue",
+    "label": [
+        {
+            "text": "Horizontal Velocity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Component of a projectile's velocity, which acts parallel to the ground and does not lift the projectile in the air.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasVelocityValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasVelocityValue"
+}

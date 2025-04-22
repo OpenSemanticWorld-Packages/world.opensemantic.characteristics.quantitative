@@ -1,0 +1,25 @@
+{
+    "uuid": "4cf337e4-f1bb-5eef-8bf8-efaa3e7fcbc7",
+    "name": "HasVaporPermeabilityValue",
+    "label": [
+        {
+            "text": "Vapor Permeability",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A material's \"permeance\", is dependent on thickness much like the R-value in heat transmission. Dividing the permeability of a material by its thickness gives the material's permeance. Permeance is the number that should be used to compare various products in regard to moisture transmission resistance.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "1524fa0b-83ee-5586-95eb-d3e32a840b94",
+        "name": "kg/(m²·Pa·s)",
+        "main_symbol": "kg/(m²·Pa·s)"
+    }
+}

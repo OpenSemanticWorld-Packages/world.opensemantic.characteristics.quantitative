@@ -1,0 +1,22 @@
+{
+    "uuid": "8590ed35-d709-5c41-a589-ce8fcb0e7183",
+    "name": "HasIonTransportNumberValue",
+    "label": [
+        {
+            "text": "Ion Transport Number",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Ion Transport Number\" is a quantity which indicates the different contribution of ions to the electric current in electrolytes due to different electrical mobility.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessRatioValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

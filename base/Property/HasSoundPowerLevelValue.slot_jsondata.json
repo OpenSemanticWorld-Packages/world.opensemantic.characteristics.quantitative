@@ -1,0 +1,25 @@
+{
+    "uuid": "e05f3cd8-1210-50a5-975b-195fcb19722b",
+    "name": "HasSoundPowerLevelValue",
+    "label": [
+        {
+            "text": "Sound power level",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Sound Power Level abbreviated as $SWL$ expresses sound power more practically as a relation to the threshold of hearing - 1 picoW - in a logarithmic scale.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "a098482f-dada-5694-88d7-d6e436bf55dd",
+        "name": "B",
+        "main_symbol": "B"
+    }
+}

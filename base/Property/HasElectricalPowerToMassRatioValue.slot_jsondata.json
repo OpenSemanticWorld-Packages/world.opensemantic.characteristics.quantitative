@@ -1,0 +1,16 @@
+{
+    "uuid": "220e7cd1-78a3-57bf-af2d-f7004fd25f89",
+    "name": "HasElectricalPowerToMassRatioValue",
+    "label": [
+        {
+            "text": "Electrical Power To Mass Ratio",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasSpecificPowerValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasSpecificPowerValue"
+}

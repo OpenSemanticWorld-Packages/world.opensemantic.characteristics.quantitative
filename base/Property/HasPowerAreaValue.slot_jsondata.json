@@ -1,0 +1,19 @@
+{
+    "uuid": "f7067131-b5cc-520c-8de3-8f53f092c8bd",
+    "name": "HasPowerAreaValue",
+    "label": [
+        {
+            "text": "Power Area",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "12f290f7-4a48-5088-99cc-90a1f43ed359",
+        "name": "W·m²",
+        "main_symbol": "W·m²"
+    }
+}

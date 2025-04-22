@@ -1,0 +1,19 @@
+{
+    "uuid": "108a16f6-3b36-5b00-bf54-4b8383225a48",
+    "name": "HasElectricCurrentPerEnergyValue",
+    "label": [
+        {
+            "text": "Electric Current per Energy",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "fb78bd70-61ce-5e90-a433-5a0844793270",
+        "name": "A/J",
+        "main_symbol": "A/J"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "uuid": "f75bec90-9c59-568a-aa65-806a44bbc705",
+    "name": "HasHalfLifeValue",
+    "label": [
+        {
+            "text": "Half-life",
+            "lang": "en"
+        },
+        {
+            "text": "Halbwertszeit",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Half-Life\" is the average duration required for the decay of one half of the atoms or nuclei.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasTimeValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasTimeValue"
+}

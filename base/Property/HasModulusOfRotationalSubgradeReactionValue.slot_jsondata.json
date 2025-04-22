@@ -1,0 +1,22 @@
+{
+    "uuid": "5baa290e-b985-5edc-9ac1-13e364213f9f",
+    "name": "HasModulusOfRotationalSubgradeReactionValue",
+    "label": [
+        {
+            "text": "Modulus of Rotational Subgrade Reaction",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Modulus of Rotational Subgrade Reaction is a measure for modulus of rotational subgrade reaction, which expresses the rotational elastic bedding of a linear structural element per length, such as for a beam. It is typically measured in Nm/(m*rad).",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasForcePerAngleValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasForcePerAngleValue"
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "cbf64b22-6de2-5435-bcd4-f6b960d052d0",
+    "name": "HasPlaneAngleValue",
+    "label": [
+        {
+            "text": "Plane angle",
+            "lang": "en"
+        },
+        {
+            "text": "Ebener Winkel",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "An angle formed by two straight lines (in the same plane) angle - the space between two lines or planes that intersect; the inclination of one line to another; measured in degrees or radians",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "18ab85eb-26e2-5d9e-858f-29529b979c78",
+        "name": "rad",
+        "main_symbol": "rad"
+    },
+    "additional_units": [
+        {
+            "uuid": "63a0cc81-77f0-5640-a43f-95515620dade",
+            "name": "µrad",
+            "main_symbol": "µrad",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "0e909ad8-175c-5425-b6f2-62aebca16346",
+            "name": "mrad",
+            "main_symbol": "mrad",
+            "conversion_factor_to_main_unit": "1000.0"
+        }
+    ]
+}

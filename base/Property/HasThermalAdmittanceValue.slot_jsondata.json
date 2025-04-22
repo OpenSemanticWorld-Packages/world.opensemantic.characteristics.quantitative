@@ -1,0 +1,22 @@
+{
+    "uuid": "b592b8ce-2f7d-50a6-a041-0d7f1de18bf8",
+    "name": "HasThermalAdmittanceValue",
+    "label": [
+        {
+            "text": "Thermal Admittance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The heat transfer coefficient is also known as thermal admittance in the sense that the material may be seen as admitting heat to flow.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasCoefficientOfHeatTransferValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasCoefficientOfHeatTransferValue"
+}

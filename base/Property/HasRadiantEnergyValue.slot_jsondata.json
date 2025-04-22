@@ -1,0 +1,26 @@
+{
+    "uuid": "532daef9-fbde-51bb-8ab2-6ddaa8464742",
+    "name": "HasRadiantEnergyValue",
+    "label": [
+        {
+            "text": "Radiant energy",
+            "lang": "en"
+        },
+        {
+            "text": "Strahlungsenergie",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "In radiometry,\"Radiant Energy} is the energy of electromagnetic waves. The quantity of radiant energy may be calculated by integrating radiant flux (or power) with respect to time.  In nuclear physics, $\\textit{Radiant Energy\" is energy, excluding rest energy, of the particles that are emitted, transferred, or received.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasEnergyValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasEnergyValue"
+}

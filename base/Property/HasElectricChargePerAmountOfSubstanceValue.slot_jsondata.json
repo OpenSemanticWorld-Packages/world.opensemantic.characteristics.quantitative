@@ -1,0 +1,25 @@
+{
+    "uuid": "3f4e46e3-96db-5b89-8449-bff4374a539a",
+    "name": "HasElectricChargePerAmountOfSubstanceValue",
+    "label": [
+        {
+            "text": "Electric charge per amount of substance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Electric Charge Per Amount Of Substance\" is the charge assocated with a given amount of substance. Un the ISO and SI systems this is $1 mol$.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "dac2dcc3-ae5d-5973-8581-386ccc11d708",
+        "name": "C/mol",
+        "main_symbol": "C/mol"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "uuid": "5061b920-81f6-5582-8ee2-027fd15238a0",
+    "name": "HasPolarizationFieldValue",
+    "label": [
+        {
+            "text": "Polarization Field",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The Polarization Field is the vector field that expresses the density of permanent or induced electric dipole moments in a dielectric material. The polarization vector P is defined as the ratio of electric dipole moment per unit volume.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasElectricChargePerAreaValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasElectricChargePerAreaValue"
+}

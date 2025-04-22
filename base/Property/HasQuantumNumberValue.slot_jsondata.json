@@ -1,0 +1,22 @@
+{
+    "uuid": "6f844c67-add2-5002-9930-7e56756ce534",
+    "name": "HasQuantumNumberValue",
+    "label": [
+        {
+            "text": "Quantum Number",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Quantum Number\" describes values of conserved quantities in the dynamics of the quantum system. Perhaps the most peculiar aspect of quantum mechanics is the quantization of observable quantities, since quantum numbers are discrete sets of integers or half-integers.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

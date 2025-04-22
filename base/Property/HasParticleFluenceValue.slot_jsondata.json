@@ -1,0 +1,25 @@
+{
+    "uuid": "4d7cab40-925b-55d6-ad6d-cc2d78126acd",
+    "name": "HasParticleFluenceValue",
+    "label": [
+        {
+            "text": "Particle Fluence",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Particle Fluence\" is the total number of particles that intersect a unit area in a specific time interval of interest, and has units of /m2 (number of particles per meter squared).",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "5d08807e-847a-5e58-9c4f-131e607df1c8",
+        "name": "1/m²",
+        "main_symbol": "1/m²"
+    }
+}

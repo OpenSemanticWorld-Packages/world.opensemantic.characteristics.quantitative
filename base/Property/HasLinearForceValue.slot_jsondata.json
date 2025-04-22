@@ -1,0 +1,26 @@
+{
+    "uuid": "c4a80efc-8cd9-5de5-8117-2cfdc0d192c4",
+    "name": "HasLinearForceValue",
+    "label": [
+        {
+            "text": "Linear Force",
+            "lang": "en"
+        },
+        {
+            "text": "Streckenlast",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Stiffness is the extent to which an object resists deformation in response to an applied force. Linear Stiffness is the term used in the Industry Foundation Classes (IFC) standard.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasForcePerLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasForcePerLengthValue"
+}

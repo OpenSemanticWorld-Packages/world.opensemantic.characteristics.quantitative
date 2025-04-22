@@ -1,0 +1,22 @@
+{
+    "uuid": "ce228608-67a3-52df-91ab-189dae19f9c4",
+    "name": "HasLondonPenetrationDepthValue",
+    "label": [
+        {
+            "text": "London Penetration Depth",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"London Penetration Depth\" characterizes the distance to which a magnetic field penetrates into a superconductor and becomes equal to 1/e times that of the magnetic field at the surface of the superconductor.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

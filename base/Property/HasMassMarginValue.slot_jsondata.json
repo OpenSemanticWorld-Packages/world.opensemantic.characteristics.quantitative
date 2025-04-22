@@ -1,0 +1,22 @@
+{
+    "uuid": "c5e501b2-2a38-528f-8a7c-fa83ef7448fa",
+    "name": "HasMassMarginValue",
+    "label": [
+        {
+            "text": "Mass Margin",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Requirement minus predicted value. Margin is used as a metric in risk management. Positive margin mitigates the risk of mass increases from requirements maturation and implementation, underestimated predicted system, or subsystem mass.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasMassValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasMassValue"
+}

@@ -1,0 +1,25 @@
+{
+    "uuid": "fd2914b6-1ce0-52cb-b5b4-742ef4138c30",
+    "name": "HasAcidityValue",
+    "label": [
+        {
+            "text": "Acidity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Chemicals or substances having a pH less than 7 are said to be acidic; lower pH means higher acidity.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "51ada84b-997d-5843-900f-1a53ee592518",
+        "name": "pH",
+        "main_symbol": "pH"
+    }
+}

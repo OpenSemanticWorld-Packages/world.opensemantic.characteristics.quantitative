@@ -1,0 +1,22 @@
+{
+    "uuid": "5643ea7f-5fe0-55b1-9243-de62727b3598",
+    "name": "HasAdaptationValue",
+    "label": [
+        {
+            "text": "Adaptation",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Adaptation\" is the recovery of visual ability following exposure to light (dark adaptation).",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasTimeValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasTimeValue"
+}

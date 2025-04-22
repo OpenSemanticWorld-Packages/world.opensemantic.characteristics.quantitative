@@ -1,0 +1,22 @@
+{
+    "uuid": "7dd7e3f4-42cd-5a68-bdba-fd70dccabbd4",
+    "name": "HasLinearStrainValue",
+    "label": [
+        {
+            "text": "Linear Strain",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A strain is a normalized measure of deformation representing the displacement between particles in the body relative to a reference length.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLengthRatioValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

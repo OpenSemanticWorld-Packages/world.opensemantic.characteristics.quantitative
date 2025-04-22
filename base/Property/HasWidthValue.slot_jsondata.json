@@ -1,0 +1,22 @@
+{
+    "uuid": "49f325d9-b316-5ca1-a36f-4b7ba11428b4",
+    "name": "HasWidthValue",
+    "label": [
+        {
+            "text": "Width",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Width\" is the middle of three dimensions: length, width, thickness.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

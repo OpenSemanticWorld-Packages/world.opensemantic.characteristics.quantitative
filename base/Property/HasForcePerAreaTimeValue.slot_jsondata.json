@@ -1,0 +1,19 @@
+{
+    "uuid": "b264506c-d175-5560-854b-d8effff22662",
+    "name": "HasForcePerAreaTimeValue",
+    "label": [
+        {
+            "text": "Force Per Area Time",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "cac11d94-f232-5915-9d35-98346212d78b",
+        "name": "Pa/s",
+        "main_symbol": "Pa/s"
+    }
+}

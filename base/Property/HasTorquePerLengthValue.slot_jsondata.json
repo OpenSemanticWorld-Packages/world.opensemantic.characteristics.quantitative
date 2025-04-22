@@ -1,0 +1,27 @@
+{
+    "uuid": "86f71d25-9f16-5122-bdba-1c87928a9a2d",
+    "name": "HasTorquePerLengthValue",
+    "label": [
+        {
+            "text": "Torque per Length",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "2cfc2ae5-a64c-5848-ae6b-99be3b52ad28",
+        "name": "N·m/m",
+        "main_symbol": "N·m/m"
+    },
+    "additional_units": [
+        {
+            "uuid": "9c88c7fd-b92d-56a6-992b-c1edfd136932",
+            "name": "kN·m/m",
+            "main_symbol": "kN·m/m",
+            "conversion_factor_to_main_unit": "0.001"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "uuid": "d5acd79e-698f-5244-8589-95402f7fce84",
+    "name": "HasLuminousExposureValue",
+    "label": [
+        {
+            "text": "Luminous Exposure",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Luminous Exposure is the time-integrated illuminance.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "259d39cc-54fd-5b23-b2ff-9ebaefbd7f84",
+        "name": "lx·h",
+        "main_symbol": "lx·h"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "uuid": "9c539cc7-e043-5a64-9cea-0e1e247b236d",
+    "name": "HasSpecificHeatCapacityAtConstantPressureValue",
+    "label": [
+        {
+            "text": "Specific heat capacity at constant pressure",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Specific heat at a constant pressure.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "3ebf6bf4-17f6-56fa-9f49-62a98bcd37fb",
+        "name": "J/(kg·°C)",
+        "main_symbol": "J/(kg·°C)"
+    }
+}

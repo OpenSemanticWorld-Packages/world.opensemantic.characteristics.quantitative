@@ -1,0 +1,25 @@
+{
+    "uuid": "381613f4-71bf-562e-8097-653e1713d564",
+    "name": "HasEnergyPerSquareMagneticFluxDensityValue",
+    "label": [
+        {
+            "text": "Energy Per Square Magnetic Flux Density",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Energy Per Square Magnetic Flux Density\" is a measure of energy for a unit of magnetic flux density.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "0542858e-3f60-560b-814e-cf28ccf50fbb",
+        "name": "J/T²",
+        "main_symbol": "J/T²"
+    }
+}

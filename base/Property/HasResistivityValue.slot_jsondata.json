@@ -1,0 +1,25 @@
+{
+    "uuid": "f44e3346-3478-54fd-8a58-ec2f1c1894b1",
+    "name": "HasResistivityValue",
+    "label": [
+        {
+            "text": "Resistivity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Resistivity\" is the inverse of the conductivity when this inverse exists.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "87cbcc9a-dac0-5dc9-9b65-e0a05665bcf1",
+        "name": "Ω·m",
+        "main_symbol": "Ω·m"
+    }
+}

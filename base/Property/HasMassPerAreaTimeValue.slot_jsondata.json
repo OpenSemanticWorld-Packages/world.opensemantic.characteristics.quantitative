@@ -1,0 +1,39 @@
+{
+    "uuid": "67c4dd64-fb5a-5e40-ac69-48faf8f4272c",
+    "name": "HasMassPerAreaTimeValue",
+    "label": [
+        {
+            "text": "Mass per Area Time",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In Physics and Engineering, mass flux is the rate of mass flow per unit area. The common symbols are $j$, $J$, $\\phi$, or $\\Phi$  (Greek lower or capital Phi), sometimes with subscript $m$ to indicate mass is the flowing quantity.  Its SI units are $ kg s^{-1} m^{-2}$.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "c35d38bd-067a-5e67-9b78-cbab1994b9ff",
+        "name": "g/(m²·d)",
+        "main_symbol": "g/(m²·d)"
+    },
+    "additional_units": [
+        {
+            "uuid": "71d5450b-df19-5680-a127-0cdf96530fea",
+            "name": "mg/(m²·d)",
+            "main_symbol": "mg/(m²·d)",
+            "conversion_factor_to_main_unit": "86399999999.99982"
+        },
+        {
+            "uuid": "1189eb41-2b91-5f26-93fb-686ebf5cf586",
+            "name": "μg/(m²·d)",
+            "main_symbol": "μg/(m²·d)",
+            "conversion_factor_to_main_unit": "86399999999999.8"
+        }
+    ]
+}

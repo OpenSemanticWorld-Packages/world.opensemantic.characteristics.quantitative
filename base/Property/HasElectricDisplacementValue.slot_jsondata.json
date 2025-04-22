@@ -1,0 +1,22 @@
+{
+    "uuid": "b7697a15-1d40-50fa-834f-91526d2167d0",
+    "name": "HasElectricDisplacementValue",
+    "label": [
+        {
+            "text": "Electric Displacement",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In a dielectric material the presence of an electric field E causes the bound charges in the material (atomic nuclei and their electrons) to slightly separate, inducing a local electric dipole moment. The Electric Displacement Field, $D$, is a vector field that accounts for the effects of free charges within such dielectric materials. This describes also the charge density on an extended surface that could be causing the field.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasElectricChargePerAreaValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasElectricChargePerAreaValue"
+}

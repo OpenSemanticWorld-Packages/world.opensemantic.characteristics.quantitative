@@ -1,0 +1,26 @@
+{
+    "uuid": "b2fbaee9-f5bf-5c4b-b58a-fa656ed06a90",
+    "name": "HasSpeedOfLightValue",
+    "label": [
+        {
+            "text": "Speed of light",
+            "lang": "en"
+        },
+        {
+            "text": "Lichtgeschwindigkeit",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The quantity kind $\\text{Speed of Light}$ is the speed of electomagnetic waves in a given medium.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasSpeedValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasSpeedValue"
+}

@@ -1,0 +1,16 @@
+{
+    "uuid": "c9ae4291-3095-58e9-8f83-a354aeca278a",
+    "name": "HasHeatFluxDensityValue",
+    "label": [
+        {
+            "text": "Heat Flux Density",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasPowerPerAreaValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasPowerPerAreaValue"
+}

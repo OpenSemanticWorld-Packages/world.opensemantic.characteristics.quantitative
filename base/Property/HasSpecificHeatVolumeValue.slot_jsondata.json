@@ -1,0 +1,25 @@
+{
+    "uuid": "a2bc0063-8ad5-5c4e-a8f3-2a4d72024c97",
+    "name": "HasSpecificHeatVolumeValue",
+    "label": [
+        {
+            "text": "Specific Heat Volume",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Specific heat per constant volume.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "def75df0-f5bb-523b-9ac6-856d912ebc6e",
+        "name": "J/(K·kg·m³)",
+        "main_symbol": "J/(K·kg·m³)"
+    }
+}

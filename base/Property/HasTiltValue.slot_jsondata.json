@@ -1,0 +1,22 @@
+{
+    "uuid": "9c31250e-4957-5446-b4dd-cf0105504e3a",
+    "name": "HasTiltValue",
+    "label": [
+        {
+            "text": "Tilt",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The angle between an object's orientation vector relative to a reference frame.  \n  In the context of architecture, this would refer to the angle between the ground and the face of a surface.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasAngleValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

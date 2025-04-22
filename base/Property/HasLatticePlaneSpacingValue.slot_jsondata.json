@@ -1,0 +1,22 @@
+{
+    "uuid": "119d7339-5475-5a35-8bd0-c2d32ee3f1b4",
+    "name": "HasLatticePlaneSpacingValue",
+    "label": [
+        {
+            "text": "Lattice Plane Spacing",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Lattice Plane Spacing\" is the distance between successive lattice planes.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

@@ -1,0 +1,25 @@
+{
+    "uuid": "9d93c3f7-03f2-5a65-9af4-92351311311f",
+    "name": "HasSpectralCrossSectionValue",
+    "label": [
+        {
+            "text": "Spectral Cross-section",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Spectral Cross-section\" is the cross-section for a process in which the energy of the ejected or scattered particle is in an interval of energy, divided by the range $dE$ of this interval.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "afdd5b40-a036-547f-885d-cf6910f31bb2",
+        "name": "m²/J",
+        "main_symbol": "m²/J"
+    }
+}

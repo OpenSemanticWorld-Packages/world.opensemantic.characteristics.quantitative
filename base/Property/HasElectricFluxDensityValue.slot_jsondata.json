@@ -1,0 +1,26 @@
+{
+    "uuid": "fdb6e2a6-2223-52e0-b739-db5f10fb2e55",
+    "name": "HasElectricFluxDensityValue",
+    "label": [
+        {
+            "text": "Electric flux density",
+            "lang": "en"
+        },
+        {
+            "text": "Elektrische Flussdichte",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Electric Flux Density}$, also referred to as $\\textit{Electric Displacement}$, is related to electric charge density by the following equation: $\\text{div} \\; D = \\rho$, where $\\text{div}$ denotes the divergence.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasElectricChargePerAreaValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasElectricChargePerAreaValue"
+}

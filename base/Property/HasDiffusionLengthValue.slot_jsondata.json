@@ -1,0 +1,22 @@
+{
+    "uuid": "3ec78f56-70bc-5f31-b747-f9c27b3345e3",
+    "name": "HasDiffusionLengthValue",
+    "label": [
+        {
+            "text": "Diffusion Length",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Diffusion Length\" is the average distance traveled by a particle, or a thermal neutron in a nuclear reactor, from the point at which it is formed to the point at which it is absorbed.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

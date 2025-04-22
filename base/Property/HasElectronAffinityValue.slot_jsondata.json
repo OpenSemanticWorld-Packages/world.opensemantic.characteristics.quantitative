@@ -1,0 +1,22 @@
+{
+    "uuid": "8e7ddff1-c743-5b0e-b2aa-0da0a5bb0110",
+    "name": "HasElectronAffinityValue",
+    "label": [
+        {
+            "text": "Electron Affinity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Electron Affinity\" is the energy difference between an electron at rest at infinity and an electron at the lowest level of the conduction band in an insulator or semiconductor. The the amount of energy released when an electron is added to a neutral atom or molecule to form a negative ion.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasEnergyValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasEnergyValue"
+}

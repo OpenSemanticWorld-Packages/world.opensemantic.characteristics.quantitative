@@ -1,0 +1,22 @@
+{
+    "uuid": "170c2c8a-c3d8-5898-a816-dbbd5e4aa1f4",
+    "name": "HasResonanceEscapeProbabilityForFissionValue",
+    "label": [
+        {
+            "text": "Resonance Escape Probability For Fission",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Fraction of fission neutrons that manage to slow down from fission to thermal energies without being absorbed.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}

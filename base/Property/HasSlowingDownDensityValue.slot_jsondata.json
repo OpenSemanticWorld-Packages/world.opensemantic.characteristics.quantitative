@@ -1,0 +1,25 @@
+{
+    "uuid": "2a21fbed-5e50-5db1-b8ae-2177118561db",
+    "name": "HasSlowingDownDensityValue",
+    "label": [
+        {
+            "text": "Slowing-Down Density",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Slowing-Down Density\" is a measure of the rate at which neutrons lose energy in a nuclear reactor through collisions; equal to the number of neutrons that fall below a given energy per unit volume per unit time.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "4462a63d-1692-5c29-a7c7-a6d482800d85",
+        "name": "1/(m³·s)",
+        "main_symbol": "1/(m³·s)"
+    }
+}

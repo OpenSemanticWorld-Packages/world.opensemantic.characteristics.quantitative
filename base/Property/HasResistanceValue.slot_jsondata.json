@@ -1,0 +1,63 @@
+{
+    "uuid": "62067fe4-22d5-59b7-aebc-b4c64dce90b6",
+    "name": "HasResistanceValue",
+    "label": [
+        {
+            "text": "Resistance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The electrical resistance of an object is a measure of its opposition to the passage of a steady electric current.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "019eeaf1-d0ef-5200-b818-99468c98a6b6",
+        "name": "Ω",
+        "main_symbol": "Ω"
+    },
+    "additional_units": [
+        {
+            "uuid": "0afa69b6-f6b7-5f35-8e71-9f820a40d81d",
+            "name": "kΩ",
+            "main_symbol": "kΩ",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "af601866-85ba-5975-a30f-01295360e80c",
+            "name": "mΩ",
+            "main_symbol": "mΩ",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "de4a5d2a-c37d-58f3-b794-5c5a54d31b77",
+            "name": "TΩ",
+            "main_symbol": "TΩ",
+            "conversion_factor_to_main_unit": "0.0"
+        },
+        {
+            "uuid": "8f63e68d-75d1-52ff-9b6f-fbcc3dd38cad",
+            "name": "GΩ",
+            "main_symbol": "GΩ",
+            "conversion_factor_to_main_unit": "0.0"
+        },
+        {
+            "uuid": "ae0f3cb7-2894-5c85-87ae-d9442f4882b3",
+            "name": "MΩ",
+            "main_symbol": "MΩ",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "26136542-9ccc-53d8-845c-f31c6a3baf3d",
+            "name": "μΩ",
+            "main_symbol": "μΩ",
+            "conversion_factor_to_main_unit": "1000000.0"
+        }
+    ]
+}

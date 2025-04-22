@@ -1,0 +1,22 @@
+{
+    "uuid": "44c5cab3-a9a8-5306-909f-5cdf331ff90a",
+    "name": "HasMassEquivalentValue",
+    "label": [
+        {
+            "text": "Mass Equivalent",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Mass Equivalent\" is the mass of a substance that reacts with (or is equivalent to) an arbitrary mass of \nanother substance in a given chemical reaction.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasMassValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasMassValue"
+}

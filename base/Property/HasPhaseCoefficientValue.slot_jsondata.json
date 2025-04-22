@@ -1,0 +1,63 @@
+{
+    "uuid": "c29bbbeb-7cc5-5af5-a764-755da7bbc006",
+    "name": "HasPhaseCoefficientValue",
+    "label": [
+        {
+            "text": "Phase coefficient",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The phase coefficient is the amount of phase shift that occurs as the wave travels one meter. Increasing the loss of the material, via the manipulation of the material's conductivity, will decrease the wavelength (increase $\\beta$) and increase the attenuation coefficient (increase $\\alpha$).",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "63c2721c-8399-58c2-8d64-60ddc34d964a",
+        "name": "1/m",
+        "main_symbol": "1/m"
+    },
+    "additional_units": [
+        {
+            "uuid": "bbe0a6ff-9011-52fd-9216-a66260b21e1f",
+            "name": "/mm",
+            "main_symbol": "/mm",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "903aa99a-8cfb-57a2-bdd0-e52a576b75cc",
+            "name": "/nm",
+            "main_symbol": "/nm",
+            "conversion_factor_to_main_unit": "0.0"
+        },
+        {
+            "uuid": "920418d3-0c27-5885-88c2-05b09fdee6ab",
+            "name": "/cm",
+            "main_symbol": "/cm",
+            "conversion_factor_to_main_unit": "0.01"
+        },
+        {
+            "uuid": "f69b3b81-deac-5e76-ae8d-60cf7c8f099f",
+            "name": "/km",
+            "main_symbol": "/km",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "e8d2b422-488b-572b-9847-f7d18f4cc69b",
+            "name": "/μm",
+            "main_symbol": "/μm",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "3d306379-9409-5dd9-a51e-33e2701193ec",
+            "name": "/pm",
+            "main_symbol": "/pm",
+            "conversion_factor_to_main_unit": "0.0"
+        }
+    ]
+}

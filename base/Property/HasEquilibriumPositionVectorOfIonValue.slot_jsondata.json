@@ -1,0 +1,22 @@
+{
+    "uuid": "e698e6a7-ddf9-5a7a-90a0-be234b3f789d",
+    "name": "HasEquilibriumPositionVectorOfIonValue",
+    "label": [
+        {
+            "text": "Equilibrium Position Vector of Ion",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Equilibrium Position Vector of Ion\" is the position vector of a particle in equilibrium.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLengthValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasLengthValue"
+}

@@ -1,0 +1,29 @@
+{
+    "uuid": "24c77d94-b665-5532-8ab0-28390ba47024",
+    "name": "HasSoundPressureLevelValue",
+    "label": [
+        {
+            "text": "Sound pressure level",
+            "lang": "en"
+        },
+        {
+            "text": "Schalldruckpegel",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Sound pressure level ($SPL$) or sound level is a logarithmic measure of the effective sound pressure of a sound relative to a reference value. It is measured in decibels (dB) above a standard reference level.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "a098482f-dada-5694-88d7-d6e436bf55dd",
+        "name": "B",
+        "main_symbol": "B"
+    }
+}

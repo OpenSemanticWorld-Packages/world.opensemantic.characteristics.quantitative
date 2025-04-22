@@ -1,0 +1,22 @@
+{
+    "uuid": "ff0b28ea-295c-5128-a05c-5e33cf736ca9",
+    "name": "HasReserveMassValue",
+    "label": [
+        {
+            "text": "Reserve Mass",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A quantity of mass held by Program/project management to mitigate the risk of over-predicted performance estimates, under predicted mass estimates, and future operational and mission specific requirements (program mass reserve, manager's mass reserve, launch window reserve, performance reserve, etc.).",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasMassValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasMassValue"
+}

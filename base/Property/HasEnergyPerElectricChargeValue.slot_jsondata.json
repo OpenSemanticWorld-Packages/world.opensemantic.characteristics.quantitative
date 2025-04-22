@@ -1,0 +1,51 @@
+{
+    "uuid": "b70b30fd-3d5d-5eaa-a542-cb12990be223",
+    "name": "HasEnergyPerElectricChargeValue",
+    "label": [
+        {
+            "text": "Energy per electric charge",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Voltage is a representation of the electric potential energy per unit charge. If a unit of electrical charge were placed in a location, the voltage indicates the potential energy of it at that point. In other words, it is a measurement of the energy contained within an electric field, or an electric circuit, at a given point. Voltage is a scalar quantity. The SI unit of voltage is the volt, such that $1 volt = 1 joule/coulomb$.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "10090aa0-1f91-5908-a6e3-16a05cf27eaa",
+        "name": "V",
+        "main_symbol": "V"
+    },
+    "additional_units": [
+        {
+            "uuid": "441c2940-7a83-5303-818a-a9a2328e29d3",
+            "name": "mV",
+            "main_symbol": "mV",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "aaa3a0bb-3208-580c-b97d-f92d06109610",
+            "name": "µV",
+            "main_symbol": "µV",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "65bac576-ce64-5d74-9be5-2901a14ddb6d",
+            "name": "kV",
+            "main_symbol": "kV",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "34b118c0-4663-5c37-81f4-a51bf5b8a1ce",
+            "name": "MV",
+            "main_symbol": "MV",
+            "conversion_factor_to_main_unit": "1e-06"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "uuid": "bf9f8330-d466-598f-8ab8-8271ccb787d7",
+    "name": "HasWorkValue",
+    "label": [
+        {
+            "text": "Work",
+            "lang": "en"
+        },
+        {
+            "text": "Arbeit",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "A force is said to do Work when it acts on a body so that there is a displacement of the point of application, however small, in the direction of the force.  The concepts of work and energy are closely tied to the concept of force because an applied force can do work on an object and cause a change in energy. Energy is defined as the ability to do work. Work is done on an object when an applied force moves it through a distance. Kinetic energy is the energy of an object in motion. The net work is equal to the change in kinetic energy.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasEnergyValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasEnergyValue"
+}

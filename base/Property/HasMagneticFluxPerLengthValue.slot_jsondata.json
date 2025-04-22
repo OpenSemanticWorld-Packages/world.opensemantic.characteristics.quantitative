@@ -1,0 +1,25 @@
+{
+    "uuid": "95585fa1-df00-5448-bb90-7be184c7837a",
+    "name": "HasMagneticFluxPerLengthValue",
+    "label": [
+        {
+            "text": "Magnetic flux per length",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Magnetic Flux per Length\" is a quantity in the SI and C.G.S. Systems of Quantities.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "d55481f2-e704-5449-a6f5-928be5cd6d6c",
+        "name": "N/A",
+        "main_symbol": "N/A"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "uuid": "fc8922d1-e9e1-51cb-accd-7c2d3029939b",
+    "name": "HasHallCoefficientValue",
+    "label": [
+        {
+            "text": "Hall Coefficient",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Hall Coefficient\" is defined as the ratio of the induced electric field to the product of the current density and the applied magnetic field.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "f197526d-c0b4-51bb-9384-00b4f0d3f862",
+        "name": "m³/C",
+        "main_symbol": "m³/C"
+    }
+}

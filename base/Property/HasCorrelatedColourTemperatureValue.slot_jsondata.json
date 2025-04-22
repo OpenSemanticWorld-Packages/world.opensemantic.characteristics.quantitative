@@ -1,0 +1,22 @@
+{
+    "uuid": "5c77e623-bf3c-5a53-a9d5-62e68344edef",
+    "name": "HasCorrelatedColourTemperatureValue",
+    "label": [
+        {
+            "text": "Correlated Colour Temperature",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Correlated color temperature (CCT) is a measure of light source color appearance defined by the proximity of the light source's chromaticity coordinates to the blackbody locus, as a single number rather than the two required to specify a chromaticity.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasThermodynamicTemperatureValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasTemperatureValue"
+}

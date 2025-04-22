@@ -1,0 +1,22 @@
+{
+    "uuid": "09ec2706-457b-561c-8743-1aab805acc3e",
+    "name": "HasKineticOrThermalEnergyValue",
+    "label": [
+        {
+            "text": "Kinetic or thermal energy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Energie, die in der Bewegung eines Körpers steckt und sich aus Translationsenergie und Rotationsenergie zusammen setzt, die durch die Bewegung dieses Körpers gegenüber einem anderen System und durch seine Masse (Massenverteilung) bestimmt wird oder Energie in Form von Wärme",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasEnergyValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasEnergyValue"
+}

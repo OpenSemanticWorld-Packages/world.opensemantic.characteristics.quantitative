@@ -1,0 +1,22 @@
+{
+    "uuid": "acbd3bf6-029a-5910-be75-e8d9d98775a3",
+    "name": "HasHyperfineStructureQuantumNumberValue",
+    "label": [
+        {
+            "text": "Hyperfine Structure Quantum Number",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Hyperfine Structure Quantum Number\" is a quantum number of an atom describing inclination of the nuclear spin with respect to a quantization axis given by the magnetic field produced by the orbital electrons.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasQuantumNumberValue",
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "base_property": "Property:HasDimensionlessValue"
+}
