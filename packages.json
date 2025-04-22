@@ -3,6 +3,7 @@
     "publisherURL": "https://github.com/OpenSemanticWorld-Packages/world.opensemantic.characteristics.quantitative",
     "author": [
         "Andreas Räder",
+        "Matthias Albert Popp",
         "Simon Stier"
     ],
     "language": "en",
@@ -12,9 +13,9 @@
             "globalID": "world.opensemantic.characteristics.quantitative",
             "label": "OSW Quantitive Characteristics",
             "description": "Contains measureable qualitities based on (physical) quantities",
-            "version": "0.1.0",
+            "version": "0.2.0",
             "requiredPackages": [
-                "world.opensemantic.quantities"
+                "world.opensemantic.quantities.basic"
             ],
             "baseURL": "https://raw.githubusercontent.com/OpenSemanticWorld-Packages/world.opensemantic.characteristics.quantitative/main/base/",
             "pages": [
@@ -40,7 +41,7 @@
                 },
                 {
                     "name": "OSWac07a46c2cf14f3daec503136861f5ab",
-                    "label": "MetaQuantityValue",
+                    "label": "QuantityValueType",
                     "namespace": "NS_CATEGORY",
                     "urlPath": "Category/OSWac07a46c2cf14f3daec503136861f5ab.slot_main.wikitext",
                     "slots": {
@@ -63,7 +64,7 @@
                 },
                 {
                     "name": "OSWc7f9aec4f71f4346b6031f96d7e46bd7",
-                    "label": "MetaFundamentalQuantityValue",
+                    "label": "FundamentalQuantityValueType",
                     "namespace": "NS_CATEGORY",
                     "urlPath": "Category/OSWc7f9aec4f71f4346b6031f96d7e46bd7.slot_main.wikitext",
                     "slots": {

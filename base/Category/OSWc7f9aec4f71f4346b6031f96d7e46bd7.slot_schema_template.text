@@ -1,12 +1,27 @@
 {
+    {{#if quantity_property}}"x-smw-quantity-property": "{{quantity_property}}"{{#if quantity}},{{/if}}{{/if}}
     {{#if quantity}}"properties": {
         "unit": {
+            {{#if unit_enumeration}}
+            "enum": [
+                {{#each unit_enumeration}}"{{{osw_id}}}"{{#unless @last}},{{/unless}}{{/each}}
+            ],
+            "x-enum-varnames": [
+                {{#each unit_enumeration}}"{{{name}}}"{{#unless @last}},{{/unless}}{{/each}}
+            ],
+            "options": {
+                "enum_titles": [
+                    {{#each unit_enumeration}}"{{{symbol}}}"{{#unless @last}},{{/unless}}{{/each}}
+                ]
+            }
+            {{else}}
             "format": "autocomplete",
             "options": {
                 "autocomplete": {
                     "query": "[[-HasUnit::{{{quantity}}}]][[HasSymbol::like:*\{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::{{{quantity}}}]][[HasSymbol::like:*\{{_user_input}}*]]|?HasSymbol=label"
                 }
             }
+            {{/if}}
         }
     }{{/if}}
 }

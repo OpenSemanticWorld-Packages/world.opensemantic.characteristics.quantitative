@@ -5,6 +5,10 @@
             "quantity": {
                 "@id": "Property:HasQuantity",
                 "@type": "@id"
+            },
+            "quantity_property": {
+                "@id": "Property:HasQuantity",
+                "@type": "@id"
             }
         }
     ],
@@ -15,9 +19,9 @@
     ],
     "type": "object",
     "uuid": "c7f9aec4-f71f-4346-b603-1f96d7e46bd7",
-    "title": "MetaFundamentalQuantityValue",
+    "title": "FundamentalQuantityValueType",
     "title*": {
-        "en": "Meta Fundamental Quantity Value"
+        "en": "Fundamental Quantity Value Type"
     },
     "description": "Generates schema for value and unit (with autocomplete)",
     "description*": {
@@ -55,6 +59,59 @@
             "description": "The Quantity this value object realizes",
             "$comment": "range: QuanityKind",
             "range": "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+        },
+        "unit_enumeration": {
+            "type": "array",
+            "format": "table",
+            "title": "Unit enumeration",
+            "description": "Replication of the unit definitions of the selected quantity to populate the enum definitions of the generated schema and code",
+            "items": {
+                "type": "object",
+                "title": "Unit enumeration element",
+                "required": [
+                    "osw_id",
+                    "name",
+                    "symbol"
+                ],
+                "properties": {
+                    "osw_id": {
+                        "type": "string",
+                        "format": "autocomplete",
+                        "watch": {
+                            "quantity": "root.quantity"
+                        },
+                        "options": {
+                            "autocomplete": {
+                                "query": "[[-HasUnit::{{quantity}}]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::{{quantity}}]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
+                            }
+                        }
+                    },
+                    "name": {
+                        "type": "string",
+                        "title": "Variable name",
+                        "description": "Valid variable name as snake_case following latex SI unit notation with '\\' replaced with '_', e.g. 'kilo_metre_per_second_squared'. Maps to x-enum-varname"
+                    },
+                    "symbol": {
+                        "type": "string",
+                        "title": "Symbol",
+                        "description": "A human friendly identifier, e.g. km/s²"
+                    }
+                }
+            }
+        },
+        "quantity_property": {
+            "type": "string",
+            "format": "autocomplete",
+            "title": "Quantity Property",
+            "title*": {
+                "de": "Physikalische Attribut"
+            },
+            "description": "Will be used to store the quantity value with unit in a single property on the graph to simplify queries. By convention, the prefix 'Has' is attached to the quantity name, e.g. 'Length' -> 'HasLength'. If not defined the value of the parent / fundamental quantity is used.",
+            "description*": {
+                "de": "Wird genutzt um den Wert zusammen mit der Einheit in einem einzelnen Attribut zu speichern um Abfragen zu erleichtern. Vereinbarungsgemäß soll das Präfix „Has“ an den Größennamen vorangestellt werden, z. B. „Length“ -> „HasLength“. Wenn nicht definiert, wird der Wert der übergeordneten/grundlegenden Größe verwendet."
+            },
+            "$comment": "This will be mapped to x-smw-quantity-property in the generated schema in order to use semantic mediawiki unit conversion features. ",
+            "range": "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
         }
     }
 }

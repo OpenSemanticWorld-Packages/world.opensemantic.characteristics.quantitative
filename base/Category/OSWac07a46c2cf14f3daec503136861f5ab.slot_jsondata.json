@@ -8,7 +8,7 @@
     "uuid": "ac07a46c-2cf1-4f3d-aec5-03136861f5ab",
     "label": [
         {
-            "text": "Meta Quantity Value",
+            "text": "Quantity Value Type",
             "lang": "en"
         }
     ],
@@ -18,7 +18,7 @@
             "lang": "en"
         }
     ],
-    "name": "MetaQuantityValue",
+    "name": "QuantityValueType",
     "based_on": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ]

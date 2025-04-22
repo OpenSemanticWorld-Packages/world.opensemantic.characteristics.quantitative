@@ -8,7 +8,7 @@
     "uuid": "c7f9aec4-f71f-4346-b603-1f96d7e46bd7",
     "label": [
         {
-            "text": "Meta Fundamental Quantity Value",
+            "text": "Fundamental Quantity Value Type",
             "lang": "en"
         }
     ],
@@ -18,5 +18,5 @@
             "lang": "en"
         }
     ],
-    "name": "MetaFundamentalQuantityValue"
+    "name": "FundamentalQuantityValueType"
 }

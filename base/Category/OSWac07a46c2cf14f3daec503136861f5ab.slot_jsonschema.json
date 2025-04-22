@@ -5,6 +5,10 @@
             "quantity": {
                 "@id": "Property:HasQuantity",
                 "@type": "@id"
+            },
+            "quantity_property": {
+                "@id": "Property:HasQuantityProperty",
+                "@type": "@id"
             }
         }
     ],
@@ -15,9 +19,9 @@
     ],
     "type": "object",
     "uuid": "ac07a46c-2cf1-4f3d-aec5-03136861f5ab",
-    "title": "MetaQuantityValue",
+    "title": "QuantityValueType",
     "title*": {
-        "en": "Meta Quantity Value"
+        "en": "Quantity Value Type"
     },
     "description": "Generates schema for value and unit (with autocomplete) based on the quantity of the most fundamental parent characteristic (e.g. Diameter will apply units of Length)",
     "description*": {
@@ -32,7 +36,6 @@
     "properties": {
         "type": {
             "default": [
-                "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7",
                 "Category:OSWac07a46c2cf14f3daec503136861f5ab"
             ]
         },
@@ -59,7 +62,7 @@
                 "de": "Wird genutzt um den Wert zusammen mit der Einheit in einem einzelnen Attribut zu speichern um Abfragen zu erleichtern. Vereinbarungsgemäß soll das Präfix „Has“ an den Größennamen angehängt werden, z. B. „Länge“ -> „HasLength“. Wenn nicht definiert, wird der Wert der übergeordneten/grundlegenden Größe verwendet."
             },
             "$comment": "This will be mapped to x-smw-quantity-property in the generated schema in order to use semantic mediawiki unit conversion features. ",
-            "range": "Category:QuantityProperty"
+            "range": "Category:OSW69f251a900944602a08d1cca830249b5"
         }
     }
 }
