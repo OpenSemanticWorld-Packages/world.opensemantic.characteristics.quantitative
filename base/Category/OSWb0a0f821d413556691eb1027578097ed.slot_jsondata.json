@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW448373b507f65126a22ebb2c0112b94e"
+    "quantity": "Item:OSW448373b507f65126a22ebb2c0112b94e",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW2f3941ad9ce25c6ba6744243dcc8c352",
+            "name": "meter_cubed_per_coulomb",
+            "symbol": "m³/C"
+        }
+    ],
+    "quantity_property": "Property:HasHallCoefficientValue",
+    "default_unit": "Item:OSW2f3941ad9ce25c6ba6744243dcc8c352"
 }

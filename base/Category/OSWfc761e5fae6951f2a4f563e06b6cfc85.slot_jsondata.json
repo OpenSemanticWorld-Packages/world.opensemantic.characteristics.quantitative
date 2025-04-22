@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWaed77452d94955e995fa902b71b85235"
+    "quantity": "Item:OSWaed77452d94955e995fa902b71b85235",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWf63c15f03855534fabdc39bb5403d1ff",
+            "name": "second_volt_per_meter",
+            "symbol": "V·s/m"
+        }
+    ],
+    "quantity_property": "Property:HasScalarMagneticPotentialValue",
+    "default_unit": "Item:OSWf63c15f03855534fabdc39bb5403d1ff"
 }

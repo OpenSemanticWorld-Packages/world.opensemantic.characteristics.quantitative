@@ -29,19 +29,12 @@
                     "default": [
                         "Category:OSW2435e3d417be54418892bf902cfc939a"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWf04b14a0cd585e919631fe1b2bfcb897]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWf04b14a0cd585e919631fe1b2bfcb897]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasExhaustGasesSpecificHeatValue"
         }
     },
     "allOf": [

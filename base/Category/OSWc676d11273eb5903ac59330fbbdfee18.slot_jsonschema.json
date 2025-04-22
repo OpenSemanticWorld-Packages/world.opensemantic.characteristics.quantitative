@@ -29,17 +29,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "TimeSquaredUnit",
+                    "enum": [
+                        "Item:OSW00ec6531e2fb5ba8aee8cf8852860aed"
+                    ],
+                    "x-enum-varnames": [
+                        "second_squared"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWf0c2fce9c013507fa54d4d45f1ddde37]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWf0c2fce9c013507fa54d4d45f1ddde37]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "s²"
+                        ]
+                    },
+                    "default": "Item:OSW00ec6531e2fb5ba8aee8cf8852860aed"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasTimeSquaredValue"
         }
     },
     "allOf": [

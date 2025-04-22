@@ -19,5 +19,24 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW2c839219b50059ffae31dfe6d9c29143"
+    "quantity": "Item:OSW2c839219b50059ffae31dfe6d9c29143",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW22ea6fd32be65173b6ce52e47446c8ed",
+            "name": "per_meter_cubed",
+            "symbol": "1/m³"
+        },
+        {
+            "osw_id": "Item:OSW22ea6fd32be65173b6ce52e47446c8ed#OSWd3bd49d926475edfbe5b54108429d801",
+            "name": "per_milli_meter_cubed",
+            "symbol": "1/mm³"
+        },
+        {
+            "osw_id": "Item:OSW22ea6fd32be65173b6ce52e47446c8ed#OSWf6d64151fc835995b48c0fc8bb64a36a",
+            "name": "per_centi_meter_cubed",
+            "symbol": "1/cm³"
+        }
+    ],
+    "quantity_property": "Property:HasInverseVolumeValue",
+    "default_unit": "Item:OSW22ea6fd32be65173b6ce52e47446c8ed"
 }

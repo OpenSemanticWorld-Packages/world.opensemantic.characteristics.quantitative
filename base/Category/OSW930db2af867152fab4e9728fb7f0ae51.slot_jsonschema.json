@@ -31,17 +31,31 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "PhotosyntheticPhotonFluxDensityUnit",
+                    "enum": [
+                        "Item:OSW3063bab947d256b1a7a11cdb158d11b1",
+                        "Item:OSW3063bab947d256b1a7a11cdb158d11b1#OSWd5bf9cdb27765d8bbc553cf3682b1c52",
+                        "Item:OSW3063bab947d256b1a7a11cdb158d11b1#OSW92a55c5f59b259f8acfe7284e9f7ebe1"
+                    ],
+                    "x-enum-varnames": [
+                        "mole_per_meter_squared_per_second",
+                        "milli_mole_per_meter_squared_per_second",
+                        "micro_mole_per_meter_squared_per_second"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWfa7fda7a0bed53289e6b90bb54205db2]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWfa7fda7a0bed53289e6b90bb54205db2]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "mol/(m²·s)",
+                            "mmol/(m²·s)",
+                            "μmol/(m²·s)"
+                        ]
+                    },
+                    "default": "Item:OSW3063bab947d256b1a7a11cdb158d11b1"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasPhotosyntheticPhotonFluxDensityValue"
         }
     },
     "allOf": [

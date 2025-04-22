@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWad7d5de805ba533aaeb5fc3f2999cfbd"
+    "quantity": "Item:OSWad7d5de805ba533aaeb5fc3f2999cfbd",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWca14d08a41b65ac59d79d96be1351305",
+            "name": "lux",
+            "symbol": "lx"
+        }
+    ],
+    "quantity_property": "Property:HasLuminousFluxPerAreaValue",
+    "default_unit": "Item:OSWca14d08a41b65ac59d79d96be1351305"
 }

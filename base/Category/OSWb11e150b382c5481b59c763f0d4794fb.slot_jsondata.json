@@ -29,5 +29,19 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW8753c936eb01513dbd3a1b3f349b44a9"
+    "quantity": "Item:OSW8753c936eb01513dbd3a1b3f349b44a9",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWb2b78d963e4e54d7b5e64db90eb5fad2",
+            "name": "meter_squared_per_second_per_volt",
+            "symbol": "m²/(V·s)"
+        },
+        {
+            "osw_id": "Item:OSWb2b78d963e4e54d7b5e64db90eb5fad2#OSW5912aba53a8b5951ae88d643b40ff33d",
+            "name": "centi_meter_squared_per_second_per_volt",
+            "symbol": "cm²/(V·s)"
+        }
+    ],
+    "quantity_property": "Property:HasMobilityValue",
+    "default_unit": "Item:OSWb2b78d963e4e54d7b5e64db90eb5fad2"
 }

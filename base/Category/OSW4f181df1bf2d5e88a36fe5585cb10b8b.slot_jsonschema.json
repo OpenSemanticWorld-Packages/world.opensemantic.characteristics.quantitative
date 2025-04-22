@@ -30,19 +30,12 @@
                     "default": [
                         "Category:OSW4f181df1bf2d5e88a36fe5585cb10b8b"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW0642b832db7b59ee9fde43a478fbb881]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW0642b832db7b59ee9fde43a478fbb881]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasIrradianceValue"
         }
     },
     "allOf": [

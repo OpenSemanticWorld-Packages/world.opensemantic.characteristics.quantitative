@@ -32,17 +32,43 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "ElectricFieldStrengthUnit",
+                    "enum": [
+                        "Item:OSWd855ce693a6d5d3d8bdf5846093ae4fb",
+                        "Item:OSWd855ce693a6d5d3d8bdf5846093ae4fb#OSWe9e5b5d155c95fc9b3bc6f1ef6a63fa0",
+                        "Item:OSWd855ce693a6d5d3d8bdf5846093ae4fb#OSW5503cb893f635d3a955c6be99f588596",
+                        "Item:OSWd855ce693a6d5d3d8bdf5846093ae4fb#OSW68aa46316f8b5bfc83102870e2c9c5b4",
+                        "Item:OSWd855ce693a6d5d3d8bdf5846093ae4fb#OSW9315a6f234fa567497c5344f4360ac89",
+                        "Item:OSWd855ce693a6d5d3d8bdf5846093ae4fb#OSWac4536de9cb25c1db8f0eb9f66e3fa25",
+                        "Item:OSWd855ce693a6d5d3d8bdf5846093ae4fb#OSWed56aa34d47a55a5bb40bc28cd4b1533"
+                    ],
+                    "x-enum-varnames": [
+                        "volt_per_meter",
+                        "micro_volt_per_meter",
+                        "volt_per_milli_meter",
+                        "volt_per_centi_meter",
+                        "kilo_volt_per_meter",
+                        "mega_volt_per_meter",
+                        "milli_volt_per_meter"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWb6bcfcd3d9bc59dba8ac8a7ab68fe078]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWb6bcfcd3d9bc59dba8ac8a7ab68fe078]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "V/m",
+                            "µV/m",
+                            "V/mm",
+                            "V/cm",
+                            "kV/m",
+                            "MV/m",
+                            "mV/m"
+                        ]
+                    },
+                    "default": "Item:OSWd855ce693a6d5d3d8bdf5846093ae4fb"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasElectricFieldStrengthValue"
         }
     },
     "allOf": [

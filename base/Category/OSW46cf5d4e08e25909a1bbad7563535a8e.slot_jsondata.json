@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW3a8914058328526e8bb875d044f1f465"
+    "quantity": "Item:OSW3a8914058328526e8bb875d044f1f465",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWdc31cad7e9225defbc08f6f79bf5c4ea",
+            "name": "watt_per_kelvin_per_meter_squared",
+            "symbol": "W/(m²·K)"
+        }
+    ],
+    "quantity_property": "Property:HasCoefficientOfHeatTransferValue",
+    "default_unit": "Item:OSWdc31cad7e9225defbc08f6f79bf5c4ea"
 }

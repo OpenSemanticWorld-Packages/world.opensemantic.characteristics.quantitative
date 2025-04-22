@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW94d7b96d7b0b5227a60b591ca9cf5511"
+    "quantity": "Item:OSW94d7b96d7b0b5227a60b591ca9cf5511",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW6e91dd70b9f75580bdb3d962228cb99b",
+            "name": "meter_squared_radian_per_mole",
+            "symbol": "rad·m²/mol"
+        }
+    ],
+    "quantity_property": "Property:HasMolarOpticalRotatoryPowerValue",
+    "default_unit": "Item:OSW6e91dd70b9f75580bdb3d962228cb99b"
 }

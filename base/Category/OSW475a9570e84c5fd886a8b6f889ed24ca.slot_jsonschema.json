@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "ElectricChargeLineDensityUnit",
+                    "enum": [
+                        "Item:OSW375890764ffa5a5cb84e1cbbe16a7315"
+                    ],
+                    "x-enum-varnames": [
+                        "coulomb_per_meter"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWf04b14a0cd585e919631fe1b2bfcb897]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWf04b14a0cd585e919631fe1b2bfcb897]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "C/m"
+                        ]
+                    },
+                    "default": "Item:OSW375890764ffa5a5cb84e1cbbe16a7315"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasElectricChargeLineDensityValue"
         }
     },
     "allOf": [

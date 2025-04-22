@@ -29,17 +29,28 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "LinearAccelerationUnit",
+                    "enum": [
+                        "Item:OSWb91fd68d93375855a57c795180c429a3",
+                        "Item:OSWb91fd68d93375855a57c795180c429a3#OSW014676a1d72e5f16a59a8d966253ab6f"
+                    ],
+                    "x-enum-varnames": [
+                        "meter_per_second_squared",
+                        "centi_meter_per_second_squared"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW6030085aa5785bbb89b6d8a8edc42630]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW6030085aa5785bbb89b6d8a8edc42630]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "m/s²",
+                            "cm/s²"
+                        ]
+                    },
+                    "default": "Item:OSWb91fd68d93375855a57c795180c429a3"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasLinearAccelerationValue"
         }
     },
     "allOf": [

@@ -25,5 +25,19 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWb6ff023f58835c7f9032e56e9741dcd1"
+    "quantity": "Item:OSWb6ff023f58835c7f9032e56e9741dcd1",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWc5904c8a783d5e8da5f6a24745774a6b",
+            "name": "6",
+            "symbol": "m⁶"
+        },
+        {
+            "osw_id": "Item:OSWc5904c8a783d5e8da5f6a24745774a6b#OSWffc057592b945f8aaad8ef5e3e1903a4",
+            "name": "6",
+            "symbol": "cm⁶"
+        }
+    ],
+    "quantity_property": "Property:HasWarpingConstantValue",
+    "default_unit": "Item:OSWc5904c8a783d5e8da5f6a24745774a6b"
 }

@@ -29,19 +29,12 @@
                     "default": [
                         "Category:OSWdb037d62fb0c52948d5944b910ec7e40"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW7549b83a203e59e3bcc8c6e7854bd87d]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW7549b83a203e59e3bcc8c6e7854bd87d]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasRadiantExposureValue"
         }
     },
     "allOf": [

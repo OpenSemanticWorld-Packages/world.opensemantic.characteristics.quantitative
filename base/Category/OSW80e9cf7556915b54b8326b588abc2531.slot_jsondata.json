@@ -25,5 +25,34 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWf9979f6a3ed05fa4b7c23913cbc2c47c"
+    "quantity": "Item:OSWf9979f6a3ed05fa4b7c23913cbc2c47c",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2",
+            "name": "henry",
+            "symbol": "H"
+        },
+        {
+            "osw_id": "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2#OSWc916910c94335ef4bfd4956fdb64d445",
+            "name": "pico_henry",
+            "symbol": "pH"
+        },
+        {
+            "osw_id": "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2#OSW0b6f22fdf4505cd1a14ced6ce63fd1c3",
+            "name": "micro_henry",
+            "symbol": "μH"
+        },
+        {
+            "osw_id": "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2#OSWf936212f93685b0a81e881b7b4cd691c",
+            "name": "milli_henry",
+            "symbol": "mH"
+        },
+        {
+            "osw_id": "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2#OSW466788b3b91054088792f8efcf881b73",
+            "name": "nano_henry",
+            "symbol": "nH"
+        }
+    ],
+    "quantity_property": "Property:HasPermeanceValue",
+    "default_unit": "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2"
 }

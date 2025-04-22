@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "uuid": "0edc656a-4a2e-5537-819f-189398ab6b74",
     "close_ontology_match": [
@@ -22,8 +22,5 @@
     "subclass_of": [
         "Category:OSW67faac860ed758758aa4484387e5d5c9"
     ],
-    "metaclass": [
-        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
-    ],
-    "quantity": "Item:OSW0561f01c47fa590b918e49b18981c08d"
+    "quantity_property": "Property:HasLandauGinzburgNumberValue"
 }

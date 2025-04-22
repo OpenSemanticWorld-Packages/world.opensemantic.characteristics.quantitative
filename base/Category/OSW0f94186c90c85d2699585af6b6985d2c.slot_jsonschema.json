@@ -29,17 +29,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "InverseLengthTemperatureUnit",
+                    "enum": [
+                        "Item:OSWf56de776e1935d7da1fc50db7cd12490"
+                    ],
+                    "x-enum-varnames": [
+                        "per_kelvin_per_meter"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWcd502afb47b55a6ab34b88b3bcdc7bd3]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWcd502afb47b55a6ab34b88b3bcdc7bd3]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "1/(m·K)"
+                        ]
+                    },
+                    "default": "Item:OSWf56de776e1935d7da1fc50db7cd12490"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasInverseLengthTemperatureValue"
         }
     },
     "allOf": [

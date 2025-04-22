@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "SpecificHeatPressureUnit",
+                    "enum": [
+                        "Item:OSW85f51fc6962e5c5ea5e541ad1bdce849"
+                    ],
+                    "x-enum-varnames": [
+                        "joule_per_kelvin_per_kilo_gram_per_pascal"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWb3a5d8236aa653fe9fe2501d7e264951]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWb3a5d8236aa653fe9fe2501d7e264951]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "J/(K·kg·Pa)"
+                        ]
+                    },
+                    "default": "Item:OSW85f51fc6962e5c5ea5e541ad1bdce849"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasSpecificHeatPressureValue"
         }
     },
     "allOf": [

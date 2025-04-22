@@ -31,5 +31,19 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWd812494962f950a98b1241ca99a186d2"
+    "quantity": "Item:OSWd812494962f950a98b1241ca99a186d2",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW24fcc1bb84db5b3b951db598cddc1319",
+            "name": "lumen",
+            "symbol": "lm"
+        },
+        {
+            "osw_id": "Item:OSW24fcc1bb84db5b3b951db598cddc1319#OSW15cb09d631d65ecbb0d1b54df9f2475e",
+            "name": "kilo_lumen",
+            "symbol": "klm"
+        }
+    ],
+    "quantity_property": "Property:HasLuminousFluxValue",
+    "default_unit": "Item:OSW24fcc1bb84db5b3b951db598cddc1319"
 }

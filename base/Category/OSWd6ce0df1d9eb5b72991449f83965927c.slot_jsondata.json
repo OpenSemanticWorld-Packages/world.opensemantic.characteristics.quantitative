@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW2942a7baa40f5e2b9a578759acef6ec6"
+    "quantity": "Item:OSW2942a7baa40f5e2b9a578759acef6ec6",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW9161ae8b61ca56a687f8db32bdf2ddd3#OSW52992dd0def35dc9ae8bd6b5010d8ee8",
+            "name": "kilo_gram_per_meter_cubed",
+            "symbol": "kg/m³"
+        }
+    ],
+    "quantity_property": "Property:HasMassConcentrationOfWaterValue",
+    "default_unit": "Item:OSW9161ae8b61ca56a687f8db32bdf2ddd3#OSW52992dd0def35dc9ae8bd6b5010d8ee8"
 }

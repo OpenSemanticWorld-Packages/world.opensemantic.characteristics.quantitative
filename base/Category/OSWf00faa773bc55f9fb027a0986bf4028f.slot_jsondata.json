@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "uuid": "f00faa77-3bc5-5f9f-b027-a0986bf4028f",
     "close_ontology_match": [
@@ -22,8 +22,5 @@
     "subclass_of": [
         "Category:OSWee9c7e5c343e542cb5a8b4648315902f"
     ],
-    "metaclass": [
-        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
-    ],
-    "quantity": "Item:OSWc5f20dc029f35d569ede218bc90b7011"
+    "quantity_property": "Property:HasSpatialSummationFunctionValue"
 }

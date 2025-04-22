@@ -27,5 +27,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW9b3018fb7171589c8c991758cd999a02"
+    "quantity": "Item:OSW9b3018fb7171589c8c991758cd999a02",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW2b8517640ac75611a57b26b56bd5124c",
+            "name": "watt_per_kelvin_per_meter",
+            "symbol": "W/(m·K)"
+        }
+    ],
+    "quantity_property": "Property:HasThermalConductivityValue",
+    "default_unit": "Item:OSW2b8517640ac75611a57b26b56bd5124c"
 }

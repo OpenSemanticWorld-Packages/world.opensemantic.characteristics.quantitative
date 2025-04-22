@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "uuid": "9321ad05-d637-531b-87fd-af5993788342",
     "close_ontology_match": [
@@ -22,8 +22,5 @@
     "subclass_of": [
         "Category:OSW98493d0d7b8b528fa42a2332c8cf502f"
     ],
-    "metaclass": [
-        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
-    ],
-    "quantity": "Item:OSWd5027d2f50f25fabba0134284da2a328"
+    "quantity_property": "Property:HasWaterSolubilityValue"
 }

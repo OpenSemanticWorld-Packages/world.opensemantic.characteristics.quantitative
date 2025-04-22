@@ -25,5 +25,29 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW317efef827dd575b9c99918e7abdfcc1"
+    "quantity": "Item:OSW317efef827dd575b9c99918e7abdfcc1",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWb2550b7d752e505bb62ecc632d6c20f9",
+            "name": "meter_per_kelvin",
+            "symbol": "m/K"
+        },
+        {
+            "osw_id": "Item:OSWb2550b7d752e505bb62ecc632d6c20f9#OSW8aabb581b81c50b688909bbc187a92d1",
+            "name": "micro_meter_per_kelvin",
+            "symbol": "μm/K"
+        },
+        {
+            "osw_id": "Item:OSWb2550b7d752e505bb62ecc632d6c20f9#OSW3585b69d1b325a36918e362b36dcd2b9",
+            "name": "centi_meter_per_kelvin",
+            "symbol": "cm/K"
+        },
+        {
+            "osw_id": "Item:OSWb2550b7d752e505bb62ecc632d6c20f9#OSW023c203283725c8b814a69dd13cfcb92",
+            "name": "milli_meter_per_kelvin",
+            "symbol": "mm/K"
+        }
+    ],
+    "quantity_property": "Property:HasLinearThermalExpansionValue",
+    "default_unit": "Item:OSWb2550b7d752e505bb62ecc632d6c20f9"
 }

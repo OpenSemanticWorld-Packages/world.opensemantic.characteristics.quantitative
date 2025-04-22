@@ -29,17 +29,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "ForcePerLengthUnit",
+                    "enum": [
+                        "Item:OSW0d4e5e11d53f5018a0b965373b55510d"
+                    ],
+                    "x-enum-varnames": [
+                        "newton_per_meter"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWa62ed030b84d5decb443c372ced82510]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWa62ed030b84d5decb443c372ced82510]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "N·m/m²"
+                        ]
+                    },
+                    "default": "Item:OSW0d4e5e11d53f5018a0b965373b55510d"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasForcePerLengthValue"
         }
     },
     "allOf": [

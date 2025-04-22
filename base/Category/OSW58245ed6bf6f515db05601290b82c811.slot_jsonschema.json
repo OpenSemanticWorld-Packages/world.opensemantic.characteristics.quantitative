@@ -27,19 +27,12 @@
                     "default": [
                         "Category:OSW58245ed6bf6f515db05601290b82c811"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWd7be48e92b265f2d894583ccc298b6f0]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWd7be48e92b265f2d894583ccc298b6f0]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasFissionCoreRadiusToHeightRatioValue"
         }
     },
     "allOf": [

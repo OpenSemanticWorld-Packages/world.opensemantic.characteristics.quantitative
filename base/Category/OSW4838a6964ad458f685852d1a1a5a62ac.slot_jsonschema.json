@@ -31,17 +31,37 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "DisplacementCurrentDensityUnit",
+                    "enum": [
+                        "Item:OSW2b1e97f1edd650c088abbe8896fe0333",
+                        "Item:OSW2b1e97f1edd650c088abbe8896fe0333#OSWd0a4ce0cc105550b9bcbc416589a1b85",
+                        "Item:OSW2b1e97f1edd650c088abbe8896fe0333#OSWa80d9ac2c0455902ab9531512c9b7667",
+                        "Item:OSW2b1e97f1edd650c088abbe8896fe0333#OSW8d7d0b57aaba5f8a8f40e8bacc5cb2f6",
+                        "Item:OSW2b1e97f1edd650c088abbe8896fe0333#OSWec1a540d03745760af1d26077e9d762e"
+                    ],
+                    "x-enum-varnames": [
+                        "ampere_per_meter_squared",
+                        "mega_ampere_per_meter_squared",
+                        "kilo_ampere_per_meter_squared",
+                        "ampere_per_milli_meter_squared",
+                        "ampere_per_centi_meter_squared"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWa8b1401e15fd5c4eb04ef124e77e5663]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWa8b1401e15fd5c4eb04ef124e77e5663]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "A/m²",
+                            "MA/m²",
+                            "kA/m²",
+                            "A/mm²",
+                            "A/cm²"
+                        ]
+                    },
+                    "default": "Item:OSW2b1e97f1edd650c088abbe8896fe0333"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasDisplacementCurrentDensityValue"
         }
     },
     "allOf": [

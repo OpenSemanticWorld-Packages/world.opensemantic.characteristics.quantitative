@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "ResidualResistivityUnit",
+                    "enum": [
+                        "Item:OSW825f941d934e5a73866e39b6c42c99f0"
+                    ],
+                    "x-enum-varnames": [
+                        "meter_ohm"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW6f93ccaa10c95c20bc7b7cc03903a812]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW6f93ccaa10c95c20bc7b7cc03903a812]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "Ω·m"
+                        ]
+                    },
+                    "default": "Item:OSW825f941d934e5a73866e39b6c42c99f0"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasResidualResistivityValue"
         }
     },
     "allOf": [

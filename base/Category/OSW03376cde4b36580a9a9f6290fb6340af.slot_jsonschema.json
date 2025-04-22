@@ -29,17 +29,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "InverseAmountOfSubstanceUnit",
+                    "enum": [
+                        "Item:OSW7b8304e9935651c7a91b9d5b8f6594e3"
+                    ],
+                    "x-enum-varnames": [
+                        "per_mole"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWa51dd30e412856fdb65e16c4bcb74960]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWa51dd30e412856fdb65e16c4bcb74960]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "1/mol"
+                        ]
+                    },
+                    "default": "Item:OSW7b8304e9935651c7a91b9d5b8f6594e3"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasInverseAmountOfSubstanceValue"
         }
     },
     "allOf": [

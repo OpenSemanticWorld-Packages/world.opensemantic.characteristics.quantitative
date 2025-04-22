@@ -31,17 +31,37 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "VoltageUnit",
+                    "enum": [
+                        "Item:OSW85efe1428cb75363a75aab6435e2d98d",
+                        "Item:OSW85efe1428cb75363a75aab6435e2d98d#OSW82d25d00b1485cc18c204f95de4536a9",
+                        "Item:OSW85efe1428cb75363a75aab6435e2d98d#OSWc0cb09a94aa553589a59ea70bfccfc96",
+                        "Item:OSW85efe1428cb75363a75aab6435e2d98d#OSW4deed980237a5360b48e0dd1331d4199",
+                        "Item:OSW85efe1428cb75363a75aab6435e2d98d#OSW78798aa1bdcb57f0aea8d4eb86ff3355"
+                    ],
+                    "x-enum-varnames": [
+                        "volt",
+                        "milli_volt",
+                        "micro_volt",
+                        "kilo_volt",
+                        "mega_volt"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW33359bfb4bee5d8b9fea8a8fda65c044]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW33359bfb4bee5d8b9fea8a8fda65c044]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "V",
+                            "mV",
+                            "µV",
+                            "kV",
+                            "MV"
+                        ]
+                    },
+                    "default": "Item:OSW85efe1428cb75363a75aab6435e2d98d"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasVoltageValue"
         }
     },
     "allOf": [

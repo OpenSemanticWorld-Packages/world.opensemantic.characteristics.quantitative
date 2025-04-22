@@ -32,17 +32,28 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "LuminousFluxUnit",
+                    "enum": [
+                        "Item:OSW24fcc1bb84db5b3b951db598cddc1319",
+                        "Item:OSW24fcc1bb84db5b3b951db598cddc1319#OSW15cb09d631d65ecbb0d1b54df9f2475e"
+                    ],
+                    "x-enum-varnames": [
+                        "lumen",
+                        "kilo_lumen"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWd812494962f950a98b1241ca99a186d2]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWd812494962f950a98b1241ca99a186d2]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "lm",
+                            "klm"
+                        ]
+                    },
+                    "default": "Item:OSW24fcc1bb84db5b3b951db598cddc1319"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasLuminousFluxValue"
         }
     },
     "allOf": [

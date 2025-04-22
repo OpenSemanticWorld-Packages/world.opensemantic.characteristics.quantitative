@@ -30,5 +30,34 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW9576e9a2b3375f43a9e6bd962f3098cc"
+    "quantity": "Item:OSW9576e9a2b3375f43a9e6bd962f3098cc",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW85efe1428cb75363a75aab6435e2d98d",
+            "name": "volt",
+            "symbol": "V"
+        },
+        {
+            "osw_id": "Item:OSW85efe1428cb75363a75aab6435e2d98d#OSW82d25d00b1485cc18c204f95de4536a9",
+            "name": "milli_volt",
+            "symbol": "mV"
+        },
+        {
+            "osw_id": "Item:OSW85efe1428cb75363a75aab6435e2d98d#OSWc0cb09a94aa553589a59ea70bfccfc96",
+            "name": "micro_volt",
+            "symbol": "µV"
+        },
+        {
+            "osw_id": "Item:OSW85efe1428cb75363a75aab6435e2d98d#OSW4deed980237a5360b48e0dd1331d4199",
+            "name": "kilo_volt",
+            "symbol": "kV"
+        },
+        {
+            "osw_id": "Item:OSW85efe1428cb75363a75aab6435e2d98d#OSW78798aa1bdcb57f0aea8d4eb86ff3355",
+            "name": "mega_volt",
+            "symbol": "MV"
+        }
+    ],
+    "quantity_property": "Property:HasElectricPotentialDifferenceValue",
+    "default_unit": "Item:OSW85efe1428cb75363a75aab6435e2d98d"
 }

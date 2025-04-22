@@ -30,19 +30,12 @@
                     "default": [
                         "Category:OSW2ea2a195a92e5232854deeb78edf3b6f"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW906ec11166b8596695dcc1457c87db94]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW906ec11166b8596695dcc1457c87db94]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasElectromotiveForceValue"
         }
     },
     "allOf": [

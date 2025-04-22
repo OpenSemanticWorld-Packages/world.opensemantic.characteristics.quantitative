@@ -19,5 +19,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWac4a3c5462595b808b1e7bdc1c9f9e1f"
+    "quantity": "Item:OSWac4a3c5462595b808b1e7bdc1c9f9e1f",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW33dfda3d4dea57d192d02eecdbc09b86",
+            "name": "per_kelvin",
+            "symbol": "1/K"
+        }
+    ],
+    "quantity_property": "Property:HasInverseTemperatureValue",
+    "default_unit": "Item:OSW33dfda3d4dea57d192d02eecdbc09b86"
 }

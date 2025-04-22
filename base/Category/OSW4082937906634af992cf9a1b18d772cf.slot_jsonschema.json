@@ -4,15 +4,26 @@
         {
             "unit": "Property:HasUnit",
             "value": "Property:HasValue"
-        },
-        {}
+        }
     ],
     "allOf": [
         {
             "$ref": "#/$defs/generated"
         }
     ],
-    "format": "grid",
+    "format": "grid-strict",
+    "properties": {
+        "value": {
+            "options": {
+                "grid_columns": 4
+            }
+        },
+        "unit": {
+            "options": {
+                "grid_columns": 4
+            }
+        }
+    },
     "title": "QuantityValue",
     "description": "A Quantity Value expresses the magnitude and kind of a quantity and is given by the product of a numerical value n and a unit of measure u (from qudt).",
     "$defs": {
@@ -45,16 +56,31 @@
                 },
                 "value": {
                     "title": "value",
+                    "title*": {
+                        "en": "Value",
+                        "de": "Wert"
+                    },
                     "type": "number"
                 },
                 "unit": {
                     "title": "unit",
+                    "title*": {
+                        "en": "Unit",
+                        "de": "Einheit"
+                    },
                     "type": "string"
                 }
             },
             "defaultProperties": [
-                "type"
+                "type",
+                "unit"
             ]
         }
+    },
+    "title*": {
+        "en": "Quantity Value"
+    },
+    "description*": {
+        "en": "A Quantity Value expresses the magnitude and kind of a quantity and is given by the product of a numerical value n and a unit of measure u (from qudt)."
     }
 }

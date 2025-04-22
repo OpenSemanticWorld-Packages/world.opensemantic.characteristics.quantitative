@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWfcde44a5410958f0a65e1e00452b2cfa"
+    "quantity": "Item:OSWfcde44a5410958f0a65e1e00452b2cfa",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW8d374d57d51f52fd9f4fae71895deb07",
+            "name": "second_per_meter_cubed_per_radian",
+            "symbol": "s/(rad·m³)"
+        }
+    ],
+    "quantity_property": "Property:HasDensityOfStatesValue",
+    "default_unit": "Item:OSW8d374d57d51f52fd9f4fae71895deb07"
 }

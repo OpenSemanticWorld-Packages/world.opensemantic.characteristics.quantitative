@@ -31,5 +31,34 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW65b4df87de4d5917b4bf46646b7e05b5"
+    "quantity": "Item:OSW65b4df87de4d5917b4bf46646b7e05b5",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW8113ac9c25615c21902a9447ab03cc0a",
+            "name": "newton",
+            "symbol": "N"
+        },
+        {
+            "osw_id": "Item:OSW8113ac9c25615c21902a9447ab03cc0a#OSWf2fd2b42f5a653f398f9fb35200f39fe",
+            "name": "milli_newton",
+            "symbol": "mN"
+        },
+        {
+            "osw_id": "Item:OSW8113ac9c25615c21902a9447ab03cc0a#OSW31a9dadf838358bfa5504d7781711397",
+            "name": "micro_newton",
+            "symbol": "μN"
+        },
+        {
+            "osw_id": "Item:OSW8113ac9c25615c21902a9447ab03cc0a#OSW9e26f43774ed54c9b9bf757fca6ad5e7",
+            "name": "kilo_newton",
+            "symbol": "kN"
+        },
+        {
+            "osw_id": "Item:OSW8113ac9c25615c21902a9447ab03cc0a#OSW2b1c9c4b62385c4488e52fc40d8b7bbb",
+            "name": "mega_newton",
+            "symbol": "MN"
+        }
+    ],
+    "quantity_property": "Property:HasForceValue",
+    "default_unit": "Item:OSW8113ac9c25615c21902a9447ab03cc0a"
 }

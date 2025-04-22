@@ -27,19 +27,12 @@
                     "default": [
                         "Category:OSW2ba24c911c375c43a823fe91a4fc825a"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWa3b1025312f05af38c565fc744955153]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWa3b1025312f05af38c565fc744955153]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasPressureBurningRateIndexValue"
         }
     },
     "allOf": [

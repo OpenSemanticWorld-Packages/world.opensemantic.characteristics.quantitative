@@ -32,17 +32,37 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "AmountOfSubstanceUnit",
+                    "enum": [
+                        "Item:OSW4d9412cede875e399cffb35415646316",
+                        "Item:OSW4d9412cede875e399cffb35415646316#OSW09461c4b2fa85ab683a3572a199ef16b",
+                        "Item:OSW4d9412cede875e399cffb35415646316#OSW2971b3cb7eca516184282ecfa45bfb81",
+                        "Item:OSW4d9412cede875e399cffb35415646316#OSWb4b00897b51e505a8c8cac8d6958b73b",
+                        "Item:OSW4d9412cede875e399cffb35415646316#OSW1d4f11a4a1425dba81c9dac510278967"
+                    ],
+                    "x-enum-varnames": [
+                        "mole",
+                        "milli_mole",
+                        "kilo_mole",
+                        "femto_mole",
+                        "micro_mole"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW598e09e6c23754a1801afe3d79a647f3]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW598e09e6c23754a1801afe3d79a647f3]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "mol",
+                            "mmol",
+                            "kmol",
+                            "fmol",
+                            "μmol"
+                        ]
+                    },
+                    "default": "Item:OSW4d9412cede875e399cffb35415646316"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasAmountOfSubstanceValue"
         }
     },
     "allOf": [

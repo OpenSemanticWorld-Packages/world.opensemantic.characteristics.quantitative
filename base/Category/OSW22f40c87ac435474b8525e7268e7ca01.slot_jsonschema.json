@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "LinearMomentumUnit",
+                    "enum": [
+                        "Item:OSWb05df920a96b5987aeb46a9b4f7ca333"
+                    ],
+                    "x-enum-varnames": [
+                        "newton_second"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW832e385ed75950648f608776411be17c]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW832e385ed75950648f608776411be17c]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "N·m·s/m"
+                        ]
+                    },
+                    "default": "Item:OSWb05df920a96b5987aeb46a9b4f7ca333"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasLinearMomentumValue"
         }
     },
     "allOf": [

@@ -31,17 +31,28 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "ViscosityUnit",
+                    "enum": [
+                        "Item:OSWfb230f7ff1a55c23accf8ae94aacc9e1",
+                        "Item:OSWfb230f7ff1a55c23accf8ae94aacc9e1#OSW8e1783ac9f0b5fe3b404dcfbce8940cb"
+                    ],
+                    "x-enum-varnames": [
+                        "pascal_second",
+                        "milli_pascal_second"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW4ca8ac5521cc586ea69a10a52dd9a23d]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW4ca8ac5521cc586ea69a10a52dd9a23d]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "Pa·s",
+                            "mPa·s"
+                        ]
+                    },
+                    "default": "Item:OSWfb230f7ff1a55c23accf8ae94aacc9e1"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasViscosityValue"
         }
     },
     "allOf": [

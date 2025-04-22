@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW5e4e4b31c5bd5b52bcac0b85bbc2e85b"
+    "quantity": "Item:OSW5e4e4b31c5bd5b52bcac0b85bbc2e85b",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW3adb44b7a27d5ed0b9691b095779cb1f",
+            "name": "per_meter_squared",
+            "symbol": "1/m²"
+        }
+    ],
+    "quantity_property": "Property:HasParticleFluenceValue",
+    "default_unit": "Item:OSW3adb44b7a27d5ed0b9691b095779cb1f"
 }

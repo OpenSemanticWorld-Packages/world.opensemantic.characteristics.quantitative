@@ -31,17 +31,31 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "VolumeFlowRateUnit",
+                    "enum": [
+                        "Item:OSW4ed5503a56ab514ab3d925287da52a95",
+                        "Item:OSW4ed5503a56ab514ab3d925287da52a95#OSWacda1333cb6958069dc83172f3a047db",
+                        "Item:OSW4ed5503a56ab514ab3d925287da52a95#OSW58c067fb208b5294899599809141c3ff"
+                    ],
+                    "x-enum-varnames": [
+                        "meter_cubed_per_second",
+                        "centi_meter_cubed_per_second",
+                        "deci_meter_cubed_per_second"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWc9ebf4eb2f8f5c48b96dc774acf03139]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWc9ebf4eb2f8f5c48b96dc774acf03139]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "m³/s",
+                            "cm³/s",
+                            "dm³/s"
+                        ]
+                    },
+                    "default": "Item:OSW4ed5503a56ab514ab3d925287da52a95"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasVolumeFlowRateValue"
         }
     },
     "allOf": [

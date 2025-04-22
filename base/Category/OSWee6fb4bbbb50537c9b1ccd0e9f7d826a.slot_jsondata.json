@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "uuid": "ee6fb4bb-bb50-537c-9b1c-cd0e9f7d826a",
     "close_ontology_match": [
@@ -22,8 +22,5 @@
     "subclass_of": [
         "Category:OSW397c67ece63a5a5c96bad9349f49f3d7"
     ],
-    "metaclass": [
-        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
-    ],
-    "quantity": "Item:OSW906ec11166b8596695dcc1457c87db94"
+    "quantity_property": "Property:HasEffectiveExhaustvelocityValue"
 }

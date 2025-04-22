@@ -29,19 +29,12 @@
                     "default": [
                         "Category:OSW0edc656a4a2e5537819f189398ab6b74"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW0561f01c47fa590b918e49b18981c08d]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW0561f01c47fa590b918e49b18981c08d]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasLandauGinzburgNumberValue"
         }
     },
     "allOf": [

@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "CatalyticActivityUnit",
+                    "enum": [
+                        "Item:OSW73fc60d9e1dd5337a5f4befdc3646012"
+                    ],
+                    "x-enum-varnames": [
+                        "katal"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW3f1801f34a3756839fbbb79e6a46befc]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW3f1801f34a3756839fbbb79e6a46befc]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "kat"
+                        ]
+                    },
+                    "default": "Item:OSW73fc60d9e1dd5337a5f4befdc3646012"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasCatalyticActivityValue"
         }
     },
     "allOf": [

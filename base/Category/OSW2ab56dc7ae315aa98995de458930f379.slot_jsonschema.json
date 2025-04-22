@@ -29,19 +29,12 @@
                     "default": [
                         "Category:OSW2ab56dc7ae315aa98995de458930f379"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW56f3e34882be5be987d575b0eaee83f7]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW56f3e34882be5be987d575b0eaee83f7]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasBoilingPointTemperatureValue"
         }
     },
     "allOf": [

@@ -32,17 +32,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "LuminousIntensityUnit",
+                    "enum": [
+                        "Item:OSWf04f81ce6d6a53b98630967e75958e53"
+                    ],
+                    "x-enum-varnames": [
+                        "candela"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW1de16ae30fbb595380681f3941efc0f0]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW1de16ae30fbb595380681f3941efc0f0]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "cd"
+                        ]
+                    },
+                    "default": "Item:OSWf04f81ce6d6a53b98630967e75958e53"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasLuminousIntensityValue"
         }
     },
     "allOf": [

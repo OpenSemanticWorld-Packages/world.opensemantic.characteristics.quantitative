@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "uuid": "877bfc2b-db1c-5e19-b67c-4fede37fdb56",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/IncidenceRate"
+    ],
+    "name": "IncidenceRate",
+    "label": [
+        {
+            "text": "Incidence Rate",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The incidence rate is a measure of the frequency with which a disease or other incident occurs over a specified time period. It is also known as the incidence density rate or person-time incidence rate, when the denominator is the combined person-time of the population at risk (the sum of the time duration of exposure across all persons exposed)",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWe8d1194aeb2e5b9f877867eab5c9cae9"
+    ],
+    "quantity_property": "Property:HasIncidenceRateValue"
+}

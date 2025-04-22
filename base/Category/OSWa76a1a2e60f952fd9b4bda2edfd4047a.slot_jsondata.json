@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "uuid": "a76a1a2e-60f9-52fd-9b4b-da2edfd4047a",
     "close_ontology_match": [
@@ -26,8 +26,5 @@
     "subclass_of": [
         "Category:OSWb58cb5a4654f52e1804c74c035d21352"
     ],
-    "metaclass": [
-        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
-    ],
-    "quantity": "Item:OSWb92ae8a4e8d05cacbf1255b69282db17"
+    "quantity_property": "Property:HasOsmoticPressureValue"
 }

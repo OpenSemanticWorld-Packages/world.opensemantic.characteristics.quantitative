@@ -29,17 +29,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "TemperaturePerMagneticFluxDensityUnit",
+                    "enum": [
+                        "Item:OSW5b9ccf8109b457aca03dbd2a487500ed"
+                    ],
+                    "x-enum-varnames": [
+                        "kelvin_per_tesla"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW42fb0234fd0f51869be4df807b2dde2a]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW42fb0234fd0f51869be4df807b2dde2a]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "K/T"
+                        ]
+                    },
+                    "default": "Item:OSW5b9ccf8109b457aca03dbd2a487500ed"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasTemperaturePerMagneticFluxDensityValue"
         }
     },
     "allOf": [

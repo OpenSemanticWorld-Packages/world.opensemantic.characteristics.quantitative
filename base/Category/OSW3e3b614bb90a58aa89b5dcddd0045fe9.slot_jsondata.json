@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW7cfa85d43ba456ddaf4400df3533879a"
+    "quantity": "Item:OSW7cfa85d43ba456ddaf4400df3533879a",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW91dd8f1236fc5d328855ad69ed6ba6c4",
+            "name": "hour_lux",
+            "symbol": "lx·h"
+        }
+    ],
+    "quantity_property": "Property:HasLuminousExposureValue",
+    "default_unit": "Item:OSW91dd8f1236fc5d328855ad69ed6ba6c4"
 }

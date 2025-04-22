@@ -31,17 +31,28 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "SpecificVolumeUnit",
+                    "enum": [
+                        "Item:OSW8967238ff12d589a8e1383b0a684ddc5",
+                        "Item:OSW8967238ff12d589a8e1383b0a684ddc5#OSW0e4d5b9c7d1557418a789c8360d239cb"
+                    ],
+                    "x-enum-varnames": [
+                        "meter_cubed_per_kilo_gram",
+                        "milli_meter_cubed_per_kilo_gram"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW54fd9cc117e055018abe2f8a9abb8ceb]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW54fd9cc117e055018abe2f8a9abb8ceb]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "m³/kg",
+                            "mm³/kg"
+                        ]
+                    },
+                    "default": "Item:OSW8967238ff12d589a8e1383b0a684ddc5"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasSpecificVolumeValue"
         }
     },
     "allOf": [

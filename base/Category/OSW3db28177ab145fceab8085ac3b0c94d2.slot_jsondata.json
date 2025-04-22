@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWd7ce86f0e2ec5c938e20b325025c44ef"
+    "quantity": "Item:OSWd7ce86f0e2ec5c938e20b325025c44ef",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW3ce8ee5544995c36be4ab4d2f34e037e",
+            "name": "newton_per_coulomb",
+            "symbol": "N/C"
+        }
+    ],
+    "quantity_property": "Property:HasForcePerElectricChargeValue",
+    "default_unit": "Item:OSW3ce8ee5544995c36be4ab4d2f34e037e"
 }

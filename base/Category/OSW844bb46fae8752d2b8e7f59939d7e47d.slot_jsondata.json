@@ -19,5 +19,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW42fb0234fd0f51869be4df807b2dde2a"
+    "quantity": "Item:OSW42fb0234fd0f51869be4df807b2dde2a",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW5b9ccf8109b457aca03dbd2a487500ed",
+            "name": "kelvin_per_tesla",
+            "symbol": "K/T"
+        }
+    ],
+    "quantity_property": "Property:HasTemperaturePerMagneticFluxDensityValue",
+    "default_unit": "Item:OSW5b9ccf8109b457aca03dbd2a487500ed"
 }

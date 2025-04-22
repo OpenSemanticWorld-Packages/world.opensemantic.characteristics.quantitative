@@ -29,17 +29,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "TemperatureAmountOfSubstanceUnit",
+                    "enum": [
+                        "Item:OSW0e7c411abb9050609e99957558d70536"
+                    ],
+                    "x-enum-varnames": [
+                        "Celsius_mole"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWe16def0d258a51869eda5bb9c53504f4]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWe16def0d258a51869eda5bb9c53504f4]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "mol·°C"
+                        ]
+                    },
+                    "default": "Item:OSW0e7c411abb9050609e99957558d70536"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasTemperatureAmountOfSubstanceValue"
         }
     },
     "allOf": [

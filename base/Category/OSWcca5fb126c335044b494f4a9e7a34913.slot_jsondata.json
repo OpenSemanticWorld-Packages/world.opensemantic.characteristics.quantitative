@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW976e5a4efdb25e289d0231bf5d80a631"
+    "quantity": "Item:OSW976e5a4efdb25e289d0231bf5d80a631",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWb2f2150d25eb5a948de6ae5033a72afa",
+            "name": "per_meter_squared_per_second_per_steradian",
+            "symbol": "1/(s·m²·sr)"
+        }
+    ],
+    "quantity_property": "Property:HasPhotonRadianceValue",
+    "default_unit": "Item:OSWb2f2150d25eb5a948de6ae5033a72afa"
 }

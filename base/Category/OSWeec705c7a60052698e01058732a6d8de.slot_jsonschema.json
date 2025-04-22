@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "SpectralCrossSectionUnit",
+                    "enum": [
+                        "Item:OSW06fd6479544b5a6db5427ff73da63ee9"
+                    ],
+                    "x-enum-varnames": [
+                        "meter_squared_per_joule"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW49f25589fb5e5c84912e16a0f5c05cc0]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW49f25589fb5e5c84912e16a0f5c05cc0]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "m²/J"
+                        ]
+                    },
+                    "default": "Item:OSW06fd6479544b5a6db5427ff73da63ee9"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasSpectralCrossSectionValue"
         }
     },
     "allOf": [

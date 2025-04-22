@@ -29,19 +29,12 @@
                     "default": [
                         "Category:OSW05ead50111145f24adcfe86c6645c303"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWc9ebf4eb2f8f5c48b96dc774acf03139]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWc9ebf4eb2f8f5c48b96dc774acf03139]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasPhononMeanFreePathValue"
         }
     },
     "allOf": [

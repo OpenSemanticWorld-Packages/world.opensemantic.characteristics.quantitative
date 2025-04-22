@@ -31,17 +31,46 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "ShearModulusUnit",
+                    "enum": [
+                        "Item:OSWb663e6bff3595e7b93b28fffce66c50c",
+                        "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW49bb4743a5735e189777f3c6bd422a52",
+                        "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW8d40059d9e3951bb97378fe3f119ba21",
+                        "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW38b0e12539b05ce28cd126c8eea29f95",
+                        "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW0ec5bf8132b25e58b7032766bd9b3225",
+                        "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW264ebdc21f54568593a91bbd832b6fbf",
+                        "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW482939f123595314beca39ad32d65a15",
+                        "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW5def4be309ce50ee933c99cf4b74e310"
+                    ],
+                    "x-enum-varnames": [
+                        "pascal",
+                        "giga_pascal",
+                        "deca_pascal",
+                        "milli_pascal",
+                        "mega_pascal",
+                        "kilo_pascal",
+                        "hecto_pascal",
+                        "micro_pascal"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW1615328c2bba51259c4b2bf0f311f3ba]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW1615328c2bba51259c4b2bf0f311f3ba]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "Pa",
+                            "GPa",
+                            "daPa",
+                            "mPa",
+                            "MPa",
+                            "kPa",
+                            "hPa",
+                            "μPa"
+                        ]
+                    },
+                    "default": "Item:OSWb663e6bff3595e7b93b28fffce66c50c"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasShearModulusValue"
         }
     },
     "allOf": [

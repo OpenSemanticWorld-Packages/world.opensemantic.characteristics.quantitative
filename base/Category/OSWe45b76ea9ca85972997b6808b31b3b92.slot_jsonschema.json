@@ -31,17 +31,52 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "ExchangeIntegralUnit",
+                    "enum": [
+                        "Item:OSW730568cd7ae65906abbbcef1d15cb074",
+                        "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW4e7003f5d7ff58a190167711dd63b0bd",
+                        "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSWad2518d42b685f569679c3599455c3d3",
+                        "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW6df751011258508e9d15967190c819f3",
+                        "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW2d5cdc08b064506e8f9a5b0456b7a0b3",
+                        "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW0ac3643d930d5c99936e5ece487a9634",
+                        "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW5ba80670b2945c08b35551442d3169d5",
+                        "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSWc26bf1cf449d56ef8122745336585d2b",
+                        "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSWc1525b1f1fc05c40b9715328bf707805",
+                        "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSWa73c696efa58519aa07c265ea965ceda"
+                    ],
+                    "x-enum-varnames": [
+                        "joule",
+                        "peta_joule",
+                        "kilo_joule",
+                        "milli_joule",
+                        "femto_joule",
+                        "tera_joule",
+                        "exa_joule",
+                        "giga_joule",
+                        "mega_joule",
+                        "atto_joule"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW01b0d442190a5bac9090212aba85682e]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW01b0d442190a5bac9090212aba85682e]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "J",
+                            "PJ",
+                            "kJ",
+                            "mJ",
+                            "fJ",
+                            "TJ",
+                            "EJ",
+                            "GJ",
+                            "MJ",
+                            "aJ"
+                        ]
+                    },
+                    "default": "Item:OSW730568cd7ae65906abbbcef1d15cb074"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasExchangeIntegralValue"
         }
     },
     "allOf": [

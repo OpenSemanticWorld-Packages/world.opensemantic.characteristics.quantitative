@@ -25,5 +25,19 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW5c2c8fcc294d5987ac40b565a59096ca"
+    "quantity": "Item:OSW5c2c8fcc294d5987ac40b565a59096ca",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW9dfac70a65b753709e52cb3591dd8547",
+            "name": "meter_squared_newton",
+            "symbol": "N·m²"
+        },
+        {
+            "osw_id": "Item:OSW9dfac70a65b753709e52cb3591dd8547#OSW54ba1a65b3a75b708a5ddb4089c205b1",
+            "name": "kilo_newton_meter_squared",
+            "symbol": "kN·m²"
+        }
+    ],
+    "quantity_property": "Property:HasWarpingMomentValue",
+    "default_unit": "Item:OSW9dfac70a65b753709e52cb3591dd8547"
 }

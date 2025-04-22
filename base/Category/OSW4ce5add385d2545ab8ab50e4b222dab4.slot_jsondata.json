@@ -26,5 +26,34 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW03938ad046df5509a7a420bdd048f47c"
+    "quantity": "Item:OSW03938ad046df5509a7a420bdd048f47c",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW8ac2d9421f455305abb01a51d001cc54",
+            "name": "mole_per_meter_cubed",
+            "symbol": "mol/m³"
+        },
+        {
+            "osw_id": "Item:OSW8ac2d9421f455305abb01a51d001cc54#OSW8bb63381b7c355e3984be7dca4baf030",
+            "name": "pico_mole_per_meter_cubed",
+            "symbol": "pmol/m³"
+        },
+        {
+            "osw_id": "Item:OSW8ac2d9421f455305abb01a51d001cc54#OSWe718f1e8ec1952069a956ab1096f08cb",
+            "name": "kilo_mole_per_meter_cubed",
+            "symbol": "kmol/m³"
+        },
+        {
+            "osw_id": "Item:OSW8ac2d9421f455305abb01a51d001cc54#OSWdc37f32c45c75ead9b0ac9a0547030eb",
+            "name": "milli_mole_per_meter_cubed",
+            "symbol": "mmol/m³"
+        },
+        {
+            "osw_id": "Item:OSW8ac2d9421f455305abb01a51d001cc54#OSW2c20bbad810959ffa4d1ea210b290227",
+            "name": "mole_per_deci_meter_cubed",
+            "symbol": "mol/dm³"
+        }
+    ],
+    "quantity_property": "Property:HasConcentrationValue",
+    "default_unit": "Item:OSW8ac2d9421f455305abb01a51d001cc54"
 }

@@ -29,19 +29,12 @@
                     "default": [
                         "Category:OSW0a6d4ab2792f569da06af40abdb83759"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWbfa30e8d7250562ea9318beaff08df61]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWbfa30e8d7250562ea9318beaff08df61]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasWaterHorsepowerValue"
         }
     },
     "allOf": [

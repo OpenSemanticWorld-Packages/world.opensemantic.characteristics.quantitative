@@ -30,5 +30,49 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWa4084af4d8e45b2c80bc5af83a1418e6"
+    "quantity": "Item:OSWa4084af4d8e45b2c80bc5af83a1418e6",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW599c5384bf7a5de7b8cee8b2e94c39e3",
+            "name": "meter_newton",
+            "symbol": "N·m"
+        },
+        {
+            "osw_id": "Item:OSW599c5384bf7a5de7b8cee8b2e94c39e3#OSW83f4a238c5875e3587f45071e11aaaa3",
+            "name": "deci_newton_meter",
+            "symbol": "dN·m"
+        },
+        {
+            "osw_id": "Item:OSW599c5384bf7a5de7b8cee8b2e94c39e3#OSWb7de5ae5a2f05221be05e0bf2aa74cb9",
+            "name": "centi_newton_meter",
+            "symbol": "cN·m"
+        },
+        {
+            "osw_id": "Item:OSW599c5384bf7a5de7b8cee8b2e94c39e3#OSW62f7907222b855ffb1920944af234145",
+            "name": "meter_milli_newton",
+            "symbol": "m·mN"
+        },
+        {
+            "osw_id": "Item:OSW599c5384bf7a5de7b8cee8b2e94c39e3#OSWba8c33e36b605a5083b4d9f87e89d04a",
+            "name": "kilo_newton_meter",
+            "symbol": "kN·m"
+        },
+        {
+            "osw_id": "Item:OSW599c5384bf7a5de7b8cee8b2e94c39e3#OSWcc1060f0faed597fbef0006b2c6de73d",
+            "name": "meter_micro_newton",
+            "symbol": "m·μN"
+        },
+        {
+            "osw_id": "Item:OSW599c5384bf7a5de7b8cee8b2e94c39e3#OSW48e50fcb919e57d99158eb2308baed11",
+            "name": "mega_newton_meter",
+            "symbol": "m·MN"
+        },
+        {
+            "osw_id": "Item:OSW599c5384bf7a5de7b8cee8b2e94c39e3#OSW4a6a4e3488695755a9b81d0947b0f85a",
+            "name": "centi_meter_newton",
+            "symbol": "N·cm"
+        }
+    ],
+    "quantity_property": "Property:HasTorqueValue",
+    "default_unit": "Item:OSW599c5384bf7a5de7b8cee8b2e94c39e3"
 }

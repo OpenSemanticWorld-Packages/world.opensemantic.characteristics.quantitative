@@ -29,17 +29,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "ForcePerAngleUnit",
+                    "enum": [
+                        "Item:OSW1a0a52ba2fe957989fe3e1a2d0bbdcc4"
+                    ],
+                    "x-enum-varnames": [
+                        "newton_per_radian"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWb5b46c7eebdd5e56a7973b3871415b7c]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWb5b46c7eebdd5e56a7973b3871415b7c]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "N/rad"
+                        ]
+                    },
+                    "default": "Item:OSW1a0a52ba2fe957989fe3e1a2d0bbdcc4"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasForcePerAngleValue"
         }
     },
     "allOf": [

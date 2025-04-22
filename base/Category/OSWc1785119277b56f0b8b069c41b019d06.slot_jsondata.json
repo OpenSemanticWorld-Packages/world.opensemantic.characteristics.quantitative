@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWe723484cbe515bcb9ceb45c2d3e9c588"
+    "quantity": "Item:OSWe723484cbe515bcb9ceb45c2d3e9c588",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW0429f89d17e6572fac6630caa443c336#OSW1e1793e6b72454f1a81b08eabc8272b7",
+            "name": "kilo_gram_per_meter",
+            "symbol": "kg/m"
+        }
+    ],
+    "quantity_property": "Property:HasMassPerLengthValue",
+    "default_unit": "Item:OSW0429f89d17e6572fac6630caa443c336#OSW1e1793e6b72454f1a81b08eabc8272b7"
 }

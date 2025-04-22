@@ -19,5 +19,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWab7bc4752dec54598e1545be5f44dc8e"
+    "quantity": "Item:OSWab7bc4752dec54598e1545be5f44dc8e",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWe5ae11f7ed995d13bdf12af6c0a8a444",
+            "name": "kelvin_meter",
+            "symbol": "m·K"
+        }
+    ],
+    "quantity_property": "Property:HasLengthTemperatureValue",
+    "default_unit": "Item:OSWe5ae11f7ed995d13bdf12af6c0a8a444"
 }

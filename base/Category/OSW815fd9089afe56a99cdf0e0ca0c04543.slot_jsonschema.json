@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "ActivityConcentrationUnit",
+                    "enum": [
+                        "Item:OSWd3720cbbb37c5c1698a8570b837b5af9"
+                    ],
+                    "x-enum-varnames": [
+                        "becquerel_per_meter_cubed"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW6236c367865d596887f68c615b7cf531]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW6236c367865d596887f68c615b7cf531]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "Bq/m³"
+                        ]
+                    },
+                    "default": "Item:OSWd3720cbbb37c5c1698a8570b837b5af9"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasActivityConcentrationValue"
         }
     },
     "allOf": [

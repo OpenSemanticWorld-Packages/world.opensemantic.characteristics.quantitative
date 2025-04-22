@@ -27,19 +27,12 @@
                     "default": [
                         "Category:OSW61a93711a8ed5cf899742f6750b3b13c"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW264e79086dc35bb892d03852c299a5f5]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW264e79086dc35bb892d03852c299a5f5]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasCombustionChamberTemperatureValue"
         }
     },
     "allOf": [

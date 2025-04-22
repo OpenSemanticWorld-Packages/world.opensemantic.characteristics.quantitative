@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW05bfe78b370e5338924177e2aaeb648f"
+    "quantity": "Item:OSW05bfe78b370e5338924177e2aaeb648f",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW57e1f78efd6a50fd8f2c35ea808d7b86",
+            "name": "ampere_meter_squared_per_joule_per_second",
+            "symbol": "A·m²/(J·s)"
+        }
+    ],
+    "quantity_property": "Property:HasElectricChargePerMassValue",
+    "default_unit": "Item:OSW57e1f78efd6a50fd8f2c35ea808d7b86"
 }

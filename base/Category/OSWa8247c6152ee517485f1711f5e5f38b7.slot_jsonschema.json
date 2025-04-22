@@ -30,19 +30,12 @@
                     "default": [
                         "Category:OSWa8247c6152ee517485f1711f5e5f38b7"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWc5f20dc029f35d569ede218bc90b7011]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWc5f20dc029f35d569ede218bc90b7011]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasGibbsEnergyValue"
         }
     },
     "allOf": [

@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWa7c0cd5d93a95d5292a1f08fe92b55e6"
+    "quantity": "Item:OSWa7c0cd5d93a95d5292a1f08fe92b55e6",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWf4a7837882ed5a0b9b128b2d067fc97b",
+            "name": "meter_squared_per_mole",
+            "symbol": "m²/mol"
+        }
+    ],
+    "quantity_property": "Property:HasMolarAttenuationCoefficientValue",
+    "default_unit": "Item:OSWf4a7837882ed5a0b9b128b2d067fc97b"
 }

@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWb3a5d8236aa653fe9fe2501d7e264951"
+    "quantity": "Item:OSWb3a5d8236aa653fe9fe2501d7e264951",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW85f51fc6962e5c5ea5e541ad1bdce849",
+            "name": "joule_per_kelvin_per_kilo_gram_per_pascal",
+            "symbol": "J/(K·kg·Pa)"
+        }
+    ],
+    "quantity_property": "Property:HasSpecificHeatPressureValue",
+    "default_unit": "Item:OSW85f51fc6962e5c5ea5e541ad1bdce849"
 }

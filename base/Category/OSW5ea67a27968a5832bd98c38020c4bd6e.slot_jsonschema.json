@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "MolarConductivityUnit",
+                    "enum": [
+                        "Item:OSW646be3968f185e0ab1832d987570b812"
+                    ],
+                    "x-enum-varnames": [
+                        "meter_squared_siemens_per_mole"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWfef2dea1225352f4890da21126d77a16]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWfef2dea1225352f4890da21126d77a16]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "S·m²/mol"
+                        ]
+                    },
+                    "default": "Item:OSW646be3968f185e0ab1832d987570b812"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasMolarConductivityValue"
         }
     },
     "allOf": [

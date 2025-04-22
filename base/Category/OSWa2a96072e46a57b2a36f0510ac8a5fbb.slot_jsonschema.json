@@ -29,19 +29,12 @@
                     "default": [
                         "Category:OSWa2a96072e46a57b2a36f0510ac8a5fbb"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW598e09e6c23754a1801afe3d79a647f3]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW598e09e6c23754a1801afe3d79a647f3]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasSpecificHeatsRatioValue"
         }
     },
     "allOf": [

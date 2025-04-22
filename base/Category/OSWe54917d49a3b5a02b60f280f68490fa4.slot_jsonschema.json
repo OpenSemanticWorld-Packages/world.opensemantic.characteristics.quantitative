@@ -29,19 +29,12 @@
                     "default": [
                         "Category:OSWe54917d49a3b5a02b60f280f68490fa4"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW2d2e740047235b0fae5c8a4955ea51b9]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW2d2e740047235b0fae5c8a4955ea51b9]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasLowerCriticalMagneticFluxDensityValue"
         }
     },
     "allOf": [

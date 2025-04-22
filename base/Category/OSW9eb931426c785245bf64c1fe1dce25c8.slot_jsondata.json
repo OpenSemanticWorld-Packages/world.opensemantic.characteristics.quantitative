@@ -26,5 +26,19 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWc7a27a8849a6527497c6ce4611bccce4"
+    "quantity": "Item:OSWc7a27a8849a6527497c6ce4611bccce4",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW4db6d50e4e4e5d9dbd549d706e3f6c44",
+            "name": "joule_per_kelvin_per_meter_cubed",
+            "symbol": "J/(m³·K)"
+        },
+        {
+            "osw_id": "Item:OSW4db6d50e4e4e5d9dbd549d706e3f6c44#OSW831c2e0119cd5e46a75afc834fffaf7d",
+            "name": "joule_per_centi_meter_cubed_per_kelvin",
+            "symbol": "J/(cm³·K)"
+        }
+    ],
+    "quantity_property": "Property:HasVolumetricHeatCapacityValue",
+    "default_unit": "Item:OSW4db6d50e4e4e5d9dbd549d706e3f6c44"
 }

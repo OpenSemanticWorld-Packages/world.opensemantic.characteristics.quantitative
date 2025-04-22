@@ -31,17 +31,49 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "ElectrolyticConductivityUnit",
+                    "enum": [
+                        "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d",
+                        "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d#OSWc9f2986f0974565b904f1d0d756d5318",
+                        "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d#OSWd609b57361b3560d8614f22a0031921f",
+                        "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d#OSW6cc3591d052d589cb271f6710f816486",
+                        "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d#OSW27b6c423e529517ba2d3f466d2c822b4",
+                        "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d#OSWa26d6194b3be5f54a4665a01e3df9426",
+                        "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d#OSW88703a966490546d89632c3336e28b2a",
+                        "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d#OSWe2d30b3b09325ef7819f6d51071e147e",
+                        "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d#OSW7b2e1f125aa350409a4f5d467534727a"
+                    ],
+                    "x-enum-varnames": [
+                        "siemens_per_meter",
+                        "pico_siemens_per_meter",
+                        "milli_siemens_per_meter",
+                        "nano_siemens_per_meter",
+                        "mega_siemens_per_meter",
+                        "micro_siemens_per_meter",
+                        "siemens_per_centi_meter",
+                        "kilo_siemens_per_meter",
+                        "deci_siemens_per_meter"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW3ea3e587b71d57c19fe226715a96ac2a]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW3ea3e587b71d57c19fe226715a96ac2a]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "S/m",
+                            "pS/m",
+                            "mS/m",
+                            "nS/m",
+                            "MS/m",
+                            "μS/m",
+                            "S/cm",
+                            "kS/m",
+                            "dS/m"
+                        ]
+                    },
+                    "default": "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasElectrolyticConductivityValue"
         }
     },
     "allOf": [

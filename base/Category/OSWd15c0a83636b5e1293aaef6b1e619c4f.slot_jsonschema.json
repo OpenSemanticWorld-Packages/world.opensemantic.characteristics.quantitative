@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "LinearCompressibilityUnit",
+                    "enum": [
+                        "Item:OSWdf7665f78da1599c98a13586cec6d866"
+                    ],
+                    "x-enum-varnames": [
+                        "micro_meter_per_newton"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW34aa0a96d0c154fc88695682f4891bdd]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW34aa0a96d0c154fc88695682f4891bdd]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "μm/N"
+                        ]
+                    },
+                    "default": "Item:OSWdf7665f78da1599c98a13586cec6d866"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasLinearCompressibilityValue"
         }
     },
     "allOf": [

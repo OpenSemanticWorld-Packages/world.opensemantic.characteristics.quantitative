@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "LorenzCoefficientUnit",
+                    "enum": [
+                        "Item:OSW2ef02698f9245a488ed2d3f996ca14a0"
+                    ],
+                    "x-enum-varnames": [
+                        "volt_squared_per_kelvin_squared"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW0561f01c47fa590b918e49b18981c08d]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW0561f01c47fa590b918e49b18981c08d]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "V²/K²"
+                        ]
+                    },
+                    "default": "Item:OSW2ef02698f9245a488ed2d3f996ca14a0"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasLorenzCoefficientValue"
         }
     },
     "allOf": [

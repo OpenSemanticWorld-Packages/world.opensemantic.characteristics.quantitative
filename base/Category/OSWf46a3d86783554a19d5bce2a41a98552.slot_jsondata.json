@@ -19,5 +19,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW9d533a913d5857b7824a45043d7fed98"
+    "quantity": "Item:OSW9d533a913d5857b7824a45043d7fed98",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW3aba7ea2f6a552d4a9762e4b654d32a1",
+            "name": "ampere_per_radian",
+            "symbol": "A/rad"
+        }
+    ],
+    "quantity_property": "Property:HasElectricCurrentPerAngleValue",
+    "default_unit": "Item:OSW3aba7ea2f6a552d4a9762e4b654d32a1"
 }

@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "uuid": "878ac43a-f7e0-5aa7-8650-88cb0b79caeb",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ServiceFactor"
+    ],
+    "name": "ServiceFactor",
+    "label": [
+        {
+            "text": "Service Factor",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The value indicates the multiplier of the rated power that equipment can handle for some period of time when operating according to a manufacturer's specified conditions; typically applicable to motors.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW67faac860ed758758aa4484387e5d5c9"
+    ],
+    "quantity_property": "Property:HasServiceFactorValue"
+}

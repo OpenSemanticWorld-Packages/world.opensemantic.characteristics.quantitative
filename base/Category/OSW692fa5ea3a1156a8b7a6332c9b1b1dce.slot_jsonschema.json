@@ -29,17 +29,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "MolarAngularMomentumUnit",
+                    "enum": [
+                        "Item:OSW82c440beaf0d5f4980a8f525e5313fe5"
+                    ],
+                    "x-enum-varnames": [
+                        "joule_second_per_mole"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW4f5013ecf23c5c95aabf1ae4b3d1124b]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW4f5013ecf23c5c95aabf1ae4b3d1124b]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "J·s/mol"
+                        ]
+                    },
+                    "default": "Item:OSW82c440beaf0d5f4980a8f525e5313fe5"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasMolarAngularMomentumValue"
         }
     },
     "allOf": [

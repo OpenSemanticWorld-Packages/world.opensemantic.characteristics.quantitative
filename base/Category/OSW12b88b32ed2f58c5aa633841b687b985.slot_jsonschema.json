@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "SpecificHeatCapacityAtConstantPressureUnit",
+                    "enum": [
+                        "Item:OSW93d8b6e516fd54f09d483dee1278e3a8#OSWa0cd208ccfa759388597f5f9ff5c69fc"
+                    ],
+                    "x-enum-varnames": [
+                        "joule_per_Celsius_per_kilo_gram"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWca971abeba155a62af380587d8698e7c]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWca971abeba155a62af380587d8698e7c]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "J/(kg·°C)"
+                        ]
+                    },
+                    "default": "Item:OSW93d8b6e516fd54f09d483dee1278e3a8#OSWa0cd208ccfa759388597f5f9ff5c69fc"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasSpecificHeatCapacityAtConstantPressureValue"
         }
     },
     "allOf": [

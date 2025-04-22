@@ -27,19 +27,12 @@
                     "default": [
                         "Category:OSW0ae584a5bdf95705a72f864c11e61486"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWc0cfa243b463511db3421ebcb7d1292b]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWc0cfa243b463511db3421ebcb7d1292b]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasDensityOfTheExhaustGasesValue"
         }
     },
     "allOf": [

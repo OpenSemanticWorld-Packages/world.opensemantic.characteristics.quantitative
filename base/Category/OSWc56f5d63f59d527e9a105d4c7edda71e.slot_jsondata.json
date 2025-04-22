@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW1eacb441e0a1511b924adb076c2ace0a"
+    "quantity": "Item:OSW1eacb441e0a1511b924adb076c2ace0a",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW8998763d58065a069429e7e6fe3c153a",
+            "name": "volt_per_kelvin",
+            "symbol": "V/K"
+        }
+    ],
+    "quantity_property": "Property:HasThomsonCoefficientValue",
+    "default_unit": "Item:OSW8998763d58065a069429e7e6fe3c153a"
 }

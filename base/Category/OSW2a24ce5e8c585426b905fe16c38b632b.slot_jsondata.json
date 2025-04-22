@@ -26,5 +26,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWd5f1a75c8d3c5132a5c5d948795ff83d"
+    "quantity": "Item:OSWd5f1a75c8d3c5132a5c5d948795ff83d",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW4cbc32faa6945fea85c32ee675aff008",
+            "name": "gray_per_second",
+            "symbol": "Gy/s"
+        }
+    ],
+    "quantity_property": "Property:HasAbsorbedDoseRateValue",
+    "default_unit": "Item:OSW4cbc32faa6945fea85c32ee675aff008"
 }

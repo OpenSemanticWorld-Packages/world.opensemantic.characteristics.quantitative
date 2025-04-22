@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "LuminousExposureUnit",
+                    "enum": [
+                        "Item:OSW91dd8f1236fc5d328855ad69ed6ba6c4"
+                    ],
+                    "x-enum-varnames": [
+                        "hour_lux"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW7cfa85d43ba456ddaf4400df3533879a]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW7cfa85d43ba456ddaf4400df3533879a]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "lx·h"
+                        ]
+                    },
+                    "default": "Item:OSW91dd8f1236fc5d328855ad69ed6ba6c4"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasLuminousExposureValue"
         }
     },
     "allOf": [

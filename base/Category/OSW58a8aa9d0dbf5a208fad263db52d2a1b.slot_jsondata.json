@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "uuid": "58a8aa9d-0dbf-5a20-8fad-263db52d2a1b",
     "close_ontology_match": [
@@ -22,8 +22,5 @@
     "subclass_of": [
         "Category:OSW1b832c1a42c055eb9669bb0cdda18d7f"
     ],
-    "metaclass": [
-        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
-    ],
-    "quantity": "Item:OSWda69921a96ee5d68a9396f6ee7c64ee9"
+    "quantity_property": "Property:HasRocketAtmosphericTransverseForceValue"
 }

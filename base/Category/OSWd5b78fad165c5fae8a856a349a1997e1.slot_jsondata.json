@@ -26,5 +26,49 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW9124a7b2e4cd54f29db8c1dada41a1f5"
+    "quantity": "Item:OSW9124a7b2e4cd54f29db8c1dada41a1f5",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW138cfd775f5f5791acb676b2e30a858b",
+            "name": "coulomb_per_meter_cubed",
+            "symbol": "C/m³"
+        },
+        {
+            "osw_id": "Item:OSW138cfd775f5f5791acb676b2e30a858b#OSWa2ef417cc76554ccbc1e21d3399b1d0f",
+            "name": "giga_coulomb_per_meter_cubed",
+            "symbol": "GC/m³"
+        },
+        {
+            "osw_id": "Item:OSW138cfd775f5f5791acb676b2e30a858b#OSW78239b85b3255c27b70c82b5d719f312",
+            "name": "mega_coulomb_per_meter_cubed",
+            "symbol": "MC/m³"
+        },
+        {
+            "osw_id": "Item:OSW138cfd775f5f5791acb676b2e30a858b#OSW7ff981494feb573893427df6c288c2c1",
+            "name": "micro_coulomb_per_meter_cubed",
+            "symbol": "μC/m³"
+        },
+        {
+            "osw_id": "Item:OSW138cfd775f5f5791acb676b2e30a858b#OSW6684ece78b035280a9997fd7e0946a64",
+            "name": "coulomb_per_milli_meter_cubed",
+            "symbol": "C/mm³"
+        },
+        {
+            "osw_id": "Item:OSW138cfd775f5f5791acb676b2e30a858b#OSWf658e9170de757b99c1b492865347a7e",
+            "name": "coulomb_per_centi_meter_cubed",
+            "symbol": "C/cm³"
+        },
+        {
+            "osw_id": "Item:OSW138cfd775f5f5791acb676b2e30a858b#OSWabb39bf77e53590aafd85088c14233eb",
+            "name": "kilo_coulomb_per_meter_cubed",
+            "symbol": "kC/m³"
+        },
+        {
+            "osw_id": "Item:OSW138cfd775f5f5791acb676b2e30a858b#OSW0cf667e041bf5c70ad88948e99591fa7",
+            "name": "milli_coulomb_per_meter_cubed",
+            "symbol": "mC/m³"
+        }
+    ],
+    "quantity_property": "Property:HasElectricChargeDensityValue",
+    "default_unit": "Item:OSW138cfd775f5f5791acb676b2e30a858b"
 }

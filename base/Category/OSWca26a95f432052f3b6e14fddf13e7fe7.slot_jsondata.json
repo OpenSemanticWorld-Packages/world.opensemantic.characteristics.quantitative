@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "uuid": "ca26a95f-4320-52f3-b6e1-4fddf13e7fe7",
     "close_ontology_match": [
@@ -22,8 +22,5 @@
     "subclass_of": [
         "Category:OSW19bdaead0e9852b68da79f45423f2b58"
     ],
-    "metaclass": [
-        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
-    ],
-    "quantity": "Item:OSW2efbbc890c2c5b01af84c480c9285ee5"
+    "quantity_property": "Property:HasSourceVoltageValue"
 }

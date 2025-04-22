@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW0561f01c47fa590b918e49b18981c08d"
+    "quantity": "Item:OSW0561f01c47fa590b918e49b18981c08d",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW2ef02698f9245a488ed2d3f996ca14a0",
+            "name": "volt_squared_per_kelvin_squared",
+            "symbol": "V²/K²"
+        }
+    ],
+    "quantity_property": "Property:HasLorenzCoefficientValue",
+    "default_unit": "Item:OSW2ef02698f9245a488ed2d3f996ca14a0"
 }

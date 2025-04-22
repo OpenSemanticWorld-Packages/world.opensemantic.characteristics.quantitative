@@ -29,17 +29,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "CubicElectricDipoleMomentPerSquareEnergyUnit",
+                    "enum": [
+                        "Item:OSWbf685bb28c9b5d15ab98238af18f1f74"
+                    ],
+                    "x-enum-varnames": [
+                        "coulomb_cubed_meter_per_joule_squared"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW0f2201e259ef5ebc84304e4e0455bec7]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW0f2201e259ef5ebc84304e4e0455bec7]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "C³·m/J²"
+                        ]
+                    },
+                    "default": "Item:OSWbf685bb28c9b5d15ab98238af18f1f74"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasCubicElectricDipoleMomentPerSquareEnergyValue"
         }
     },
     "allOf": [

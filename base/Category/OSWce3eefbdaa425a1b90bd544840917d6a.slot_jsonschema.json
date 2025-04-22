@@ -29,17 +29,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "PowerAreaUnit",
+                    "enum": [
+                        "Item:OSWcd571060b6f15f6288ef0ea01ad2c692"
+                    ],
+                    "x-enum-varnames": [
+                        "meter_squared_watt"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW1ed748521a3a536e866db456ea880101]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW1ed748521a3a536e866db456ea880101]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "W·m²"
+                        ]
+                    },
+                    "default": "Item:OSWcd571060b6f15f6288ef0ea01ad2c692"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasPowerAreaValue"
         }
     },
     "allOf": [

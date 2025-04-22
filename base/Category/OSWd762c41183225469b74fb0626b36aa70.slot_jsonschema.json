@@ -31,17 +31,28 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "ElectromagneticEnergyDensityUnit",
+                    "enum": [
+                        "Item:OSW9ea4bf89c42b56728392f1c55639ac18",
+                        "Item:OSW9ea4bf89c42b56728392f1c55639ac18#OSW7044da5ba4b45554b3acc6c6f3fc3624"
+                    ],
+                    "x-enum-varnames": [
+                        "joule_per_meter_cubed",
+                        "mega_joule_per_meter_cubed"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWac0e81324fac5c589498126973e6b753]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWac0e81324fac5c589498126973e6b753]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "J/m³",
+                            "MJ/m³"
+                        ]
+                    },
+                    "default": "Item:OSW9ea4bf89c42b56728392f1c55639ac18"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasElectromagneticEnergyDensityValue"
         }
     },
     "allOf": [

@@ -29,19 +29,12 @@
                     "default": [
                         "Category:OSW2c615dd1ae0c5b73b77aaeb99c960a6e"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW4c62cd299f185e48acd512ae342f574a]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW4c62cd299f185e48acd512ae342f574a]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasExitPlaneCrossSectionalAreaValue"
         }
     },
     "allOf": [

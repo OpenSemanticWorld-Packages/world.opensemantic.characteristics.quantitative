@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "PolarisabilityUnit",
+                    "enum": [
+                        "Item:OSW9ed3650077ea5a42931687ccd72f11ba"
+                    ],
+                    "x-enum-varnames": [
+                        "coulomb_squared_meter_squared_per_joule"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWd86694cd89e6560a9651789b50ef3448]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWd86694cd89e6560a9651789b50ef3448]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "C²·m²/J"
+                        ]
+                    },
+                    "default": "Item:OSW9ed3650077ea5a42931687ccd72f11ba"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasPolarisabilityValue"
         }
     },
     "allOf": [

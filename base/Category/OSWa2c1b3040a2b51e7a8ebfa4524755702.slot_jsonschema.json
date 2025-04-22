@@ -31,17 +31,37 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "PermittivityUnit",
+                    "enum": [
+                        "Item:OSWe279fe2c49705948a6f2fff270d50be1",
+                        "Item:OSWe279fe2c49705948a6f2fff270d50be1#OSWa8178412351155eea5ff7170de8040be",
+                        "Item:OSWe279fe2c49705948a6f2fff270d50be1#OSW635f4b8020b655738a877cb7e87831be",
+                        "Item:OSWe279fe2c49705948a6f2fff270d50be1#OSW47e4ca2649285de5b1dbd98338fac916",
+                        "Item:OSWe279fe2c49705948a6f2fff270d50be1#OSWc45e1c5e49095d4d805ea836290790b7"
+                    ],
+                    "x-enum-varnames": [
+                        "farad_per_meter",
+                        "nano_farad_per_meter",
+                        "pico_farad_per_meter",
+                        "farad_per_kilo_meter",
+                        "micro_farad_per_meter"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW4db0854eff4d5d379573a3a0120baa5a]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW4db0854eff4d5d379573a3a0120baa5a]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "F/m",
+                            "nF/m",
+                            "pF/m",
+                            "F/km",
+                            "μF/m"
+                        ]
+                    },
+                    "default": "Item:OSWe279fe2c49705948a6f2fff270d50be1"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasPermittivityValue"
         }
     },
     "allOf": [

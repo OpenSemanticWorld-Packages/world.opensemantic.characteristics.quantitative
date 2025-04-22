@@ -29,17 +29,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "InverseMagneticFluxUnit",
+                    "enum": [
+                        "Item:OSW47655982de7d5958a051f4f3aa75b62a"
+                    ],
+                    "x-enum-varnames": [
+                        "per_weber"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW30b77c812cef538c8f62eaf7c6950a59]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW30b77c812cef538c8f62eaf7c6950a59]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "1/Wb"
+                        ]
+                    },
+                    "default": "Item:OSW47655982de7d5958a051f4f3aa75b62a"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasInverseMagneticFluxValue"
         }
     },
     "allOf": [

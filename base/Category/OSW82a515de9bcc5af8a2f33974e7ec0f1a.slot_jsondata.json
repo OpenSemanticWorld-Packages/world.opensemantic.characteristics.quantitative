@@ -30,5 +30,19 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW1f0b0a68f68a540db14c5b7fdd68d083"
+    "quantity": "Item:OSW1f0b0a68f68a540db14c5b7fdd68d083",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW7f1fb9d6ddeb5fb7a8a39067553a6dc1",
+            "name": "weber",
+            "symbol": "Wb"
+        },
+        {
+            "osw_id": "Item:OSW7f1fb9d6ddeb5fb7a8a39067553a6dc1#OSWa09dcefcc2be5cb1ae116d0189c300e3",
+            "name": "milli_weber",
+            "symbol": "mWb"
+        }
+    ],
+    "quantity_property": "Property:HasMagneticFluxValue",
+    "default_unit": "Item:OSW7f1fb9d6ddeb5fb7a8a39067553a6dc1"
 }

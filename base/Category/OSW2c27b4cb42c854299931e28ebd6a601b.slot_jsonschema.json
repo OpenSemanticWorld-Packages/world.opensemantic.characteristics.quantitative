@@ -29,17 +29,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "AreaTemperatureUnit",
+                    "enum": [
+                        "Item:OSWe74a789a7a8c5e499c23e49bd2a6b220"
+                    ],
+                    "x-enum-varnames": [
+                        "kelvin_meter_squared"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW7549b83a203e59e3bcc8c6e7854bd87d]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW7549b83a203e59e3bcc8c6e7854bd87d]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "m²·K"
+                        ]
+                    },
+                    "default": "Item:OSWe74a789a7a8c5e499c23e49bd2a6b220"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasAreaTemperatureValue"
         }
     },
     "allOf": [

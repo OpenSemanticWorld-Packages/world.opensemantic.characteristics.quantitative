@@ -1,0 +1,38 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "31f4583f-8b09-5de5-be78-1a7ced0b8117",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MassConcentrationRateOfChange"
+    ],
+    "name": "MassConcentrationRateOfChange",
+    "label": [
+        {
+            "text": "Mass Concentration Rate Of Change",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "the rate at which a specific chemical element or compound changes concentration over time, where with concentration expressed as mass per volume. SI unit is kg * m-3 * s-1",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW7ed252bb9ca75ffdafb198c9c2ce126e",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW9108816e33465625bcd9b4850d64cf9a",
+            "name": "micro_gram_per_day_per_liter",
+            "symbol": "μg/(L·d)"
+        }
+    ],
+    "quantity_property": "Property:HasMassConcentrationRateOfChangeValue",
+    "default_unit": "Item:OSW9108816e33465625bcd9b4850d64cf9a"
+}

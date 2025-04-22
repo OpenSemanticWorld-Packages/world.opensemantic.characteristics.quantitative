@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "AbsorbedDoseRateUnit",
+                    "enum": [
+                        "Item:OSW4cbc32faa6945fea85c32ee675aff008"
+                    ],
+                    "x-enum-varnames": [
+                        "gray_per_second"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWd5f1a75c8d3c5132a5c5d948795ff83d]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWd5f1a75c8d3c5132a5c5d948795ff83d]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "Gy/s"
+                        ]
+                    },
+                    "default": "Item:OSW4cbc32faa6945fea85c32ee675aff008"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasAbsorbedDoseRateValue"
         }
     },
     "allOf": [

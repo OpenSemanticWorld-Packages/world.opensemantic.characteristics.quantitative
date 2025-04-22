@@ -32,17 +32,49 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "PowerUnit",
+                    "enum": [
+                        "Item:OSW58b03da1b2d35d8ca09043abb7fc8870",
+                        "Item:OSW58b03da1b2d35d8ca09043abb7fc8870#OSWe5ebcb7476e154cba0bc729b319cafe9",
+                        "Item:OSW58b03da1b2d35d8ca09043abb7fc8870#OSWea7d8a111eca57499c3fb187d61d3170",
+                        "Item:OSW58b03da1b2d35d8ca09043abb7fc8870#OSWff05f4ecc2a4513292fae2aa83798da1",
+                        "Item:OSW58b03da1b2d35d8ca09043abb7fc8870#OSW89c2f08b4360565cb2bfe50f5614a0d4",
+                        "Item:OSW58b03da1b2d35d8ca09043abb7fc8870#OSW3320aea347d45d0ebed5f48f7a5bf787",
+                        "Item:OSW58b03da1b2d35d8ca09043abb7fc8870#OSW4303ebb8138953509f12c795a591600c",
+                        "Item:OSW58b03da1b2d35d8ca09043abb7fc8870#OSW3cfa1cd0ef6651c3bad40ca56ea6878c",
+                        "Item:OSW58b03da1b2d35d8ca09043abb7fc8870#OSW5884b063f20a5ee19bef9444d5e10da9"
+                    ],
+                    "x-enum-varnames": [
+                        "watt",
+                        "mega_watt",
+                        "kilo_watt",
+                        "pico_watt",
+                        "milli_watt",
+                        "nano_watt",
+                        "tera_watt",
+                        "giga_watt",
+                        "micro_watt"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW7fc1aafd01225f3a99ebe043b7e4a34a]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW7fc1aafd01225f3a99ebe043b7e4a34a]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "W",
+                            "MW",
+                            "kW",
+                            "pW",
+                            "mW",
+                            "nW",
+                            "TW",
+                            "GW",
+                            "µW"
+                        ]
+                    },
+                    "default": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasPowerValue"
         }
     },
     "allOf": [

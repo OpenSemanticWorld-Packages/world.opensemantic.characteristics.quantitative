@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW49f25589fb5e5c84912e16a0f5c05cc0"
+    "quantity": "Item:OSW49f25589fb5e5c84912e16a0f5c05cc0",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW06fd6479544b5a6db5427ff73da63ee9",
+            "name": "meter_squared_per_joule",
+            "symbol": "m²/J"
+        }
+    ],
+    "quantity_property": "Property:HasSpectralCrossSectionValue",
+    "default_unit": "Item:OSW06fd6479544b5a6db5427ff73da63ee9"
 }

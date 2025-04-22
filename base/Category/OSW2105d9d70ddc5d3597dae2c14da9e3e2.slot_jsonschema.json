@@ -30,19 +30,12 @@
                     "default": [
                         "Category:OSW2105d9d70ddc5d3597dae2c14da9e3e2"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWc967eab5455155d7ae15eb02a2cc9cdf]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWc967eab5455155d7ae15eb02a2cc9cdf]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasSoundParticleVelocityValue"
         }
     },
     "allOf": [

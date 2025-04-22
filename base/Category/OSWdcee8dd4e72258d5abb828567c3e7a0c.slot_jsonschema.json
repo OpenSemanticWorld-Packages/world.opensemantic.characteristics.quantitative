@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "LuminousEnergyUnit",
+                    "enum": [
+                        "Item:OSWc4c970d2dd145fbc883dfca4b380edff"
+                    ],
+                    "x-enum-varnames": [
+                        "lumen_second"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWcb23e8586d535c2298c83ac1f87ff15f]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWcb23e8586d535c2298c83ac1f87ff15f]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "lm·s"
+                        ]
+                    },
+                    "default": "Item:OSWc4c970d2dd145fbc883dfca4b380edff"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasLuminousEnergyValue"
         }
     },
     "allOf": [

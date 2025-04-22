@@ -31,5 +31,64 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW3c2c63a1206654918a580fdd4536a451"
+    "quantity": "Item:OSW3c2c63a1206654918a580fdd4536a451",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
+            "name": "meter",
+            "symbol": "m"
+        },
+        {
+            "osw_id": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWe55fa0526c5d58c8a166d59ab5455fd9",
+            "name": "centi_meter",
+            "symbol": "cm"
+        },
+        {
+            "osw_id": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWb2830572baec5cca970dde12bf0f5a2a",
+            "name": "micro_meter",
+            "symbol": "μm"
+        },
+        {
+            "osw_id": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWb1de8f91f1275572b37c2edfe40d5de6",
+            "name": "kilo_meter",
+            "symbol": "km"
+        },
+        {
+            "osw_id": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSW53a491fdba4d52428769e4bd5c447906",
+            "name": "hecto_meter",
+            "symbol": "hm"
+        },
+        {
+            "osw_id": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWf89b36f291825b78b2e376b41104ed80",
+            "name": "deci_meter",
+            "symbol": "dm"
+        },
+        {
+            "osw_id": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSW60a0f8bd28955fd6ae61177af381696c",
+            "name": "nano_meter",
+            "symbol": "nm"
+        },
+        {
+            "osw_id": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWf488c3090a5c542aa45dd20b7d37a8ec",
+            "name": "deca_meter",
+            "symbol": "dam"
+        },
+        {
+            "osw_id": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSW53d6030c99a152d28ce56e57b5376f95",
+            "name": "fermi",
+            "symbol": "fm"
+        },
+        {
+            "osw_id": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSW322dec469be75aedb008b3ebff29db86",
+            "name": "milli_meter",
+            "symbol": "mm"
+        },
+        {
+            "osw_id": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSW419e951a0df45ae8a8a27806200814b7",
+            "name": "pico_meter",
+            "symbol": "pm"
+        }
+    ],
+    "quantity_property": "Property:HasLengthValue",
+    "default_unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2"
 }

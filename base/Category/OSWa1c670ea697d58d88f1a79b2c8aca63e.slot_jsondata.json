@@ -19,5 +19,29 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW4c44b1a316ea5abda59b980d4fa31e00"
+    "quantity": "Item:OSW4c44b1a316ea5abda59b980d4fa31e00",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWac77b78c88875d4b829975141f651b94",
+            "name": "pascal_per_kelvin",
+            "symbol": "Pa/K"
+        },
+        {
+            "osw_id": "Item:OSWac77b78c88875d4b829975141f651b94#OSW3232f6c70da55b8aa7b7c2ea4f84565b",
+            "name": "mega_pascal_per_kelvin",
+            "symbol": "MPa/K"
+        },
+        {
+            "osw_id": "Item:OSWac77b78c88875d4b829975141f651b94#OSW56eb00ee243c5f2993c44c2259217fd3",
+            "name": "hecto_pascal_per_kelvin",
+            "symbol": "hPa/K"
+        },
+        {
+            "osw_id": "Item:OSWac77b78c88875d4b829975141f651b94#OSWb436256689755bf1993955ab270253c3",
+            "name": "kilo_pascal_per_kelvin",
+            "symbol": "kPa/K"
+        }
+    ],
+    "quantity_property": "Property:HasPressureCoefficientValue",
+    "default_unit": "Item:OSWac77b78c88875d4b829975141f651b94"
 }

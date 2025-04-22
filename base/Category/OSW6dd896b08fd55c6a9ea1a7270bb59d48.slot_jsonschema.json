@@ -31,17 +31,34 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "AdmittanceUnit",
+                    "enum": [
+                        "Item:OSW46249e4c237d546198d98bff0b9d5e93",
+                        "Item:OSW46249e4c237d546198d98bff0b9d5e93#OSW8253047fc4835d79b0f31baf3b96182d",
+                        "Item:OSW46249e4c237d546198d98bff0b9d5e93#OSW35746906e9d051c39bdeebdf5736c2ba",
+                        "Item:OSW46249e4c237d546198d98bff0b9d5e93#OSWfd5a12b202d2534c9cb0844fb6c4f15e"
+                    ],
+                    "x-enum-varnames": [
+                        "siemens",
+                        "milli_siemens",
+                        "kilo_siemens",
+                        "micro_siemens"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW3a66f272a42d5ea69573f3eb99dcb859]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW3a66f272a42d5ea69573f3eb99dcb859]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "S",
+                            "mS",
+                            "kS",
+                            "μS"
+                        ]
+                    },
+                    "default": "Item:OSW46249e4c237d546198d98bff0b9d5e93"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasAdmittanceValue"
         }
     },
     "allOf": [

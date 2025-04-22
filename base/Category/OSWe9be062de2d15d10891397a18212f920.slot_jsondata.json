@@ -31,5 +31,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWeb87bb7f153d5a95b371b23a00e1d84c"
+    "quantity": "Item:OSWeb87bb7f153d5a95b371b23a00e1d84c",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWda255533fa615a42b08ddb7aaa8236f0",
+            "name": "kilo_gram",
+            "symbol": "kg"
+        }
+    ],
+    "quantity_property": "Property:HasMassValue",
+    "default_unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWda255533fa615a42b08ddb7aaa8236f0"
 }

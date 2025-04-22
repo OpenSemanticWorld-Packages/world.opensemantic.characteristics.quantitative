@@ -29,19 +29,12 @@
                     "default": [
                         "Category:OSWdb0431d4d0ea5820a7838ea18c8e04af"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW6236c367865d596887f68c615b7cf531]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW6236c367865d596887f68c615b7cf531]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasFundamentalReciprocalLatticeVectorValue"
         }
     },
     "allOf": [

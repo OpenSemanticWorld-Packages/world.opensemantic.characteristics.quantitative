@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "SlowingDownDensityUnit",
+                    "enum": [
+                        "Item:OSW804e40f82f4955ab8f1bd0c1e9e77d28"
+                    ],
+                    "x-enum-varnames": [
+                        "per_meter_cubed_per_second"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW0636ab590d375db49b8e3838b2edee7a]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW0636ab590d375db49b8e3838b2edee7a]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "1/(m³·s)"
+                        ]
+                    },
+                    "default": "Item:OSW804e40f82f4955ab8f1bd0c1e9e77d28"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasSlowingDownDensityValue"
         }
     },
     "allOf": [

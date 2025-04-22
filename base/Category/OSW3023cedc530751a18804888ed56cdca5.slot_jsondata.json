@@ -19,5 +19,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW92db9dc3570d5978af307983e7ca045f"
+    "quantity": "Item:OSW92db9dc3570d5978af307983e7ca045f",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW44905d403bba5525b7b95b2325c87b42",
+            "name": "kelvin_per_second_squared",
+            "symbol": "K/s²"
+        }
+    ],
+    "quantity_property": "Property:HasTemperaturePerTimeSquaredValue",
+    "default_unit": "Item:OSW44905d403bba5525b7b95b2325c87b42"
 }

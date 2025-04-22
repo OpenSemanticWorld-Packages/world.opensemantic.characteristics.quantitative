@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW96b60ad7641650fe931dce4b3fe53b14"
+    "quantity": "Item:OSW96b60ad7641650fe931dce4b3fe53b14",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWd99c0ceb8ce951b6a513cd58955b69d2",
+            "name": "joule_per_tesla",
+            "symbol": "J/T"
+        }
+    ],
+    "quantity_property": "Property:HasMagneticAreaMomentValue",
+    "default_unit": "Item:OSWd99c0ceb8ce951b6a513cd58955b69d2"
 }

@@ -27,19 +27,12 @@
                     "default": [
                         "Category:OSWd42f78f403bd5873b1ba3409d0816d39"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW96b60ad7641650fe931dce4b3fe53b14]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW96b60ad7641650fe931dce4b3fe53b14]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasExitPlanePressureValue"
         }
     },
     "allOf": [

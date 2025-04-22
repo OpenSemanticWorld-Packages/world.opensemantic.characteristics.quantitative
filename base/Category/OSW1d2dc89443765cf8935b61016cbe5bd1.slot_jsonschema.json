@@ -29,19 +29,12 @@
                     "default": [
                         "Category:OSW1d2dc89443765cf8935b61016cbe5bd1"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWb92ae8a4e8d05cacbf1255b69282db17]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWb92ae8a4e8d05cacbf1255b69282db17]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasAngleOfAttackValue"
         }
     },
     "allOf": [

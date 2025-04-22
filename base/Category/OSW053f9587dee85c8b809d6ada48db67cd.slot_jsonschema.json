@@ -29,19 +29,12 @@
                     "default": [
                         "Category:OSW053f9587dee85c8b809d6ada48db67cd"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW242cc04789e450d7a32b722794fcbc4f]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW242cc04789e450d7a32b722794fcbc4f]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasBiodegredationHalfLifeValue"
         }
     },
     "allOf": [

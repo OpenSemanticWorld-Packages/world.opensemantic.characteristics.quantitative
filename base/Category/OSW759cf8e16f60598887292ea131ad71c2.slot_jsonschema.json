@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "ExposureRateUnit",
+                    "enum": [
+                        "Item:OSW7c9817a1145157e8b2803464c641e6cf"
+                    ],
+                    "x-enum-varnames": [
+                        "coulomb_per_kilo_gram_per_second"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWf9b0487b99de586db32dccdf4f0006d6]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWf9b0487b99de586db32dccdf4f0006d6]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "C/(kg·s)"
+                        ]
+                    },
+                    "default": "Item:OSW7c9817a1145157e8b2803464c641e6cf"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasExposureRateValue"
         }
     },
     "allOf": [

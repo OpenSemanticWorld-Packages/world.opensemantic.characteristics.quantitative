@@ -19,5 +19,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWcd502afb47b55a6ab34b88b3bcdc7bd3"
+    "quantity": "Item:OSWcd502afb47b55a6ab34b88b3bcdc7bd3",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWf56de776e1935d7da1fc50db7cd12490",
+            "name": "per_kelvin_per_meter",
+            "symbol": "1/(m·K)"
+        }
+    ],
+    "quantity_property": "Property:HasInverseLengthTemperatureValue",
+    "default_unit": "Item:OSWf56de776e1935d7da1fc50db7cd12490"
 }

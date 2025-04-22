@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "MagneticAreaMomentUnit",
+                    "enum": [
+                        "Item:OSWd99c0ceb8ce951b6a513cd58955b69d2"
+                    ],
+                    "x-enum-varnames": [
+                        "joule_per_tesla"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW96b60ad7641650fe931dce4b3fe53b14]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW96b60ad7641650fe931dce4b3fe53b14]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "J/T"
+                        ]
+                    },
+                    "default": "Item:OSWd99c0ceb8ce951b6a513cd58955b69d2"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasMagneticAreaMomentValue"
         }
     },
     "allOf": [

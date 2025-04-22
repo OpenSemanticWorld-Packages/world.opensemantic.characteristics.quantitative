@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "uuid": "55d3f263-afd7-5338-8c3d-d35e1e5d8481",
     "close_ontology_match": [
@@ -22,8 +22,5 @@
     "subclass_of": [
         "Category:OSWd60aaf9b746a594a83805f0f0ae921ff"
     ],
-    "metaclass": [
-        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
-    ],
-    "quantity": "Item:OSWc8104c1c17575929a33a439e29043394"
+    "quantity_property": "Property:HasCenterOfMassComValue"
 }

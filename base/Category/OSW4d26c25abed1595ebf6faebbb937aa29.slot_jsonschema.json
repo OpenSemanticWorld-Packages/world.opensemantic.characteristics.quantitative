@@ -32,17 +32,28 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "AreaPerHeatingLoadUnit",
+                    "enum": [
+                        "Item:OSWe1310c5fc4e65dc68ddc749604c7d758",
+                        "Item:OSWe1310c5fc4e65dc68ddc749604c7d758#OSW1e8006cf834952ab86733cd87ed7be1c"
+                    ],
+                    "x-enum-varnames": [
+                        "meter_squared_per_watt",
+                        "meter_squared_per_kilo_watt"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW8be3750c828c5654b14ede221fb92f55]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW8be3750c828c5654b14ede221fb92f55]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "m²/W",
+                            "m²/kW"
+                        ]
+                    },
+                    "default": "Item:OSWe1310c5fc4e65dc68ddc749604c7d758"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasAreaPerHeatingLoadValue"
         }
     },
     "allOf": [

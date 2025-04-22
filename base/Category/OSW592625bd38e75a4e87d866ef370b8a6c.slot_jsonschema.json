@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "SpecificPowerUnit",
+                    "enum": [
+                        "Item:OSW4cbc32faa6945fea85c32ee675aff008"
+                    ],
+                    "x-enum-varnames": [
+                        "gray_per_second"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWd5027d2f50f25fabba0134284da2a328]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWd5027d2f50f25fabba0134284da2a328]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "Gy/s"
+                        ]
+                    },
+                    "default": "Item:OSW4cbc32faa6945fea85c32ee675aff008"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasSpecificPowerValue"
         }
     },
     "allOf": [

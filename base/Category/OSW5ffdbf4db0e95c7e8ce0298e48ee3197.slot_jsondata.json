@@ -19,5 +19,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW5ad545324110508b87287f9dfbf0a046"
+    "quantity": "Item:OSW5ad545324110508b87287f9dfbf0a046",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWda81752da4a7532fb7d5790cd2e41a1c",
+            "name": "pascal_per_second",
+            "symbol": "Pa/s"
+        }
+    ],
+    "quantity_property": "Property:HasForcePerAreaTimeValue",
+    "default_unit": "Item:OSWda81752da4a7532fb7d5790cd2e41a1c"
 }

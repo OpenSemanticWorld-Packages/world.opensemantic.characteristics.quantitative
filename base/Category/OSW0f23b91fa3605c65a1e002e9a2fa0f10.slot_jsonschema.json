@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "BloodGlucoseLevelUnit",
+                    "enum": [
+                        "Item:OSW58a109c7b24256769e6f6716407aff58#OSW42ad2b521cac599c9a5f08e3edd7d88a"
+                    ],
+                    "x-enum-varnames": [
+                        "milli_mole_per_liter"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW826fcfbbb5625943927e314ede359e6b]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW826fcfbbb5625943927e314ede359e6b]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "mmol/L"
+                        ]
+                    },
+                    "default": "Item:OSW58a109c7b24256769e6f6716407aff58#OSW42ad2b521cac599c9a5f08e3edd7d88a"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasBloodGlucoseLevelValue"
         }
     },
     "allOf": [

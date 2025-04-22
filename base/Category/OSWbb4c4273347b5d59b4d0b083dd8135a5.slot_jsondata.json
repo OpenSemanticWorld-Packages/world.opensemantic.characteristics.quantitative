@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW06d38ecfc7605d43b046b6ff92020132"
+    "quantity": "Item:OSW06d38ecfc7605d43b046b6ff92020132",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWefcd851d718352018f7355bf1594398e",
+            "name": "newton_per_ampere",
+            "symbol": "N/A"
+        }
+    ],
+    "quantity_property": "Property:HasMagneticFluxPerLengthValue",
+    "default_unit": "Item:OSWefcd851d718352018f7355bf1594398e"
 }

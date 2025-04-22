@@ -31,17 +31,28 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "VolumeThermalExpansionUnit",
+                    "enum": [
+                        "Item:OSWb9f55dd232415132bdf9e63794052746",
+                        "Item:OSWb9f55dd232415132bdf9e63794052746#OSW554b5cf2e310542f848f9522a4f34f70"
+                    ],
+                    "x-enum-varnames": [
+                        "meter_cubed_per_kelvin",
+                        "centi_meter_cubed_per_kelvin"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW1020ae787b5a576e9340e3a84eafa460]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW1020ae787b5a576e9340e3a84eafa460]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "m³/K",
+                            "cm³/K"
+                        ]
+                    },
+                    "default": "Item:OSWb9f55dd232415132bdf9e63794052746"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasVolumeThermalExpansionValue"
         }
     },
     "allOf": [

@@ -29,17 +29,28 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "InverseTimeTemperatureUnit",
+                    "enum": [
+                        "Item:OSW21febbc735d25a9badefe5f3191757d9",
+                        "Item:OSW21febbc735d25a9badefe5f3191757d9#OSW1214143f4aa952e78f3ec1c339d9500b"
+                    ],
+                    "x-enum-varnames": [
+                        "hertz_per_kelvin",
+                        "mega_hertz_per_kelvin"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW5042e3c9dfc35ca4bd2f1dd3717d3e44]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW5042e3c9dfc35ca4bd2f1dd3717d3e44]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "Hz/K",
+                            "MHz/K"
+                        ]
+                    },
+                    "default": "Item:OSW21febbc735d25a9badefe5f3191757d9"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasInverseTimeTemperatureValue"
         }
     },
     "allOf": [

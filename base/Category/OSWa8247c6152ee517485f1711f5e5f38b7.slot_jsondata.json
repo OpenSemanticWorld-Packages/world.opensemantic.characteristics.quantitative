@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "uuid": "a8247c61-52ee-5174-85f1-711f5e5f38b7",
     "close_ontology_match": [
@@ -26,8 +26,5 @@
     "subclass_of": [
         "Category:OSWc87ddd4a7d1159f0a75b686a61ef4e8e"
     ],
-    "metaclass": [
-        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
-    ],
-    "quantity": "Item:OSWc5f20dc029f35d569ede218bc90b7011"
+    "quantity_property": "Property:HasGibbsEnergyValue"
 }

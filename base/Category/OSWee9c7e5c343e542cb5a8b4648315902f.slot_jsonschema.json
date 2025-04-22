@@ -32,17 +32,55 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "LengthUnit",
+                    "enum": [
+                        "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
+                        "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWe55fa0526c5d58c8a166d59ab5455fd9",
+                        "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWb2830572baec5cca970dde12bf0f5a2a",
+                        "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWb1de8f91f1275572b37c2edfe40d5de6",
+                        "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSW53a491fdba4d52428769e4bd5c447906",
+                        "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWf89b36f291825b78b2e376b41104ed80",
+                        "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSW60a0f8bd28955fd6ae61177af381696c",
+                        "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWf488c3090a5c542aa45dd20b7d37a8ec",
+                        "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSW53d6030c99a152d28ce56e57b5376f95",
+                        "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSW322dec469be75aedb008b3ebff29db86",
+                        "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSW419e951a0df45ae8a8a27806200814b7"
+                    ],
+                    "x-enum-varnames": [
+                        "meter",
+                        "centi_meter",
+                        "micro_meter",
+                        "kilo_meter",
+                        "hecto_meter",
+                        "deci_meter",
+                        "nano_meter",
+                        "deca_meter",
+                        "fermi",
+                        "milli_meter",
+                        "pico_meter"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW3c2c63a1206654918a580fdd4536a451]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW3c2c63a1206654918a580fdd4536a451]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "m",
+                            "cm",
+                            "μm",
+                            "km",
+                            "hm",
+                            "dm",
+                            "nm",
+                            "dam",
+                            "fm",
+                            "mm",
+                            "pm"
+                        ]
+                    },
+                    "default": "Item:OSWf101d25e944856e3bd4b4c9863db7de2"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasLengthValue"
         }
     },
     "allOf": [

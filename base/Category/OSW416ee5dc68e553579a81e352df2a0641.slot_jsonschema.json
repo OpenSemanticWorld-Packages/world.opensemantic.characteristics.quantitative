@@ -29,19 +29,12 @@
                     "default": [
                         "Category:OSW416ee5dc68e553579a81e352df2a0641"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW2481e76e10e2544399097203b4cdc358]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW2481e76e10e2544399097203b4cdc358]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasSuperconductionTransitionTemperatureValue"
         }
     },
     "allOf": [

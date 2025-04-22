@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWc1f637f86adb505cb915f5332c6d3eaa"
+    "quantity": "Item:OSWc1f637f86adb505cb915f5332c6d3eaa",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW375890764ffa5a5cb84e1cbbe16a7315",
+            "name": "coulomb_per_meter",
+            "symbol": "C/m"
+        }
+    ],
+    "quantity_property": "Property:HasElectricChargeLinearDensityValue",
+    "default_unit": "Item:OSW375890764ffa5a5cb84e1cbbe16a7315"
 }

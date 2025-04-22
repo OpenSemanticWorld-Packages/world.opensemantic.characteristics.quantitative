@@ -27,19 +27,12 @@
                     "default": [
                         "Category:OSWa573ff74e1f15ca286ce442b065146dc"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWaad9185efc2351f4a13afe8eabbe78a1]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWaad9185efc2351f4a13afe8eabbe78a1]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasInitialVehicleMassValue"
         }
     },
     "allOf": [

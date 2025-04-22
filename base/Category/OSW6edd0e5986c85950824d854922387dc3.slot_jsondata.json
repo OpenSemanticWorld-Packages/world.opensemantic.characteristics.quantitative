@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW7177c9a6d3ba5b64ad95d9a6e1719c9e"
+    "quantity": "Item:OSW7177c9a6d3ba5b64ad95d9a6e1719c9e",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWe96cbd9b4c9c5e2ab7b4a76d5ad71449",
+            "name": "mole_per_kilo_gram_per_pascal",
+            "symbol": "mol/(kg·Pa)"
+        }
+    ],
+    "quantity_property": "Property:HasMolarMassVariationDueToPressureValue",
+    "default_unit": "Item:OSWe96cbd9b4c9c5e2ab7b4a76d5ad71449"
 }

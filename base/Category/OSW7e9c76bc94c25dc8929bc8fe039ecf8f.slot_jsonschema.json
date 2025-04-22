@@ -31,17 +31,40 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "NuclearQuadrupoleMomentUnit",
+                    "enum": [
+                        "Item:OSWd10e5841c68e5aad94b481b58ef9dfb9",
+                        "Item:OSWd10e5841c68e5aad94b481b58ef9dfb9#OSWe36916dd7a34557b8a52c38d6dd7b832",
+                        "Item:OSWd10e5841c68e5aad94b481b58ef9dfb9#OSWeca22bf4270853038ef3395bd6dd797b",
+                        "Item:OSWd10e5841c68e5aad94b481b58ef9dfb9#OSWd45e991f8e6658dcb6c891c9c0ea094f",
+                        "Item:OSWd10e5841c68e5aad94b481b58ef9dfb9#OSW8ef862bedf335232a9d387b1ee29cd1d",
+                        "Item:OSWd10e5841c68e5aad94b481b58ef9dfb9#OSW90aaf1cb6a9f518a8e7ed0b7fc2fc325"
+                    ],
+                    "x-enum-varnames": [
+                        "meter_squared",
+                        "centi_meter_squared",
+                        "milli_meter_squared",
+                        "micro_meter_squared",
+                        "nano_meter_squared",
+                        "deci_meter_squared"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWd7120973f54a5f23a5fa891829862608]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWd7120973f54a5f23a5fa891829862608]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "m²",
+                            "cm²",
+                            "mm²",
+                            "μm²",
+                            "nm²",
+                            "dm²"
+                        ]
+                    },
+                    "default": "Item:OSWd10e5841c68e5aad94b481b58ef9dfb9"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasNuclearQuadrupoleMomentValue"
         }
     },
     "allOf": [

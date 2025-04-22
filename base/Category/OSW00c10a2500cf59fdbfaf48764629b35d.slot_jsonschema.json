@@ -29,19 +29,12 @@
                     "default": [
                         "Category:OSW00c10a2500cf59fdbfaf48764629b35d"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW976e5a4efdb25e289d0231bf5d80a631]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW976e5a4efdb25e289d0231bf5d80a631]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasFlightPathAngleValue"
         }
     },
     "allOf": [

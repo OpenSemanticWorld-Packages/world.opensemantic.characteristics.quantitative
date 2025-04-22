@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "ElectricChargePerMassUnit",
+                    "enum": [
+                        "Item:OSW57e1f78efd6a50fd8f2c35ea808d7b86"
+                    ],
+                    "x-enum-varnames": [
+                        "ampere_meter_squared_per_joule_per_second"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW05bfe78b370e5338924177e2aaeb648f]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW05bfe78b370e5338924177e2aaeb648f]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "A·m²/(J·s)"
+                        ]
+                    },
+                    "default": "Item:OSW57e1f78efd6a50fd8f2c35ea808d7b86"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasElectricChargePerMassValue"
         }
     },
     "allOf": [

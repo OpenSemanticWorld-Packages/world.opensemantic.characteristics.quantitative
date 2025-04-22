@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "EnergyPerAreaElectricChargeUnit",
+                    "enum": [
+                        "Item:OSW50e05e2d20e858f281ef0d396691ec1e"
+                    ],
+                    "x-enum-varnames": [
+                        "volt_per_meter_squared"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW5d0cca2f4ce059abb2806e91ede1d53d]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW5d0cca2f4ce059abb2806e91ede1d53d]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "V/m²"
+                        ]
+                    },
+                    "default": "Item:OSW50e05e2d20e858f281ef0d396691ec1e"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasEnergyPerAreaElectricChargeValue"
         }
     },
     "allOf": [

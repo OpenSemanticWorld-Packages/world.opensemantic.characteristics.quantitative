@@ -29,19 +29,12 @@
                     "default": [
                         "Category:OSW84aa24df02cb576ab92fda7f55dcac6e"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW3c3bd7a19c5654edbeca03c1d622b078]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW3c3bd7a19c5654edbeca03c1d622b078]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasPositivePlaneAngleValue"
         }
     },
     "allOf": [

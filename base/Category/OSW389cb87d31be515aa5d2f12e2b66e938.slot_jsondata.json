@@ -31,5 +31,54 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW1bd92826da6f5c53982ed6ea45bc1b9b"
+    "quantity": "Item:OSW1bd92826da6f5c53982ed6ea45bc1b9b",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
+            "name": "second",
+            "symbol": "s"
+        },
+        {
+            "osw_id": "Item:OSW85302b21cf045998b80f38c9fdb88f84#OSW78488a0c8e885365beff30aae10a4efd",
+            "name": "deci_second",
+            "symbol": "ds"
+        },
+        {
+            "osw_id": "Item:OSW85302b21cf045998b80f38c9fdb88f84#OSW90ff22cff2dd5d8ba6de84bf9a70c50c",
+            "name": "micro_second",
+            "symbol": "µs"
+        },
+        {
+            "osw_id": "Item:OSW85302b21cf045998b80f38c9fdb88f84#OSW2e4fec0373f45f1891403f06e433c5eb",
+            "name": "atto_second",
+            "symbol": "as"
+        },
+        {
+            "osw_id": "Item:OSW85302b21cf045998b80f38c9fdb88f84#OSWc6f2918cbdef5bde8d00cf86938c7f8e",
+            "name": "pico_second",
+            "symbol": "ps"
+        },
+        {
+            "osw_id": "Item:OSW85302b21cf045998b80f38c9fdb88f84#OSW84d4f530814e5251b06e73ee0184e32b",
+            "name": "milli_second",
+            "symbol": "ms"
+        },
+        {
+            "osw_id": "Item:OSW85302b21cf045998b80f38c9fdb88f84#OSWd1e24421c83d5defb5c22e9a5fe490fb",
+            "name": "femto_second",
+            "symbol": "fs"
+        },
+        {
+            "osw_id": "Item:OSW85302b21cf045998b80f38c9fdb88f84#OSW14e2efd7a4a05306a74663592edb23e8",
+            "name": "nano_second",
+            "symbol": "ns"
+        },
+        {
+            "osw_id": "Item:OSW85302b21cf045998b80f38c9fdb88f84#OSWbc38445f00d056069fef04f8e25c66f6",
+            "name": "kilo_second",
+            "symbol": "ks"
+        }
+    ],
+    "quantity_property": "Property:HasTimeValue",
+    "default_unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84"
 }

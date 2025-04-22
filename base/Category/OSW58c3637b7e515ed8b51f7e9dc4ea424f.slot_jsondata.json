@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "uuid": "58c3637b-7e51-5ed8-b51f-7e9dc4ea424f",
     "close_ontology_match": [
@@ -22,8 +22,5 @@
     "subclass_of": [
         "Category:OSWe9be062de2d15d10891397a18212f920"
     ],
-    "metaclass": [
-        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
-    ],
-    "quantity": "Item:OSWab7bc4752dec54598e1545be5f44dc8e"
+    "quantity_property": "Property:HasMassOfTheEarthValue"
 }

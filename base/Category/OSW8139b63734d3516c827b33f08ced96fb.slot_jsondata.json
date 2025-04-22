@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW68c541ee3f4552df8dd880dcdb68f194"
+    "quantity": "Item:OSW68c541ee3f4552df8dd880dcdb68f194",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWeb19f8b7b92a5f09a0a4a398d29021dc",
+            "name": "kelvin_meter_squared_per_watt",
+            "symbol": "m²·K/W"
+        }
+    ],
+    "quantity_property": "Property:HasThermalInsulanceValue",
+    "default_unit": "Item:OSWeb19f8b7b92a5f09a0a4a398d29021dc"
 }

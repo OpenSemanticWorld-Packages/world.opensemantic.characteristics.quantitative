@@ -29,5 +29,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW728d49c994a059998617f009b98cb587"
+    "quantity": "Item:OSW728d49c994a059998617f009b98cb587",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW46fa6db298ce5915a82932c6e4b72085",
+            "name": "coulomb_meter_squared",
+            "symbol": "C·m²"
+        }
+    ],
+    "quantity_property": "Property:HasElectricQuadrupoleMomentValue",
+    "default_unit": "Item:OSW46fa6db298ce5915a82932c6e4b72085"
 }

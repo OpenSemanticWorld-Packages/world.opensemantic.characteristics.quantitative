@@ -29,19 +29,12 @@
                     "default": [
                         "Category:OSWf75817e6c9af5ba9b9d3ed582403f82c"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW86f40d0f8df55e898a469f9c52e49179]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW86f40d0f8df55e898a469f9c52e49179]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasFishBiotransformationHalfLifeValue"
         }
     },
     "allOf": [

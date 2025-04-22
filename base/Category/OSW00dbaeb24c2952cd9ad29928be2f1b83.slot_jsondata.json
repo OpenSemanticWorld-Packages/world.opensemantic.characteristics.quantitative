@@ -1,0 +1,48 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "00dbaeb2-4c29-52cd-9ad2-9928be2f1b83",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MolarFluxDensity"
+    ],
+    "name": "MolarFluxDensity",
+    "label": [
+        {
+            "text": "Molar Flux Density",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "the rate at which moles of a substance pass through a unit area per unit time. It is used for describing the flow of materials in terms of the transport of molecules or particles rather than bulk mass. The SI units are mol m-2 s-1",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW74555169ee9a593b9ae0cf7f3fb29bbe",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW3063bab947d256b1a7a11cdb158d11b1",
+            "name": "mole_per_meter_squared_per_second",
+            "symbol": "mol/(m²·s)"
+        },
+        {
+            "osw_id": "Item:OSW3063bab947d256b1a7a11cdb158d11b1#OSWd5bf9cdb27765d8bbc553cf3682b1c52",
+            "name": "milli_mole_per_meter_squared_per_second",
+            "symbol": "mmol/(m²·s)"
+        },
+        {
+            "osw_id": "Item:OSW3063bab947d256b1a7a11cdb158d11b1#OSW92a55c5f59b259f8acfe7284e9f7ebe1",
+            "name": "micro_mole_per_meter_squared_per_second",
+            "symbol": "μmol/(m²·s)"
+        }
+    ],
+    "quantity_property": "Property:HasMolarFluxDensityValue",
+    "default_unit": "Item:OSW3063bab947d256b1a7a11cdb158d11b1"
+}

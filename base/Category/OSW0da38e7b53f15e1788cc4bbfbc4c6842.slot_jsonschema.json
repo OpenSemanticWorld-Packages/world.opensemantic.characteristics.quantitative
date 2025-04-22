@@ -29,17 +29,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "InverseEnergyUnit",
+                    "enum": [
+                        "Item:OSW98c14d48aecc52fdab52023fb924debd"
+                    ],
+                    "x-enum-varnames": [
+                        "per_hour_per_kilo_volt_ampere"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW86f40d0f8df55e898a469f9c52e49179]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW86f40d0f8df55e898a469f9c52e49179]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "1/(kVA·h)"
+                        ]
+                    },
+                    "default": "Item:OSW98c14d48aecc52fdab52023fb924debd"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasInverseEnergyValue"
         }
     },
     "allOf": [

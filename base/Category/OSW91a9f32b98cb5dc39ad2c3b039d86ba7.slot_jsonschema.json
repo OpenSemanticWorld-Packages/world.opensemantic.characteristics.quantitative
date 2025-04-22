@@ -30,19 +30,12 @@
                     "default": [
                         "Category:OSW91a9f32b98cb5dc39ad2c3b039d86ba7"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW60b2a12c3a265574b4789845af2f3f6a]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW60b2a12c3a265574b4789845af2f3f6a]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasRadiantFluxValue"
         }
     },
     "allOf": [

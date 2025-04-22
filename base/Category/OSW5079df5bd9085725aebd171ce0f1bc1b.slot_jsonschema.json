@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "StressOpticCoefficientUnit",
+                    "enum": [
+                        "Item:OSWf030abd4441d52a7a8c5f84950985ea4"
+                    ],
+                    "x-enum-varnames": [
+                        "per_pascal"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW3b7824d8362c5390b68f5b568af902db]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW3b7824d8362c5390b68f5b568af902db]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "1/Pa"
+                        ]
+                    },
+                    "default": "Item:OSWf030abd4441d52a7a8c5f84950985ea4"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasStressOpticCoefficientValue"
         }
     },
     "allOf": [

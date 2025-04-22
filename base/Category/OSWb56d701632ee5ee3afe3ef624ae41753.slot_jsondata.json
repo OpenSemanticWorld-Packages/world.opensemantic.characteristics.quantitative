@@ -19,5 +19,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW921d267d50635567889635bd32e150b9"
+    "quantity": "Item:OSW921d267d50635567889635bd32e150b9",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW975f79935c9f543caaec4538d778a2f5",
+            "name": "pascal_second_per_meter_cubed",
+            "symbol": "Pa·s/m³"
+        }
+    ],
+    "quantity_property": "Property:HasPressureInRelationToVolumeFlowRateValue",
+    "default_unit": "Item:OSW975f79935c9f543caaec4538d778a2f5"
 }

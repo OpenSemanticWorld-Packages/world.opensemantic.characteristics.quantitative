@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "VaporPermeabilityUnit",
+                    "enum": [
+                        "Item:OSWa2b4ab78b9975e0891d0d14dfbb12314"
+                    ],
+                    "x-enum-varnames": [
+                        "kilo_gram_per_meter_per_pascal_per_second"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWdcea482573035624bfb9737f040887c3]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWdcea482573035624bfb9737f040887c3]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "kg/(Pa·s·m)"
+                        ]
+                    },
+                    "default": "Item:OSWa2b4ab78b9975e0891d0d14dfbb12314"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasVaporPermeabilityValue"
         }
     },
     "allOf": [

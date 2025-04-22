@@ -30,19 +30,12 @@
                     "default": [
                         "Category:OSWa76a1a2e60f952fd9b4bda2edfd4047a"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWb92ae8a4e8d05cacbf1255b69282db17]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWb92ae8a4e8d05cacbf1255b69282db17]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasOsmoticPressureValue"
         }
     },
     "allOf": [

@@ -32,17 +32,28 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "MagneticFluxUnit",
+                    "enum": [
+                        "Item:OSW7f1fb9d6ddeb5fb7a8a39067553a6dc1",
+                        "Item:OSW7f1fb9d6ddeb5fb7a8a39067553a6dc1#OSWa09dcefcc2be5cb1ae116d0189c300e3"
+                    ],
+                    "x-enum-varnames": [
+                        "weber",
+                        "milli_weber"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW1f0b0a68f68a540db14c5b7fdd68d083]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW1f0b0a68f68a540db14c5b7fdd68d083]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "Wb",
+                            "mWb"
+                        ]
+                    },
+                    "default": "Item:OSW7f1fb9d6ddeb5fb7a8a39067553a6dc1"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasMagneticFluxValue"
         }
     },
     "allOf": [

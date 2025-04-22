@@ -27,19 +27,12 @@
                     "default": [
                         "Category:OSW3323f81caeda5c7fb04fc95cdc3e4f68"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWd5027d2f50f25fabba0134284da2a328]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWd5027d2f50f25fabba0134284da2a328]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasIgnitionIntervalTimeValue"
         }
     },
     "allOf": [

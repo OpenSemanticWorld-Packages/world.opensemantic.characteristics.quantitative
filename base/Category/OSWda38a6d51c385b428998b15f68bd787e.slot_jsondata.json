@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW89a90defb0dd5f9daccf87aab1c6bba7"
+    "quantity": "Item:OSW89a90defb0dd5f9daccf87aab1c6bba7",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWcd1c26954cdf5421b201b431b289ee94",
+            "name": "watt_per_kelvin",
+            "symbol": "W/K"
+        }
+    ],
+    "quantity_property": "Property:HasThermalConductanceValue",
+    "default_unit": "Item:OSWcd1c26954cdf5421b201b431b289ee94"
 }

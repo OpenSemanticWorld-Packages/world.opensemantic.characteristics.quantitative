@@ -29,19 +29,12 @@
                     "default": [
                         "Category:OSW75f2f083a2e856f3bd3757d099851530"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW0642b832db7b59ee9fde43a478fbb881]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW0642b832db7b59ee9fde43a478fbb881]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasEquilibriumPositionVectorOfIonValue"
         }
     },
     "allOf": [

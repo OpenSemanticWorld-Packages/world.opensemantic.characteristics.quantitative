@@ -1,0 +1,38 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "cb65eb7c-e36c-5a1a-8b3b-0684f4476fca",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/TemperatureVariance_NEON"
+    ],
+    "name": "NEON",
+    "label": [
+        {
+            "text": "NEON",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Variance for NEON temperature data measured in degrees celcius",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWacb0c753dd4158a08b8e13a92be260d1",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWd9cb8583836d53228ac7907d5bf8f0f9",
+            "name": "Celsius_squared",
+            "symbol": "°C²"
+        }
+    ],
+    "quantity_property": "Property:HasNEONValue",
+    "default_unit": "Item:OSWd9cb8583836d53228ac7907d5bf8f0f9"
+}

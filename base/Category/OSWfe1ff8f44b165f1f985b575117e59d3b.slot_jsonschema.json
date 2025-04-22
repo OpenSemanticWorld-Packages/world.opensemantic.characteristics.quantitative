@@ -29,19 +29,12 @@
                     "default": [
                         "Category:OSWfe1ff8f44b165f1f985b575117e59d3b"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW56f3e34882be5be987d575b0eaee83f7]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW56f3e34882be5be987d575b0eaee83f7]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasDoseEquivalentValue"
         }
     },
     "allOf": [

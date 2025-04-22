@@ -19,5 +19,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWca0af92d73865e2ca22aa5299c69d73f"
+    "quantity": "Item:OSWca0af92d73865e2ca22aa5299c69d73f",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW4a5d124e14e45b8c95bebb544ce245b6",
+            "name": "kilo_gram_meter",
+            "symbol": "m·kg"
+        }
+    ],
+    "quantity_property": "Property:HasLengthMassValue",
+    "default_unit": "Item:OSW4a5d124e14e45b8c95bebb544ce245b6"
 }

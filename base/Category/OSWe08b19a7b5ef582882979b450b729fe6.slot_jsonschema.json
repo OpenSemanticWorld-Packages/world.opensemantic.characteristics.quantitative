@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "KermaRateUnit",
+                    "enum": [
+                        "Item:OSW4cbc32faa6945fea85c32ee675aff008"
+                    ],
+                    "x-enum-varnames": [
+                        "gray_per_second"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW8c8b7f93b9655d75a070a672e19635f9]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW8c8b7f93b9655d75a070a672e19635f9]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "Gy/s"
+                        ]
+                    },
+                    "default": "Item:OSW4cbc32faa6945fea85c32ee675aff008"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasKermaRateValue"
         }
     },
     "allOf": [

@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "HallCoefficientUnit",
+                    "enum": [
+                        "Item:OSW2f3941ad9ce25c6ba6744243dcc8c352"
+                    ],
+                    "x-enum-varnames": [
+                        "meter_cubed_per_coulomb"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW448373b507f65126a22ebb2c0112b94e]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW448373b507f65126a22ebb2c0112b94e]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "m³/C"
+                        ]
+                    },
+                    "default": "Item:OSW2f3941ad9ce25c6ba6744243dcc8c352"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasHallCoefficientValue"
         }
     },
     "allOf": [

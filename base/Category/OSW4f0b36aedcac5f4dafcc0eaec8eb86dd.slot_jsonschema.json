@@ -31,17 +31,43 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "ElectricChargePerAreaUnit",
+                    "enum": [
+                        "Item:OSW1f38c1c62b2850deb24c1c3afccfc239",
+                        "Item:OSW1f38c1c62b2850deb24c1c3afccfc239#OSW344d47f96cd55fe89e73f85cb1054450",
+                        "Item:OSW1f38c1c62b2850deb24c1c3afccfc239#OSW596e6e9224085a35b395fc84aa4edde8",
+                        "Item:OSW1f38c1c62b2850deb24c1c3afccfc239#OSWea3f16aa263f52dc941e62b9c510ade5",
+                        "Item:OSW1f38c1c62b2850deb24c1c3afccfc239#OSWf6450e8adb145e3a8cc3104122cdc667",
+                        "Item:OSW1f38c1c62b2850deb24c1c3afccfc239#OSW6314b9832a355b7cab3616f5d08c4165",
+                        "Item:OSW1f38c1c62b2850deb24c1c3afccfc239#OSWaace10bd10b5537299ad0548738e0b5e"
+                    ],
+                    "x-enum-varnames": [
+                        "coulomb_per_meter_squared",
+                        "mega_coulomb_per_meter_squared",
+                        "coulomb_per_milli_meter_squared",
+                        "micro_coulomb_per_meter_squared",
+                        "coulomb_per_centi_meter_squared",
+                        "kilo_coulomb_per_meter_squared",
+                        "milli_coulomb_per_meter_squared"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW23562c16aa94532f9af8e3352184fdd6]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW23562c16aa94532f9af8e3352184fdd6]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "C/m²",
+                            "MC/m²",
+                            "C/mm²",
+                            "μC/m²",
+                            "C/cm²",
+                            "kC/m²",
+                            "mC/m²"
+                        ]
+                    },
+                    "default": "Item:OSW1f38c1c62b2850deb24c1c3afccfc239"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasElectricChargePerAreaValue"
         }
     },
     "allOf": [

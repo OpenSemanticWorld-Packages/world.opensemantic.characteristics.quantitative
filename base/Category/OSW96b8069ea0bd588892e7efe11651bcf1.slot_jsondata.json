@@ -26,5 +26,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWc7ad36f3ad0050b5a7732fa58353cd3a"
+    "quantity": "Item:OSWc7ad36f3ad0050b5a7732fa58353cd3a",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW93d8b6e516fd54f09d483dee1278e3a8#OSWa0cd208ccfa759388597f5f9ff5c69fc",
+            "name": "joule_per_Celsius_per_kilo_gram",
+            "symbol": "J/(kg·°C)"
+        }
+    ],
+    "quantity_property": "Property:HasSpecificEntropyValue",
+    "default_unit": "Item:OSW93d8b6e516fd54f09d483dee1278e3a8#OSWa0cd208ccfa759388597f5f9ff5c69fc"
 }

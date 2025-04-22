@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWbc562f0562d955df950317bc2cbbace4"
+    "quantity": "Item:OSWbc562f0562d955df950317bc2cbbace4",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW5935489883d15f2fb2ef853f57c66f49",
+            "name": "second_tesla",
+            "symbol": "T·s"
+        }
+    ],
+    "quantity_property": "Property:HasMassPerElectricChargeValue",
+    "default_unit": "Item:OSW5935489883d15f2fb2ef853f57c66f49"
 }

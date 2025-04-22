@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWf19709086a7c5d018647b70cbf6e1198"
+    "quantity": "Item:OSWf19709086a7c5d018647b70cbf6e1198",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW50e9172c55045cb3b1460b1345303ed2",
+            "name": "pico_henry",
+            "symbol": "pH"
+        }
+    ],
+    "quantity_property": "Property:HasAcidityValue",
+    "default_unit": "Item:OSW50e9172c55045cb3b1460b1345303ed2"
 }

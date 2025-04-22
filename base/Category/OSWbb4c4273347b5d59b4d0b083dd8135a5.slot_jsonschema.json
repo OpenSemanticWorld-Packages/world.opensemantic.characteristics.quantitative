@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "MagneticFluxPerLengthUnit",
+                    "enum": [
+                        "Item:OSWefcd851d718352018f7355bf1594398e"
+                    ],
+                    "x-enum-varnames": [
+                        "newton_per_ampere"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW06d38ecfc7605d43b046b6ff92020132]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW06d38ecfc7605d43b046b6ff92020132]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "N/A"
+                        ]
+                    },
+                    "default": "Item:OSWefcd851d718352018f7355bf1594398e"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasMagneticFluxPerLengthValue"
         }
     },
     "allOf": [

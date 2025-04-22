@@ -20,5 +20,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWf0c2fce9c013507fa54d4d45f1ddde37"
+    "quantity": "Item:OSWf0c2fce9c013507fa54d4d45f1ddde37",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW00ec6531e2fb5ba8aee8cf8852860aed",
+            "name": "second_squared",
+            "symbol": "s²"
+        }
+    ],
+    "quantity_property": "Property:HasTimeSquaredValue",
+    "default_unit": "Item:OSW00ec6531e2fb5ba8aee8cf8852860aed"
 }

@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "MagneticReluctivityUnit",
+                    "enum": [
+                        "Item:OSWdedbe50d76c75dc2a87b1000faa99b10"
+                    ],
+                    "x-enum-varnames": [
+                        "per_meter_per_tesla"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW0b49cc80f9de52ff907d6ae2579d2700]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW0b49cc80f9de52ff907d6ae2579d2700]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "1/(T·m)"
+                        ]
+                    },
+                    "default": "Item:OSWdedbe50d76c75dc2a87b1000faa99b10"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasMagneticReluctivityValue"
         }
     },
     "allOf": [

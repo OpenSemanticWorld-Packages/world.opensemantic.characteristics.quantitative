@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "PhotonRadianceUnit",
+                    "enum": [
+                        "Item:OSWb2f2150d25eb5a948de6ae5033a72afa"
+                    ],
+                    "x-enum-varnames": [
+                        "per_meter_squared_per_second_per_steradian"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW976e5a4efdb25e289d0231bf5d80a631]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW976e5a4efdb25e289d0231bf5d80a631]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "1/(s·m²·sr)"
+                        ]
+                    },
+                    "default": "Item:OSWb2f2150d25eb5a948de6ae5033a72afa"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasPhotonRadianceValue"
         }
     },
     "allOf": [

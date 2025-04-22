@@ -26,5 +26,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWe82d247dea8154569a6be9e457b3095e"
+    "quantity": "Item:OSWe82d247dea8154569a6be9e457b3095e",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW030b700cf26d53fe804f2dcd9cbc44ca",
+            "name": "mole_per_meter_cubed_per_second",
+            "symbol": "mol/(m²·m·s)"
+        }
+    ],
+    "quantity_property": "Property:HasCatalyticActivityConcentrationValue",
+    "default_unit": "Item:OSW030b700cf26d53fe804f2dcd9cbc44ca"
 }

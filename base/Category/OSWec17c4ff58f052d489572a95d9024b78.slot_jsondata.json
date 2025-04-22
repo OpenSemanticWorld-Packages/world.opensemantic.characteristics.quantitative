@@ -19,5 +19,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW30b77c812cef538c8f62eaf7c6950a59"
+    "quantity": "Item:OSW30b77c812cef538c8f62eaf7c6950a59",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW47655982de7d5958a051f4f3aa75b62a",
+            "name": "per_weber",
+            "symbol": "1/Wb"
+        }
+    ],
+    "quantity_property": "Property:HasInverseMagneticFluxValue",
+    "default_unit": "Item:OSW47655982de7d5958a051f4f3aa75b62a"
 }

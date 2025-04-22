@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWf1aac3a817fa565aac3c440e01331e4e"
+    "quantity": "Item:OSWf1aac3a817fa565aac3c440e01331e4e",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW958d74176efb543f819fe576e03621fa",
+            "name": "ampere_per_kelvin_squared_per_meter_squared",
+            "symbol": "A/(m²·K²)"
+        }
+    ],
+    "quantity_property": "Property:HasRichardsonConstantValue",
+    "default_unit": "Item:OSW958d74176efb543f819fe576e03621fa"
 }

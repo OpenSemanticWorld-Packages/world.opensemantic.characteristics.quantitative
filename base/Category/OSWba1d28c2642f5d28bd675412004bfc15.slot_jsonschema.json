@@ -29,19 +29,12 @@
                     "default": [
                         "Category:OSWba1d28c2642f5d28bd675412004bfc15"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW76e128c52ccb58ebb5af966997aff0df]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW76e128c52ccb58ebb5af966997aff0df]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasTimeAveragedSoundIntensityValue"
         }
     },
     "allOf": [

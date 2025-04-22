@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "uuid": "a4fc82b5-131a-5f54-85b1-cee34bb708ab",
     "close_ontology_match": [
@@ -16,8 +16,5 @@
     "subclass_of": [
         "Category:OSW42543b13af4c5af88462e7ac8ff8707d"
     ],
-    "metaclass": [
-        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
-    ],
-    "quantity": "Item:OSW1aef0f22af9a55e58e458c5d4e94f161"
+    "quantity_property": "Property:HasEarthClosestApproachVehicleVelocityValue"
 }

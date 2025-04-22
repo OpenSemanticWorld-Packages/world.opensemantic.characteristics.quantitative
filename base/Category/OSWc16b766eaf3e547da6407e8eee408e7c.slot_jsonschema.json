@@ -29,17 +29,31 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "EnergyPerTemperatureUnit",
+                    "enum": [
+                        "Item:OSW501738b1f645568c9c4fb6da844439c7",
+                        "Item:OSW501738b1f645568c9c4fb6da844439c7#OSW7b31ddba89fc5359972c09eda7f30683",
+                        "Item:OSW501738b1f645568c9c4fb6da844439c7#OSWf8925d2e60865f589809095c9e172dbe"
+                    ],
+                    "x-enum-varnames": [
+                        "joule_per_kelvin",
+                        "kilo_joule_per_kelvin",
+                        "mega_joule_per_kelvin"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW7eb3dd0b4bcd5ad195f388661e60d9a0]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW7eb3dd0b4bcd5ad195f388661e60d9a0]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "J/K",
+                            "kJ/K",
+                            "MJ/K"
+                        ]
+                    },
+                    "default": "Item:OSW501738b1f645568c9c4fb6da844439c7"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasEnergyPerTemperatureValue"
         }
     },
     "allOf": [

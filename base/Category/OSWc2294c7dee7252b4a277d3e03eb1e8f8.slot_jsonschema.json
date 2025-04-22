@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "SurfaceActivityDensityUnit",
+                    "enum": [
+                        "Item:OSW8369e204ddec5045893b3249ff474d53"
+                    ],
+                    "x-enum-varnames": [
+                        "becquerel_per_meter_squared"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW4b190466bae15739b1112199be8f2f54]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW4b190466bae15739b1112199be8f2f54]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "Bq/m²"
+                        ]
+                    },
+                    "default": "Item:OSW8369e204ddec5045893b3249ff474d53"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasSurfaceActivityDensityValue"
         }
     },
     "allOf": [

@@ -29,19 +29,12 @@
                     "default": [
                         "Category:OSW9426aa0e1345513a8a8ee97bdd841800"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWf04b14a0cd585e919631fe1b2bfcb897]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWf04b14a0cd585e919631fe1b2bfcb897]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasDiastolicBloodPressureValue"
         }
     },
     "allOf": [

@@ -26,5 +26,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW17acd3b68aeb5228ab020b01b61b8fe0"
+    "quantity": "Item:OSW17acd3b68aeb5228ab020b01b61b8fe0",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW6d40ac4bdbc950ec9290f6a47ce23d20",
+            "name": "joule_per_kelvin_per_mole",
+            "symbol": "J/(mol·K)"
+        }
+    ],
+    "quantity_property": "Property:HasMolarEntropyValue",
+    "default_unit": "Item:OSW6d40ac4bdbc950ec9290f6a47ce23d20"
 }

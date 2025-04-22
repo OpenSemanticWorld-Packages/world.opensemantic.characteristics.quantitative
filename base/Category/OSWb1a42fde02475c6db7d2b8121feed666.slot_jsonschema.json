@@ -27,19 +27,12 @@
                     "default": [
                         "Category:OSWb1a42fde02475c6db7d2b8121feed666"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW76e128c52ccb58ebb5af966997aff0df]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW76e128c52ccb58ebb5af966997aff0df]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasAverageVacuumThrustValue"
         }
     },
     "allOf": [

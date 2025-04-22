@@ -32,17 +32,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "MomentOfInertiaUnit",
+                    "enum": [
+                        "Item:OSWd211fc61709b5e48a4c96473c86a8d13"
+                    ],
+                    "x-enum-varnames": [
+                        "kilo_gram_meter_squared"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW4feacced9ef252339a627fc8a2f01aee]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW4feacced9ef252339a627fc8a2f01aee]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "kg·m²"
+                        ]
+                    },
+                    "default": "Item:OSWd211fc61709b5e48a4c96473c86a8d13"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasMomentOfInertiaValue"
         }
     },
     "allOf": [

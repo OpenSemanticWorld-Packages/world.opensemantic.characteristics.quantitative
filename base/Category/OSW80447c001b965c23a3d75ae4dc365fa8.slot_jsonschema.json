@@ -32,17 +32,31 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "MolarVolumeUnit",
+                    "enum": [
+                        "Item:OSW94bba2ee2f9a573eb5fa99c9331f1626",
+                        "Item:OSW94bba2ee2f9a573eb5fa99c9331f1626#OSW6eaa02f1d5ad581f97e7e017fab31412",
+                        "Item:OSW94bba2ee2f9a573eb5fa99c9331f1626#OSW90c99a00002b5483a1ac0638fdbe9078"
+                    ],
+                    "x-enum-varnames": [
+                        "meter_cubed_per_mole",
+                        "deci_meter_cubed_per_mole",
+                        "centi_meter_cubed_per_mole"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW02a99b8c44505890a587073f7c7f1a9c]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW02a99b8c44505890a587073f7c7f1a9c]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "m³/mol",
+                            "dm³/mol",
+                            "cm³/mol"
+                        ]
+                    },
+                    "default": "Item:OSW94bba2ee2f9a573eb5fa99c9331f1626"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasMolarVolumeValue"
         }
     },
     "allOf": [

@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW5d0cca2f4ce059abb2806e91ede1d53d"
+    "quantity": "Item:OSW5d0cca2f4ce059abb2806e91ede1d53d",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW50e05e2d20e858f281ef0d396691ec1e",
+            "name": "volt_per_meter_squared",
+            "symbol": "V/m²"
+        }
+    ],
+    "quantity_property": "Property:HasEnergyPerAreaElectricChargeValue",
+    "default_unit": "Item:OSW50e05e2d20e858f281ef0d396691ec1e"
 }

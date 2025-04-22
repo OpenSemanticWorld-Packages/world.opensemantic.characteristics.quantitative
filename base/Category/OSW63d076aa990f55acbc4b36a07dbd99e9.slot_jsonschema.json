@@ -29,19 +29,12 @@
                     "default": [
                         "Category:OSW63d076aa990f55acbc4b36a07dbd99e9"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWd7ce86f0e2ec5c938e20b325025c44ef]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWd7ce86f0e2ec5c938e20b325025c44ef]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasAngleOfOpticalRotationValue"
         }
     },
     "allOf": [

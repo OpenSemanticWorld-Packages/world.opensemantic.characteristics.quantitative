@@ -31,17 +31,40 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "VolumeUnit",
+                    "enum": [
+                        "Item:OSW7aa0d48fa4a45427a03c5abd43b488f8",
+                        "Item:OSW7aa0d48fa4a45427a03c5abd43b488f8#OSWa9d92cf2bcb95b1887a23f99b51d8d36",
+                        "Item:OSW7aa0d48fa4a45427a03c5abd43b488f8#OSW5024fe1a02365460bbc23fa2e8a46a7b",
+                        "Item:OSW7aa0d48fa4a45427a03c5abd43b488f8#OSW7126d9f54e0b565898ccf21988c04366",
+                        "Item:OSW7aa0d48fa4a45427a03c5abd43b488f8#OSWcd2df951f11a56d2a06705a8f16b0662",
+                        "Item:OSW7aa0d48fa4a45427a03c5abd43b488f8#OSWdda7ee9dea455958af1466a861d5bf7d"
+                    ],
+                    "x-enum-varnames": [
+                        "meter_cubed",
+                        "milli_meter_cubed",
+                        "deca_meter_cubed",
+                        "micro_meter_cubed",
+                        "centi_meter_cubed",
+                        "deci_meter_cubed"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW0873fa0d5d7c57bd9428a88c88307847]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW0873fa0d5d7c57bd9428a88c88307847]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "m³",
+                            "mm³",
+                            "dam³",
+                            "μm³",
+                            "cm³",
+                            "dm³"
+                        ]
+                    },
+                    "default": "Item:OSW7aa0d48fa4a45427a03c5abd43b488f8"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasVolumeValue"
         }
     },
     "allOf": [

@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW133e5d7d71085c18a28135cdc672e1fc"
+    "quantity": "Item:OSW133e5d7d71085c18a28135cdc672e1fc",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW167de6aa22ae5b798f9914c5468307c3",
+            "name": "ampere_per_Celsius",
+            "symbol": "A/°C"
+        }
+    ],
+    "quantity_property": "Property:HasElectricCurrentPerTemperatureValue",
+    "default_unit": "Item:OSW167de6aa22ae5b798f9914c5468307c3"
 }

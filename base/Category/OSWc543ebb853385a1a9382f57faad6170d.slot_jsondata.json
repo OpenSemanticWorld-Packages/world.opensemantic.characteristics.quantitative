@@ -26,10 +26,39 @@
         }
     ],
     "subclass_of": [
-        "Category:OSW7468741a399c52338e44a8242cfed871"
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
     ],
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWe8eeff6c98fe586a87ea2225190130d7"
+    "quantity": "Item:OSW3ac39ad3fd725738a73af0f3e3639935",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW7496c09c41b154bdba82f6d09195cae5",
+            "name": "hertz",
+            "symbol": "Hz"
+        },
+        {
+            "osw_id": "Item:OSW7496c09c41b154bdba82f6d09195cae5#OSWb5d0dd4f66285e15af5977a1b77d5daa",
+            "name": "mega_hertz",
+            "symbol": "MHz"
+        },
+        {
+            "osw_id": "Item:OSW7496c09c41b154bdba82f6d09195cae5#OSWfbbfa62ac8095c5bb37ea9f22ab121dd",
+            "name": "kilo_hertz",
+            "symbol": "kHz"
+        },
+        {
+            "osw_id": "Item:OSW7496c09c41b154bdba82f6d09195cae5#OSW37c66b2e350050d891107e427a1c0210",
+            "name": "giga_hertz",
+            "symbol": "GHz"
+        },
+        {
+            "osw_id": "Item:OSW7496c09c41b154bdba82f6d09195cae5#OSW5860049cdfae5d64abcd7bb8ace55540",
+            "name": "tera_hertz",
+            "symbol": "THz"
+        }
+    ],
+    "quantity_property": "Property:HasFrequencyValue",
+    "default_unit": "Item:OSW7496c09c41b154bdba82f6d09195cae5"
 }

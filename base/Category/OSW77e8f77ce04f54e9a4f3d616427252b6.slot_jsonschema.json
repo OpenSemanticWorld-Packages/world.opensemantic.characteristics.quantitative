@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "SpecificOpticalRotatoryPowerUnit",
+                    "enum": [
+                        "Item:OSW555ce8e01951566b8507f419b1987b04"
+                    ],
+                    "x-enum-varnames": [
+                        "meter_squared_radian_per_kilo_gram"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW63479217569d502c8891bf4cdc547334]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW63479217569d502c8891bf4cdc547334]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "rad·m²/kg"
+                        ]
+                    },
+                    "default": "Item:OSW555ce8e01951566b8507f419b1987b04"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasSpecificOpticalRotatoryPowerValue"
         }
     },
     "allOf": [

@@ -19,5 +19,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWe16def0d258a51869eda5bb9c53504f4"
+    "quantity": "Item:OSWe16def0d258a51869eda5bb9c53504f4",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW0e7c411abb9050609e99957558d70536",
+            "name": "Celsius_mole",
+            "symbol": "mol·°C"
+        }
+    ],
+    "quantity_property": "Property:HasTemperatureAmountOfSubstanceValue",
+    "default_unit": "Item:OSW0e7c411abb9050609e99957558d70536"
 }

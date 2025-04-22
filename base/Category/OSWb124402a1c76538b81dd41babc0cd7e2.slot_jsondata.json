@@ -19,5 +19,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW49ded25372bf5076b29624297d4cc47e"
+    "quantity": "Item:OSW49ded25372bf5076b29624297d4cc47e",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW90e277e1e16052a49c728adea4b95d64",
+            "name": "Celsius_per_second",
+            "symbol": "°C/s"
+        }
+    ],
+    "quantity_property": "Property:HasTemperaturePerTimeValue",
+    "default_unit": "Item:OSW90e277e1e16052a49c728adea4b95d64"
 }

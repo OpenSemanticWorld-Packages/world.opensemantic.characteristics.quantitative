@@ -31,17 +31,37 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "EnergyFluenceUnit",
+                    "enum": [
+                        "Item:OSW0747b5382b955ef2adef0e4c4b1efa81",
+                        "Item:OSW0747b5382b955ef2adef0e4c4b1efa81#OSWf9cdbd6556545d55a9bde1a0915a9545",
+                        "Item:OSW0747b5382b955ef2adef0e4c4b1efa81#OSW3b9b7dca35ec5f7995ba76de650fcadf",
+                        "Item:OSW0747b5382b955ef2adef0e4c4b1efa81#OSW16b24f4ffe12585aa114fbefbf3dbd5b",
+                        "Item:OSW0747b5382b955ef2adef0e4c4b1efa81#OSW48c62f71ae5a512ca24dcb6059999b8d"
+                    ],
+                    "x-enum-varnames": [
+                        "joule_per_meter_squared",
+                        "mega_joule_per_meter_squared",
+                        "milli_joule_per_meter_squared",
+                        "joule_per_centi_meter_squared",
+                        "giga_joule_per_meter_squared"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWb59bdd9eecd7562e92adb9cd93aa6666]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWb59bdd9eecd7562e92adb9cd93aa6666]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "J/m²",
+                            "MJ/m²",
+                            "mJ/m²",
+                            "J/cm²",
+                            "GJ/m²"
+                        ]
+                    },
+                    "default": "Item:OSW0747b5382b955ef2adef0e4c4b1efa81"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasEnergyFluenceValue"
         }
     },
     "allOf": [

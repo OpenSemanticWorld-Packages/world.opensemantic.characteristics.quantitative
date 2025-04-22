@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "TotalLinearStoppingPowerUnit",
+                    "enum": [
+                        "Item:OSW0505357de255592eb766bdfce883acb3"
+                    ],
+                    "x-enum-varnames": [
+                        "joule_per_meter"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWfae2e1da93b554ddb25db164fca9c17f]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWfae2e1da93b554ddb25db164fca9c17f]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "J/m"
+                        ]
+                    },
+                    "default": "Item:OSW0505357de255592eb766bdfce883acb3"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasTotalLinearStoppingPowerValue"
         }
     },
     "allOf": [

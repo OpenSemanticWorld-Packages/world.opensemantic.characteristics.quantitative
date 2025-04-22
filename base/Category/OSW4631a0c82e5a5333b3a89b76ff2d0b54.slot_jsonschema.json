@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "ElectricChargeLinearDensityUnit",
+                    "enum": [
+                        "Item:OSW375890764ffa5a5cb84e1cbbe16a7315"
+                    ],
+                    "x-enum-varnames": [
+                        "coulomb_per_meter"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWc1f637f86adb505cb915f5332c6d3eaa]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWc1f637f86adb505cb915f5332c6d3eaa]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "C/m"
+                        ]
+                    },
+                    "default": "Item:OSW375890764ffa5a5cb84e1cbbe16a7315"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasElectricChargeLinearDensityValue"
         }
     },
     "allOf": [

@@ -31,17 +31,28 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "ReactionRateConstantUnit",
+                    "enum": [
+                        "Item:OSW25bef56399fe5f7fa5d119aff09cfb30",
+                        "Item:OSW25bef56399fe5f7fa5d119aff09cfb30#OSWe3739db7a148562eb2f29ef963e3c001"
+                    ],
+                    "x-enum-varnames": [
+                        "meter_cubed_per_mole_per_second",
+                        "centi_meter_cubed_per_mole_per_second"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW1867660f9640528c809c8d29b3051296]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW1867660f9640528c809c8d29b3051296]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "m³/(mol·s)",
+                            "cm³/(mol·s)"
+                        ]
+                    },
+                    "default": "Item:OSW25bef56399fe5f7fa5d119aff09cfb30"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasReactionRateConstantValue"
         }
     },
     "allOf": [

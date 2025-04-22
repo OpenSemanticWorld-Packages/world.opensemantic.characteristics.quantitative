@@ -32,17 +32,34 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "MagneticFluxDensityUnit",
+                    "enum": [
+                        "Item:OSW1d9ac7ec48cc5b7da90e8c2d529d6df0",
+                        "Item:OSW1d9ac7ec48cc5b7da90e8c2d529d6df0#OSW30a0158af5445fbc8b08c843d0a84d5a",
+                        "Item:OSW1d9ac7ec48cc5b7da90e8c2d529d6df0#OSW490afd74306a568c858e46dd393110fe",
+                        "Item:OSW1d9ac7ec48cc5b7da90e8c2d529d6df0#OSW7b67d49640c75e54b4906f4bd72b494b"
+                    ],
+                    "x-enum-varnames": [
+                        "tesla",
+                        "micro_tesla",
+                        "milli_tesla",
+                        "nano_tesla"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW2f26f0c56c09529985ef11f376f013f0]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW2f26f0c56c09529985ef11f376f013f0]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "T",
+                            "µT",
+                            "mT",
+                            "nT"
+                        ]
+                    },
+                    "default": "Item:OSW1d9ac7ec48cc5b7da90e8c2d529d6df0"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasMagneticFluxDensityValue"
         }
     },
     "allOf": [

@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "CombinedNonEvaporativeHeatTransferCoefficientUnit",
+                    "enum": [
+                        "Item:OSWa553473ceb6957438779040c3e07c200"
+                    ],
+                    "x-enum-varnames": [
+                        "watt_per_meter_squared_per_pascal"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWe36bbb89b83057b2acab5e940cc681a4]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWe36bbb89b83057b2acab5e940cc681a4]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "W/(m²·Pa)"
+                        ]
+                    },
+                    "default": "Item:OSWa553473ceb6957438779040c3e07c200"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasCombinedNonEvaporativeHeatTransferCoefficientValue"
         }
     },
     "allOf": [

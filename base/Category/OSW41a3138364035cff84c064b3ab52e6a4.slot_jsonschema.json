@@ -29,19 +29,12 @@
                     "default": [
                         "Category:OSW41a3138364035cff84c064b3ab52e6a4"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW8537db117cdb5a9ab805eacef1361bb0]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW8537db117cdb5a9ab805eacef1361bb0]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasRelativeMolecularMassValue"
         }
     },
     "allOf": [

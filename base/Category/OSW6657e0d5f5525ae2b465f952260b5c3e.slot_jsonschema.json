@@ -30,19 +30,12 @@
                     "default": [
                         "Category:OSW6657e0d5f5525ae2b465f952260b5c3e"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWa51dd30e412856fdb65e16c4bcb74960]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWa51dd30e412856fdb65e16c4bcb74960]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasMagnetizationValue"
         }
     },
     "allOf": [

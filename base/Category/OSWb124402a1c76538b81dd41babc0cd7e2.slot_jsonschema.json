@@ -29,17 +29,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "TemperaturePerTimeUnit",
+                    "enum": [
+                        "Item:OSW90e277e1e16052a49c728adea4b95d64"
+                    ],
+                    "x-enum-varnames": [
+                        "Celsius_per_second"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW49ded25372bf5076b29624297d4cc47e]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW49ded25372bf5076b29624297d4cc47e]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "°C/s"
+                        ]
+                    },
+                    "default": "Item:OSW90e277e1e16052a49c728adea4b95d64"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasTemperaturePerTimeValue"
         }
     },
     "allOf": [

@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "uuid": "d443875d-fab1-594b-91b2-07cd59e9e0fa",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/StateOfCharge"
+    ],
+    "name": "StateOfCharge",
+    "label": [
+        {
+            "text": "StateOfCharge",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"\"State of Charge\",quantifies the remaining capacity available in a battery at a given time and in relation to a given state of ageing.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW67faac860ed758758aa4484387e5d5c9"
+    ],
+    "quantity_property": "Property:HasStateOfChargeValue"
+}

@@ -30,19 +30,12 @@
                     "default": [
                         "Category:OSW7f41c3f871b9551cbd4032f756f3fc0d"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW9c9d2a228088580fbf35ffb6dda0051d]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW9c9d2a228088580fbf35ffb6dda0051d]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasCelsiusTemperatureValue"
         }
     },
     "allOf": [

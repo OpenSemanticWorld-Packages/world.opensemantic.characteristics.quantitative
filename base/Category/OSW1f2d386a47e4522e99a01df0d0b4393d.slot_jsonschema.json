@@ -29,19 +29,12 @@
                     "default": [
                         "Category:OSW1f2d386a47e4522e99a01df0d0b4393d"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW17dd47304e925a9b96e1f5e0b169d604]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW17dd47304e925a9b96e1f5e0b169d604]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasThermodynamicCriticalMagneticFluxDensityValue"
         }
     },
     "allOf": [

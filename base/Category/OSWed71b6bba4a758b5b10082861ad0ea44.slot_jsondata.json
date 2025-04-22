@@ -26,5 +26,19 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW4ca8ac5521cc586ea69a10a52dd9a23d"
+    "quantity": "Item:OSW4ca8ac5521cc586ea69a10a52dd9a23d",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWfb230f7ff1a55c23accf8ae94aacc9e1",
+            "name": "pascal_second",
+            "symbol": "Pa·s"
+        },
+        {
+            "osw_id": "Item:OSWfb230f7ff1a55c23accf8ae94aacc9e1#OSW8e1783ac9f0b5fe3b404dcfbce8940cb",
+            "name": "milli_pascal_second",
+            "symbol": "mPa·s"
+        }
+    ],
+    "quantity_property": "Property:HasViscosityValue",
+    "default_unit": "Item:OSWfb230f7ff1a55c23accf8ae94aacc9e1"
 }

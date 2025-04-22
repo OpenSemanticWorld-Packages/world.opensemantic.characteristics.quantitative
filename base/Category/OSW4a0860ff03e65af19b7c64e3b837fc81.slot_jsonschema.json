@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "MassFlowRateUnit",
+                    "enum": [
+                        "Item:OSWf6bfa826fcea5795b76c5756f7ec78fb#OSWfe7b5227d12757e789055c9fd32d15e4"
+                    ],
+                    "x-enum-varnames": [
+                        "kilo_gram_per_second"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW1cb3c982b37b598f8343861962fb5026]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW1cb3c982b37b598f8343861962fb5026]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "kg/s"
+                        ]
+                    },
+                    "default": "Item:OSWf6bfa826fcea5795b76c5756f7ec78fb#OSWfe7b5227d12757e789055c9fd32d15e4"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasMassFlowRateValue"
         }
     },
     "allOf": [

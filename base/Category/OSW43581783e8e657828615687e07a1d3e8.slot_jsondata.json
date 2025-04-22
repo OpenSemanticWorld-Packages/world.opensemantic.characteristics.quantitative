@@ -25,5 +25,24 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW33a26f69ca605c76a1857a16c57cfce0"
+    "quantity": "Item:OSW33a26f69ca605c76a1857a16c57cfce0",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWb41c4bc68f7951658a66c7481061c1f2",
+            "name": "volt_ampere",
+            "symbol": "VA"
+        },
+        {
+            "osw_id": "Item:OSWb41c4bc68f7951658a66c7481061c1f2#OSWecfc0485465d510aa98f09bb3aafabef",
+            "name": "mega_volt_ampere",
+            "symbol": "MVA"
+        },
+        {
+            "osw_id": "Item:OSWb41c4bc68f7951658a66c7481061c1f2#OSWcafa0565b412503b86477319f5bb3187",
+            "name": "kilo_volt_ampere",
+            "symbol": "kVA"
+        }
+    ],
+    "quantity_property": "Property:HasNonActivePowerValue",
+    "default_unit": "Item:OSWb41c4bc68f7951658a66c7481061c1f2"
 }

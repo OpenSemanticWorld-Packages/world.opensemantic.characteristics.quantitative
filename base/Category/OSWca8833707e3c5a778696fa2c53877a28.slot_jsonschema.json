@@ -32,17 +32,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "TorsionalSpringConstantUnit",
+                    "enum": [
+                        "Item:OSWcf35571886b95c2c889f076d7dab41dd"
+                    ],
+                    "x-enum-varnames": [
+                        "meter_newton_per_radian"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWb4ac1117554e5a309aa2786fa74e8ed6]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWb4ac1117554e5a309aa2786fa74e8ed6]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "N·m/rad"
+                        ]
+                    },
+                    "default": "Item:OSWcf35571886b95c2c889f076d7dab41dd"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasTorsionalSpringConstantValue"
         }
     },
     "allOf": [

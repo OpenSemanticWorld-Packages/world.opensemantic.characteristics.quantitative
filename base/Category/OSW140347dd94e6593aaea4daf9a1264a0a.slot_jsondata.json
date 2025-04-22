@@ -30,5 +30,19 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWc7bc4bc39923580885b91cf36c63d11a"
+    "quantity": "Item:OSWc7bc4bc39923580885b91cf36c63d11a",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWf045a04750e15ea2b152fb3bfebf162a",
+            "name": "joule_second",
+            "symbol": "J·s"
+        },
+        {
+            "osw_id": "Item:OSWf045a04750e15ea2b152fb3bfebf162a#OSW3eaa66dd20f856fe9a5c4199bc0a1ea4",
+            "name": "atto_joule_second",
+            "symbol": "aJ·s"
+        }
+    ],
+    "quantity_property": "Property:HasAngularImpulseValue",
+    "default_unit": "Item:OSWf045a04750e15ea2b152fb3bfebf162a"
 }

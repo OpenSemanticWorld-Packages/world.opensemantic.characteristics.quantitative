@@ -29,17 +29,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "TorquePerAngleUnit",
+                    "enum": [
+                        "Item:OSWcf35571886b95c2c889f076d7dab41dd"
+                    ],
+                    "x-enum-varnames": [
+                        "meter_newton_per_radian"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW9f978f6db57658a2a46f9a52d50f6627]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW9f978f6db57658a2a46f9a52d50f6627]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "N·m/rad"
+                        ]
+                    },
+                    "default": "Item:OSWcf35571886b95c2c889f076d7dab41dd"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasTorquePerAngleValue"
         }
     },
     "allOf": [

@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "TotalMassStoppingPowerUnit",
+                    "enum": [
+                        "Item:OSWe0fa484f50015a438e4338bb521a34ae"
+                    ],
+                    "x-enum-varnames": [
+                        "joule_meter_squared_per_kilo_gram"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWc805c6699174575b93b7a8c4d200943a]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWc805c6699174575b93b7a8c4d200943a]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "J·m²/kg"
+                        ]
+                    },
+                    "default": "Item:OSWe0fa484f50015a438e4338bb521a34ae"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasTotalMassStoppingPowerValue"
         }
     },
     "allOf": [

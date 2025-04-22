@@ -25,5 +25,39 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWda64e30338dd5c3fadd232b7708f3b1f"
+    "quantity": "Item:OSWda64e30338dd5c3fadd232b7708f3b1f",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec",
+            "name": "ampere",
+            "symbol": "A"
+        },
+        {
+            "osw_id": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSWb59bf21962f75857965df77a55549178",
+            "name": "pico_ampere",
+            "symbol": "pA"
+        },
+        {
+            "osw_id": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSWc611b97c5c4354059113fb8f17a26f2f",
+            "name": "mega_ampere",
+            "symbol": "MA"
+        },
+        {
+            "osw_id": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSW49e59ce46e35588193327425fa1d89ab",
+            "name": "kilo_ampere",
+            "symbol": "kA"
+        },
+        {
+            "osw_id": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSW771bd899c7045f84b282cc653efe6d28",
+            "name": "micro_ampere",
+            "symbol": "μA"
+        },
+        {
+            "osw_id": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSW614e3543b8aa55a5b4aa87c9cd179703",
+            "name": "milli_ampere",
+            "symbol": "mA"
+        }
+    ],
+    "quantity_property": "Property:HasCurrentLinkageValue",
+    "default_unit": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec"
 }

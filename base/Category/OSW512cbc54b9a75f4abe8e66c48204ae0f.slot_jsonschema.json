@@ -32,17 +32,52 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "MassDensityUnit",
+                    "enum": [
+                        "Item:OSW754b1a3564725113ac583f91ae2ea959",
+                        "Item:OSW754b1a3564725113ac583f91ae2ea959#OSWca4043a385f25aa3a98122f2aefd0d2e",
+                        "Item:OSW754b1a3564725113ac583f91ae2ea959#OSW457d0485a44c57cda788a583bf9ab4ff",
+                        "Item:OSW754b1a3564725113ac583f91ae2ea959#OSWe905ceb23b3b550489bed5baa6c9b466",
+                        "Item:OSW754b1a3564725113ac583f91ae2ea959#OSW40c933269ec45fc1aeef04aefce2b374",
+                        "Item:OSW754b1a3564725113ac583f91ae2ea959#OSW84ec459d4d135bf28a610cd00061d18c",
+                        "Item:OSW754b1a3564725113ac583f91ae2ea959#OSW99bbcff947e1508bad38d748ad6ff8e2",
+                        "Item:OSW754b1a3564725113ac583f91ae2ea959#OSW1a48aea5dca45c34bbde02b0df02f6f8",
+                        "Item:OSW754b1a3564725113ac583f91ae2ea959#OSW449dc7494f3f5c0bbd9aff1d1fd2f591",
+                        "Item:OSW754b1a3564725113ac583f91ae2ea959#OSW42fdef27c8ae5c8fbf1876c400f27101"
+                    ],
+                    "x-enum-varnames": [
+                        "gram_per_liter",
+                        "milli_gram_per_liter",
+                        "micro_gram_per_liter",
+                        "gram_per_milli_liter",
+                        "kilo_gram_per_liter",
+                        "pico_gram_per_liter",
+                        "milli_gram_per_milli_liter",
+                        "gram_per_deci_liter",
+                        "femto_gram_per_liter",
+                        "nano_gram_per_liter"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWf9abc3f86f5552c8abfc1274e4b73113]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWf9abc3f86f5552c8abfc1274e4b73113]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "g/L",
+                            "mg/L",
+                            "μg/L",
+                            "g/mL",
+                            "kg/L",
+                            "pg/L",
+                            "mg/mL",
+                            "g/dL",
+                            "fg/L",
+                            "ng/L"
+                        ]
+                    },
+                    "default": "Item:OSW754b1a3564725113ac583f91ae2ea959"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasMassDensityValue"
         }
     },
     "allOf": [

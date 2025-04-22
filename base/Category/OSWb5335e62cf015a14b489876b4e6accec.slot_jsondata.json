@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "uuid": "b5335e62-cf01-5a14-b489-876b4e6accec",
     "close_ontology_match": [
@@ -22,8 +22,5 @@
     "subclass_of": [
         "Category:OSWb7248b1f04455ec99e6ff6e6b472d8de"
     ],
-    "metaclass": [
-        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
-    ],
-    "quantity": "Item:OSW4afb74be52255c0ab1b49ca32dc29252"
+    "quantity_property": "Property:HasIonicChargeValue"
 }

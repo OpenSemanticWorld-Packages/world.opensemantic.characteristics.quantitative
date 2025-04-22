@@ -19,5 +19,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW9f978f6db57658a2a46f9a52d50f6627"
+    "quantity": "Item:OSW9f978f6db57658a2a46f9a52d50f6627",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWcf35571886b95c2c889f076d7dab41dd",
+            "name": "meter_newton_per_radian",
+            "symbol": "N·m/rad"
+        }
+    ],
+    "quantity_property": "Property:HasTorquePerAngleValue",
+    "default_unit": "Item:OSWcf35571886b95c2c889f076d7dab41dd"
 }

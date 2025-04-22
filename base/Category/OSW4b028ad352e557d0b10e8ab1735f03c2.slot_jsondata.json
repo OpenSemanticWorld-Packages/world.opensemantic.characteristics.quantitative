@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW0b49cc80f9de52ff907d6ae2579d2700"
+    "quantity": "Item:OSW0b49cc80f9de52ff907d6ae2579d2700",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWdedbe50d76c75dc2a87b1000faa99b10",
+            "name": "per_meter_per_tesla",
+            "symbol": "1/(T·m)"
+        }
+    ],
+    "quantity_property": "Property:HasMagneticReluctivityValue",
+    "default_unit": "Item:OSWdedbe50d76c75dc2a87b1000faa99b10"
 }

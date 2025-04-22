@@ -26,5 +26,44 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW745121c5f43858e78f03289a52f0d160"
+    "quantity": "Item:OSW745121c5f43858e78f03289a52f0d160",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWf9a174b6598a52fe8b9ac50ee48bf7a1",
+            "name": "ohm",
+            "symbol": "Ω"
+        },
+        {
+            "osw_id": "Item:OSWf9a174b6598a52fe8b9ac50ee48bf7a1#OSW5e05beabf6935ae2b559c1cffc788110",
+            "name": "kilo_ohm",
+            "symbol": "kΩ"
+        },
+        {
+            "osw_id": "Item:OSWf9a174b6598a52fe8b9ac50ee48bf7a1#OSWa8d17cb3f4255320af6052cbd471d716",
+            "name": "milli_ohm",
+            "symbol": "mΩ"
+        },
+        {
+            "osw_id": "Item:OSWf9a174b6598a52fe8b9ac50ee48bf7a1#OSW5196e38637c752e58c2b5be5521e4234",
+            "name": "tera_ohm",
+            "symbol": "TΩ"
+        },
+        {
+            "osw_id": "Item:OSWf9a174b6598a52fe8b9ac50ee48bf7a1#OSW66dbbd77c6ca5d5684b223fdfcc7b773",
+            "name": "giga_ohm",
+            "symbol": "GΩ"
+        },
+        {
+            "osw_id": "Item:OSWf9a174b6598a52fe8b9ac50ee48bf7a1#OSW14b14dd3c32d5ee199a67e3796734a4a",
+            "name": "mega_ohm",
+            "symbol": "MΩ"
+        },
+        {
+            "osw_id": "Item:OSWf9a174b6598a52fe8b9ac50ee48bf7a1#OSWacd4090bd8335717b6eea6b8c1151b29",
+            "name": "micro_ohm",
+            "symbol": "μΩ"
+        }
+    ],
+    "quantity_property": "Property:HasResistanceValue",
+    "default_unit": "Item:OSWf9a174b6598a52fe8b9ac50ee48bf7a1"
 }

@@ -25,5 +25,44 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW23562c16aa94532f9af8e3352184fdd6"
+    "quantity": "Item:OSW23562c16aa94532f9af8e3352184fdd6",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW1f38c1c62b2850deb24c1c3afccfc239",
+            "name": "coulomb_per_meter_squared",
+            "symbol": "C/m²"
+        },
+        {
+            "osw_id": "Item:OSW1f38c1c62b2850deb24c1c3afccfc239#OSW344d47f96cd55fe89e73f85cb1054450",
+            "name": "mega_coulomb_per_meter_squared",
+            "symbol": "MC/m²"
+        },
+        {
+            "osw_id": "Item:OSW1f38c1c62b2850deb24c1c3afccfc239#OSW596e6e9224085a35b395fc84aa4edde8",
+            "name": "coulomb_per_milli_meter_squared",
+            "symbol": "C/mm²"
+        },
+        {
+            "osw_id": "Item:OSW1f38c1c62b2850deb24c1c3afccfc239#OSWea3f16aa263f52dc941e62b9c510ade5",
+            "name": "micro_coulomb_per_meter_squared",
+            "symbol": "μC/m²"
+        },
+        {
+            "osw_id": "Item:OSW1f38c1c62b2850deb24c1c3afccfc239#OSWf6450e8adb145e3a8cc3104122cdc667",
+            "name": "coulomb_per_centi_meter_squared",
+            "symbol": "C/cm²"
+        },
+        {
+            "osw_id": "Item:OSW1f38c1c62b2850deb24c1c3afccfc239#OSW6314b9832a355b7cab3616f5d08c4165",
+            "name": "kilo_coulomb_per_meter_squared",
+            "symbol": "kC/m²"
+        },
+        {
+            "osw_id": "Item:OSW1f38c1c62b2850deb24c1c3afccfc239#OSWaace10bd10b5537299ad0548738e0b5e",
+            "name": "milli_coulomb_per_meter_squared",
+            "symbol": "mC/m²"
+        }
+    ],
+    "quantity_property": "Property:HasElectricChargePerAreaValue",
+    "default_unit": "Item:OSW1f38c1c62b2850deb24c1c3afccfc239"
 }

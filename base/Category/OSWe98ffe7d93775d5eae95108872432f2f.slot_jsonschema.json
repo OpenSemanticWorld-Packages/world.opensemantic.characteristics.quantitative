@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "CompressibilityUnit",
+                    "enum": [
+                        "Item:OSWfabd2eabe9d5542f9de724b3d10058ec"
+                    ],
+                    "x-enum-varnames": [
+                        "meter_squared_per_newton"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWe936807970be5862bd081da709fe3a53]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWe936807970be5862bd081da709fe3a53]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "m²/N"
+                        ]
+                    },
+                    "default": "Item:OSWfabd2eabe9d5542f9de724b3d10058ec"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasCompressibilityValue"
         }
     },
     "allOf": [

@@ -29,17 +29,34 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "PressureCoefficientUnit",
+                    "enum": [
+                        "Item:OSWac77b78c88875d4b829975141f651b94",
+                        "Item:OSWac77b78c88875d4b829975141f651b94#OSW3232f6c70da55b8aa7b7c2ea4f84565b",
+                        "Item:OSWac77b78c88875d4b829975141f651b94#OSW56eb00ee243c5f2993c44c2259217fd3",
+                        "Item:OSWac77b78c88875d4b829975141f651b94#OSWb436256689755bf1993955ab270253c3"
+                    ],
+                    "x-enum-varnames": [
+                        "pascal_per_kelvin",
+                        "mega_pascal_per_kelvin",
+                        "hecto_pascal_per_kelvin",
+                        "kilo_pascal_per_kelvin"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW4c44b1a316ea5abda59b980d4fa31e00]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW4c44b1a316ea5abda59b980d4fa31e00]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "Pa/K",
+                            "MPa/K",
+                            "hPa/K",
+                            "kPa/K"
+                        ]
+                    },
+                    "default": "Item:OSWac77b78c88875d4b829975141f651b94"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasPressureCoefficientValue"
         }
     },
     "allOf": [

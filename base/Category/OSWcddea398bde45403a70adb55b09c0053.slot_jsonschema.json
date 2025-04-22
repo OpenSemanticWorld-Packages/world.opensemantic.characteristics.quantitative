@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "ElectricFluxUnit",
+                    "enum": [
+                        "Item:OSW45282d4f758259de9032e1df3d80d870"
+                    ],
+                    "x-enum-varnames": [
+                        "meter_volt"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW0c4f336a48c35552b0e92da08deda5a6]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW0c4f336a48c35552b0e92da08deda5a6]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "V·m"
+                        ]
+                    },
+                    "default": "Item:OSW45282d4f758259de9032e1df3d80d870"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasElectricFluxValue"
         }
     },
     "allOf": [

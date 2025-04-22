@@ -25,5 +25,19 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWe6a355427e615e7e961c64f101cd10d0"
+    "quantity": "Item:OSWe6a355427e615e7e961c64f101cd10d0",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWf3f9733d84285a338b5b7306145c9b6d",
+            "name": "newton_per_meter_cubed",
+            "symbol": "N/m³"
+        },
+        {
+            "osw_id": "Item:OSWf3f9733d84285a338b5b7306145c9b6d#OSWfe42a11de5995fa380fbde579c89484c",
+            "name": "kilo_newton_per_meter_cubed",
+            "symbol": "kN/m³"
+        }
+    ],
+    "quantity_property": "Property:HasModulusOfSubgradeReactionValue",
+    "default_unit": "Item:OSWf3f9733d84285a338b5b7306145c9b6d"
 }

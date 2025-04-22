@@ -31,17 +31,31 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "ThermalDiffusionCoefficientUnit",
+                    "enum": [
+                        "Item:OSW20b837bfd2fa5c3abc86347ce702f27c",
+                        "Item:OSW20b837bfd2fa5c3abc86347ce702f27c#OSW5db8f161eb8c59129cef62d84dd3309c",
+                        "Item:OSW20b837bfd2fa5c3abc86347ce702f27c#OSW031bb99ee99a5794a24c66e6203c21db"
+                    ],
+                    "x-enum-varnames": [
+                        "meter_squared_per_second",
+                        "milli_meter_squared_per_second",
+                        "centi_meter_squared_per_second"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW03954ee2364e54e48154880b7b9a22b2]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW03954ee2364e54e48154880b7b9a22b2]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "m²/s",
+                            "mm²/s",
+                            "cm²/s"
+                        ]
+                    },
+                    "default": "Item:OSW20b837bfd2fa5c3abc86347ce702f27c"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasThermalDiffusionCoefficientValue"
         }
     },
     "allOf": [

@@ -27,19 +27,12 @@
                     "default": [
                         "Category:OSWdbbc6a4fe07057ac8135afb96caaf32d"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW00ec0699be4351e7b4c33bd6f4fc561e]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW00ec0699be4351e7b4c33bd6f4fc561e]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasMassOfElectricalPowerSupplyValue"
         }
     },
     "allOf": [

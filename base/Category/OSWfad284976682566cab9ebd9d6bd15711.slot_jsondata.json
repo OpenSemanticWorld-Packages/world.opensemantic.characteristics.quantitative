@@ -27,5 +27,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWcb5a8a165ba059a79fe96c05a6953b43"
+    "quantity": "Item:OSWcb5a8a165ba059a79fe96c05a6953b43",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW4f047e2da1fc5ea497c9e22eb8e98ce5",
+            "name": "candela_per_meter_squared",
+            "symbol": "cd/m²"
+        }
+    ],
+    "quantity_property": "Property:HasLuminanceValue",
+    "default_unit": "Item:OSW4f047e2da1fc5ea497c9e22eb8e98ce5"
 }

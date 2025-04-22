@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWf8c5cfd6ade3595a847eb8c43ba9a5f2"
+    "quantity": "Item:OSWf8c5cfd6ade3595a847eb8c43ba9a5f2",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW876a1c66fd4c5fda86f129d3b65a1b98",
+            "name": "kilo_gram_per_meter_squared_per_second_squared",
+            "symbol": "kg/(m²·s²)"
+        }
+    ],
+    "quantity_property": "Property:HasPressureLossPerLengthValue",
+    "default_unit": "Item:OSW876a1c66fd4c5fda86f129d3b65a1b98"
 }

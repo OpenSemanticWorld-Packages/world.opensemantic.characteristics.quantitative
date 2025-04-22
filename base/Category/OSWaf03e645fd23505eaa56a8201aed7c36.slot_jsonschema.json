@@ -29,19 +29,12 @@
                     "default": [
                         "Category:OSWaf03e645fd23505eaa56a8201aed7c36"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW4c62cd299f185e48acd512ae342f574a]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW4c62cd299f185e48acd512ae342f574a]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasFlashPointTemperatureValue"
         }
     },
     "allOf": [

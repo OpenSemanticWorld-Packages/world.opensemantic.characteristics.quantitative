@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "uuid": "5066212a-dfda-5519-af30-7363bd1c5c79",
     "close_ontology_match": [
@@ -27,8 +27,5 @@
     "subclass_of": [
         "Category:OSW8ba7ac8b06c453e2885cc41c9d9ee0bb"
     ],
-    "metaclass": [
-        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
-    ],
-    "quantity": "Item:OSW5e4e4b31c5bd5b52bcac0b85bbc2e85b"
+    "quantity_property": "Property:HasMagneticFieldStrengthValue"
 }

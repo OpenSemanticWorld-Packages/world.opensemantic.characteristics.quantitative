@@ -19,5 +19,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWd2bfe9c30ce2585396dc84fd44d51ee7"
+    "quantity": "Item:OSWd2bfe9c30ce2585396dc84fd44d51ee7",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWbefab75c6042567c84545b5fab456055",
+            "name": "per_second_squared",
+            "symbol": "1/s²"
+        }
+    ],
+    "quantity_property": "Property:HasInverseSquareTimeValue",
+    "default_unit": "Item:OSWbefab75c6042567c84545b5fab456055"
 }

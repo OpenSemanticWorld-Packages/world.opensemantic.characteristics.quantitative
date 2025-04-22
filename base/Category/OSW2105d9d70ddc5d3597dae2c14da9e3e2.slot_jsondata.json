@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "uuid": "2105d9d7-0ddc-5d35-97da-e2c14da9e3e2",
     "close_ontology_match": [
@@ -26,8 +26,5 @@
     "subclass_of": [
         "Category:OSW397c67ece63a5a5c96bad9349f49f3d7"
     ],
-    "metaclass": [
-        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
-    ],
-    "quantity": "Item:OSWc967eab5455155d7ae15eb02a2cc9cdf"
+    "quantity_property": "Property:HasSoundParticleVelocityValue"
 }

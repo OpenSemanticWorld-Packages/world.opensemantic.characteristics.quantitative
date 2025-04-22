@@ -19,5 +19,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW4f5013ecf23c5c95aabf1ae4b3d1124b"
+    "quantity": "Item:OSW4f5013ecf23c5c95aabf1ae4b3d1124b",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW82c440beaf0d5f4980a8f525e5313fe5",
+            "name": "joule_second_per_mole",
+            "symbol": "J·s/mol"
+        }
+    ],
+    "quantity_property": "Property:HasMolarAngularMomentumValue",
+    "default_unit": "Item:OSW82c440beaf0d5f4980a8f525e5313fe5"
 }

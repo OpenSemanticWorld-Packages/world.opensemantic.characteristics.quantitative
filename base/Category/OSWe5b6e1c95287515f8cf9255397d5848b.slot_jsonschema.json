@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "EnergyPerSquareMagneticFluxDensityUnit",
+                    "enum": [
+                        "Item:OSW462714679d475b158c530d359d42de44"
+                    ],
+                    "x-enum-varnames": [
+                        "joule_per_tesla_squared"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWb5a1a6fd28d5554893d41e84f22fef1a]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWb5a1a6fd28d5554893d41e84f22fef1a]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "J/T²"
+                        ]
+                    },
+                    "default": "Item:OSW462714679d475b158c530d359d42de44"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasEnergyPerSquareMagneticFluxDensityValue"
         }
     },
     "allOf": [

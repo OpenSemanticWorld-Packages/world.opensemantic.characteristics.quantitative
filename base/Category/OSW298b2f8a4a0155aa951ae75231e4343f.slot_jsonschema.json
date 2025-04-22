@@ -31,17 +31,28 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "WarpingConstantUnit",
+                    "enum": [
+                        "Item:OSWc5904c8a783d5e8da5f6a24745774a6b",
+                        "Item:OSWc5904c8a783d5e8da5f6a24745774a6b#OSWffc057592b945f8aaad8ef5e3e1903a4"
+                    ],
+                    "x-enum-varnames": [
+                        "6",
+                        "6"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWb6ff023f58835c7f9032e56e9741dcd1]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWb6ff023f58835c7f9032e56e9741dcd1]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "m⁶",
+                            "cm⁶"
+                        ]
+                    },
+                    "default": "Item:OSWc5904c8a783d5e8da5f6a24745774a6b"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasWarpingConstantValue"
         }
     },
     "allOf": [

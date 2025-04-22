@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "ThermalResistivityUnit",
+                    "enum": [
+                        "Item:OSWc51652fc56f1518ebabb2c7f7701436e"
+                    ],
+                    "x-enum-varnames": [
+                        "kelvin_meter_per_watt"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW2812fbfc4a4b5bda8f3092fc94f98be7]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW2812fbfc4a4b5bda8f3092fc94f98be7]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "K·m/W"
+                        ]
+                    },
+                    "default": "Item:OSWc51652fc56f1518ebabb2c7f7701436e"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasThermalResistivityValue"
         }
     },
     "allOf": [

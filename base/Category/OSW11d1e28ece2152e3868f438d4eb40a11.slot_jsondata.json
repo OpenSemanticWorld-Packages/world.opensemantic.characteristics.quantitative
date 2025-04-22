@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "uuid": "11d1e28e-ce21-52e3-868f-438d4eb40a11",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/FailureRate"
+    ],
+    "name": "FailureRate",
+    "label": [
+        {
+            "text": "Failure rate",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Grenzwert - falls er existiert - des Quotienten aus der bedingten Wahrscheinlichkeit, dass der Ausfallzeitpunkt t eines Betriebsmittels in ein gegebenes Zeitintervall (t, t + Δt) fällt, und der Dauer dieses Zeitintervalls, wenn Δt gegen null geht und das Betriebsmittel sich zu Beginn des Zeitintervalls im betriebsfähigen Zustand befindet",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWe8d1194aeb2e5b9f877867eab5c9cae9"
+    ],
+    "quantity_property": "Property:HasFailureRateValue"
+}

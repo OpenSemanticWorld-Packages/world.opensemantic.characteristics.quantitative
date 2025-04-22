@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWcb23e8586d535c2298c83ac1f87ff15f"
+    "quantity": "Item:OSWcb23e8586d535c2298c83ac1f87ff15f",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWc4c970d2dd145fbc883dfca4b380edff",
+            "name": "lumen_second",
+            "symbol": "lm·s"
+        }
+    ],
+    "quantity_property": "Property:HasLuminousEnergyValue",
+    "default_unit": "Item:OSWc4c970d2dd145fbc883dfca4b380edff"
 }

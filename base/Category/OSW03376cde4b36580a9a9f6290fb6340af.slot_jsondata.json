@@ -19,5 +19,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWa51dd30e412856fdb65e16c4bcb74960"
+    "quantity": "Item:OSWa51dd30e412856fdb65e16c4bcb74960",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW7b8304e9935651c7a91b9d5b8f6594e3",
+            "name": "per_mole",
+            "symbol": "1/mol"
+        }
+    ],
+    "quantity_property": "Property:HasInverseAmountOfSubstanceValue",
+    "default_unit": "Item:OSW7b8304e9935651c7a91b9d5b8f6594e3"
 }

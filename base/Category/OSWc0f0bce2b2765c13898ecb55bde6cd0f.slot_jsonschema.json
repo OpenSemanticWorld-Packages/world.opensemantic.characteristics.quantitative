@@ -29,19 +29,12 @@
                     "default": [
                         "Category:OSWc0f0bce2b2765c13898ecb55bde6cd0f"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW48b2f73fc64c5fb8be9721afca6648c6]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW48b2f73fc64c5fb8be9721afca6648c6]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasAcceptorIonizationEnergyValue"
         }
     },
     "allOf": [

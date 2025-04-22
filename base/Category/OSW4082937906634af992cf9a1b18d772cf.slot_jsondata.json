@@ -11,6 +11,16 @@
             "property_type": "SimpleProperty",
             "uuid": "ed470b63-e754-41bc-813a-b3aa0087a847",
             "name": "value",
+            "label": [
+                {
+                    "text": "Value",
+                    "lang": "en"
+                },
+                {
+                    "text": "Wert",
+                    "lang": "de"
+                }
+            ],
             "required": true,
             "type": "number"
         },
@@ -18,7 +28,18 @@
             "property_type": "SimpleProperty",
             "uuid": "fc310fe8-f963-4841-9fff-126a15a41556",
             "name": "unit",
-            "type": "string"
+            "label": [
+                {
+                    "text": "Unit",
+                    "lang": "en"
+                },
+                {
+                    "text": "Einheit",
+                    "lang": "de"
+                }
+            ],
+            "type": "string",
+            "recommended": true
         }
     ],
     "uuid": "40829379-0663-4af9-92cf-9a1b18d772cf",
@@ -39,7 +60,8 @@
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
     "exact_ontology_match": [
-        "https://qudt.org/schema/qudt/QuantityValue"
+        "https://qudt.org/schema/qudt/QuantityValue",
+        "https://w3id.org/pmd/co/PMD_0000022"
     ],
     "close_ontology_match": [
         "https://schema.org/QuantitativeValue",

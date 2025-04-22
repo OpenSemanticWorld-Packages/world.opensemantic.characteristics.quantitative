@@ -19,5 +19,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW8f8439331ff25ab2a7df5c2f3572d198"
+    "quantity": "Item:OSW8f8439331ff25ab2a7df5c2f3572d198",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW88f406fb6a1250eab2d89590d6488f19",
+            "name": "4_per_meter_squared",
+            "symbol": "W/(m²·K⁴)"
+        }
+    ],
+    "quantity_property": "Property:HasPowerPerAreaQuarticTemperatureValue",
+    "default_unit": "Item:OSW88f406fb6a1250eab2d89590d6488f19"
 }

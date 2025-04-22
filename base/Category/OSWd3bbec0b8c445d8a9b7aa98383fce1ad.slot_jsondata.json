@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW6f004dbf369056db8f3845223a14b903"
+    "quantity": "Item:OSW6f004dbf369056db8f3845223a14b903",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW6d40ac4bdbc950ec9290f6a47ce23d20",
+            "name": "joule_per_kelvin_per_mole",
+            "symbol": "J/(mol·K)"
+        }
+    ],
+    "quantity_property": "Property:HasMolarHeatCapacityValue",
+    "default_unit": "Item:OSW6d40ac4bdbc950ec9290f6a47ce23d20"
 }

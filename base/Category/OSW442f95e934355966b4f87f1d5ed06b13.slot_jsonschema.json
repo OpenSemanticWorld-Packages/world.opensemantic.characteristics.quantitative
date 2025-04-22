@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "ElectricCurrentPerTemperatureUnit",
+                    "enum": [
+                        "Item:OSW167de6aa22ae5b798f9914c5468307c3"
+                    ],
+                    "x-enum-varnames": [
+                        "ampere_per_Celsius"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW133e5d7d71085c18a28135cdc672e1fc]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW133e5d7d71085c18a28135cdc672e1fc]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "A/°C"
+                        ]
+                    },
+                    "default": "Item:OSW167de6aa22ae5b798f9914c5468307c3"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasElectricCurrentPerTemperatureValue"
         }
     },
     "allOf": [

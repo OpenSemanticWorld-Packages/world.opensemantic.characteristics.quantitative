@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "SoundPowerLevelUnit",
+                    "enum": [
+                        "Item:OSW20ac6724f1a05ee884222d546955e78f"
+                    ],
+                    "x-enum-varnames": [
+                        "byte"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW746caaa329d75ce2ad00a09d0a347796]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW746caaa329d75ce2ad00a09d0a347796]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "B"
+                        ]
+                    },
+                    "default": "Item:OSW20ac6724f1a05ee884222d546955e78f"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasSoundPowerLevelValue"
         }
     },
     "allOf": [

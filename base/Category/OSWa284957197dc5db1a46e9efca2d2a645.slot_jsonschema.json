@@ -29,19 +29,12 @@
                     "default": [
                         "Category:OSWa284957197dc5db1a46e9efca2d2a645"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW7cf6b8911ab554418065da387018f36a]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW7cf6b8911ab554418065da387018f36a]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasSpinQuantumNumberValue"
         }
     },
     "allOf": [

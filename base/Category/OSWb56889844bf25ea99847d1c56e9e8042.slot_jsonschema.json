@@ -29,19 +29,12 @@
                     "default": [
                         "Category:OSWb56889844bf25ea99847d1c56e9e8042"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWb92ae8a4e8d05cacbf1255b69282db17]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWb92ae8a4e8d05cacbf1255b69282db17]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasFuelBiasValue"
         }
     },
     "allOf": [

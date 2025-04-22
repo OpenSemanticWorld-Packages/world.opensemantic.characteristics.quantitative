@@ -32,17 +32,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "AreaPerLengthUnit",
+                    "enum": [
+                        "Item:OSWf63766f7c83852d7a1d8e12deeee90c7"
+                    ],
+                    "x-enum-varnames": [
+                        "meter"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW07af327f814251278d9918f706dfdcd6]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW07af327f814251278d9918f706dfdcd6]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "m²/m"
+                        ]
+                    },
+                    "default": "Item:OSWf63766f7c83852d7a1d8e12deeee90c7"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasAreaPerLengthValue"
         }
     },
     "allOf": [

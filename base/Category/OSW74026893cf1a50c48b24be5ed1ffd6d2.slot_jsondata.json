@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW5f4d3f724ebc5678bb3c26d3fc63d83e"
+    "quantity": "Item:OSW5f4d3f724ebc5678bb3c26d3fc63d83e",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWc06da5be651b56d993bef3fc05d91bd6",
+            "name": "joule_per_kelvin_per_kilo_gram_per_meter_cubed",
+            "symbol": "J/(K·kg·m³)"
+        }
+    ],
+    "quantity_property": "Property:HasSpecificHeatVolumeValue",
+    "default_unit": "Item:OSWc06da5be651b56d993bef3fc05d91bd6"
 }

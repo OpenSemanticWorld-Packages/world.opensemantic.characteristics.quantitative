@@ -27,19 +27,12 @@
                     "default": [
                         "Category:OSWa4fc82b5131a5f5485b1cee34bb708ab"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW1aef0f22af9a55e58e458c5d4e94f161]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW1aef0f22af9a55e58e458c5d4e94f161]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasEarthClosestApproachVehicleVelocityValue"
         }
     },
     "allOf": [

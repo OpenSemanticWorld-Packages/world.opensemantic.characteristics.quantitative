@@ -29,17 +29,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "ElectricCurrentPerEnergyUnit",
+                    "enum": [
+                        "Item:OSW35db123ef0b25089bab3d9eaa2b5cb67"
+                    ],
+                    "x-enum-varnames": [
+                        "ampere_per_joule"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWe29542c0b70b53b0b15aef4ebdcc3110]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWe29542c0b70b53b0b15aef4ebdcc3110]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "A/J"
+                        ]
+                    },
+                    "default": "Item:OSW35db123ef0b25089bab3d9eaa2b5cb67"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasElectricCurrentPerEnergyValue"
         }
     },
     "allOf": [

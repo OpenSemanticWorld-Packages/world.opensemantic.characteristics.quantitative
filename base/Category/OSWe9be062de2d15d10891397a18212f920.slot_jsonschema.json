@@ -32,17 +32,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "MassUnit",
+                    "enum": [
+                        "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWda255533fa615a42b08ddb7aaa8236f0"
+                    ],
+                    "x-enum-varnames": [
+                        "kilo_gram"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWeb87bb7f153d5a95b371b23a00e1d84c]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWeb87bb7f153d5a95b371b23a00e1d84c]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "kg"
+                        ]
+                    },
+                    "default": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWda255533fa615a42b08ddb7aaa8236f0"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasMassValue"
         }
     },
     "allOf": [

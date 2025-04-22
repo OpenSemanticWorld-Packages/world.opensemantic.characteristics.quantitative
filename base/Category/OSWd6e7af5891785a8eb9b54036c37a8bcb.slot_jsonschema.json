@@ -29,17 +29,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "PowerAreaPerSolidAngleUnit",
+                    "enum": [
+                        "Item:OSW21cf512b048358628e8ce57f4cecb9cc"
+                    ],
+                    "x-enum-varnames": [
+                        "meter_squared_watt_per_steradian"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWe65e13aa7ee3563292c2d970eaab26dc]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWe65e13aa7ee3563292c2d970eaab26dc]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "W·m²/sr"
+                        ]
+                    },
+                    "default": "Item:OSW21cf512b048358628e8ce57f4cecb9cc"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasPowerAreaPerSolidAngleValue"
         }
     },
     "allOf": [

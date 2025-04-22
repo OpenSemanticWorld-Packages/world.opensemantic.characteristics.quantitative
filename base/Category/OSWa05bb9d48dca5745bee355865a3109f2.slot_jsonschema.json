@@ -31,17 +31,37 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "LinearVelocityUnit",
+                    "enum": [
+                        "Item:OSW78331234e1a15aeebd8b0caa71201939",
+                        "Item:OSW78331234e1a15aeebd8b0caa71201939#OSWd094e4cfd62c52248aad5ef87c19fb7d",
+                        "Item:OSW78331234e1a15aeebd8b0caa71201939#OSWfc9fca27ba5b543c8780521b4af39189",
+                        "Item:OSW78331234e1a15aeebd8b0caa71201939#OSW4937ac85021f506cb7ba3958f2216bd1",
+                        "Item:OSW78331234e1a15aeebd8b0caa71201939#OSW9f12ce12bc725cd59791265e2e480fd2"
+                    ],
+                    "x-enum-varnames": [
+                        "meter_per_second",
+                        "centi_meter_per_second",
+                        "micro_meter_per_second",
+                        "milli_meter_per_second",
+                        "kilo_meter_per_second"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW8d68a7ce907a573ca52b23cc731601a3]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW8d68a7ce907a573ca52b23cc731601a3]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "m/s",
+                            "cm/s",
+                            "μm/s",
+                            "mm/s",
+                            "km/s"
+                        ]
+                    },
+                    "default": "Item:OSW78331234e1a15aeebd8b0caa71201939"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasLinearVelocityValue"
         }
     },
     "allOf": [

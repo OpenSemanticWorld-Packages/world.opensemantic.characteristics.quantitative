@@ -19,5 +19,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW76e128c52ccb58ebb5af966997aff0df"
+    "quantity": "Item:OSW76e128c52ccb58ebb5af966997aff0df",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWea9499724b3152d5a6090f9ef5ce7f4a",
+            "name": "per_kilo_gram_squared",
+            "symbol": "1/kg²"
+        }
+    ],
+    "quantity_property": "Property:HasInverseSquareMassValue",
+    "default_unit": "Item:OSWea9499724b3152d5a6090f9ef5ce7f4a"
 }

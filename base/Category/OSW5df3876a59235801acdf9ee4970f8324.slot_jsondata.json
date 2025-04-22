@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW17b868192d695e9ba8199743858b7066"
+    "quantity": "Item:OSW17b868192d695e9ba8199743858b7066",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW832931cbeded5692a611f7752ee6cf4c",
+            "name": "milli_liter_per_centi_meter_squared_per_minute",
+            "symbol": "mL/(cm²·min)"
+        }
+    ],
+    "quantity_property": "Property:HasVolumetricFluxValue",
+    "default_unit": "Item:OSW832931cbeded5692a611f7752ee6cf4c"
 }

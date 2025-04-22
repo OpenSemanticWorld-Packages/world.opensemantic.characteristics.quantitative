@@ -29,19 +29,12 @@
                     "default": [
                         "Category:OSW4a37b652a9105d73a07fde7077482acb"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW034ada676025564e984a7eaf89e99f0c]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW034ada676025564e984a7eaf89e99f0c]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasMomentOfInertiaInTheZAxisValue"
         }
     },
     "allOf": [

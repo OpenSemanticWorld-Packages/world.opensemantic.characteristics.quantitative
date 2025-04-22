@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "ReluctanceUnit",
+                    "enum": [
+                        "Item:OSW8a3b2c786aeb55f7a8a6be1fe96329a1"
+                    ],
+                    "x-enum-varnames": [
+                        "per_henry"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW0c0cbde9b3c757439e73fb58a634b266]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW0c0cbde9b3c757439e73fb58a634b266]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "1/H"
+                        ]
+                    },
+                    "default": "Item:OSW8a3b2c786aeb55f7a8a6be1fe96329a1"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasReluctanceValue"
         }
     },
     "allOf": [

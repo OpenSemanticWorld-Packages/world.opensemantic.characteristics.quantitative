@@ -29,5 +29,24 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW96129c30b75c522ea812313324438d7b"
+    "quantity": "Item:OSW96129c30b75c522ea812313324438d7b",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWe4f01fe00389574e905718a14481ed36",
+            "name": "4",
+            "symbol": "m⁴"
+        },
+        {
+            "osw_id": "Item:OSWe4f01fe00389574e905718a14481ed36#OSW73b630d93619585bbc7f4a3a4a3be104",
+            "name": "4",
+            "symbol": "cm⁴"
+        },
+        {
+            "osw_id": "Item:OSWe4f01fe00389574e905718a14481ed36#OSW568d0d17db6551c1993de3d51c6051cc",
+            "name": "4",
+            "symbol": "mm⁴"
+        }
+    ],
+    "quantity_property": "Property:HasSecondMomentOfAreaValue",
+    "default_unit": "Item:OSWe4f01fe00389574e905718a14481ed36"
 }

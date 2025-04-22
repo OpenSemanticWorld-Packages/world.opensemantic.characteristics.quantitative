@@ -30,19 +30,12 @@
                     "default": [
                         "Category:OSW7cf1f3076962552cbe8028e61a15af53"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWb6bcfcd3d9bc59dba8ac8a7ab68fe078]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWb6bcfcd3d9bc59dba8ac8a7ab68fe078]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasHelmholtzEnergyValue"
         }
     },
     "allOf": [

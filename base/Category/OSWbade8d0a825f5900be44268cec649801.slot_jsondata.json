@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW6200b9dd22c8537caf511f55be65ede5"
+    "quantity": "Item:OSW6200b9dd22c8537caf511f55be65ede5",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW8998763d58065a069429e7e6fe3c153a",
+            "name": "volt_per_kelvin",
+            "symbol": "V/K"
+        }
+    ],
+    "quantity_property": "Property:HasSeebeckCoefficientValue",
+    "default_unit": "Item:OSW8998763d58065a069429e7e6fe3c153a"
 }

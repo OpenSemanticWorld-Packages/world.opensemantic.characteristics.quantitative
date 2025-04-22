@@ -29,19 +29,12 @@
                     "default": [
                         "Category:OSWb9fc44a868dd59369128bda6e511507d"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW0ecff962cc2a5c2f9719fd1b9d85bf4f]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW0ecff962cc2a5c2f9719fd1b9d85bf4f]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasRadiusOfCurvatureValue"
         }
     },
     "allOf": [

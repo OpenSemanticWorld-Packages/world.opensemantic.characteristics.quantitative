@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "uuid": "42786048-fcdf-5843-a54b-de7957c34c5e",
     "close_ontology_match": [
@@ -22,8 +22,5 @@
     "subclass_of": [
         "Category:OSWa35c06b30b7750c49dd53768ffd9e756"
     ],
-    "metaclass": [
-        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
-    ],
-    "quantity": "Item:OSW02a99b8c44505890a587073f7c7f1a9c"
+    "quantity_property": "Property:HasMagneticQuantumNumberValue"
 }

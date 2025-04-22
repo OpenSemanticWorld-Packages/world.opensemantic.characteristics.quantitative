@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "UnknownUnit",
+                    "enum": [
+                        "Item:OSWf619f81d86235c0c8ec35b106174a40b"
+                    ],
+                    "x-enum-varnames": [
+                        "Celsius_squared_per_second"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW2efbbc890c2c5b01af84c480c9285ee5]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW2efbbc890c2c5b01af84c480c9285ee5]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "°C²/s"
+                        ]
+                    },
+                    "default": "Item:OSWf619f81d86235c0c8ec35b106174a40b"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasUnknownValue"
         }
     },
     "allOf": [

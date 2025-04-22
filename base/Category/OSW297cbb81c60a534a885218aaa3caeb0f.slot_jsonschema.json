@@ -29,19 +29,12 @@
                     "default": [
                         "Category:OSW297cbb81c60a534a885218aaa3caeb0f"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW7a041f565fd05aa7800b4fa1cedb3d9a]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW7a041f565fd05aa7800b4fa1cedb3d9a]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasAverageEnergyLossPerElementaryChargeProducedValue"
         }
     },
     "allOf": [

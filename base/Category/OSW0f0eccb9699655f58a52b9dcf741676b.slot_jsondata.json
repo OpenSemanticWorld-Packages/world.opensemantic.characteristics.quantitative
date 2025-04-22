@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWa44d9a3db69d58a19382fcdb2e94203d"
+    "quantity": "Item:OSWa44d9a3db69d58a19382fcdb2e94203d",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW60bdefc5b50c502095c7e1f8f8a7d03e",
+            "name": "kilo_gram_per_meter_squared_per_pascal_per_second",
+            "symbol": "kg/(m²·Pa·s)"
+        }
+    ],
+    "quantity_property": "Property:HasVaporPermeabilityValue",
+    "default_unit": "Item:OSW60bdefc5b50c502095c7e1f8f8a7d03e"
 }

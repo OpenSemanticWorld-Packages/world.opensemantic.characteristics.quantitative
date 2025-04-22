@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "PhotonIntensityUnit",
+                    "enum": [
+                        "Item:OSWaf6c62c0856f5ac288ac862f5344f227"
+                    ],
+                    "x-enum-varnames": [
+                        "per_second_per_steradian"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW7160783573db5af5a75a905e79f714ac]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW7160783573db5af5a75a905e79f714ac]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "1/(s·sr)"
+                        ]
+                    },
+                    "default": "Item:OSWaf6c62c0856f5ac288ac862f5344f227"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasPhotonIntensityValue"
         }
     },
     "allOf": [

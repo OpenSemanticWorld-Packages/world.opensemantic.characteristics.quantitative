@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "uuid": "a2849571-97dc-5db1-a46e-9efca2d2a645",
     "close_ontology_match": [
@@ -22,8 +22,5 @@
     "subclass_of": [
         "Category:OSWda012dbe914456a09af4429dce5dcc49"
     ],
-    "metaclass": [
-        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
-    ],
-    "quantity": "Item:OSW7cf6b8911ab554418065da387018f36a"
+    "quantity_property": "Property:HasSpinQuantumNumberValue"
 }

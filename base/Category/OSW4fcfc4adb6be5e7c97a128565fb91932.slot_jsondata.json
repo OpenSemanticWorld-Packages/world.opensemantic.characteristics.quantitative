@@ -25,5 +25,24 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWc8104c1c17575929a33a439e29043394"
+    "quantity": "Item:OSWc8104c1c17575929a33a439e29043394",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW4ed5503a56ab514ab3d925287da52a95",
+            "name": "meter_cubed_per_second",
+            "symbol": "m³/s"
+        },
+        {
+            "osw_id": "Item:OSW4ed5503a56ab514ab3d925287da52a95#OSWacda1333cb6958069dc83172f3a047db",
+            "name": "centi_meter_cubed_per_second",
+            "symbol": "cm³/s"
+        },
+        {
+            "osw_id": "Item:OSW4ed5503a56ab514ab3d925287da52a95#OSW58c067fb208b5294899599809141c3ff",
+            "name": "deci_meter_cubed_per_second",
+            "symbol": "dm³/s"
+        }
+    ],
+    "quantity_property": "Property:HasSoundVolumeVelocityValue",
+    "default_unit": "Item:OSW4ed5503a56ab514ab3d925287da52a95"
 }

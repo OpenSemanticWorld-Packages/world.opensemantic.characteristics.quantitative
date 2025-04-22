@@ -31,17 +31,28 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "AngularMomentumUnit",
+                    "enum": [
+                        "Item:OSWf045a04750e15ea2b152fb3bfebf162a",
+                        "Item:OSWf045a04750e15ea2b152fb3bfebf162a#OSW3eaa66dd20f856fe9a5c4199bc0a1ea4"
+                    ],
+                    "x-enum-varnames": [
+                        "joule_second",
+                        "atto_joule_second"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW8537db117cdb5a9ab805eacef1361bb0]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW8537db117cdb5a9ab805eacef1361bb0]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "J·s",
+                            "aJ·s"
+                        ]
+                    },
+                    "default": "Item:OSWf045a04750e15ea2b152fb3bfebf162a"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasAngularMomentumValue"
         }
     },
     "allOf": [

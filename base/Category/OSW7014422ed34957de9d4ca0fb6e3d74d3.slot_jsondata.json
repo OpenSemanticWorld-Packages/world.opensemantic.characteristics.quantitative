@@ -1,0 +1,20 @@
+{
+    "type": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "uuid": "7014422e-d349-57de-9d4c-a0fb6e3d74d3",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/PressureRatio"
+    ],
+    "name": "PressureRatio",
+    "label": [
+        {
+            "text": "Pressure Ratio",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW67faac860ed758758aa4484387e5d5c9"
+    ],
+    "quantity_property": "Property:HasPressureRatioValue"
+}

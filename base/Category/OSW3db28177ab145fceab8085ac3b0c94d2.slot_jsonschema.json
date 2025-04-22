@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "ForcePerElectricChargeUnit",
+                    "enum": [
+                        "Item:OSW3ce8ee5544995c36be4ab4d2f34e037e"
+                    ],
+                    "x-enum-varnames": [
+                        "newton_per_coulomb"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWd7ce86f0e2ec5c938e20b325025c44ef]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWd7ce86f0e2ec5c938e20b325025c44ef]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "N/C"
+                        ]
+                    },
+                    "default": "Item:OSW3ce8ee5544995c36be4ab4d2f34e037e"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasForcePerElectricChargeValue"
         }
     },
     "allOf": [

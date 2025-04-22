@@ -29,17 +29,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "PressureInRelationToVolumeFlowRateUnit",
+                    "enum": [
+                        "Item:OSW975f79935c9f543caaec4538d778a2f5"
+                    ],
+                    "x-enum-varnames": [
+                        "pascal_second_per_meter_cubed"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW921d267d50635567889635bd32e150b9]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW921d267d50635567889635bd32e150b9]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "Pa·s/m³"
+                        ]
+                    },
+                    "default": "Item:OSW975f79935c9f543caaec4538d778a2f5"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasPressureInRelationToVolumeFlowRateValue"
         }
     },
     "allOf": [

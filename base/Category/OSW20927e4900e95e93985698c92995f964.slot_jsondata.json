@@ -26,5 +26,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW04312c9196a4543d9c827a28f37878d9"
+    "quantity": "Item:OSW04312c9196a4543d9c827a28f37878d9",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWe728730c00ea5cf9af66a550e51b9717",
+            "name": "kelvin",
+            "symbol": "K"
+        }
+    ],
+    "quantity_property": "Property:HasTemperatureValue",
+    "default_unit": "Item:OSWe728730c00ea5cf9af66a550e51b9717"
 }

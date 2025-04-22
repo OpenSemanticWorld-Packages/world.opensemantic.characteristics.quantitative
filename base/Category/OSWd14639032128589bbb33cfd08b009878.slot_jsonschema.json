@@ -29,17 +29,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "InverseSquareEnergyUnit",
+                    "enum": [
+                        "Item:OSW0dddefef8d455a10adeaafa69cd3afd7"
+                    ],
+                    "x-enum-varnames": [
+                        "per_joule_squared"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWedc5afb3b6a95a119d88fb1f4987153a]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWedc5afb3b6a95a119d88fb1f4987153a]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "1/J²"
+                        ]
+                    },
+                    "default": "Item:OSW0dddefef8d455a10adeaafa69cd3afd7"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasInverseSquareEnergyValue"
         }
     },
     "allOf": [

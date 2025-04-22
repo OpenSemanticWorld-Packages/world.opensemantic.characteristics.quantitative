@@ -31,17 +31,31 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "MolarFlowRateUnit",
+                    "enum": [
+                        "Item:OSW6b764c5799c45b62bb947ed93f8b99eb",
+                        "Item:OSW6b764c5799c45b62bb947ed93f8b99eb#OSW10e98cb9b70150158fc1544d9f094ad2",
+                        "Item:OSW6b764c5799c45b62bb947ed93f8b99eb#OSWb3ad32c2d89057e08a13a3562b52bd17"
+                    ],
+                    "x-enum-varnames": [
+                        "mole_per_second",
+                        "micro_mole_per_second",
+                        "kilo_mole_per_second"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWbfc9c624870b5ce2a1284f3eb2329fa8]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWbfc9c624870b5ce2a1284f3eb2329fa8]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "mol/s",
+                            "μmol/s",
+                            "kmol/s"
+                        ]
+                    },
+                    "default": "Item:OSW6b764c5799c45b62bb947ed93f8b99eb"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasMolarFlowRateValue"
         }
     },
     "allOf": [

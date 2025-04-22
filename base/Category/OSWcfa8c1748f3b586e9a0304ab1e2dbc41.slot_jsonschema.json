@@ -32,17 +32,31 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "PlaneAngleUnit",
+                    "enum": [
+                        "Item:OSW6b270053305955a89f37c50637fc7aeb",
+                        "Item:OSW6b270053305955a89f37c50637fc7aeb#OSW80a423e717c3546f8085fa732b37409e",
+                        "Item:OSW6b270053305955a89f37c50637fc7aeb#OSW8fb3bf64b8f751498553ead8995be20c"
+                    ],
+                    "x-enum-varnames": [
+                        "radian",
+                        "micro_radian",
+                        "milli_radian"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW1ce952564ed15efebbd43e22a2d917b7]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW1ce952564ed15efebbd43e22a2d917b7]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "rad",
+                            "µrad",
+                            "mrad"
+                        ]
+                    },
+                    "default": "Item:OSW6b270053305955a89f37c50637fc7aeb"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasPlaneAngleValue"
         }
     },
     "allOf": [

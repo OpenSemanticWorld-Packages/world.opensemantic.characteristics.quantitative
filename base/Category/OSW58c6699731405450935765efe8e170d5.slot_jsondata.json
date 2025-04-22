@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "uuid": "58c66997-3140-5450-9357-65efe8e170d5",
     "close_ontology_match": [
@@ -22,8 +22,5 @@
     "subclass_of": [
         "Category:OSW15c4097ed256572c97e7a1dbbfb154dd"
     ],
-    "metaclass": [
-        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
-    ],
-    "quantity": "Item:OSW8743bb5df9125e78bbf1dcc9fd1bea85"
+    "quantity_property": "Property:HasModulusOfRotationalSubgradeReactionValue"
 }

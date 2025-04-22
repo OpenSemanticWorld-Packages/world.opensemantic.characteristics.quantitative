@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW830ed291ed1e50928be41ad485b68392"
+    "quantity": "Item:OSW830ed291ed1e50928be41ad485b68392",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWf4a7837882ed5a0b9b128b2d067fc97b",
+            "name": "meter_squared_per_mole",
+            "symbol": "m²/mol"
+        }
+    ],
+    "quantity_property": "Property:HasMolarAbsorptionCoefficientValue",
+    "default_unit": "Item:OSWf4a7837882ed5a0b9b128b2d067fc97b"
 }

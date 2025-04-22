@@ -25,5 +25,24 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWbfc9c624870b5ce2a1284f3eb2329fa8"
+    "quantity": "Item:OSWbfc9c624870b5ce2a1284f3eb2329fa8",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW6b764c5799c45b62bb947ed93f8b99eb",
+            "name": "mole_per_second",
+            "symbol": "mol/s"
+        },
+        {
+            "osw_id": "Item:OSW6b764c5799c45b62bb947ed93f8b99eb#OSW10e98cb9b70150158fc1544d9f094ad2",
+            "name": "micro_mole_per_second",
+            "symbol": "μmol/s"
+        },
+        {
+            "osw_id": "Item:OSW6b764c5799c45b62bb947ed93f8b99eb#OSWb3ad32c2d89057e08a13a3562b52bd17",
+            "name": "kilo_mole_per_second",
+            "symbol": "kmol/s"
+        }
+    ],
+    "quantity_property": "Property:HasMolarFlowRateValue",
+    "default_unit": "Item:OSW6b764c5799c45b62bb947ed93f8b99eb"
 }

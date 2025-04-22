@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW22d566eb45a3573c9d403ba851349552"
+    "quantity": "Item:OSW22d566eb45a3573c9d403ba851349552",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW825f941d934e5a73866e39b6c42c99f0",
+            "name": "meter_ohm",
+            "symbol": "Ω·m"
+        }
+    ],
+    "quantity_property": "Property:HasResistivityValue",
+    "default_unit": "Item:OSW825f941d934e5a73866e39b6c42c99f0"
 }

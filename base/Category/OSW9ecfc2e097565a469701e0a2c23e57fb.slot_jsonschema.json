@@ -29,17 +29,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "MomentumPerAngleUnit",
+                    "enum": [
+                        "Item:OSW7f98af11c42058aeb941076309b78dea"
+                    ],
+                    "x-enum-varnames": [
+                        "newton_second_per_radian"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWe6412907ab75573ebfb6aa4b95ca0b4d]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWe6412907ab75573ebfb6aa4b95ca0b4d]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "N·s/rad"
+                        ]
+                    },
+                    "default": "Item:OSW7f98af11c42058aeb941076309b78dea"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasMomentumPerAngleValue"
         }
     },
     "allOf": [

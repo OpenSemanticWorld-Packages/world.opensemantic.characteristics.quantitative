@@ -27,19 +27,12 @@
                     "default": [
                         "Category:OSWc11d565a6b4950c9be08c3ba7b9a106c"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW17b868192d695e9ba8199743858b7066]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW17b868192d695e9ba8199743858b7066]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasFissionFuelUtilizationFactorValue"
         }
     },
     "allOf": [

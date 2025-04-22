@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "VentilationRatePerFloorAreaUnit",
+                    "enum": [
+                        "Item:OSW3248fcac4b1b514b81d2b9f7bf05e180"
+                    ],
+                    "x-enum-varnames": [
+                        "liter_per_meter_squared_per_second"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW370f71fadf8358daae35fcadb110fb8c]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW370f71fadf8358daae35fcadb110fb8c]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "L/(s·m²)"
+                        ]
+                    },
+                    "default": "Item:OSW3248fcac4b1b514b81d2b9f7bf05e180"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasVentilationRatePerFloorAreaValue"
         }
     },
     "allOf": [

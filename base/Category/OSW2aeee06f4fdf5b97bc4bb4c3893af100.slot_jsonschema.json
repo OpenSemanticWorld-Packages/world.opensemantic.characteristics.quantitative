@@ -31,17 +31,28 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "SpecificModulusUnit",
+                    "enum": [
+                        "Item:OSWf6d6f2af61295484ab10221fe5922f97",
+                        "Item:OSWf6d6f2af61295484ab10221fe5922f97#OSWf19ea831be1053a9b70d6403acc15022"
+                    ],
+                    "x-enum-varnames": [
+                        "meter_squared_per_second_squared",
+                        "kilo_meter_squared_per_second_squared"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWa08a211c2ca352aca73575928929e4ce]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWa08a211c2ca352aca73575928929e4ce]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "m²/s²",
+                            "km²/s²"
+                        ]
+                    },
+                    "default": "Item:OSWf6d6f2af61295484ab10221fe5922f97"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasSpecificModulusValue"
         }
     },
     "allOf": [

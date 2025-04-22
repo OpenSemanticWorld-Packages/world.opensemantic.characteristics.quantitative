@@ -3,6 +3,7 @@
     {{#if quantity}}"properties": {
         "unit": {
             {{#if unit_enumeration}}
+            "title": "{{{name}}}Unit",
             "enum": [
                 {{#each unit_enumeration}}"{{{osw_id}}}"{{#unless @last}},{{/unless}}{{/each}}
             ],
@@ -22,6 +23,7 @@
                 }
             }
             {{/if}}
+            {{#if default_unit}}, "default": "{{{default_unit}}}"{{/if}}
         }
     }{{/if}}
 }

@@ -29,19 +29,12 @@
                     "default": [
                         "Category:OSW9b95f9461de55e07a43302bc23eebc9b"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWcd502afb47b55a6ab34b88b3bcdc7bd3]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWcd502afb47b55a6ab34b88b3bcdc7bd3]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasFlightPerformanceReservePropellantMassValue"
         }
     },
     "allOf": [

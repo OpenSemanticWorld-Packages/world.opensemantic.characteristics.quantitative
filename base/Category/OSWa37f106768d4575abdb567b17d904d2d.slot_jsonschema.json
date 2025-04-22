@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "DensityOfStatesUnit",
+                    "enum": [
+                        "Item:OSW8d374d57d51f52fd9f4fae71895deb07"
+                    ],
+                    "x-enum-varnames": [
+                        "second_per_meter_cubed_per_radian"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWfcde44a5410958f0a65e1e00452b2cfa]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWfcde44a5410958f0a65e1e00452b2cfa]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "s/(rad·m³)"
+                        ]
+                    },
+                    "default": "Item:OSW8d374d57d51f52fd9f4fae71895deb07"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasDensityOfStatesValue"
         }
     },
     "allOf": [

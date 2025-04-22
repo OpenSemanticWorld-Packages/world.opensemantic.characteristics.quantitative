@@ -25,5 +25,19 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW1020ae787b5a576e9340e3a84eafa460"
+    "quantity": "Item:OSW1020ae787b5a576e9340e3a84eafa460",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWb9f55dd232415132bdf9e63794052746",
+            "name": "meter_cubed_per_kelvin",
+            "symbol": "m³/K"
+        },
+        {
+            "osw_id": "Item:OSWb9f55dd232415132bdf9e63794052746#OSW554b5cf2e310542f848f9522a4f34f70",
+            "name": "centi_meter_cubed_per_kelvin",
+            "symbol": "cm³/K"
+        }
+    ],
+    "quantity_property": "Property:HasVolumeThermalExpansionValue",
+    "default_unit": "Item:OSWb9f55dd232415132bdf9e63794052746"
 }

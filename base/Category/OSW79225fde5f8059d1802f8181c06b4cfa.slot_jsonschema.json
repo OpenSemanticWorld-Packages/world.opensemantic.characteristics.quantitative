@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "LuminousFluxPerAreaUnit",
+                    "enum": [
+                        "Item:OSWca14d08a41b65ac59d79d96be1351305"
+                    ],
+                    "x-enum-varnames": [
+                        "lux"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWad7d5de805ba533aaeb5fc3f2999cfbd]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWad7d5de805ba533aaeb5fc3f2999cfbd]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "lx"
+                        ]
+                    },
+                    "default": "Item:OSWca14d08a41b65ac59d79d96be1351305"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasLuminousFluxPerAreaValue"
         }
     },
     "allOf": [

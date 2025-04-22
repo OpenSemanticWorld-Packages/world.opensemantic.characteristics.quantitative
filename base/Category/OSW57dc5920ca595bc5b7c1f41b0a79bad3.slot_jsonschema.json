@@ -32,17 +32,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "MolarMassUnit",
+                    "enum": [
+                        "Item:OSW968a3fd57529500f9eb03f4efc083e36#OSW31a2c5ae09d1578a843267fef44c2cdb"
+                    ],
+                    "x-enum-varnames": [
+                        "kilo_gram_per_mole"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWcc08996747a75ab6b07325b54d7a075b]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWcc08996747a75ab6b07325b54d7a075b]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "kg/mol"
+                        ]
+                    },
+                    "default": "Item:OSW968a3fd57529500f9eb03f4efc083e36#OSW31a2c5ae09d1578a843267fef44c2cdb"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasMolarMassValue"
         }
     },
     "allOf": [

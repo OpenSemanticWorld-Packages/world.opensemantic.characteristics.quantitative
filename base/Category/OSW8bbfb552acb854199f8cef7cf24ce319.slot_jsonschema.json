@@ -31,17 +31,31 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "SecondPolarMomentOfAreaUnit",
+                    "enum": [
+                        "Item:OSWe4f01fe00389574e905718a14481ed36",
+                        "Item:OSWe4f01fe00389574e905718a14481ed36#OSW73b630d93619585bbc7f4a3a4a3be104",
+                        "Item:OSWe4f01fe00389574e905718a14481ed36#OSW568d0d17db6551c1993de3d51c6051cc"
+                    ],
+                    "x-enum-varnames": [
+                        "4",
+                        "4",
+                        "4"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW8644d73173175c63b64c487247a7aa01]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW8644d73173175c63b64c487247a7aa01]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "m⁴",
+                            "cm⁴",
+                            "mm⁴"
+                        ]
+                    },
+                    "default": "Item:OSWe4f01fe00389574e905718a14481ed36"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasSecondPolarMomentOfAreaValue"
         }
     },
     "allOf": [

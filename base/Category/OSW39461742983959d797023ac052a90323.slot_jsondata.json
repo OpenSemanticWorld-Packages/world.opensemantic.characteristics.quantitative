@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW3c3bd7a19c5654edbeca03c1d622b078"
+    "quantity": "Item:OSW3c3bd7a19c5654edbeca03c1d622b078",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW20ac6724f1a05ee884222d546955e78f",
+            "name": "byte",
+            "symbol": "B"
+        }
+    ],
+    "quantity_property": "Property:HasSoundReductionIndexValue",
+    "default_unit": "Item:OSW20ac6724f1a05ee884222d546955e78f"
 }

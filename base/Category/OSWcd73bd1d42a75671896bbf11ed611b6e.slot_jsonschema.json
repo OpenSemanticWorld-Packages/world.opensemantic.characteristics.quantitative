@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "EnergyDensityOfStatesUnit",
+                    "enum": [
+                        "Item:OSW397d9707b473555a8b294558cbc5d2a1"
+                    ],
+                    "x-enum-varnames": [
+                        "per_joule_per_meter_cubed"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW4d8d1ce29dc75b5ab24d22c06630cd83]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW4d8d1ce29dc75b5ab24d22c06630cd83]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "1/(J·m³)"
+                        ]
+                    },
+                    "default": "Item:OSW397d9707b473555a8b294558cbc5d2a1"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasEnergyDensityOfStatesValue"
         }
     },
     "allOf": [

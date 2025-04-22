@@ -31,17 +31,28 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "StandardGravitationalParameterUnit",
+                    "enum": [
+                        "Item:OSW70d2cca5a9c75bec807d755997acbf8c",
+                        "Item:OSW70d2cca5a9c75bec807d755997acbf8c#OSW111bef40f18158099e03d15fcd4af1fe"
+                    ],
+                    "x-enum-varnames": [
+                        "meter_cubed_per_second_squared",
+                        "kilo_meter_cubed_per_second_squared"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW7a041f565fd05aa7800b4fa1cedb3d9a]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW7a041f565fd05aa7800b4fa1cedb3d9a]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "m³/s²",
+                            "km³/s²"
+                        ]
+                    },
+                    "default": "Item:OSW70d2cca5a9c75bec807d755997acbf8c"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasStandardGravitationalParameterValue"
         }
     },
     "allOf": [

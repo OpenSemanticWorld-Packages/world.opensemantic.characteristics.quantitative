@@ -32,17 +32,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "IsothermalCompressibilityUnit",
+                    "enum": [
+                        "Item:OSWf030abd4441d52a7a8c5f84950985ea4"
+                    ],
+                    "x-enum-varnames": [
+                        "per_pascal"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWfca45761797a57cfa85f70f437833702]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWfca45761797a57cfa85f70f437833702]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "1/Pa"
+                        ]
+                    },
+                    "default": "Item:OSWf030abd4441d52a7a8c5f84950985ea4"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasIsothermalCompressibilityValue"
         }
     },
     "allOf": [

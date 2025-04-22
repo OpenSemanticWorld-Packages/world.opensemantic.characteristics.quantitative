@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "MassPerElectricChargeUnit",
+                    "enum": [
+                        "Item:OSW5935489883d15f2fb2ef853f57c66f49"
+                    ],
+                    "x-enum-varnames": [
+                        "second_tesla"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWbc562f0562d955df950317bc2cbbace4]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWbc562f0562d955df950317bc2cbbace4]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "T·s"
+                        ]
+                    },
+                    "default": "Item:OSW5935489883d15f2fb2ef853f57c66f49"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasMassPerElectricChargeValue"
         }
     },
     "allOf": [

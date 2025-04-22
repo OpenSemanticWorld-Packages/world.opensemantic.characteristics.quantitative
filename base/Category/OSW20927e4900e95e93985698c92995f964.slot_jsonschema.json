@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "TemperatureUnit",
+                    "enum": [
+                        "Item:OSWe728730c00ea5cf9af66a550e51b9717"
+                    ],
+                    "x-enum-varnames": [
+                        "kelvin"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW04312c9196a4543d9c827a28f37878d9]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW04312c9196a4543d9c827a28f37878d9]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "K"
+                        ]
+                    },
+                    "default": "Item:OSWe728730c00ea5cf9af66a550e51b9717"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasTemperatureValue"
         }
     },
     "allOf": [

@@ -29,5 +29,59 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWf9abc3f86f5552c8abfc1274e4b73113"
+    "quantity": "Item:OSWf9abc3f86f5552c8abfc1274e4b73113",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW754b1a3564725113ac583f91ae2ea959",
+            "name": "gram_per_liter",
+            "symbol": "g/L"
+        },
+        {
+            "osw_id": "Item:OSW754b1a3564725113ac583f91ae2ea959#OSWca4043a385f25aa3a98122f2aefd0d2e",
+            "name": "milli_gram_per_liter",
+            "symbol": "mg/L"
+        },
+        {
+            "osw_id": "Item:OSW754b1a3564725113ac583f91ae2ea959#OSW457d0485a44c57cda788a583bf9ab4ff",
+            "name": "micro_gram_per_liter",
+            "symbol": "μg/L"
+        },
+        {
+            "osw_id": "Item:OSW754b1a3564725113ac583f91ae2ea959#OSWe905ceb23b3b550489bed5baa6c9b466",
+            "name": "gram_per_milli_liter",
+            "symbol": "g/mL"
+        },
+        {
+            "osw_id": "Item:OSW754b1a3564725113ac583f91ae2ea959#OSW40c933269ec45fc1aeef04aefce2b374",
+            "name": "kilo_gram_per_liter",
+            "symbol": "kg/L"
+        },
+        {
+            "osw_id": "Item:OSW754b1a3564725113ac583f91ae2ea959#OSW84ec459d4d135bf28a610cd00061d18c",
+            "name": "pico_gram_per_liter",
+            "symbol": "pg/L"
+        },
+        {
+            "osw_id": "Item:OSW754b1a3564725113ac583f91ae2ea959#OSW99bbcff947e1508bad38d748ad6ff8e2",
+            "name": "milli_gram_per_milli_liter",
+            "symbol": "mg/mL"
+        },
+        {
+            "osw_id": "Item:OSW754b1a3564725113ac583f91ae2ea959#OSW1a48aea5dca45c34bbde02b0df02f6f8",
+            "name": "gram_per_deci_liter",
+            "symbol": "g/dL"
+        },
+        {
+            "osw_id": "Item:OSW754b1a3564725113ac583f91ae2ea959#OSW449dc7494f3f5c0bbd9aff1d1fd2f591",
+            "name": "femto_gram_per_liter",
+            "symbol": "fg/L"
+        },
+        {
+            "osw_id": "Item:OSW754b1a3564725113ac583f91ae2ea959#OSW42fdef27c8ae5c8fbf1876c400f27101",
+            "name": "nano_gram_per_liter",
+            "symbol": "ng/L"
+        }
+    ],
+    "quantity_property": "Property:HasMassDensityValue",
+    "default_unit": "Item:OSW754b1a3564725113ac583f91ae2ea959"
 }

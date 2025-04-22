@@ -27,5 +27,34 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW4db0854eff4d5d379573a3a0120baa5a"
+    "quantity": "Item:OSW4db0854eff4d5d379573a3a0120baa5a",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWe279fe2c49705948a6f2fff270d50be1",
+            "name": "farad_per_meter",
+            "symbol": "F/m"
+        },
+        {
+            "osw_id": "Item:OSWe279fe2c49705948a6f2fff270d50be1#OSWa8178412351155eea5ff7170de8040be",
+            "name": "nano_farad_per_meter",
+            "symbol": "nF/m"
+        },
+        {
+            "osw_id": "Item:OSWe279fe2c49705948a6f2fff270d50be1#OSW635f4b8020b655738a877cb7e87831be",
+            "name": "pico_farad_per_meter",
+            "symbol": "pF/m"
+        },
+        {
+            "osw_id": "Item:OSWe279fe2c49705948a6f2fff270d50be1#OSW47e4ca2649285de5b1dbd98338fac916",
+            "name": "farad_per_kilo_meter",
+            "symbol": "F/km"
+        },
+        {
+            "osw_id": "Item:OSWe279fe2c49705948a6f2fff270d50be1#OSWc45e1c5e49095d4d805ea836290790b7",
+            "name": "micro_farad_per_meter",
+            "symbol": "μF/m"
+        }
+    ],
+    "quantity_property": "Property:HasPermittivityValue",
+    "default_unit": "Item:OSWe279fe2c49705948a6f2fff270d50be1"
 }

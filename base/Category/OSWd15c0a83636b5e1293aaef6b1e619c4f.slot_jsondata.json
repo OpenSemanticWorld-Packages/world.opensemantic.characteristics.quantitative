@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW34aa0a96d0c154fc88695682f4891bdd"
+    "quantity": "Item:OSW34aa0a96d0c154fc88695682f4891bdd",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWdf7665f78da1599c98a13586cec6d866",
+            "name": "micro_meter_per_newton",
+            "symbol": "μm/N"
+        }
+    ],
+    "quantity_property": "Property:HasLinearCompressibilityValue",
+    "default_unit": "Item:OSWdf7665f78da1599c98a13586cec6d866"
 }

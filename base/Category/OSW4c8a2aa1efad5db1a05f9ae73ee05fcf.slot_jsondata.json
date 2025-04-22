@@ -25,5 +25,54 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW3ea3e587b71d57c19fe226715a96ac2a"
+    "quantity": "Item:OSW3ea3e587b71d57c19fe226715a96ac2a",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d",
+            "name": "siemens_per_meter",
+            "symbol": "S/m"
+        },
+        {
+            "osw_id": "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d#OSWc9f2986f0974565b904f1d0d756d5318",
+            "name": "pico_siemens_per_meter",
+            "symbol": "pS/m"
+        },
+        {
+            "osw_id": "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d#OSWd609b57361b3560d8614f22a0031921f",
+            "name": "milli_siemens_per_meter",
+            "symbol": "mS/m"
+        },
+        {
+            "osw_id": "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d#OSW6cc3591d052d589cb271f6710f816486",
+            "name": "nano_siemens_per_meter",
+            "symbol": "nS/m"
+        },
+        {
+            "osw_id": "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d#OSW27b6c423e529517ba2d3f466d2c822b4",
+            "name": "mega_siemens_per_meter",
+            "symbol": "MS/m"
+        },
+        {
+            "osw_id": "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d#OSWa26d6194b3be5f54a4665a01e3df9426",
+            "name": "micro_siemens_per_meter",
+            "symbol": "μS/m"
+        },
+        {
+            "osw_id": "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d#OSW88703a966490546d89632c3336e28b2a",
+            "name": "siemens_per_centi_meter",
+            "symbol": "S/cm"
+        },
+        {
+            "osw_id": "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d#OSWe2d30b3b09325ef7819f6d51071e147e",
+            "name": "kilo_siemens_per_meter",
+            "symbol": "kS/m"
+        },
+        {
+            "osw_id": "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d#OSW7b2e1f125aa350409a4f5d467534727a",
+            "name": "deci_siemens_per_meter",
+            "symbol": "dS/m"
+        }
+    ],
+    "quantity_property": "Property:HasElectrolyticConductivityValue",
+    "default_unit": "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d"
 }

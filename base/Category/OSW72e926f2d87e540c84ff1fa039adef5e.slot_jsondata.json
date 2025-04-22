@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW0636ab590d375db49b8e3838b2edee7a"
+    "quantity": "Item:OSW0636ab590d375db49b8e3838b2edee7a",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW804e40f82f4955ab8f1bd0c1e9e77d28",
+            "name": "per_meter_cubed_per_second",
+            "symbol": "1/(m³·s)"
+        }
+    ],
+    "quantity_property": "Property:HasSlowingDownDensityValue",
+    "default_unit": "Item:OSW804e40f82f4955ab8f1bd0c1e9e77d28"
 }

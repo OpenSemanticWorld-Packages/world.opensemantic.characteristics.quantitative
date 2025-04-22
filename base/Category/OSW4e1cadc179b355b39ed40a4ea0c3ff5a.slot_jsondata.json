@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW81ac320cfad45356a75d9a1affe371ba"
+    "quantity": "Item:OSW81ac320cfad45356a75d9a1affe371ba",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW67a27e9bd9685e61a525f06b3e25b81f",
+            "name": "meter_squared_per_joule_per_steradian",
+            "symbol": "m²/(sr·J)"
+        }
+    ],
+    "quantity_property": "Property:HasSpectralAngularCrossSectionValue",
+    "default_unit": "Item:OSW67a27e9bd9685e61a525f06b3e25b81f"
 }

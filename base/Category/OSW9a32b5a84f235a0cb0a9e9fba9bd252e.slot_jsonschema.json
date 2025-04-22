@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "SpecificEnergyUnit",
+                    "enum": [
+                        "Item:OSW0fb024653eb9557482d93f027840ee33#OSW27784b13f8b75b47875a87f13de1cde9"
+                    ],
+                    "x-enum-varnames": [
+                        "milli_joule_per_gram"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW2cfe41cc5e625e029378332ec29f10cd]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW2cfe41cc5e625e029378332ec29f10cd]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "mJ/g"
+                        ]
+                    },
+                    "default": "Item:OSW0fb024653eb9557482d93f027840ee33#OSW27784b13f8b75b47875a87f13de1cde9"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasSpecificEnergyValue"
         }
     },
     "allOf": [

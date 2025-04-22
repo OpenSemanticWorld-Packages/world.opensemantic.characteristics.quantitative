@@ -27,19 +27,12 @@
                     "default": [
                         "Category:OSWfdce4febeb155bd290622a7a78f0fbba"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWa8b1401e15fd5c4eb04ef124e77e5663]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWa8b1401e15fd5c4eb04ef124e77e5663]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasMoistureDiffusivityValue"
         }
     },
     "allOf": [

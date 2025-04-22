@@ -31,17 +31,28 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "SpecificWeightUnit",
+                    "enum": [
+                        "Item:OSWf3f9733d84285a338b5b7306145c9b6d",
+                        "Item:OSWf3f9733d84285a338b5b7306145c9b6d#OSWfe42a11de5995fa380fbde579c89484c"
+                    ],
+                    "x-enum-varnames": [
+                        "newton_per_meter_cubed",
+                        "kilo_newton_per_meter_cubed"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW2998f1a303d15849935bb54ea9714eaa]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW2998f1a303d15849935bb54ea9714eaa]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "N/m³",
+                            "kN/m³"
+                        ]
+                    },
+                    "default": "Item:OSWf3f9733d84285a338b5b7306145c9b6d"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasSpecificWeightValue"
         }
     },
     "allOf": [

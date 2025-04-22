@@ -31,17 +31,28 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "PowerPerElectricChargeUnit",
+                    "enum": [
+                        "Item:OSW7d0144647c655cbeac604178c20df9c8",
+                        "Item:OSW7d0144647c655cbeac604178c20df9c8#OSWa89d207ffc6f502a9f742482fb84c1ad"
+                    ],
+                    "x-enum-varnames": [
+                        "volt_per_second",
+                        "volt_per_micro_second"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWb92ae8a4e8d05cacbf1255b69282db17]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWb92ae8a4e8d05cacbf1255b69282db17]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "V/s",
+                            "V/µs"
+                        ]
+                    },
+                    "default": "Item:OSW7d0144647c655cbeac604178c20df9c8"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasPowerPerElectricChargeValue"
         }
     },
     "allOf": [

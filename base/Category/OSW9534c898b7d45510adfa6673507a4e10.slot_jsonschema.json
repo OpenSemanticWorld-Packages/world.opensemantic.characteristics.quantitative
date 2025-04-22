@@ -32,17 +32,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "AngularFrequencyUnit",
+                    "enum": [
+                        "Item:OSWb0010d0f4c7a52e18edbfdc34e4c0653"
+                    ],
+                    "x-enum-varnames": [
+                        "radian_per_second"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW37e3cadf092a5b5f937fee1a6fadf7c2]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW37e3cadf092a5b5f937fee1a6fadf7c2]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "rad/s"
+                        ]
+                    },
+                    "default": "Item:OSWb0010d0f4c7a52e18edbfdc34e4c0653"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasAngularFrequencyValue"
         }
     },
     "allOf": [

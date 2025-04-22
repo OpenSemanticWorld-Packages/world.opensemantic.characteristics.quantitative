@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "uuid": "fde09f3b-6e9b-5c2f-947f-1e1bdb12f20e",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/DryBulbTemperature"
+    ],
+    "name": "DryBulbTemperature",
+    "label": [
+        {
+            "text": "Dry Bulb Temperature",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The temperature of air measured by a thermometer freely exposed to the air, but shielded from radiation.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW20927e4900e95e93985698c92995f964"
+    ],
+    "quantity_property": "Property:HasDryBulbTemperatureValue"
+}

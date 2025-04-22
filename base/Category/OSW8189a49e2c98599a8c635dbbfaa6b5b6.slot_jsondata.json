@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW301aa78a4ba15175a228e3099288b485"
+    "quantity": "Item:OSW301aa78a4ba15175a228e3099288b485",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW50e9172c55045cb3b1460b1345303ed2",
+            "name": "pico_henry",
+            "symbol": "pH"
+        }
+    ],
+    "quantity_property": "Property:HasBasicityValue",
+    "default_unit": "Item:OSW50e9172c55045cb3b1460b1345303ed2"
 }

@@ -29,19 +29,12 @@
                     "default": [
                         "Category:OSW2a1c80f8e8fb5867b9e138bbaf83d105"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWd01359716f075c358cd1c8d5b97ed29c]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWd01359716f075c358cd1c8d5b97ed29c]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasConductionSpeedValue"
         }
     },
     "allOf": [

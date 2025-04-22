@@ -31,17 +31,28 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "IonConcentrationUnit",
+                    "enum": [
+                        "Item:OSWb175d26e736c5603bcaa1060f2afddff",
+                        "Item:OSWb175d26e736c5603bcaa1060f2afddff#OSW77b2c8bd92a057b1ade0ce1687eb7520"
+                    ],
+                    "x-enum-varnames": [
+                        "candela_per_lumen",
+                        "candela_per_kilo_lumen"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWa70daa686e9b58529a898046850470f4]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWa70daa686e9b58529a898046850470f4]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "cd/lm",
+                            "cd/klm"
+                        ]
+                    },
+                    "default": "Item:OSWb175d26e736c5603bcaa1060f2afddff"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasIonConcentrationValue"
         }
     },
     "allOf": [

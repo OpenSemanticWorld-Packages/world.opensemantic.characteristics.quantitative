@@ -29,17 +29,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "InverseSquareMassUnit",
+                    "enum": [
+                        "Item:OSWea9499724b3152d5a6090f9ef5ce7f4a"
+                    ],
+                    "x-enum-varnames": [
+                        "per_kilo_gram_squared"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW76e128c52ccb58ebb5af966997aff0df]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW76e128c52ccb58ebb5af966997aff0df]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "1/kg²"
+                        ]
+                    },
+                    "default": "Item:OSWea9499724b3152d5a6090f9ef5ce7f4a"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasInverseSquareMassValue"
         }
     },
     "allOf": [

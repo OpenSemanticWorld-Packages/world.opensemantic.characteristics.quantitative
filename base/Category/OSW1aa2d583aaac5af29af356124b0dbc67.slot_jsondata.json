@@ -25,5 +25,49 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW1615328c2bba51259c4b2bf0f311f3ba"
+    "quantity": "Item:OSW1615328c2bba51259c4b2bf0f311f3ba",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWb663e6bff3595e7b93b28fffce66c50c",
+            "name": "pascal",
+            "symbol": "Pa"
+        },
+        {
+            "osw_id": "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW49bb4743a5735e189777f3c6bd422a52",
+            "name": "giga_pascal",
+            "symbol": "GPa"
+        },
+        {
+            "osw_id": "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW8d40059d9e3951bb97378fe3f119ba21",
+            "name": "deca_pascal",
+            "symbol": "daPa"
+        },
+        {
+            "osw_id": "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW38b0e12539b05ce28cd126c8eea29f95",
+            "name": "milli_pascal",
+            "symbol": "mPa"
+        },
+        {
+            "osw_id": "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW0ec5bf8132b25e58b7032766bd9b3225",
+            "name": "mega_pascal",
+            "symbol": "MPa"
+        },
+        {
+            "osw_id": "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW264ebdc21f54568593a91bbd832b6fbf",
+            "name": "kilo_pascal",
+            "symbol": "kPa"
+        },
+        {
+            "osw_id": "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW482939f123595314beca39ad32d65a15",
+            "name": "hecto_pascal",
+            "symbol": "hPa"
+        },
+        {
+            "osw_id": "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW5def4be309ce50ee933c99cf4b74e310",
+            "name": "micro_pascal",
+            "symbol": "μPa"
+        }
+    ],
+    "quantity_property": "Property:HasShearModulusValue",
+    "default_unit": "Item:OSWb663e6bff3595e7b93b28fffce66c50c"
 }

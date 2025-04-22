@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "uuid": "e8d1194a-eb2e-5b9f-8778-67eab5c9cae9",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Incidence"
+    ],
+    "name": "Incidence",
+    "label": [
+        {
+            "text": "Incidence",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In epidemiology, incidence is a measure of the probability of occurrence of a given medical condition in a population within a specified period of time.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWc543ebb853385a1a9382f57faad6170d"
+    ],
+    "quantity_property": "Property:HasIncidenceValue"
+}

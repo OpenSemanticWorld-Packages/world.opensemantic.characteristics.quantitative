@@ -29,19 +29,12 @@
                     "default": [
                         "Category:OSW0299be3f8ccc586fb2975ad954b2e3bd"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW8be3750c828c5654b14ede221fb92f55]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW8be3750c828c5654b14ede221fb92f55]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasResonanceEnergyValue"
         }
     },
     "allOf": [

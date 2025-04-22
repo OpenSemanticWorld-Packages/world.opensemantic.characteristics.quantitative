@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWd5027d2f50f25fabba0134284da2a328"
+    "quantity": "Item:OSWd5027d2f50f25fabba0134284da2a328",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW4cbc32faa6945fea85c32ee675aff008",
+            "name": "gray_per_second",
+            "symbol": "Gy/s"
+        }
+    ],
+    "quantity_property": "Property:HasSpecificPowerValue",
+    "default_unit": "Item:OSW4cbc32faa6945fea85c32ee675aff008"
 }

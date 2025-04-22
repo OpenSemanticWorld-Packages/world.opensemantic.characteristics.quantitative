@@ -19,5 +19,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW46dae0da5ca851cd9d10ec3ae0da828a"
+    "quantity": "Item:OSW46dae0da5ca851cd9d10ec3ae0da828a",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW7897b70c933d560b918444de17703f23",
+            "name": "meter_per_farad",
+            "symbol": "m/F"
+        }
+    ],
+    "quantity_property": "Property:HasInversePermittivityValue",
+    "default_unit": "Item:OSW7897b70c933d560b918444de17703f23"
 }

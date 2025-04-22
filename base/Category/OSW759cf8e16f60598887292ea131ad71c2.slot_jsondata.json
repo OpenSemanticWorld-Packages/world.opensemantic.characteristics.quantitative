@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWf9b0487b99de586db32dccdf4f0006d6"
+    "quantity": "Item:OSWf9b0487b99de586db32dccdf4f0006d6",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW7c9817a1145157e8b2803464c641e6cf",
+            "name": "coulomb_per_kilo_gram_per_second",
+            "symbol": "C/(kg·s)"
+        }
+    ],
+    "quantity_property": "Property:HasExposureRateValue",
+    "default_unit": "Item:OSW7c9817a1145157e8b2803464c641e6cf"
 }

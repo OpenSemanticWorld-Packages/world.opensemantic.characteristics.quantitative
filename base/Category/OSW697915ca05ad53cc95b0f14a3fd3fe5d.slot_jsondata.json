@@ -25,5 +25,19 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWc0cfa243b463511db3421ebcb7d1292b"
+    "quantity": "Item:OSWc0cfa243b463511db3421ebcb7d1292b",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW7e66beeef6b05637a554d3506d689000",
+            "name": "joule_per_mole",
+            "symbol": "J/mol"
+        },
+        {
+            "osw_id": "Item:OSW7e66beeef6b05637a554d3506d689000#OSW23b10a54326955adb1862933713551f9",
+            "name": "kilo_joule_per_mole",
+            "symbol": "kJ/mol"
+        }
+    ],
+    "quantity_property": "Property:HasChemicalAffinityValue",
+    "default_unit": "Item:OSW7e66beeef6b05637a554d3506d689000"
 }

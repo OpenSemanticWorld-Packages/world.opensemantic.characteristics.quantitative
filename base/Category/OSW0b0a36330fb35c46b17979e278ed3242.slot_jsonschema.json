@@ -30,19 +30,12 @@
                     "default": [
                         "Category:OSW0b0a36330fb35c46b17979e278ed3242"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWc7a27a8849a6527497c6ce4611bccce4]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWc7a27a8849a6527497c6ce4611bccce4]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasCurieTemperatureValue"
         }
     },
     "allOf": [

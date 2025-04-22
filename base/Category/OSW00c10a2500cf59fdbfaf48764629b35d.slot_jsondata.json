@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "uuid": "00c10a25-00cf-59fd-bfaf-48764629b35d",
     "close_ontology_match": [
@@ -22,8 +22,5 @@
     "subclass_of": [
         "Category:OSW2339256af71e5635a541ac7f5a437141"
     ],
-    "metaclass": [
-        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
-    ],
-    "quantity": "Item:OSW976e5a4efdb25e289d0231bf5d80a631"
+    "quantity_property": "Property:HasFlightPathAngleValue"
 }

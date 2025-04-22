@@ -27,19 +27,12 @@
                     "default": [
                         "Category:OSWbc45768eb1665c18975fae4c802c6e63"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWb89f4a6eb66e5834b0a73b7f7776cfb9]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWb89f4a6eb66e5834b0a73b7f7776cfb9]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasOrbitalRadialDistanceValue"
         }
     },
     "allOf": [

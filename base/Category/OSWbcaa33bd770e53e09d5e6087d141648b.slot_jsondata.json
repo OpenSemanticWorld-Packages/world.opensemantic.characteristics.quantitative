@@ -26,5 +26,13 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW4b47532d41005a12b442504ad9b4d5c3"
+    "quantity": "Item:OSW4b47532d41005a12b442504ad9b4d5c3",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW5d3fe58ebbac5483bad8904ff8811366",
+            "symbol": "#"
+        }
+    ],
+    "quantity_property": "Property:HasDimensionlessValue",
+    "default_unit": "Item:OSW5d3fe58ebbac5483bad8904ff8811366"
 }

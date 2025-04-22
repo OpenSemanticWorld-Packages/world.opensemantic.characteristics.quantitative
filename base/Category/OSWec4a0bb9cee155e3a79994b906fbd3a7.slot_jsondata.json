@@ -25,5 +25,19 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW1867660f9640528c809c8d29b3051296"
+    "quantity": "Item:OSW1867660f9640528c809c8d29b3051296",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW25bef56399fe5f7fa5d119aff09cfb30",
+            "name": "meter_cubed_per_mole_per_second",
+            "symbol": "m³/(mol·s)"
+        },
+        {
+            "osw_id": "Item:OSW25bef56399fe5f7fa5d119aff09cfb30#OSWe3739db7a148562eb2f29ef963e3c001",
+            "name": "centi_meter_cubed_per_mole_per_second",
+            "symbol": "cm³/(mol·s)"
+        }
+    ],
+    "quantity_property": "Property:HasReactionRateConstantValue",
+    "default_unit": "Item:OSW25bef56399fe5f7fa5d119aff09cfb30"
 }

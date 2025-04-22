@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "uuid": "85b27ba5-0cfe-5c25-89ff-bf2156c25ad1",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/IncidenceProportion"
+    ],
+    "name": "IncidenceProportion",
+    "label": [
+        {
+            "text": "Incidence Proportion",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Incidence proportion (also known as cumulative incidence) is the number of new cases within a specified time period divided by the size of the population initially at risk. For example, if a population initially contains 1,000 non-diseased persons and 28 develop a condition over two years of observation, the incidence proportion is 28 cases per 1,000 persons per two years, i.e. 2.8% per two years.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWe8d1194aeb2e5b9f877867eab5c9cae9"
+    ],
+    "quantity_property": "Property:HasIncidenceProportionValue"
+}

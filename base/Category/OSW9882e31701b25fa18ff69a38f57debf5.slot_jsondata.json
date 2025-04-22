@@ -25,5 +25,19 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWa70daa686e9b58529a898046850470f4"
+    "quantity": "Item:OSWa70daa686e9b58529a898046850470f4",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWb175d26e736c5603bcaa1060f2afddff",
+            "name": "candela_per_lumen",
+            "symbol": "cd/lm"
+        },
+        {
+            "osw_id": "Item:OSWb175d26e736c5603bcaa1060f2afddff#OSW77b2c8bd92a057b1ade0ce1687eb7520",
+            "name": "candela_per_kilo_lumen",
+            "symbol": "cd/klm"
+        }
+    ],
+    "quantity_property": "Property:HasIonConcentrationValue",
+    "default_unit": "Item:OSWb175d26e736c5603bcaa1060f2afddff"
 }

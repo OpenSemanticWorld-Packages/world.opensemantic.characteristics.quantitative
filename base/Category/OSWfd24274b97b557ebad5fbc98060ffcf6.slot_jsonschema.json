@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "ParticleSourceDensityUnit",
+                    "enum": [
+                        "Item:OSW804e40f82f4955ab8f1bd0c1e9e77d28"
+                    ],
+                    "x-enum-varnames": [
+                        "per_meter_cubed_per_second"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWe13ce558eab457a6baff6b1f4278ab4e]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWe13ce558eab457a6baff6b1f4278ab4e]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "1/(m³·s)"
+                        ]
+                    },
+                    "default": "Item:OSW804e40f82f4955ab8f1bd0c1e9e77d28"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasParticleSourceDensityValue"
         }
     },
     "allOf": [

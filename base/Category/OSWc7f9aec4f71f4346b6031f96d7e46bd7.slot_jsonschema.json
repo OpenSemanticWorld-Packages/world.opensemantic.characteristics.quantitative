@@ -60,6 +60,26 @@
             "$comment": "range: QuanityKind",
             "range": "Category:OSW00fbd6feecb5408997ca18d4e681a131"
         },
+        "default_unit": {
+            "type": "string",
+            "format": "autocomplete",
+            "title": "Default unit",
+            "title*": {
+                "de": "Standard Einheit"
+            },
+            "description": "As a rule, this is the SI unit of quantity",
+            "description*": {
+                "de": "In aller Regel ist dies die SI Einheit der Größe"
+            },
+            "watch": {
+                "quantity": "root.quantity"
+            },
+            "options": {
+                "autocomplete": {
+                    "query": "[[-HasUnit::{{quantity}}]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::{{quantity}}]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
+                }
+            }
+        },
         "unit_enumeration": {
             "type": "array",
             "format": "table",

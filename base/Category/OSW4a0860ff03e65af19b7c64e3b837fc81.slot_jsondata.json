@@ -26,5 +26,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW1cb3c982b37b598f8343861962fb5026"
+    "quantity": "Item:OSW1cb3c982b37b598f8343861962fb5026",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWf6bfa826fcea5795b76c5756f7ec78fb#OSWfe7b5227d12757e789055c9fd32d15e4",
+            "name": "kilo_gram_per_second",
+            "symbol": "kg/s"
+        }
+    ],
+    "quantity_property": "Property:HasMassFlowRateValue",
+    "default_unit": "Item:OSWf6bfa826fcea5795b76c5756f7ec78fb#OSWfe7b5227d12757e789055c9fd32d15e4"
 }

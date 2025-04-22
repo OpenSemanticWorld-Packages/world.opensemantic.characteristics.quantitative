@@ -26,5 +26,19 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW54fd9cc117e055018abe2f8a9abb8ceb"
+    "quantity": "Item:OSW54fd9cc117e055018abe2f8a9abb8ceb",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW8967238ff12d589a8e1383b0a684ddc5",
+            "name": "meter_cubed_per_kilo_gram",
+            "symbol": "m³/kg"
+        },
+        {
+            "osw_id": "Item:OSW8967238ff12d589a8e1383b0a684ddc5#OSW0e4d5b9c7d1557418a789c8360d239cb",
+            "name": "milli_meter_cubed_per_kilo_gram",
+            "symbol": "mm³/kg"
+        }
+    ],
+    "quantity_property": "Property:HasSpecificVolumeValue",
+    "default_unit": "Item:OSW8967238ff12d589a8e1383b0a684ddc5"
 }

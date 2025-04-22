@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "ParticleFluenceRateUnit",
+                    "enum": [
+                        "Item:OSW580b455ce69e57418303f409d43f373a"
+                    ],
+                    "x-enum-varnames": [
+                        "per_meter_squared_per_second"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW7a09e4a775a25c4d99a377483be824c6]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW7a09e4a775a25c4d99a377483be824c6]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "1/(m²·s)"
+                        ]
+                    },
+                    "default": "Item:OSW580b455ce69e57418303f409d43f373a"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasParticleFluenceRateValue"
         }
     },
     "allOf": [

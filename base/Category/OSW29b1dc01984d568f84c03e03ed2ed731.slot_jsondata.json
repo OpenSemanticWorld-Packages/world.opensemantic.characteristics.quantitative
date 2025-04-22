@@ -26,5 +26,34 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW036183f222d7556584126b9e2337880e"
+    "quantity": "Item:OSW036183f222d7556584126b9e2337880e",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW78331234e1a15aeebd8b0caa71201939",
+            "name": "meter_per_second",
+            "symbol": "m/s"
+        },
+        {
+            "osw_id": "Item:OSW78331234e1a15aeebd8b0caa71201939#OSWd094e4cfd62c52248aad5ef87c19fb7d",
+            "name": "centi_meter_per_second",
+            "symbol": "cm/s"
+        },
+        {
+            "osw_id": "Item:OSW78331234e1a15aeebd8b0caa71201939#OSWfc9fca27ba5b543c8780521b4af39189",
+            "name": "micro_meter_per_second",
+            "symbol": "μm/s"
+        },
+        {
+            "osw_id": "Item:OSW78331234e1a15aeebd8b0caa71201939#OSW4937ac85021f506cb7ba3958f2216bd1",
+            "name": "milli_meter_per_second",
+            "symbol": "mm/s"
+        },
+        {
+            "osw_id": "Item:OSW78331234e1a15aeebd8b0caa71201939#OSW9f12ce12bc725cd59791265e2e480fd2",
+            "name": "kilo_meter_per_second",
+            "symbol": "km/s"
+        }
+    ],
+    "quantity_property": "Property:HasSpeedValue",
+    "default_unit": "Item:OSW78331234e1a15aeebd8b0caa71201939"
 }

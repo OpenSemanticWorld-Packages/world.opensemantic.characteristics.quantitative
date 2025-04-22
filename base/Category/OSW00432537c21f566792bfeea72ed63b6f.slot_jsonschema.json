@@ -29,19 +29,12 @@
                     "default": [
                         "Category:OSW00432537c21f566792bfeea72ed63b6f"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW3f1801f34a3756839fbbb79e6a46befc]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW3f1801f34a3756839fbbb79e6a46befc]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasStrainEnergyReleaseRateValue"
         }
     },
     "allOf": [

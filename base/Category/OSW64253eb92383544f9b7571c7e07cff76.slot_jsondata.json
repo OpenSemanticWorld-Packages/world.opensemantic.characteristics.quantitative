@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW56f3e34882be5be987d575b0eaee83f7"
+    "quantity": "Item:OSW56f3e34882be5be987d575b0eaee83f7",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW1df25fb7ecc057a7a5e4de01e46158b8",
+            "name": "lumen_per_watt",
+            "symbol": "lm/W"
+        }
+    ],
+    "quantity_property": "Property:HasLuminousEfficacyValue",
+    "default_unit": "Item:OSW1df25fb7ecc057a7a5e4de01e46158b8"
 }

@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "FluxUnit",
+                    "enum": [
+                        "Item:OSW580b455ce69e57418303f409d43f373a"
+                    ],
+                    "x-enum-varnames": [
+                        "per_meter_squared_per_second"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW7dba7702fdc75ff49bb1a55348063285]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW7dba7702fdc75ff49bb1a55348063285]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "1/(m²·s)"
+                        ]
+                    },
+                    "default": "Item:OSW580b455ce69e57418303f409d43f373a"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasFluxValue"
         }
     },
     "allOf": [

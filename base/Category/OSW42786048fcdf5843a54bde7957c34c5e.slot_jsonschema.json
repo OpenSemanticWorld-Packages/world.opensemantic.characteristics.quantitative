@@ -29,19 +29,12 @@
                     "default": [
                         "Category:OSW42786048fcdf5843a54bde7957c34c5e"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW02a99b8c44505890a587073f7c7f1a9c]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW02a99b8c44505890a587073f7c7f1a9c]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasMagneticQuantumNumberValue"
         }
     },
     "allOf": [

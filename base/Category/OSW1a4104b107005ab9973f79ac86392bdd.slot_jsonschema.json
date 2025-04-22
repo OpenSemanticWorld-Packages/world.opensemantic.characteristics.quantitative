@@ -27,19 +27,12 @@
                     "default": [
                         "Category:OSW1a4104b107005ab9973f79ac86392bdd"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW33a26f69ca605c76a1857a16c57cfce0]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW33a26f69ca605c76a1857a16c57cfce0]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasResistanceRatioValue"
         }
     },
     "allOf": [

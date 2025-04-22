@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "DimensionlessUnit",
+                    "enum": [
+                        "Item:OSW5d3fe58ebbac5483bad8904ff8811366"
+                    ],
+                    "x-enum-varnames": [
+                        ""
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW4b47532d41005a12b442504ad9b4d5c3]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW4b47532d41005a12b442504ad9b4d5c3]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "#"
+                        ]
+                    },
+                    "default": "Item:OSW5d3fe58ebbac5483bad8904ff8811366"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasDimensionlessValue"
         }
     },
     "allOf": [

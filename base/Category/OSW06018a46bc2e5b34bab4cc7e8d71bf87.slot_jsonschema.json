@@ -29,17 +29,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "InverseTemperatureUnit",
+                    "enum": [
+                        "Item:OSW33dfda3d4dea57d192d02eecdbc09b86"
+                    ],
+                    "x-enum-varnames": [
+                        "per_kelvin"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWac4a3c5462595b808b1e7bdc1c9f9e1f]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWac4a3c5462595b808b1e7bdc1c9f9e1f]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "1/K"
+                        ]
+                    },
+                    "default": "Item:OSW33dfda3d4dea57d192d02eecdbc09b86"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasInverseTemperatureValue"
         }
     },
     "allOf": [

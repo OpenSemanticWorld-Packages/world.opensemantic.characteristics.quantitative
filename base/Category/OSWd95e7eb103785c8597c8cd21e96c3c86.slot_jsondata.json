@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWfae2e1da93b554ddb25db164fca9c17f"
+    "quantity": "Item:OSWfae2e1da93b554ddb25db164fca9c17f",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW0505357de255592eb766bdfce883acb3",
+            "name": "joule_per_meter",
+            "symbol": "J/m"
+        }
+    ],
+    "quantity_property": "Property:HasTotalLinearStoppingPowerValue",
+    "default_unit": "Item:OSW0505357de255592eb766bdfce883acb3"
 }

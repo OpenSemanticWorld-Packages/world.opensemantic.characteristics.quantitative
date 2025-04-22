@@ -19,5 +19,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWa62ed030b84d5decb443c372ced82510"
+    "quantity": "Item:OSWa62ed030b84d5decb443c372ced82510",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW0d4e5e11d53f5018a0b965373b55510d",
+            "name": "newton_per_meter",
+            "symbol": "N·m/m²"
+        }
+    ],
+    "quantity_property": "Property:HasForcePerLengthValue",
+    "default_unit": "Item:OSW0d4e5e11d53f5018a0b965373b55510d"
 }

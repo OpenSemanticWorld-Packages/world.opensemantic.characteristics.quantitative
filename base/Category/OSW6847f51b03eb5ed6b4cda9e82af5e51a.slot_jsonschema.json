@@ -29,17 +29,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "MassTemperatureUnit",
+                    "enum": [
+                        "Item:OSWfd24f9425d815d66beab746eecaf5926"
+                    ],
+                    "x-enum-varnames": [
+                        "kelvin_kilo_gram"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW16d6aedc16785e00af658016a6d0d060]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW16d6aedc16785e00af658016a6d0d060]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "K·kg"
+                        ]
+                    },
+                    "default": "Item:OSWfd24f9425d815d66beab746eecaf5926"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasMassTemperatureValue"
         }
     },
     "allOf": [

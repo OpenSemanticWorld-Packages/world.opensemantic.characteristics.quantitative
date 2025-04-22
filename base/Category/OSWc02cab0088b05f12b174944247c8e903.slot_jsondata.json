@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWc805c6699174575b93b7a8c4d200943a"
+    "quantity": "Item:OSWc805c6699174575b93b7a8c4d200943a",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWe0fa484f50015a438e4338bb521a34ae",
+            "name": "joule_meter_squared_per_kilo_gram",
+            "symbol": "J·m²/kg"
+        }
+    ],
+    "quantity_property": "Property:HasTotalMassStoppingPowerValue",
+    "default_unit": "Item:OSWe0fa484f50015a438e4338bb521a34ae"
 }

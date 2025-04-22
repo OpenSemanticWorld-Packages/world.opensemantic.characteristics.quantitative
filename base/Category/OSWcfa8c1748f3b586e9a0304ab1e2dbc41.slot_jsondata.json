@@ -31,5 +31,24 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW1ce952564ed15efebbd43e22a2d917b7"
+    "quantity": "Item:OSW1ce952564ed15efebbd43e22a2d917b7",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW6b270053305955a89f37c50637fc7aeb",
+            "name": "radian",
+            "symbol": "rad"
+        },
+        {
+            "osw_id": "Item:OSW6b270053305955a89f37c50637fc7aeb#OSW80a423e717c3546f8085fa732b37409e",
+            "name": "micro_radian",
+            "symbol": "µrad"
+        },
+        {
+            "osw_id": "Item:OSW6b270053305955a89f37c50637fc7aeb#OSW8fb3bf64b8f751498553ead8995be20c",
+            "name": "milli_radian",
+            "symbol": "mrad"
+        }
+    ],
+    "quantity_property": "Property:HasPlaneAngleValue",
+    "default_unit": "Item:OSW6b270053305955a89f37c50637fc7aeb"
 }

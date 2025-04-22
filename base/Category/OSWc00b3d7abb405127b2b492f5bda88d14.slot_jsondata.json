@@ -19,5 +19,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW17dd47304e925a9b96e1f5e0b169d604"
+    "quantity": "Item:OSW17dd47304e925a9b96e1f5e0b169d604",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW4ba64f5b6daa583389742dfca1776afe",
+            "name": "newton_second_per_meter_cubed",
+            "symbol": "N·s/m³"
+        }
+    ],
+    "quantity_property": "Property:HasSpecificAcousticImpedanceValue",
+    "default_unit": "Item:OSW4ba64f5b6daa583389742dfca1776afe"
 }

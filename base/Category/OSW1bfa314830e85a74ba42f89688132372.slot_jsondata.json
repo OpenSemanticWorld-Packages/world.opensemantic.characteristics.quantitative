@@ -29,5 +29,24 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW386062cd4f2559bf877a2a56a237d0df"
+    "quantity": "Item:OSW386062cd4f2559bf877a2a56a237d0df",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW20b837bfd2fa5c3abc86347ce702f27c",
+            "name": "meter_squared_per_second",
+            "symbol": "m²/s"
+        },
+        {
+            "osw_id": "Item:OSW20b837bfd2fa5c3abc86347ce702f27c#OSW5db8f161eb8c59129cef62d84dd3309c",
+            "name": "milli_meter_squared_per_second",
+            "symbol": "mm²/s"
+        },
+        {
+            "osw_id": "Item:OSW20b837bfd2fa5c3abc86347ce702f27c#OSW031bb99ee99a5794a24c66e6203c21db",
+            "name": "centi_meter_squared_per_second",
+            "symbol": "cm²/s"
+        }
+    ],
+    "quantity_property": "Property:HasDiffusionCoefficientValue",
+    "default_unit": "Item:OSW20b837bfd2fa5c3abc86347ce702f27c"
 }

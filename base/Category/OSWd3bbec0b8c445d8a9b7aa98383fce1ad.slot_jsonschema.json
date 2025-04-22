@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "MolarHeatCapacityUnit",
+                    "enum": [
+                        "Item:OSW6d40ac4bdbc950ec9290f6a47ce23d20"
+                    ],
+                    "x-enum-varnames": [
+                        "joule_per_kelvin_per_mole"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW6f004dbf369056db8f3845223a14b903]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW6f004dbf369056db8f3845223a14b903]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "J/(mol·K)"
+                        ]
+                    },
+                    "default": "Item:OSW6d40ac4bdbc950ec9290f6a47ce23d20"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasMolarHeatCapacityValue"
         }
     },
     "allOf": [

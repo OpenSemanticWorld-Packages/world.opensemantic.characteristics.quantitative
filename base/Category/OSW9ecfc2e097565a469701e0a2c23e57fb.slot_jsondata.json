@@ -19,5 +19,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWe6412907ab75573ebfb6aa4b95ca0b4d"
+    "quantity": "Item:OSWe6412907ab75573ebfb6aa4b95ca0b4d",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW7f98af11c42058aeb941076309b78dea",
+            "name": "newton_second_per_radian",
+            "symbol": "N·s/rad"
+        }
+    ],
+    "quantity_property": "Property:HasMomentumPerAngleValue",
+    "default_unit": "Item:OSW7f98af11c42058aeb941076309b78dea"
 }

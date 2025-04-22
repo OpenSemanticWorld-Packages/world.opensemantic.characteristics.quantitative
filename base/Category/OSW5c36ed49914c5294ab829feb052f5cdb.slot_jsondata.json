@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "uuid": "5c36ed49-914c-5294-ab82-9feb052f5cdb",
     "close_ontology_match": [
@@ -22,8 +22,5 @@
     "subclass_of": [
         "Category:OSWa35c06b30b7750c49dd53768ffd9e756"
     ],
-    "metaclass": [
-        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
-    ],
-    "quantity": "Item:OSWa70daa686e9b58529a898046850470f4"
+    "quantity_property": "Property:HasOrbitalAngularMomentumQuantumNumberValue"
 }

@@ -26,5 +26,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW832e385ed75950648f608776411be17c"
+    "quantity": "Item:OSW832e385ed75950648f608776411be17c",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWb05df920a96b5987aeb46a9b4f7ca333",
+            "name": "newton_second",
+            "symbol": "N·m·s/m"
+        }
+    ],
+    "quantity_property": "Property:HasLinearMomentumValue",
+    "default_unit": "Item:OSWb05df920a96b5987aeb46a9b4f7ca333"
 }

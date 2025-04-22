@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW7160783573db5af5a75a905e79f714ac"
+    "quantity": "Item:OSW7160783573db5af5a75a905e79f714ac",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWaf6c62c0856f5ac288ac862f5344f227",
+            "name": "per_second_per_steradian",
+            "symbol": "1/(s·sr)"
+        }
+    ],
+    "quantity_property": "Property:HasPhotonIntensityValue",
+    "default_unit": "Item:OSWaf6c62c0856f5ac288ac862f5344f227"
 }

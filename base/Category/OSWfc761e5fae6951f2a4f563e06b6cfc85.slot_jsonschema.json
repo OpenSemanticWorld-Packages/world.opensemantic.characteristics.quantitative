@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "ScalarMagneticPotentialUnit",
+                    "enum": [
+                        "Item:OSWf63c15f03855534fabdc39bb5403d1ff"
+                    ],
+                    "x-enum-varnames": [
+                        "second_volt_per_meter"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWaed77452d94955e995fa902b71b85235]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWaed77452d94955e995fa902b71b85235]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "V·s/m"
+                        ]
+                    },
+                    "default": "Item:OSWf63c15f03855534fabdc39bb5403d1ff"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasScalarMagneticPotentialValue"
         }
     },
     "allOf": [

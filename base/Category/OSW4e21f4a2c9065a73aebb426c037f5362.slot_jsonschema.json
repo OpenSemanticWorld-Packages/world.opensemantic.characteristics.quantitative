@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "SoundExposureLevelUnit",
+                    "enum": [
+                        "Item:OSW20ac6724f1a05ee884222d546955e78f"
+                    ],
+                    "x-enum-varnames": [
+                        "byte"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWd90142d387e15278abf2fa16e444e719]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWd90142d387e15278abf2fa16e444e719]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "B"
+                        ]
+                    },
+                    "default": "Item:OSW20ac6724f1a05ee884222d546955e78f"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasSoundExposureLevelValue"
         }
     },
     "allOf": [

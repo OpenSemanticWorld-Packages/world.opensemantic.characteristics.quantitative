@@ -29,17 +29,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "AreaTimeUnit",
+                    "enum": [
+                        "Item:OSWa5c77be3eb415d749ce66c39717fb676"
+                    ],
+                    "x-enum-varnames": [
+                        "centi_meter_squared_minute"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWf7148422e50b5448b5ec6bfb6e985441]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWf7148422e50b5448b5ec6bfb6e985441]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "cm²·min"
+                        ]
+                    },
+                    "default": "Item:OSWa5c77be3eb415d749ce66c39717fb676"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasAreaTimeValue"
         }
     },
     "allOf": [

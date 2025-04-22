@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "MolarAttenuationCoefficientUnit",
+                    "enum": [
+                        "Item:OSWf4a7837882ed5a0b9b128b2d067fc97b"
+                    ],
+                    "x-enum-varnames": [
+                        "meter_squared_per_mole"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWa7c0cd5d93a95d5292a1f08fe92b55e6]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWa7c0cd5d93a95d5292a1f08fe92b55e6]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "m²/mol"
+                        ]
+                    },
+                    "default": "Item:OSWf4a7837882ed5a0b9b128b2d067fc97b"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasMolarAttenuationCoefficientValue"
         }
     },
     "allOf": [

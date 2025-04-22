@@ -31,17 +31,46 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "IonicStrengthUnit",
+                    "enum": [
+                        "Item:OSWfd92e9c2c69754f78e4145ad3d31c34b",
+                        "Item:OSWfd92e9c2c69754f78e4145ad3d31c34b#OSW9abfd6b6d96b507abac8057d6e35a74f",
+                        "Item:OSWfd92e9c2c69754f78e4145ad3d31c34b#OSWa9d227b6d12958eba67fdf22b0934535",
+                        "Item:OSWfd92e9c2c69754f78e4145ad3d31c34b#OSWce6b64163d095affbef6daa39c9cd063",
+                        "Item:OSWfd92e9c2c69754f78e4145ad3d31c34b#OSWd77b5543087f560caec2016c89521715",
+                        "Item:OSWfd92e9c2c69754f78e4145ad3d31c34b#OSW78a5da75d0d15046935df4e27fa7d3a9",
+                        "Item:OSWfd92e9c2c69754f78e4145ad3d31c34b#OSW51bd13e67a4758bba50388bd5cffe504",
+                        "Item:OSWfd92e9c2c69754f78e4145ad3d31c34b#OSW84e7943cec52598082a96c43ab77d33a"
+                    ],
+                    "x-enum-varnames": [
+                        "mole_per_kilo_gram",
+                        "centi_mole_per_kilo_gram",
+                        "micro_mole_per_kilo_gram",
+                        "femto_mole_per_kilo_gram",
+                        "pico_mole_per_kilo_gram",
+                        "milli_mole_per_kilo_gram",
+                        "nano_mole_per_kilo_gram",
+                        "kilo_mole_per_kilo_gram"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWda73a0cabed655b6b94057a627923377]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWda73a0cabed655b6b94057a627923377]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "mol/kg",
+                            "cmol/kg",
+                            "μmol/kg",
+                            "fmol/kg",
+                            "pmol/kg",
+                            "mmol/kg",
+                            "nmol/kg",
+                            "kmol/kg"
+                        ]
+                    },
+                    "default": "Item:OSWfd92e9c2c69754f78e4145ad3d31c34b"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasIonicStrengthValue"
         }
     },
     "allOf": [

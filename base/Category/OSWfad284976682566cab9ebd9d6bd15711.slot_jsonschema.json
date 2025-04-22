@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "LuminanceUnit",
+                    "enum": [
+                        "Item:OSW4f047e2da1fc5ea497c9e22eb8e98ce5"
+                    ],
+                    "x-enum-varnames": [
+                        "candela_per_meter_squared"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWcb5a8a165ba059a79fe96c05a6953b43]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWcb5a8a165ba059a79fe96c05a6953b43]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "cd/m²"
+                        ]
+                    },
+                    "default": "Item:OSW4f047e2da1fc5ea497c9e22eb8e98ce5"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasLuminanceValue"
         }
     },
     "allOf": [

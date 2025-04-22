@@ -29,19 +29,12 @@
                     "default": [
                         "Category:OSW268c0467204b54eaa6306808bdc97f6d"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW9c9d2a228088580fbf35ffb6dda0051d]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW9c9d2a228088580fbf35ffb6dda0051d]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasAreicEnergyFlowValue"
         }
     },
     "allOf": [

@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "TemperatureGradientUnit",
+                    "enum": [
+                        "Item:OSWee60f0c86f6051bb9e1c60b77a607ba2"
+                    ],
+                    "x-enum-varnames": [
+                        "Celsius_per_meter"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWf766b6c3f2e65edc9566ef54ad605289]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWf766b6c3f2e65edc9566ef54ad605289]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "°C/m"
+                        ]
+                    },
+                    "default": "Item:OSWee60f0c86f6051bb9e1c60b77a607ba2"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasTemperatureGradientValue"
         }
     },
     "allOf": [

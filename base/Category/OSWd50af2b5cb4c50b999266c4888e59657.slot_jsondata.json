@@ -21,10 +21,19 @@
         }
     ],
     "subclass_of": [
-        "Category:OSW2d29c3f218f75d669b67f8008851f82e"
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
     ],
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW1867660f9640528c809c8d29b3051296"
+    "quantity": "Item:OSW56bbf029a3a6596ea3b79a48d6cea4ce",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW8afae973361b5e9ba300c36ac631da76",
+            "name": "watt_per_meter_squared_per_steradian",
+            "symbol": "W/(m²·sr)"
+        }
+    ],
+    "quantity_property": "Property:HasRadianceValue",
+    "default_unit": "Item:OSW8afae973361b5e9ba300c36ac631da76"
 }

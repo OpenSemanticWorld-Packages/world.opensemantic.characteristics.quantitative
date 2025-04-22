@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW4b190466bae15739b1112199be8f2f54"
+    "quantity": "Item:OSW4b190466bae15739b1112199be8f2f54",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW8369e204ddec5045893b3249ff474d53",
+            "name": "becquerel_per_meter_squared",
+            "symbol": "Bq/m²"
+        }
+    ],
+    "quantity_property": "Property:HasSurfaceActivityDensityValue",
+    "default_unit": "Item:OSW8369e204ddec5045893b3249ff474d53"
 }

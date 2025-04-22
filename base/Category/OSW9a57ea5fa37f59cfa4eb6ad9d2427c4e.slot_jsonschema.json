@@ -31,17 +31,28 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "WarpingMomentUnit",
+                    "enum": [
+                        "Item:OSW9dfac70a65b753709e52cb3591dd8547",
+                        "Item:OSW9dfac70a65b753709e52cb3591dd8547#OSW54ba1a65b3a75b708a5ddb4089c205b1"
+                    ],
+                    "x-enum-varnames": [
+                        "meter_squared_newton",
+                        "kilo_newton_meter_squared"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW5c2c8fcc294d5987ac40b565a59096ca]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW5c2c8fcc294d5987ac40b565a59096ca]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "N·m²",
+                            "kN·m²"
+                        ]
+                    },
+                    "default": "Item:OSW9dfac70a65b753709e52cb3591dd8547"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasWarpingMomentValue"
         }
     },
     "allOf": [

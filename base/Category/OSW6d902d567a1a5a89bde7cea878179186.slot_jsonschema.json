@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "MagneticDipoleMomentUnit",
+                    "enum": [
+                        "Item:OSW164f2a6f077a564c914320ff303d09e8"
+                    ],
+                    "x-enum-varnames": [
+                        "meter_squared_newton_per_ampere"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW19a5a65be8795055953dfaddf46a281d]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW19a5a65be8795055953dfaddf46a281d]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "N·m²/A"
+                        ]
+                    },
+                    "default": "Item:OSW164f2a6f077a564c914320ff303d09e8"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasMagneticDipoleMomentValue"
         }
     },
     "allOf": [

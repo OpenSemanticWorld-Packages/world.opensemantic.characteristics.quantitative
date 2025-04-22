@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "SpectralAngularCrossSectionUnit",
+                    "enum": [
+                        "Item:OSW67a27e9bd9685e61a525f06b3e25b81f"
+                    ],
+                    "x-enum-varnames": [
+                        "meter_squared_per_joule_per_steradian"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW81ac320cfad45356a75d9a1affe371ba]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW81ac320cfad45356a75d9a1affe371ba]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "m²/(sr·J)"
+                        ]
+                    },
+                    "default": "Item:OSW67a27e9bd9685e61a525f06b3e25b81f"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasSpectralAngularCrossSectionValue"
         }
     },
     "allOf": [

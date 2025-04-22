@@ -29,19 +29,12 @@
                     "default": [
                         "Category:OSWf0ab9cfde91f5e7a8b21de948729e1ac"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW1fd23e168f9a56569ef993194cce93b3]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW1fd23e168f9a56569ef993194cce93b3]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasShearStressValue"
         }
     },
     "allOf": [

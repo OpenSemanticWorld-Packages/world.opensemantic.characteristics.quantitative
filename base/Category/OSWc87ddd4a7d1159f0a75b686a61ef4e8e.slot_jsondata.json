@@ -31,5 +31,59 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW35d1d97e9ee55518bcd46402fbe6ea13"
+    "quantity": "Item:OSW35d1d97e9ee55518bcd46402fbe6ea13",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW730568cd7ae65906abbbcef1d15cb074",
+            "name": "joule",
+            "symbol": "J"
+        },
+        {
+            "osw_id": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW4e7003f5d7ff58a190167711dd63b0bd",
+            "name": "peta_joule",
+            "symbol": "PJ"
+        },
+        {
+            "osw_id": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSWad2518d42b685f569679c3599455c3d3",
+            "name": "kilo_joule",
+            "symbol": "kJ"
+        },
+        {
+            "osw_id": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW6df751011258508e9d15967190c819f3",
+            "name": "milli_joule",
+            "symbol": "mJ"
+        },
+        {
+            "osw_id": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW2d5cdc08b064506e8f9a5b0456b7a0b3",
+            "name": "femto_joule",
+            "symbol": "fJ"
+        },
+        {
+            "osw_id": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW0ac3643d930d5c99936e5ece487a9634",
+            "name": "tera_joule",
+            "symbol": "TJ"
+        },
+        {
+            "osw_id": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW5ba80670b2945c08b35551442d3169d5",
+            "name": "exa_joule",
+            "symbol": "EJ"
+        },
+        {
+            "osw_id": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSWc26bf1cf449d56ef8122745336585d2b",
+            "name": "giga_joule",
+            "symbol": "GJ"
+        },
+        {
+            "osw_id": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSWc1525b1f1fc05c40b9715328bf707805",
+            "name": "mega_joule",
+            "symbol": "MJ"
+        },
+        {
+            "osw_id": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSWa73c696efa58519aa07c265ea965ceda",
+            "name": "atto_joule",
+            "symbol": "aJ"
+        }
+    ],
+    "quantity_property": "Property:HasEnergyValue",
+    "default_unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074"
 }

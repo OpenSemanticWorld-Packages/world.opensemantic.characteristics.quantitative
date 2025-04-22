@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWf959d2faea4a53e7a77e4923e2b6050a"
+    "quantity": "Item:OSWf959d2faea4a53e7a77e4923e2b6050a",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWd7015166d39d5cae866a40eac3d51896#OSWc811db362efa5d33a49b56ffdd77e54d",
+            "name": "meter_squared_per_kilo_gram",
+            "symbol": "m²/kg"
+        }
+    ],
+    "quantity_property": "Property:HasMassAbsorptionCoefficientValue",
+    "default_unit": "Item:OSWd7015166d39d5cae866a40eac3d51896#OSWc811db362efa5d33a49b56ffdd77e54d"
 }

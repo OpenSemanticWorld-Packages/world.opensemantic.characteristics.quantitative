@@ -19,5 +19,19 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW5042e3c9dfc35ca4bd2f1dd3717d3e44"
+    "quantity": "Item:OSW5042e3c9dfc35ca4bd2f1dd3717d3e44",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW21febbc735d25a9badefe5f3191757d9",
+            "name": "hertz_per_kelvin",
+            "symbol": "Hz/K"
+        },
+        {
+            "osw_id": "Item:OSW21febbc735d25a9badefe5f3191757d9#OSW1214143f4aa952e78f3ec1c339d9500b",
+            "name": "mega_hertz_per_kelvin",
+            "symbol": "MHz/K"
+        }
+    ],
+    "quantity_property": "Property:HasInverseTimeTemperatureValue",
+    "default_unit": "Item:OSW21febbc735d25a9badefe5f3191757d9"
 }

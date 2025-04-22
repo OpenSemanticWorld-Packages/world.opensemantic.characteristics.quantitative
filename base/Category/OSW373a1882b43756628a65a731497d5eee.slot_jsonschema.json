@@ -29,19 +29,12 @@
                     "default": [
                         "Category:OSW373a1882b43756628a65a731497d5eee"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWda64e30338dd5c3fadd232b7708f3b1f]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWda64e30338dd5c3fadd232b7708f3b1f]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasElectricChargeSurfaceDensityValue"
         }
     },
     "allOf": [

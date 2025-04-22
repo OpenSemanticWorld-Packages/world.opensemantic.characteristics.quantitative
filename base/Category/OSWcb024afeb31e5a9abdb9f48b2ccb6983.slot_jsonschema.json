@@ -27,19 +27,12 @@
                     "default": [
                         "Category:OSWcb024afeb31e5a9abdb9f48b2ccb6983"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW33359bfb4bee5d8b9fea8a8fda65c044]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW33359bfb4bee5d8b9fea8a8fda65c044]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasInitialNozzleThroatDiameterValue"
         }
     },
     "allOf": [

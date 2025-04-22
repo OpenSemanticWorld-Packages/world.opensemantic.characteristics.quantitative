@@ -25,5 +25,24 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWfa7fda7a0bed53289e6b90bb54205db2"
+    "quantity": "Item:OSWfa7fda7a0bed53289e6b90bb54205db2",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW3063bab947d256b1a7a11cdb158d11b1",
+            "name": "mole_per_meter_squared_per_second",
+            "symbol": "mol/(m²·s)"
+        },
+        {
+            "osw_id": "Item:OSW3063bab947d256b1a7a11cdb158d11b1#OSWd5bf9cdb27765d8bbc553cf3682b1c52",
+            "name": "milli_mole_per_meter_squared_per_second",
+            "symbol": "mmol/(m²·s)"
+        },
+        {
+            "osw_id": "Item:OSW3063bab947d256b1a7a11cdb158d11b1#OSW92a55c5f59b259f8acfe7284e9f7ebe1",
+            "name": "micro_mole_per_meter_squared_per_second",
+            "symbol": "μmol/(m²·s)"
+        }
+    ],
+    "quantity_property": "Property:HasPhotosyntheticPhotonFluxDensityValue",
+    "default_unit": "Item:OSW3063bab947d256b1a7a11cdb158d11b1"
 }

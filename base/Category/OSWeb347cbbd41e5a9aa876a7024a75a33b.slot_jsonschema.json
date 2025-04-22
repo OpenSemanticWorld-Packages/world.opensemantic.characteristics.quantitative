@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "LineicPowerUnit",
+                    "enum": [
+                        "Item:OSW4cf53c813d36501db82ba5b6ac1a48bf"
+                    ],
+                    "x-enum-varnames": [
+                        "watt_per_meter"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWe5277de76c4e5ae1840f1931a942b628]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWe5277de76c4e5ae1840f1931a942b628]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "W/m"
+                        ]
+                    },
+                    "default": "Item:OSW4cf53c813d36501db82ba5b6ac1a48bf"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasLineicPowerValue"
         }
     },
     "allOf": [

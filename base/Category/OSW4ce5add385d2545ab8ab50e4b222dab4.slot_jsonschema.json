@@ -31,17 +31,37 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "ConcentrationUnit",
+                    "enum": [
+                        "Item:OSW8ac2d9421f455305abb01a51d001cc54",
+                        "Item:OSW8ac2d9421f455305abb01a51d001cc54#OSW8bb63381b7c355e3984be7dca4baf030",
+                        "Item:OSW8ac2d9421f455305abb01a51d001cc54#OSWe718f1e8ec1952069a956ab1096f08cb",
+                        "Item:OSW8ac2d9421f455305abb01a51d001cc54#OSWdc37f32c45c75ead9b0ac9a0547030eb",
+                        "Item:OSW8ac2d9421f455305abb01a51d001cc54#OSW2c20bbad810959ffa4d1ea210b290227"
+                    ],
+                    "x-enum-varnames": [
+                        "mole_per_meter_cubed",
+                        "pico_mole_per_meter_cubed",
+                        "kilo_mole_per_meter_cubed",
+                        "milli_mole_per_meter_cubed",
+                        "mole_per_deci_meter_cubed"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW03938ad046df5509a7a420bdd048f47c]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW03938ad046df5509a7a420bdd048f47c]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "mol/m³",
+                            "pmol/m³",
+                            "kmol/m³",
+                            "mmol/m³",
+                            "mol/dm³"
+                        ]
+                    },
+                    "default": "Item:OSW8ac2d9421f455305abb01a51d001cc54"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasConcentrationValue"
         }
     },
     "allOf": [

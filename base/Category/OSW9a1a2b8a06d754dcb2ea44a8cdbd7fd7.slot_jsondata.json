@@ -26,5 +26,19 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW7a041f565fd05aa7800b4fa1cedb3d9a"
+    "quantity": "Item:OSW7a041f565fd05aa7800b4fa1cedb3d9a",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW70d2cca5a9c75bec807d755997acbf8c",
+            "name": "meter_cubed_per_second_squared",
+            "symbol": "m³/s²"
+        },
+        {
+            "osw_id": "Item:OSW70d2cca5a9c75bec807d755997acbf8c#OSW111bef40f18158099e03d15fcd4af1fe",
+            "name": "kilo_meter_cubed_per_second_squared",
+            "symbol": "km³/s²"
+        }
+    ],
+    "quantity_property": "Property:HasStandardGravitationalParameterValue",
+    "default_unit": "Item:OSW70d2cca5a9c75bec807d755997acbf8c"
 }

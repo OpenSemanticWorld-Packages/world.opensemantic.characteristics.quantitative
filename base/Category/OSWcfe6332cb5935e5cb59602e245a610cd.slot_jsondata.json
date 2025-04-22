@@ -25,5 +25,19 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWe483c636e5c95b688d61c2ce02d6adb1"
+    "quantity": "Item:OSWe483c636e5c95b688d61c2ce02d6adb1",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW9ea4bf89c42b56728392f1c55639ac18",
+            "name": "joule_per_meter_cubed",
+            "symbol": "J/m³"
+        },
+        {
+            "osw_id": "Item:OSW9ea4bf89c42b56728392f1c55639ac18#OSW7044da5ba4b45554b3acc6c6f3fc3624",
+            "name": "mega_joule_per_meter_cubed",
+            "symbol": "MJ/m³"
+        }
+    ],
+    "quantity_property": "Property:HasVolumicElectromagneticEnergyValue",
+    "default_unit": "Item:OSW9ea4bf89c42b56728392f1c55639ac18"
 }

@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWe36bbb89b83057b2acab5e940cc681a4"
+    "quantity": "Item:OSWe36bbb89b83057b2acab5e940cc681a4",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWa553473ceb6957438779040c3e07c200",
+            "name": "watt_per_meter_squared_per_pascal",
+            "symbol": "W/(m²·Pa)"
+        }
+    ],
+    "quantity_property": "Property:HasCombinedNonEvaporativeHeatTransferCoefficientValue",
+    "default_unit": "Item:OSWa553473ceb6957438779040c3e07c200"
 }

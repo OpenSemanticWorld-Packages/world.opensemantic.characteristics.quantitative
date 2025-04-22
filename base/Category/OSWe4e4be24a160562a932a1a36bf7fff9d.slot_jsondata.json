@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "uuid": "e4e4be24-a160-562a-932a-1a36bf7fff9d",
     "close_ontology_match": [
@@ -22,8 +22,5 @@
     "subclass_of": [
         "Category:OSW40c46aba16f45962a7330b7f8b88681e"
     ],
-    "metaclass": [
-        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
-    ],
-    "quantity": "Item:OSW386a5e10814957e1b564b0b868498eed"
+    "quantity_property": "Property:HasAericHeatFlowRateValue"
 }

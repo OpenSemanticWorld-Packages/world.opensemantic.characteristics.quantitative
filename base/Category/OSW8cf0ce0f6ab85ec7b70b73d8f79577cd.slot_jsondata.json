@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW370f71fadf8358daae35fcadb110fb8c"
+    "quantity": "Item:OSW370f71fadf8358daae35fcadb110fb8c",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW3248fcac4b1b514b81d2b9f7bf05e180",
+            "name": "liter_per_meter_squared_per_second",
+            "symbol": "L/(s·m²)"
+        }
+    ],
+    "quantity_property": "Property:HasVentilationRatePerFloorAreaValue",
+    "default_unit": "Item:OSW3248fcac4b1b514b81d2b9f7bf05e180"
 }

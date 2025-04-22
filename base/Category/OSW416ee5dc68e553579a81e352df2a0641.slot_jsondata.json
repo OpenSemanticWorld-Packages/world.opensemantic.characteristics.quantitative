@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "uuid": "416ee5dc-68e5-5357-9a81-e352df2a0641",
     "close_ontology_match": [
@@ -22,8 +22,5 @@
     "subclass_of": [
         "Category:OSW20927e4900e95e93985698c92995f964"
     ],
-    "metaclass": [
-        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
-    ],
-    "quantity": "Item:OSW2481e76e10e2544399097203b4cdc358"
+    "quantity_property": "Property:HasSuperconductionTransitionTemperatureValue"
 }

@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "uuid": "0ddf63f6-9e72-5cb6-9e0e-5e0deca608b2",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/DutyCycle"
+    ],
+    "name": "DutyCycle",
+    "label": [
+        {
+            "text": "Duty Cycle",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A duty cycle or power cycle is the fraction of one period in which a signal or system is active.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW67faac860ed758758aa4484387e5d5c9"
+    ],
+    "quantity_property": "Property:HasDutyCycleValue"
+}

@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "SpecificHeatCapacityUnit",
+                    "enum": [
+                        "Item:OSW3b1e36710511523da37025a70b6a305d"
+                    ],
+                    "x-enum-varnames": [
+                        "meter_squared_per_kelvin_per_second_squared"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW4683511b386659fb870a7a60bd4c968e]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW4683511b386659fb870a7a60bd4c968e]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "m²/(s²·K)"
+                        ]
+                    },
+                    "default": "Item:OSW3b1e36710511523da37025a70b6a305d"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasSpecificHeatCapacityValue"
         }
     },
     "allOf": [

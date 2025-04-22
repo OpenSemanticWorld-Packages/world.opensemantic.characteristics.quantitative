@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "SoundExposureUnit",
+                    "enum": [
+                        "Item:OSW480ba7517ec75d798c6b56f61d91de1d"
+                    ],
+                    "x-enum-varnames": [
+                        "pascal_squared_second"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW18b8edc1dbf851968463e408d46923f8]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW18b8edc1dbf851968463e408d46923f8]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "Pa²·s"
+                        ]
+                    },
+                    "default": "Item:OSW480ba7517ec75d798c6b56f61d91de1d"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasSoundExposureValue"
         }
     },
     "allOf": [

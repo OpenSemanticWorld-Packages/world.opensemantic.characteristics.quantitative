@@ -29,19 +29,12 @@
                     "default": [
                         "Category:OSWa190a51f7ec150b2aea3c45ff0ac32d3"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWc8adf8d2a7775f80b8cb6290497f6dfc]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWc8adf8d2a7775f80b8cb6290497f6dfc]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasLarmorAngularFrequencyValue"
         }
     },
     "allOf": [

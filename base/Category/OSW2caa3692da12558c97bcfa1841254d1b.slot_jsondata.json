@@ -19,5 +19,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW81eca47781b65aeb8307f91f449eb166"
+    "quantity": "Item:OSW81eca47781b65aeb8307f91f449eb166",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWe0b098248f7557aaa6a892a6ecbd32b8",
+            "name": "4_per_joule_cubed",
+            "symbol": "C⁴·m⁴/J³"
+        }
+    ],
+    "quantity_property": "Property:HasQuarticElectricDipoleMomentPerCubicEnergyValue",
+    "default_unit": "Item:OSWe0b098248f7557aaa6a892a6ecbd32b8"
 }

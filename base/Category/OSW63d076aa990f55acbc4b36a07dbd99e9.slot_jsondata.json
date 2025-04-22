@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "uuid": "63d076aa-990f-55ac-bc4b-36a07dbd99e9",
     "close_ontology_match": [
@@ -22,8 +22,5 @@
     "subclass_of": [
         "Category:OSW2339256af71e5635a541ac7f5a437141"
     ],
-    "metaclass": [
-        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
-    ],
-    "quantity": "Item:OSWd7ce86f0e2ec5c938e20b325025c44ef"
+    "quantity_property": "Property:HasAngleOfOpticalRotationValue"
 }

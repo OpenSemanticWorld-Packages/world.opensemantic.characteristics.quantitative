@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "MolarOpticalRotatoryPowerUnit",
+                    "enum": [
+                        "Item:OSW6e91dd70b9f75580bdb3d962228cb99b"
+                    ],
+                    "x-enum-varnames": [
+                        "meter_squared_radian_per_mole"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW94d7b96d7b0b5227a60b591ca9cf5511]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW94d7b96d7b0b5227a60b591ca9cf5511]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "rad·m²/mol"
+                        ]
+                    },
+                    "default": "Item:OSW6e91dd70b9f75580bdb3d962228cb99b"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasMolarOpticalRotatoryPowerValue"
         }
     },
     "allOf": [

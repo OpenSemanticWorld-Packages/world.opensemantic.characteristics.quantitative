@@ -19,5 +19,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWe29542c0b70b53b0b15aef4ebdcc3110"
+    "quantity": "Item:OSWe29542c0b70b53b0b15aef4ebdcc3110",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW35db123ef0b25089bab3d9eaa2b5cb67",
+            "name": "ampere_per_joule",
+            "symbol": "A/J"
+        }
+    ],
+    "quantity_property": "Property:HasElectricCurrentPerEnergyValue",
+    "default_unit": "Item:OSW35db123ef0b25089bab3d9eaa2b5cb67"
 }

@@ -30,19 +30,12 @@
                     "default": [
                         "Category:OSW3672230578c1593c91fd69449f82fe93"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW194e412e3b635bc3901a05b9634d3b20]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW194e412e3b635bc3901a05b9634d3b20]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasAngularWavenumberValue"
         }
     },
     "allOf": [

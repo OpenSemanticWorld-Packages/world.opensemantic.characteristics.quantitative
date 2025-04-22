@@ -29,17 +29,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "PowerPerAreaQuarticTemperatureUnit",
+                    "enum": [
+                        "Item:OSW88f406fb6a1250eab2d89590d6488f19"
+                    ],
+                    "x-enum-varnames": [
+                        "4_per_meter_squared"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW8f8439331ff25ab2a7df5c2f3572d198]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW8f8439331ff25ab2a7df5c2f3572d198]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "W/(m²·K⁴)"
+                        ]
+                    },
+                    "default": "Item:OSW88f406fb6a1250eab2d89590d6488f19"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasPowerPerAreaQuarticTemperatureValue"
         }
     },
     "allOf": [

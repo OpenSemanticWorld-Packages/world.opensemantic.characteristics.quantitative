@@ -19,5 +19,34 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW906ec11166b8596695dcc1457c87db94"
+    "quantity": "Item:OSW906ec11166b8596695dcc1457c87db94",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW7f2c167c5a39550d91c1f95cc01a9a11",
+            "name": "watt_per_meter_squared",
+            "symbol": "W/m²"
+        },
+        {
+            "osw_id": "Item:OSW7f2c167c5a39550d91c1f95cc01a9a11#OSWa735be7b016c510f98dd404ee42c6722",
+            "name": "watt_per_centi_meter_squared",
+            "symbol": "W/cm²"
+        },
+        {
+            "osw_id": "Item:OSW7f2c167c5a39550d91c1f95cc01a9a11#OSWbec47ab085945564b8bc080ab7934395",
+            "name": "micro_watt_per_meter_squared",
+            "symbol": "µW/m²"
+        },
+        {
+            "osw_id": "Item:OSW7f2c167c5a39550d91c1f95cc01a9a11#OSWf33a1a99c6055b178a0b973e57e1aacb",
+            "name": "milli_watt_per_meter_squared",
+            "symbol": "mW/m²"
+        },
+        {
+            "osw_id": "Item:OSW7f2c167c5a39550d91c1f95cc01a9a11#OSWf194c328c8ef587c823773008774afc8",
+            "name": "pico_watt_per_meter_squared",
+            "symbol": "pW/m²"
+        }
+    ],
+    "quantity_property": "Property:HasPowerPerAreaValue",
+    "default_unit": "Item:OSW7f2c167c5a39550d91c1f95cc01a9a11"
 }

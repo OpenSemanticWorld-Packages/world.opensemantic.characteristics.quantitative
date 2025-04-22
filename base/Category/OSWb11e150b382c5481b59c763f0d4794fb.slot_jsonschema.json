@@ -32,17 +32,28 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "MobilityUnit",
+                    "enum": [
+                        "Item:OSWb2b78d963e4e54d7b5e64db90eb5fad2",
+                        "Item:OSWb2b78d963e4e54d7b5e64db90eb5fad2#OSW5912aba53a8b5951ae88d643b40ff33d"
+                    ],
+                    "x-enum-varnames": [
+                        "meter_squared_per_second_per_volt",
+                        "centi_meter_squared_per_second_per_volt"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW8753c936eb01513dbd3a1b3f349b44a9]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW8753c936eb01513dbd3a1b3f349b44a9]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "m²/(V·s)",
+                            "cm²/(V·s)"
+                        ]
+                    },
+                    "default": "Item:OSWb2b78d963e4e54d7b5e64db90eb5fad2"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasMobilityValue"
         }
     },
     "allOf": [

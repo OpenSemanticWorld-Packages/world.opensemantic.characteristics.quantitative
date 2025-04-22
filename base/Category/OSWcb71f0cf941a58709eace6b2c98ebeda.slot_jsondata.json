@@ -30,5 +30,24 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWd4cc2ba695c25075b158891f4da7c270"
+    "quantity": "Item:OSWd4cc2ba695c25075b158891f4da7c270",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW501738b1f645568c9c4fb6da844439c7",
+            "name": "joule_per_kelvin",
+            "symbol": "J/K"
+        },
+        {
+            "osw_id": "Item:OSW501738b1f645568c9c4fb6da844439c7#OSW7b31ddba89fc5359972c09eda7f30683",
+            "name": "kilo_joule_per_kelvin",
+            "symbol": "kJ/K"
+        },
+        {
+            "osw_id": "Item:OSW501738b1f645568c9c4fb6da844439c7#OSWf8925d2e60865f589809095c9e172dbe",
+            "name": "mega_joule_per_kelvin",
+            "symbol": "MJ/K"
+        }
+    ],
+    "quantity_property": "Property:HasEntropyValue",
+    "default_unit": "Item:OSW501738b1f645568c9c4fb6da844439c7"
 }

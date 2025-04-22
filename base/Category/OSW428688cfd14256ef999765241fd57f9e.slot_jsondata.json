@@ -26,5 +26,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWd86694cd89e6560a9651789b50ef3448"
+    "quantity": "Item:OSWd86694cd89e6560a9651789b50ef3448",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW9ed3650077ea5a42931687ccd72f11ba",
+            "name": "coulomb_squared_meter_squared_per_joule",
+            "symbol": "C²·m²/J"
+        }
+    ],
+    "quantity_property": "Property:HasPolarisabilityValue",
+    "default_unit": "Item:OSW9ed3650077ea5a42931687ccd72f11ba"
 }

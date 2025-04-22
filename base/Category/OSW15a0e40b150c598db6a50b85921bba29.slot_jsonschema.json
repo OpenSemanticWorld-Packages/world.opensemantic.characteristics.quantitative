@@ -29,19 +29,12 @@
                     "default": [
                         "Category:OSW15a0e40b150c598db6a50b85921bba29"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW2942a7baa40f5e2b9a578759acef6ec6]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW2942a7baa40f5e2b9a578759acef6ec6]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasNuclearRadiusValue"
         }
     },
     "allOf": [

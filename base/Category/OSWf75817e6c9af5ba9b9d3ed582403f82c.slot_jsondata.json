@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "uuid": "f75817e6-c9af-5ba9-b9d3-ed582403f82c",
     "close_ontology_match": [
@@ -22,8 +22,5 @@
     "subclass_of": [
         "Category:OSW389cb87d31be515aa5d2f12e2b66e938"
     ],
-    "metaclass": [
-        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
-    ],
-    "quantity": "Item:OSW86f40d0f8df55e898a469f9c52e49179"
+    "quantity_property": "Property:HasFishBiotransformationHalfLifeValue"
 }

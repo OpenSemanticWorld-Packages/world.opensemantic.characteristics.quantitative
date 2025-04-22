@@ -30,5 +30,114 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW94db60db7d025e5faf85c193158edb5e"
+    "quantity": "Item:OSW94db60db7d025e5faf85c193158edb5e",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWb74ce812542f578fb6df2ecf9080fb32",
+            "name": "coulomb",
+            "symbol": "C"
+        },
+        {
+            "osw_id": "Item:OSWb74ce812542f578fb6df2ecf9080fb32#OSW43d7083218b858a784ef5d19c42606ea",
+            "name": "deci_coulomb",
+            "symbol": "dC"
+        },
+        {
+            "osw_id": "Item:OSWb74ce812542f578fb6df2ecf9080fb32#OSW1010057c769a56eb975e76734b40a1a3",
+            "name": "atto_coulomb",
+            "symbol": "aC"
+        },
+        {
+            "osw_id": "Item:OSWb74ce812542f578fb6df2ecf9080fb32#OSW43bcc13fe0d75ff7aa494e24507f4d3b",
+            "name": "zetta_coulomb",
+            "symbol": "ZC"
+        },
+        {
+            "osw_id": "Item:OSWb74ce812542f578fb6df2ecf9080fb32#OSW0dc82895087a55999831834657f5271c",
+            "name": "deca_coulomb",
+            "symbol": "daC"
+        },
+        {
+            "osw_id": "Item:OSWb74ce812542f578fb6df2ecf9080fb32#OSWaad8fcf05ad653449218daabfbf35641",
+            "name": "micro_coulomb",
+            "symbol": "μC"
+        },
+        {
+            "osw_id": "Item:OSWb74ce812542f578fb6df2ecf9080fb32#OSW5f73734ea6a95b52b9800cf85ca23f55",
+            "name": "hecto_coulomb",
+            "symbol": "hC"
+        },
+        {
+            "osw_id": "Item:OSWb74ce812542f578fb6df2ecf9080fb32#OSW39159f1f4ebe549581554b919caa87c9",
+            "name": "nano_coulomb",
+            "symbol": "nC"
+        },
+        {
+            "osw_id": "Item:OSWb74ce812542f578fb6df2ecf9080fb32#OSW90fb959a831b5b29bc86fdabb41679fb",
+            "name": "peta_coulomb",
+            "symbol": "PC"
+        },
+        {
+            "osw_id": "Item:OSWb74ce812542f578fb6df2ecf9080fb32#OSW868f3e7ae7985d7b9b31e1c28651024f",
+            "name": "tera_coulomb",
+            "symbol": "TC"
+        },
+        {
+            "osw_id": "Item:OSWb74ce812542f578fb6df2ecf9080fb32#OSWc9bf34efc99e5a6da522bedea2769891",
+            "name": "femto_coulomb",
+            "symbol": "fC"
+        },
+        {
+            "osw_id": "Item:OSWb74ce812542f578fb6df2ecf9080fb32#OSW130e4feb48905369a2b4f8549cf498cc",
+            "name": "milli_coulomb",
+            "symbol": "mC"
+        },
+        {
+            "osw_id": "Item:OSWb74ce812542f578fb6df2ecf9080fb32#OSWf9b7fd9f6d9a5b1ebbb7ac2adda29b10",
+            "name": "mega_coulomb",
+            "symbol": "MC"
+        },
+        {
+            "osw_id": "Item:OSWb74ce812542f578fb6df2ecf9080fb32#OSW616dce3dfe0055bd88ea35a440e65a2e",
+            "name": "centi_coulomb",
+            "symbol": "cC"
+        },
+        {
+            "osw_id": "Item:OSWb74ce812542f578fb6df2ecf9080fb32#OSW4c8584e32f38539293526c1db8fe6628",
+            "name": "pico_coulomb",
+            "symbol": "pC"
+        },
+        {
+            "osw_id": "Item:OSWb74ce812542f578fb6df2ecf9080fb32#OSWc0aeba8244d654cf9cd85d525355f3c6",
+            "name": "yocto_coulomb",
+            "symbol": "yC"
+        },
+        {
+            "osw_id": "Item:OSWb74ce812542f578fb6df2ecf9080fb32#OSW736c323569ea5b37a7ca958e00a76396",
+            "name": "zepto_coulomb",
+            "symbol": "zC"
+        },
+        {
+            "osw_id": "Item:OSWb74ce812542f578fb6df2ecf9080fb32#OSWfede83a73c325b43ab83ccb35d723742",
+            "name": "yotta_coulomb",
+            "symbol": "YC"
+        },
+        {
+            "osw_id": "Item:OSWb74ce812542f578fb6df2ecf9080fb32#OSW6af96f8a91725e68a767d9b96a70be03",
+            "name": "kilo_coulomb",
+            "symbol": "kC"
+        },
+        {
+            "osw_id": "Item:OSWb74ce812542f578fb6df2ecf9080fb32#OSWcfbed671b98954a381651182a70a1b7c",
+            "name": "giga_coulomb",
+            "symbol": "GC"
+        },
+        {
+            "osw_id": "Item:OSWb74ce812542f578fb6df2ecf9080fb32#OSWed659a23620d591ca13a9fb09d45f602",
+            "name": "exa_coulomb",
+            "symbol": "EC"
+        }
+    ],
+    "quantity_property": "Property:HasElectricChargeValue",
+    "default_unit": "Item:OSWb74ce812542f578fb6df2ecf9080fb32"
 }

@@ -29,17 +29,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "LengthMassUnit",
+                    "enum": [
+                        "Item:OSW4a5d124e14e45b8c95bebb544ce245b6"
+                    ],
+                    "x-enum-varnames": [
+                        "kilo_gram_meter"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWca0af92d73865e2ca22aa5299c69d73f]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWca0af92d73865e2ca22aa5299c69d73f]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "m·kg"
+                        ]
+                    },
+                    "default": "Item:OSW4a5d124e14e45b8c95bebb544ce245b6"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasLengthMassValue"
         }
     },
     "allOf": [

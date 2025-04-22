@@ -1,0 +1,38 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "fde2a071-8a7c-5aec-a158-2631aec8f5e1",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MassSpecificBiogeochemicalRate"
+    ],
+    "name": "MassSpecificBiogeochemicalRate",
+    "label": [
+        {
+            "text": "Mass Specific Biogeochemical Rate",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "the rate at which a specific chemical element or compound is processed or transformed within an ecosystem, calculated per unit mass of the relevant biological material. Unreduced, SI unit is g * g-1 * s-1",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWe114cdd9faad59b7bb5fe00221dc9cfc",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWe362097950ff5522865e835757765c17",
+            "name": "micro_gram_per_day_per_gram",
+            "symbol": "μg/(g·d)"
+        }
+    ],
+    "quantity_property": "Property:HasMassSpecificBiogeochemicalRateValue",
+    "default_unit": "Item:OSWe362097950ff5522865e835757765c17"
+}

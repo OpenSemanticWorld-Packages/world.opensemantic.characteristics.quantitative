@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "ThermalInsulanceUnit",
+                    "enum": [
+                        "Item:OSWeb19f8b7b92a5f09a0a4a398d29021dc"
+                    ],
+                    "x-enum-varnames": [
+                        "kelvin_meter_squared_per_watt"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW68c541ee3f4552df8dd880dcdb68f194]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW68c541ee3f4552df8dd880dcdb68f194]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "m²·K/W"
+                        ]
+                    },
+                    "default": "Item:OSWeb19f8b7b92a5f09a0a4a398d29021dc"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasThermalInsulanceValue"
         }
     },
     "allOf": [

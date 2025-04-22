@@ -27,19 +27,12 @@
                     "default": [
                         "Category:OSWcd40c1d85109521da9cb3b34f13e2671"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW2d188fb8079c57cf9ef215a038392fe5]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW2d188fb8079c57cf9ef215a038392fe5]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasMolarInternalEnergyValue"
         }
     },
     "allOf": [

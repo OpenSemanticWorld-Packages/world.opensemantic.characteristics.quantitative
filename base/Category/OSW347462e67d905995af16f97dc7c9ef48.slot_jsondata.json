@@ -31,5 +31,19 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWf835375a4ae459009f80ad186247aef7"
+    "quantity": "Item:OSWf835375a4ae459009f80ad186247aef7",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWb91fd68d93375855a57c795180c429a3",
+            "name": "meter_per_second_squared",
+            "symbol": "m/s²"
+        },
+        {
+            "osw_id": "Item:OSWb91fd68d93375855a57c795180c429a3#OSW014676a1d72e5f16a59a8d966253ab6f",
+            "name": "centi_meter_per_second_squared",
+            "symbol": "cm/s²"
+        }
+    ],
+    "quantity_property": "Property:HasAccelerationValue",
+    "default_unit": "Item:OSWb91fd68d93375855a57c795180c429a3"
 }

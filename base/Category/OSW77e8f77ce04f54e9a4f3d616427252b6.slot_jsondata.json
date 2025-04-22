@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW63479217569d502c8891bf4cdc547334"
+    "quantity": "Item:OSW63479217569d502c8891bf4cdc547334",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW555ce8e01951566b8507f419b1987b04",
+            "name": "meter_squared_radian_per_kilo_gram",
+            "symbol": "rad·m²/kg"
+        }
+    ],
+    "quantity_property": "Property:HasSpecificOpticalRotatoryPowerValue",
+    "default_unit": "Item:OSW555ce8e01951566b8507f419b1987b04"
 }

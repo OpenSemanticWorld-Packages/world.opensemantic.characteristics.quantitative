@@ -29,17 +29,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "LengthEnergyUnit",
+                    "enum": [
+                        "Item:OSW8a2c52d852d358a79e43fa4496c65528"
+                    ],
+                    "x-enum-varnames": [
+                        "fermi_mega_electron_volt"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW81700c3cc3bf57e6a043623aeef9b778]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW81700c3cc3bf57e6a043623aeef9b778]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "MeV·fm"
+                        ]
+                    },
+                    "default": "Item:OSW8a2c52d852d358a79e43fa4496c65528"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasLengthEnergyValue"
         }
     },
     "allOf": [

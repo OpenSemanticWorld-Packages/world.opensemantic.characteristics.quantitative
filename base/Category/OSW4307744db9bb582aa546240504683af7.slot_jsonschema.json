@@ -29,17 +29,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "InversePermittivityUnit",
+                    "enum": [
+                        "Item:OSW7897b70c933d560b918444de17703f23"
+                    ],
+                    "x-enum-varnames": [
+                        "meter_per_farad"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW46dae0da5ca851cd9d10ec3ae0da828a]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW46dae0da5ca851cd9d10ec3ae0da828a]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "m/F"
+                        ]
+                    },
+                    "default": "Item:OSW7897b70c933d560b918444de17703f23"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasInversePermittivityValue"
         }
     },
     "allOf": [

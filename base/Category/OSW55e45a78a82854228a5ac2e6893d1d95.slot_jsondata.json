@@ -30,5 +30,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWcaf3b59816fa577480bed4062b6086c1"
+    "quantity": "Item:OSWcaf3b59816fa577480bed4062b6086c1",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW3e3198453a27527ead13a1e41cd9d0f0",
+            "name": "kelvin_per_watt",
+            "symbol": "K/W"
+        }
+    ],
+    "quantity_property": "Property:HasThermalResistanceValue",
+    "default_unit": "Item:OSW3e3198453a27527ead13a1e41cd9d0f0"
 }

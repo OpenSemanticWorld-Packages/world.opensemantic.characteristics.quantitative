@@ -29,19 +29,12 @@
                     "default": [
                         "Category:OSW487ed07f775b5dc2b0f8185d06e33fb8"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWda64e30338dd5c3fadd232b7708f3b1f]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWda64e30338dd5c3fadd232b7708f3b1f]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasThermalEnergyValue"
         }
     },
     "allOf": [

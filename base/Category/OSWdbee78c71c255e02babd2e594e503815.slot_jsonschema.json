@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "MassPerEnergyUnit",
+                    "enum": [
+                        "Item:OSW0ab2af45d05c527d8fe20509629f9ae3"
+                    ],
+                    "x-enum-varnames": [
+                        "kilo_gram_per_joule"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW5b68dbcd6d0c56459a31071b9b04db2d]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW5b68dbcd6d0c56459a31071b9b04db2d]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "kg/J"
+                        ]
+                    },
+                    "default": "Item:OSW0ab2af45d05c527d8fe20509629f9ae3"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasMassPerEnergyValue"
         }
     },
     "allOf": [

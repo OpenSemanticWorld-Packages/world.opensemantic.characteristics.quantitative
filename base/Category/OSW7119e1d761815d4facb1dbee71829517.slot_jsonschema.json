@@ -30,19 +30,12 @@
                     "default": [
                         "Category:OSW7119e1d761815d4facb1dbee71829517"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW81eca47781b65aeb8307f91f449eb166]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW81eca47781b65aeb8307f91f449eb166]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasChemicalPotentialValue"
         }
     },
     "allOf": [

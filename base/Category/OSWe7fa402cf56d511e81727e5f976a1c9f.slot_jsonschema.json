@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "RadiantIntensityUnit",
+                    "enum": [
+                        "Item:OSWeb74cc6d085859178ff708d39709ea29"
+                    ],
+                    "x-enum-varnames": [
+                        "watt_per_steradian"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWb65a8cca88fa53aeb0c1c57e9ea70fc6]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWb65a8cca88fa53aeb0c1c57e9ea70fc6]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "W/sr"
+                        ]
+                    },
+                    "default": "Item:OSWeb74cc6d085859178ff708d39709ea29"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasRadiantIntensityValue"
         }
     },
     "allOf": [

@@ -25,5 +25,24 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWa0e993cf5f075bbba399a3e24754629a"
+    "quantity": "Item:OSWa0e993cf5f075bbba399a3e24754629a",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW03b25e9a7cef5adeb7f3d5f82115dfc3",
+            "name": "becquerel_per_kilo_gram",
+            "symbol": "Bq/kg"
+        },
+        {
+            "osw_id": "Item:OSW03b25e9a7cef5adeb7f3d5f82115dfc3#OSWc896c96c6de8521181daee0118de2c5b",
+            "name": "milli_becquerel_per_kilo_gram",
+            "symbol": "mBq/kg"
+        },
+        {
+            "osw_id": "Item:OSW03b25e9a7cef5adeb7f3d5f82115dfc3#OSW23b3668ed7d3501da40aaa0a4e9f765e",
+            "name": "micro_becquerel_per_kilo_gram",
+            "symbol": "μBq/kg"
+        }
+    ],
+    "quantity_property": "Property:HasSpecificActivityValue",
+    "default_unit": "Item:OSW03b25e9a7cef5adeb7f3d5f82115dfc3"
 }

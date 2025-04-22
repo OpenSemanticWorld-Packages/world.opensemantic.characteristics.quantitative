@@ -19,5 +19,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWb5b7aad98dd25e2cb84c279249ac5310"
+    "quantity": "Item:OSWb5b7aad98dd25e2cb84c279249ac5310",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWb4031d8f85595a128c76bdeb7bb1cbd7",
+            "name": "joule_meter_per_mole",
+            "symbol": "J·m/mol"
+        }
+    ],
+    "quantity_property": "Property:HasLengthMolarEnergyValue",
+    "default_unit": "Item:OSWb4031d8f85595a128c76bdeb7bb1cbd7"
 }

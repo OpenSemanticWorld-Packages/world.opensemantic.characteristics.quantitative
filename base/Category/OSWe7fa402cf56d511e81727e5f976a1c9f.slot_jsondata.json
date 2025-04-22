@@ -26,5 +26,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWb65a8cca88fa53aeb0c1c57e9ea70fc6"
+    "quantity": "Item:OSWb65a8cca88fa53aeb0c1c57e9ea70fc6",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWeb74cc6d085859178ff708d39709ea29",
+            "name": "watt_per_steradian",
+            "symbol": "W/sr"
+        }
+    ],
+    "quantity_property": "Property:HasRadiantIntensityValue",
+    "default_unit": "Item:OSWeb74cc6d085859178ff708d39709ea29"
 }

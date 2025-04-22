@@ -25,5 +25,34 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWc841fdbe7bb7526182908ff6f2e764be"
+    "quantity": "Item:OSWc841fdbe7bb7526182908ff6f2e764be",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW0747b5382b955ef2adef0e4c4b1efa81",
+            "name": "joule_per_meter_squared",
+            "symbol": "J/m²"
+        },
+        {
+            "osw_id": "Item:OSW0747b5382b955ef2adef0e4c4b1efa81#OSWf9cdbd6556545d55a9bde1a0915a9545",
+            "name": "mega_joule_per_meter_squared",
+            "symbol": "MJ/m²"
+        },
+        {
+            "osw_id": "Item:OSW0747b5382b955ef2adef0e4c4b1efa81#OSW3b9b7dca35ec5f7995ba76de650fcadf",
+            "name": "milli_joule_per_meter_squared",
+            "symbol": "mJ/m²"
+        },
+        {
+            "osw_id": "Item:OSW0747b5382b955ef2adef0e4c4b1efa81#OSW16b24f4ffe12585aa114fbefbf3dbd5b",
+            "name": "joule_per_centi_meter_squared",
+            "symbol": "J/cm²"
+        },
+        {
+            "osw_id": "Item:OSW0747b5382b955ef2adef0e4c4b1efa81#OSW48c62f71ae5a512ca24dcb6059999b8d",
+            "name": "giga_joule_per_meter_squared",
+            "symbol": "GJ/m²"
+        }
+    ],
+    "quantity_property": "Property:HasRadiantFluenceValue",
+    "default_unit": "Item:OSW0747b5382b955ef2adef0e4c4b1efa81"
 }

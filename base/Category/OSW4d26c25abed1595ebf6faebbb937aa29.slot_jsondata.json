@@ -29,5 +29,19 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW8be3750c828c5654b14ede221fb92f55"
+    "quantity": "Item:OSW8be3750c828c5654b14ede221fb92f55",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWe1310c5fc4e65dc68ddc749604c7d758",
+            "name": "meter_squared_per_watt",
+            "symbol": "m²/W"
+        },
+        {
+            "osw_id": "Item:OSWe1310c5fc4e65dc68ddc749604c7d758#OSW1e8006cf834952ab86733cd87ed7be1c",
+            "name": "meter_squared_per_kilo_watt",
+            "symbol": "m²/kW"
+        }
+    ],
+    "quantity_property": "Property:HasAreaPerHeatingLoadValue",
+    "default_unit": "Item:OSWe1310c5fc4e65dc68ddc749604c7d758"
 }

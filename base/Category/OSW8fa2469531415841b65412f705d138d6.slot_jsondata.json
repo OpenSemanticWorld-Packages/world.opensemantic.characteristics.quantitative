@@ -27,5 +27,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW4683511b386659fb870a7a60bd4c968e"
+    "quantity": "Item:OSW4683511b386659fb870a7a60bd4c968e",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW3b1e36710511523da37025a70b6a305d",
+            "name": "meter_squared_per_kelvin_per_second_squared",
+            "symbol": "m²/(s²·K)"
+        }
+    ],
+    "quantity_property": "Property:HasSpecificHeatCapacityValue",
+    "default_unit": "Item:OSW3b1e36710511523da37025a70b6a305d"
 }

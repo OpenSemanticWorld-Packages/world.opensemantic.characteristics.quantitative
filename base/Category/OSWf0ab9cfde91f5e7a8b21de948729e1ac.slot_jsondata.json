@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "uuid": "f0ab9cfd-e91f-5e7a-8b21-de948729e1ac",
     "close_ontology_match": [
@@ -22,8 +22,5 @@
     "subclass_of": [
         "Category:OSW74ae1de66beb525ea52eedabf09ab228"
     ],
-    "metaclass": [
-        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
-    ],
-    "quantity": "Item:OSW1fd23e168f9a56569ef993194cce93b3"
+    "quantity_property": "Property:HasShearStressValue"
 }

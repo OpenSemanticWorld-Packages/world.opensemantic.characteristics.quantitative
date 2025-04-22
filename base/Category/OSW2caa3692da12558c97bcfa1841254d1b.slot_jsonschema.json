@@ -29,17 +29,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "QuarticElectricDipoleMomentPerCubicEnergyUnit",
+                    "enum": [
+                        "Item:OSWe0b098248f7557aaa6a892a6ecbd32b8"
+                    ],
+                    "x-enum-varnames": [
+                        "4_per_joule_cubed"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW81eca47781b65aeb8307f91f449eb166]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW81eca47781b65aeb8307f91f449eb166]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "C⁴·m⁴/J³"
+                        ]
+                    },
+                    "default": "Item:OSWe0b098248f7557aaa6a892a6ecbd32b8"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasQuarticElectricDipoleMomentPerCubicEnergyValue"
         }
     },
     "allOf": [

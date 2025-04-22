@@ -31,5 +31,34 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWff6f0f58b8ea504a813367bfd8d63fc6"
+    "quantity": "Item:OSWff6f0f58b8ea504a813367bfd8d63fc6",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW2b1e97f1edd650c088abbe8896fe0333",
+            "name": "ampere_per_meter_squared",
+            "symbol": "A/m²"
+        },
+        {
+            "osw_id": "Item:OSW2b1e97f1edd650c088abbe8896fe0333#OSWd0a4ce0cc105550b9bcbc416589a1b85",
+            "name": "mega_ampere_per_meter_squared",
+            "symbol": "MA/m²"
+        },
+        {
+            "osw_id": "Item:OSW2b1e97f1edd650c088abbe8896fe0333#OSWa80d9ac2c0455902ab9531512c9b7667",
+            "name": "kilo_ampere_per_meter_squared",
+            "symbol": "kA/m²"
+        },
+        {
+            "osw_id": "Item:OSW2b1e97f1edd650c088abbe8896fe0333#OSW8d7d0b57aaba5f8a8f40e8bacc5cb2f6",
+            "name": "ampere_per_milli_meter_squared",
+            "symbol": "A/mm²"
+        },
+        {
+            "osw_id": "Item:OSW2b1e97f1edd650c088abbe8896fe0333#OSWec1a540d03745760af1d26077e9d762e",
+            "name": "ampere_per_centi_meter_squared",
+            "symbol": "A/cm²"
+        }
+    ],
+    "quantity_property": "Property:HasElectricCurrentDensityValue",
+    "default_unit": "Item:OSW2b1e97f1edd650c088abbe8896fe0333"
 }

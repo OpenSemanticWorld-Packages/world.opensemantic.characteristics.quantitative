@@ -29,17 +29,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "InverseSquareTimeUnit",
+                    "enum": [
+                        "Item:OSWbefab75c6042567c84545b5fab456055"
+                    ],
+                    "x-enum-varnames": [
+                        "per_second_squared"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWd2bfe9c30ce2585396dc84fd44d51ee7]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWd2bfe9c30ce2585396dc84fd44d51ee7]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "1/s²"
+                        ]
+                    },
+                    "default": "Item:OSWbefab75c6042567c84545b5fab456055"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasInverseSquareTimeValue"
         }
     },
     "allOf": [

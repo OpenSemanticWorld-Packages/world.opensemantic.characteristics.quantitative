@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "SpecificSurfaceAreaUnit",
+                    "enum": [
+                        "Item:OSWd7015166d39d5cae866a40eac3d51896#OSWc811db362efa5d33a49b56ffdd77e54d"
+                    ],
+                    "x-enum-varnames": [
+                        "meter_squared_per_kilo_gram"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWd7be48e92b265f2d894583ccc298b6f0]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWd7be48e92b265f2d894583ccc298b6f0]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "m²/kg"
+                        ]
+                    },
+                    "default": "Item:OSWd7015166d39d5cae866a40eac3d51896#OSWc811db362efa5d33a49b56ffdd77e54d"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasSpecificSurfaceAreaValue"
         }
     },
     "allOf": [

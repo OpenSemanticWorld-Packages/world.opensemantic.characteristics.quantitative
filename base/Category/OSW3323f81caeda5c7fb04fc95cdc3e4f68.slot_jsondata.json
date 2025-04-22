@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "uuid": "3323f81c-aeda-5c7f-b04f-c95cdc3e4f68",
     "close_ontology_match": [
@@ -16,8 +16,5 @@
     "subclass_of": [
         "Category:OSW389cb87d31be515aa5d2f12e2b66e938"
     ],
-    "metaclass": [
-        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
-    ],
-    "quantity": "Item:OSWd5027d2f50f25fabba0134284da2a328"
+    "quantity_property": "Property:HasIgnitionIntervalTimeValue"
 }

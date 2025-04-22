@@ -27,5 +27,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW2cfe41cc5e625e029378332ec29f10cd"
+    "quantity": "Item:OSW2cfe41cc5e625e029378332ec29f10cd",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW0fb024653eb9557482d93f027840ee33#OSW27784b13f8b75b47875a87f13de1cde9",
+            "name": "milli_joule_per_gram",
+            "symbol": "mJ/g"
+        }
+    ],
+    "quantity_property": "Property:HasSpecificEnergyValue",
+    "default_unit": "Item:OSW0fb024653eb9557482d93f027840ee33#OSW27784b13f8b75b47875a87f13de1cde9"
 }

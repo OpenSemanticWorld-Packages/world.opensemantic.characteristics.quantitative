@@ -29,17 +29,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "VolumePerUnitAreaUnit",
+                    "enum": [
+                        "Item:OSWa2c814499650570090ea4ac058c81e3b"
+                    ],
+                    "x-enum-varnames": [
+                        "meter"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW5f30cc2bcd4f5f6f936bb735d9376134]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW5f30cc2bcd4f5f6f936bb735d9376134]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "m³/m²"
+                        ]
+                    },
+                    "default": "Item:OSWa2c814499650570090ea4ac058c81e3b"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasVolumePerUnitAreaValue"
         }
     },
     "allOf": [

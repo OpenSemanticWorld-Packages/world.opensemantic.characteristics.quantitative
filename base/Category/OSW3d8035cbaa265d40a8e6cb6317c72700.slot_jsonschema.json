@@ -29,17 +29,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "LengthTemperatureTimeUnit",
+                    "enum": [
+                        "Item:OSW47b476c946d35bde93b5757a8e2d3d1b"
+                    ],
+                    "x-enum-varnames": [
+                        "centi_meter_Celsius_second"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW14acd216b5ce56749247380e5eeb170b]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW14acd216b5ce56749247380e5eeb170b]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "cm·s·°C"
+                        ]
+                    },
+                    "default": "Item:OSW47b476c946d35bde93b5757a8e2d3d1b"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasLengthTemperatureTimeValue"
         }
     },
     "allOf": [

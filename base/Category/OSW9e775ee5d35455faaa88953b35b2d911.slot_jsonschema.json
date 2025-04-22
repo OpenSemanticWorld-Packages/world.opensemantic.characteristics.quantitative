@@ -31,17 +31,31 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "MassPerAreaTimeUnit",
+                    "enum": [
+                        "Item:OSWb2902ae1df0b561682bfc174af5ff039",
+                        "Item:OSWb2902ae1df0b561682bfc174af5ff039#OSW93a70588ce305c56aa1c3d6417632649",
+                        "Item:OSWb2902ae1df0b561682bfc174af5ff039#OSWae40efaa247650f38362d522eabf49ca"
+                    ],
+                    "x-enum-varnames": [
+                        "gram_per_day_per_meter_squared",
+                        "milli_gram_per_day_per_meter_squared",
+                        "micro_gram_per_day_per_meter_squared"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW355991130bb05ab39e068c0cc8028094]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW355991130bb05ab39e068c0cc8028094]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "g/(m²·d)",
+                            "mg/(m²·d)",
+                            "μg/(m²·d)"
+                        ]
+                    },
+                    "default": "Item:OSWb2902ae1df0b561682bfc174af5ff039"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasMassPerAreaTimeValue"
         }
     },
     "allOf": [

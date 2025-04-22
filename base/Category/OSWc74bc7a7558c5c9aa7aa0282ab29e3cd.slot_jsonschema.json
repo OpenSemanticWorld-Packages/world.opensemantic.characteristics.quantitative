@@ -27,19 +27,12 @@
                     "default": [
                         "Category:OSWc74bc7a7558c5c9aa7aa0282ab29e3cd"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW7a02f02a0917501294c71824f0ee021b]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW7a02f02a0917501294c71824f0ee021b]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasStageStructureMassValue"
         }
     },
     "allOf": [

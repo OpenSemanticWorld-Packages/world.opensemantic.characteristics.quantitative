@@ -27,5 +27,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW3f1801f34a3756839fbbb79e6a46befc"
+    "quantity": "Item:OSW3f1801f34a3756839fbbb79e6a46befc",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW73fc60d9e1dd5337a5f4befdc3646012",
+            "name": "katal",
+            "symbol": "kat"
+        }
+    ],
+    "quantity_property": "Property:HasCatalyticActivityValue",
+    "default_unit": "Item:OSW73fc60d9e1dd5337a5f4befdc3646012"
 }

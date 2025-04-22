@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "uuid": "b6892111-1fae-5bca-a1d6-128bc8be6615",
     "close_ontology_match": [
@@ -24,8 +24,5 @@
     "subclass_of": [
         "Category:OSW9a32b5a84f235a0cb0a9e9fba9bd252e"
     ],
-    "metaclass": [
-        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
-    ],
-    "quantity": "Item:OSW9b3018fb7171589c8c991758cd999a02"
+    "quantity_property": "Property:HasAbsorbedDoseValue"
 }

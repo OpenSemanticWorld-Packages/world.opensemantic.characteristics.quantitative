@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "SeebeckCoefficientUnit",
+                    "enum": [
+                        "Item:OSW8998763d58065a069429e7e6fe3c153a"
+                    ],
+                    "x-enum-varnames": [
+                        "volt_per_kelvin"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW6200b9dd22c8537caf511f55be65ede5]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW6200b9dd22c8537caf511f55be65ede5]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "V/K"
+                        ]
+                    },
+                    "default": "Item:OSW8998763d58065a069429e7e6fe3c153a"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasSeebeckCoefficientValue"
         }
     },
     "allOf": [

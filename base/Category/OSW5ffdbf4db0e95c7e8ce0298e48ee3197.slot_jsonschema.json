@@ -29,17 +29,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "ForcePerAreaTimeUnit",
+                    "enum": [
+                        "Item:OSWda81752da4a7532fb7d5790cd2e41a1c"
+                    ],
+                    "x-enum-varnames": [
+                        "pascal_per_second"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW5ad545324110508b87287f9dfbf0a046]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW5ad545324110508b87287f9dfbf0a046]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "Pa/s"
+                        ]
+                    },
+                    "default": "Item:OSWda81752da4a7532fb7d5790cd2e41a1c"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasForcePerAreaTimeValue"
         }
     },
     "allOf": [

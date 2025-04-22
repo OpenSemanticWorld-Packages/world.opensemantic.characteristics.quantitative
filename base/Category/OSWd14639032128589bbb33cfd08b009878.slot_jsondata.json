@@ -19,5 +19,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWedc5afb3b6a95a119d88fb1f4987153a"
+    "quantity": "Item:OSWedc5afb3b6a95a119d88fb1f4987153a",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW0dddefef8d455a10adeaafa69cd3afd7",
+            "name": "per_joule_squared",
+            "symbol": "1/J²"
+        }
+    ],
+    "quantity_property": "Property:HasInverseSquareEnergyValue",
+    "default_unit": "Item:OSW0dddefef8d455a10adeaafa69cd3afd7"
 }

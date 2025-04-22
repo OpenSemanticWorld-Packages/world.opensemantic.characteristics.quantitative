@@ -31,17 +31,34 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "LinearThermalExpansionUnit",
+                    "enum": [
+                        "Item:OSWb2550b7d752e505bb62ecc632d6c20f9",
+                        "Item:OSWb2550b7d752e505bb62ecc632d6c20f9#OSW8aabb581b81c50b688909bbc187a92d1",
+                        "Item:OSWb2550b7d752e505bb62ecc632d6c20f9#OSW3585b69d1b325a36918e362b36dcd2b9",
+                        "Item:OSWb2550b7d752e505bb62ecc632d6c20f9#OSW023c203283725c8b814a69dd13cfcb92"
+                    ],
+                    "x-enum-varnames": [
+                        "meter_per_kelvin",
+                        "micro_meter_per_kelvin",
+                        "centi_meter_per_kelvin",
+                        "milli_meter_per_kelvin"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW317efef827dd575b9c99918e7abdfcc1]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW317efef827dd575b9c99918e7abdfcc1]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "m/K",
+                            "μm/K",
+                            "cm/K",
+                            "mm/K"
+                        ]
+                    },
+                    "default": "Item:OSWb2550b7d752e505bb62ecc632d6c20f9"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasLinearThermalExpansionValue"
         }
     },
     "allOf": [

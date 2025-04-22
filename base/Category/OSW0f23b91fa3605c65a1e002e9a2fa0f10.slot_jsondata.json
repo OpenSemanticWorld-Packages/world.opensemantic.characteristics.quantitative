@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW826fcfbbb5625943927e314ede359e6b"
+    "quantity": "Item:OSW826fcfbbb5625943927e314ede359e6b",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW58a109c7b24256769e6f6716407aff58#OSW42ad2b521cac599c9a5f08e3edd7d88a",
+            "name": "milli_mole_per_liter",
+            "symbol": "mmol/L"
+        }
+    ],
+    "quantity_property": "Property:HasBloodGlucoseLevelValue",
+    "default_unit": "Item:OSW58a109c7b24256769e6f6716407aff58#OSW42ad2b521cac599c9a5f08e3edd7d88a"
 }

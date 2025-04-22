@@ -29,17 +29,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "AreaAngleUnit",
+                    "enum": [
+                        "Item:OSW9f81b80e2dfd530c98579b65285d4f20"
+                    ],
+                    "x-enum-varnames": [
+                        "meter_squared_steradian"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW9018894d8a975b01a1cc94069e45f362]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW9018894d8a975b01a1cc94069e45f362]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "m²·sr"
+                        ]
+                    },
+                    "default": "Item:OSW9f81b80e2dfd530c98579b65285d4f20"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasAreaAngleValue"
         }
     },
     "allOf": [

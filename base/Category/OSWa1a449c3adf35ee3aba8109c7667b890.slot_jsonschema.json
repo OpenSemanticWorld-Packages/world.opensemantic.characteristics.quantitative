@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "AngularCrossSectionUnit",
+                    "enum": [
+                        "Item:OSWe9c4745c4d3a5c17a288b08a7f870ffc"
+                    ],
+                    "x-enum-varnames": [
+                        "meter_squared_per_steradian"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW0bbc7fb5c8e1534983dead4922e5d1be]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW0bbc7fb5c8e1534983dead4922e5d1be]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "m²/sr"
+                        ]
+                    },
+                    "default": "Item:OSWe9c4745c4d3a5c17a288b08a7f870ffc"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasAngularCrossSectionValue"
         }
     },
     "allOf": [

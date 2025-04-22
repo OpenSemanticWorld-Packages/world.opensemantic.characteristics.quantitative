@@ -27,19 +27,12 @@
                     "default": [
                         "Category:OSW1d953cfeca67574dadd6a6f0c42d7483"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW7ac78cc491fd52eda213e8afbfda8300]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW7ac78cc491fd52eda213e8afbfda8300]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasNozzleWallsThrustReactionValue"
         }
     },
     "allOf": [

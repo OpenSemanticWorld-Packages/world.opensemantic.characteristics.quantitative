@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW0bbc7fb5c8e1534983dead4922e5d1be"
+    "quantity": "Item:OSW0bbc7fb5c8e1534983dead4922e5d1be",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWe9c4745c4d3a5c17a288b08a7f870ffc",
+            "name": "meter_squared_per_steradian",
+            "symbol": "m²/sr"
+        }
+    ],
+    "quantity_property": "Property:HasAngularCrossSectionValue",
+    "default_unit": "Item:OSWe9c4745c4d3a5c17a288b08a7f870ffc"
 }

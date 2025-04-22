@@ -25,5 +25,24 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWe2f5705b13225f4ba33097a611087944"
+    "quantity": "Item:OSWe2f5705b13225f4ba33097a611087944",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW94bba2ee2f9a573eb5fa99c9331f1626",
+            "name": "meter_cubed_per_mole",
+            "symbol": "m³/mol"
+        },
+        {
+            "osw_id": "Item:OSW94bba2ee2f9a573eb5fa99c9331f1626#OSW6eaa02f1d5ad581f97e7e017fab31412",
+            "name": "deci_meter_cubed_per_mole",
+            "symbol": "dm³/mol"
+        },
+        {
+            "osw_id": "Item:OSW94bba2ee2f9a573eb5fa99c9331f1626#OSW90c99a00002b5483a1ac0638fdbe9078",
+            "name": "centi_meter_cubed_per_mole",
+            "symbol": "cm³/mol"
+        }
+    ],
+    "quantity_property": "Property:HasMolarRefractivityValue",
+    "default_unit": "Item:OSW94bba2ee2f9a573eb5fa99c9331f1626"
 }

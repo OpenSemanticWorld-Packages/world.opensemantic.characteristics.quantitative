@@ -26,5 +26,24 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW51273aeec07859f6b24a13aaf5072cc4"
+    "quantity": "Item:OSW51273aeec07859f6b24a13aaf5072cc4",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW12866a70d0a25caa932f30e99aceaf78",
+            "name": "henry_per_meter",
+            "symbol": "H/m"
+        },
+        {
+            "osw_id": "Item:OSW12866a70d0a25caa932f30e99aceaf78#OSW4c3c9d5890b9500c91bb519b11dbdd34",
+            "name": "micro_henry_per_meter",
+            "symbol": "μH/m"
+        },
+        {
+            "osw_id": "Item:OSW12866a70d0a25caa932f30e99aceaf78#OSW4c9c95ef060e5f40a9169574264d38b1",
+            "name": "nano_henry_per_meter",
+            "symbol": "nH/m"
+        }
+    ],
+    "quantity_property": "Property:HasPermeabilityValue",
+    "default_unit": "Item:OSW12866a70d0a25caa932f30e99aceaf78"
 }

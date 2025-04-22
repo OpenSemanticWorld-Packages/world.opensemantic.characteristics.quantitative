@@ -19,5 +19,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW1ed748521a3a536e866db456ea880101"
+    "quantity": "Item:OSW1ed748521a3a536e866db456ea880101",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWcd571060b6f15f6288ef0ea01ad2c692",
+            "name": "meter_squared_watt",
+            "symbol": "W·m²"
+        }
+    ],
+    "quantity_property": "Property:HasPowerAreaValue",
+    "default_unit": "Item:OSWcd571060b6f15f6288ef0ea01ad2c692"
 }

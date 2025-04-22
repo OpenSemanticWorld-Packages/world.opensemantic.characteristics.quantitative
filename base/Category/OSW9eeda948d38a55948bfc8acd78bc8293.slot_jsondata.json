@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW0c0cbde9b3c757439e73fb58a634b266"
+    "quantity": "Item:OSW0c0cbde9b3c757439e73fb58a634b266",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW8a3b2c786aeb55f7a8a6be1fe96329a1",
+            "name": "per_henry",
+            "symbol": "1/H"
+        }
+    ],
+    "quantity_property": "Property:HasReluctanceValue",
+    "default_unit": "Item:OSW8a3b2c786aeb55f7a8a6be1fe96329a1"
 }

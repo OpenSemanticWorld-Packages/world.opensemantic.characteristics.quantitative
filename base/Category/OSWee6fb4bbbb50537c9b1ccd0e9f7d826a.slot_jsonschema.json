@@ -29,19 +29,12 @@
                     "default": [
                         "Category:OSWee6fb4bbbb50537c9b1ccd0e9f7d826a"
                     ]
-                },
-                "unit": {
-                    "format": "autocomplete",
-                    "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW906ec11166b8596695dcc1457c87db94]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW906ec11166b8596695dcc1457c87db94]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasEffectiveExhaustvelocityValue"
         }
     },
     "allOf": [

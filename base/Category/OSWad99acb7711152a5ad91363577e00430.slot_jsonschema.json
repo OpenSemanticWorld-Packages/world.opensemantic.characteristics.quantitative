@@ -32,17 +32,28 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "ElectricPolarizabilityUnit",
+                    "enum": [
+                        "Item:OSW7e66beeef6b05637a554d3506d689000",
+                        "Item:OSW7e66beeef6b05637a554d3506d689000#OSW23b10a54326955adb1862933713551f9"
+                    ],
+                    "x-enum-varnames": [
+                        "joule_per_mole",
+                        "kilo_joule_per_mole"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW44f9e241b5455b67a842550c10430ffc]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW44f9e241b5455b67a842550c10430ffc]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "J/mol",
+                            "kJ/mol"
+                        ]
+                    },
+                    "default": "Item:OSW7e66beeef6b05637a554d3506d689000"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasElectricPolarizabilityValue"
         }
     },
     "allOf": [

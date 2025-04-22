@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "RotationalMassUnit",
+                    "enum": [
+                        "Item:OSWd211fc61709b5e48a4c96473c86a8d13"
+                    ],
+                    "x-enum-varnames": [
+                        "kilo_gram_meter_squared"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW059c739dae6153cc8ae56fd38b7e0933]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW059c739dae6153cc8ae56fd38b7e0933]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "kg·m²"
+                        ]
+                    },
+                    "default": "Item:OSWd211fc61709b5e48a4c96473c86a8d13"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasRotationalMassValue"
         }
     },
     "allOf": [

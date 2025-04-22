@@ -29,17 +29,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "MassPerTimeUnit",
+                    "enum": [
+                        "Item:OSW69c99f1ab4825dffbf3578e6d04cd58e"
+                    ],
+                    "x-enum-varnames": [
+                        "newton_second_per_meter"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW9c9d2a228088580fbf35ffb6dda0051d]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW9c9d2a228088580fbf35ffb6dda0051d]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "N·s/m"
+                        ]
+                    },
+                    "default": "Item:OSW69c99f1ab4825dffbf3578e6d04cd58e"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasMassPerTimeValue"
         }
     },
     "allOf": [

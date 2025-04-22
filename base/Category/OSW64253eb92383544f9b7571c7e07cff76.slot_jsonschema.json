@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "LuminousEfficacyUnit",
+                    "enum": [
+                        "Item:OSW1df25fb7ecc057a7a5e4de01e46158b8"
+                    ],
+                    "x-enum-varnames": [
+                        "lumen_per_watt"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW56f3e34882be5be987d575b0eaee83f7]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW56f3e34882be5be987d575b0eaee83f7]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "lm/W"
+                        ]
+                    },
+                    "default": "Item:OSW1df25fb7ecc057a7a5e4de01e46158b8"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasLuminousEfficacyValue"
         }
     },
     "allOf": [

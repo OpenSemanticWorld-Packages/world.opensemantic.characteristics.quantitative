@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW7a09e4a775a25c4d99a377483be824c6"
+    "quantity": "Item:OSW7a09e4a775a25c4d99a377483be824c6",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW580b455ce69e57418303f409d43f373a",
+            "name": "per_meter_squared_per_second",
+            "symbol": "1/(m²·s)"
+        }
+    ],
+    "quantity_property": "Property:HasParticleFluenceRateValue",
+    "default_unit": "Item:OSW580b455ce69e57418303f409d43f373a"
 }

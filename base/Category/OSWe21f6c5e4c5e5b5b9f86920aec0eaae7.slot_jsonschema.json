@@ -32,17 +32,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "ElectricDipoleMomentUnit",
+                    "enum": [
+                        "Item:OSW1daae0d7c4d35d3e8a523ce4f9c64970"
+                    ],
+                    "x-enum-varnames": [
+                        "coulomb_meter"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW36f32c9752ee5a8faa8bfdc1ed2d17a9]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW36f32c9752ee5a8faa8bfdc1ed2d17a9]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "C·m"
+                        ]
+                    },
+                    "default": "Item:OSW1daae0d7c4d35d3e8a523ce4f9c64970"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasElectricDipoleMomentValue"
         }
     },
     "allOf": [

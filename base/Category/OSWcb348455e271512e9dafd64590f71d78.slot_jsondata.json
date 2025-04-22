@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW509f64400f735a549488fee680995fa5"
+    "quantity": "Item:OSW509f64400f735a549488fee680995fa5",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWf030abd4441d52a7a8c5f84950985ea4",
+            "name": "per_pascal",
+            "symbol": "1/Pa"
+        }
+    ],
+    "quantity_property": "Property:HasIsentropicCompressibilityValue",
+    "default_unit": "Item:OSWf030abd4441d52a7a8c5f84950985ea4"
 }

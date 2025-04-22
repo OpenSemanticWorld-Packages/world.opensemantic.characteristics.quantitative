@@ -31,17 +31,25 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "SectionAreaIntegralUnit",
+                    "enum": [
+                        "Item:OSWe03debd3c6025a95b236f88c61ba0bac"
+                    ],
+                    "x-enum-varnames": [
+                        "5"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSW981d33b614835f5da4075a7a854e6ba5]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSW981d33b614835f5da4075a7a854e6ba5]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "m⁵"
+                        ]
+                    },
+                    "default": "Item:OSWe03debd3c6025a95b236f88c61ba0bac"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasSectionAreaIntegralValue"
         }
     },
     "allOf": [

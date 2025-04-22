@@ -25,5 +25,14 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW059c739dae6153cc8ae56fd38b7e0933"
+    "quantity": "Item:OSW059c739dae6153cc8ae56fd38b7e0933",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWd211fc61709b5e48a4c96473c86a8d13",
+            "name": "kilo_gram_meter_squared",
+            "symbol": "kg·m²"
+        }
+    ],
+    "quantity_property": "Property:HasRotationalMassValue",
+    "default_unit": "Item:OSWd211fc61709b5e48a4c96473c86a8d13"
 }

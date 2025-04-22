@@ -26,5 +26,44 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW1decca0570255b2a82d988bd588912e5"
+    "quantity": "Item:OSW1decca0570255b2a82d988bd588912e5",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWd855ce693a6d5d3d8bdf5846093ae4fb",
+            "name": "volt_per_meter",
+            "symbol": "V/m"
+        },
+        {
+            "osw_id": "Item:OSWd855ce693a6d5d3d8bdf5846093ae4fb#OSWe9e5b5d155c95fc9b3bc6f1ef6a63fa0",
+            "name": "micro_volt_per_meter",
+            "symbol": "µV/m"
+        },
+        {
+            "osw_id": "Item:OSWd855ce693a6d5d3d8bdf5846093ae4fb#OSW5503cb893f635d3a955c6be99f588596",
+            "name": "volt_per_milli_meter",
+            "symbol": "V/mm"
+        },
+        {
+            "osw_id": "Item:OSWd855ce693a6d5d3d8bdf5846093ae4fb#OSW68aa46316f8b5bfc83102870e2c9c5b4",
+            "name": "volt_per_centi_meter",
+            "symbol": "V/cm"
+        },
+        {
+            "osw_id": "Item:OSWd855ce693a6d5d3d8bdf5846093ae4fb#OSW9315a6f234fa567497c5344f4360ac89",
+            "name": "kilo_volt_per_meter",
+            "symbol": "kV/m"
+        },
+        {
+            "osw_id": "Item:OSWd855ce693a6d5d3d8bdf5846093ae4fb#OSWac4536de9cb25c1db8f0eb9f66e3fa25",
+            "name": "mega_volt_per_meter",
+            "symbol": "MV/m"
+        },
+        {
+            "osw_id": "Item:OSWd855ce693a6d5d3d8bdf5846093ae4fb#OSWed56aa34d47a55a5bb40bc28cd4b1533",
+            "name": "milli_volt_per_meter",
+            "symbol": "mV/m"
+        }
+    ],
+    "quantity_property": "Property:HasElectricFieldValue",
+    "default_unit": "Item:OSWd855ce693a6d5d3d8bdf5846093ae4fb"
 }

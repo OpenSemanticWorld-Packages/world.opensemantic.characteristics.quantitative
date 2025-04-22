@@ -31,17 +31,40 @@
                     ]
                 },
                 "unit": {
-                    "format": "autocomplete",
+                    "title": "CapacitanceUnit",
+                    "enum": [
+                        "Item:OSWa1b4f9da4183543a8161e3fe99751be2",
+                        "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSWea22beb7c14350cfb4a8029430e0a9e3",
+                        "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSW233c7ca125dc5092bdc69b05723ba75b",
+                        "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSW3690c26e937c55f1aeb3dcba3c5d79f4",
+                        "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSW2c99e79b872e50d7a3cdb3b0614bbb1d",
+                        "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSW328bea7c368659c0ab2729ace2604ebc"
+                    ],
+                    "x-enum-varnames": [
+                        "farad",
+                        "pico_farad",
+                        "milli_farad",
+                        "micro_farad",
+                        "nano_farad",
+                        "atto_farad"
+                    ],
                     "options": {
-                        "autocomplete": {
-                            "query": "[[-HasUnit::Item:OSWca531d47ecae5596b94eaaf1bcc04e9a]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::Item:OSWca531d47ecae5596b94eaaf1bcc04e9a]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
-                        }
-                    }
+                        "enum_titles": [
+                            "F",
+                            "pF",
+                            "mF",
+                            "μF",
+                            "nF",
+                            "aF"
+                        ]
+                    },
+                    "default": "Item:OSWa1b4f9da4183543a8161e3fe99751be2"
                 }
             },
             "defaultProperties": [
                 "type"
-            ]
+            ],
+            "x-smw-quantity-property": "Property:HasCapacitanceValue"
         }
     },
     "allOf": [

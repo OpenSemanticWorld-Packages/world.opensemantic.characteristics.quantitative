@@ -27,5 +27,39 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSWca531d47ecae5596b94eaaf1bcc04e9a"
+    "quantity": "Item:OSWca531d47ecae5596b94eaaf1bcc04e9a",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWa1b4f9da4183543a8161e3fe99751be2",
+            "name": "farad",
+            "symbol": "F"
+        },
+        {
+            "osw_id": "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSWea22beb7c14350cfb4a8029430e0a9e3",
+            "name": "pico_farad",
+            "symbol": "pF"
+        },
+        {
+            "osw_id": "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSW233c7ca125dc5092bdc69b05723ba75b",
+            "name": "milli_farad",
+            "symbol": "mF"
+        },
+        {
+            "osw_id": "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSW3690c26e937c55f1aeb3dcba3c5d79f4",
+            "name": "micro_farad",
+            "symbol": "μF"
+        },
+        {
+            "osw_id": "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSW2c99e79b872e50d7a3cdb3b0614bbb1d",
+            "name": "nano_farad",
+            "symbol": "nF"
+        },
+        {
+            "osw_id": "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSW328bea7c368659c0ab2729ace2604ebc",
+            "name": "atto_farad",
+            "symbol": "aF"
+        }
+    ],
+    "quantity_property": "Property:HasCapacitanceValue",
+    "default_unit": "Item:OSWa1b4f9da4183543a8161e3fe99751be2"
 }

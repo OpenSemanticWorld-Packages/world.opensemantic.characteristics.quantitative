@@ -25,5 +25,29 @@
     "metaclass": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "quantity": "Item:OSW4afb74be52255c0ab1b49ca32dc29252"
+    "quantity": "Item:OSW4afb74be52255c0ab1b49ca32dc29252",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW46249e4c237d546198d98bff0b9d5e93",
+            "name": "siemens",
+            "symbol": "S"
+        },
+        {
+            "osw_id": "Item:OSW46249e4c237d546198d98bff0b9d5e93#OSW8253047fc4835d79b0f31baf3b96182d",
+            "name": "milli_siemens",
+            "symbol": "mS"
+        },
+        {
+            "osw_id": "Item:OSW46249e4c237d546198d98bff0b9d5e93#OSW35746906e9d051c39bdeebdf5736c2ba",
+            "name": "kilo_siemens",
+            "symbol": "kS"
+        },
+        {
+            "osw_id": "Item:OSW46249e4c237d546198d98bff0b9d5e93#OSWfd5a12b202d2534c9cb0844fb6c4f15e",
+            "name": "micro_siemens",
+            "symbol": "μS"
+        }
+    ],
+    "quantity_property": "Property:HasConductanceValue",
+    "default_unit": "Item:OSW46249e4c237d546198d98bff0b9d5e93"
 }
