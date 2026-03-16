@@ -26,6 +26,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSWf04b14a0cd585e919631fe1b2bfcb897",
+    "default_unit": "Item:OSW375890764ffa5a5cb84e1cbbe16a7315",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW375890764ffa5a5cb84e1cbbe16a7315",
@@ -33,6 +34,5 @@
             "symbol": "C/m"
         }
     ],
-    "quantity_property": "Property:HasElectricChargeLineDensityValue",
-    "default_unit": "Item:OSW375890764ffa5a5cb84e1cbbe16a7315"
+    "quantity_property": "Property:HasElectricChargeLineDensityValue"
 }

@@ -34,10 +34,10 @@
             "conversion_factor_to_main_unit": "1000.0"
         },
         {
-            "uuid": "7c365e06-b2cd-533f-8c71-0ffb3aca9c5b",
-            "name": "μN",
-            "main_symbol": "μN",
-            "conversion_factor_to_main_unit": "1000000.0"
+            "uuid": "cb3ae589-4c20-5a5a-974a-c1c6064fd730",
+            "name": "MN",
+            "main_symbol": "MN",
+            "conversion_factor_to_main_unit": "1e-06"
         },
         {
             "uuid": "ef410d31-6801-5250-bcd3-de2f19202516",
@@ -46,10 +46,10 @@
             "conversion_factor_to_main_unit": "0.001"
         },
         {
-            "uuid": "cb3ae589-4c20-5a5a-974a-c1c6064fd730",
-            "name": "MN",
-            "main_symbol": "MN",
-            "conversion_factor_to_main_unit": "1e-06"
+            "uuid": "7c365e06-b2cd-533f-8c71-0ffb3aca9c5b",
+            "name": "μN",
+            "main_symbol": "μN",
+            "conversion_factor_to_main_unit": "1000000.0"
         }
     ]
 }

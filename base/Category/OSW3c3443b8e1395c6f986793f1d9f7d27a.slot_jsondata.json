@@ -30,6 +30,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSWfca45761797a57cfa85f70f437833702",
+    "default_unit": "Item:OSWf030abd4441d52a7a8c5f84950985ea4",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSWf030abd4441d52a7a8c5f84950985ea4",
@@ -37,6 +38,5 @@
             "symbol": "1/Pa"
         }
     ],
-    "quantity_property": "Property:HasIsothermalCompressibilityValue",
-    "default_unit": "Item:OSWf030abd4441d52a7a8c5f84950985ea4"
+    "quantity_property": "Property:HasIsothermalCompressibilityValue"
 }

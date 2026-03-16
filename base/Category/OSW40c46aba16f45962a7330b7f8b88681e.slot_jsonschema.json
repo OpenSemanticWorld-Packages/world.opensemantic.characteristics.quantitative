@@ -33,24 +33,24 @@
                     "enum": [
                         "Item:OSW7f2c167c5a39550d91c1f95cc01a9a11",
                         "Item:OSW7f2c167c5a39550d91c1f95cc01a9a11#OSWa735be7b016c510f98dd404ee42c6722",
-                        "Item:OSW7f2c167c5a39550d91c1f95cc01a9a11#OSWbec47ab085945564b8bc080ab7934395",
+                        "Item:OSW7f2c167c5a39550d91c1f95cc01a9a11#OSWf194c328c8ef587c823773008774afc8",
                         "Item:OSW7f2c167c5a39550d91c1f95cc01a9a11#OSWf33a1a99c6055b178a0b973e57e1aacb",
-                        "Item:OSW7f2c167c5a39550d91c1f95cc01a9a11#OSWf194c328c8ef587c823773008774afc8"
+                        "Item:OSW7f2c167c5a39550d91c1f95cc01a9a11#OSWbec47ab085945564b8bc080ab7934395"
                     ],
                     "x-enum-varnames": [
                         "watt_per_meter_squared",
                         "watt_per_centi_meter_squared",
-                        "micro_watt_per_meter_squared",
+                        "pico_watt_per_meter_squared",
                         "milli_watt_per_meter_squared",
-                        "pico_watt_per_meter_squared"
+                        "micro_watt_per_meter_squared"
                     ],
                     "options": {
                         "enum_titles": [
                             "W/m²",
                             "W/cm²",
-                            "µW/m²",
+                            "pW/m²",
                             "mW/m²",
-                            "pW/m²"
+                            "µW/m²"
                         ]
                     },
                     "default": "Item:OSW7f2c167c5a39550d91c1f95cc01a9a11"

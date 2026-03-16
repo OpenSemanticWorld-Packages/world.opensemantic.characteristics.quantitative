@@ -27,6 +27,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSWc5f20dc029f35d569ede218bc90b7011",
+    "default_unit": "Item:OSW7e66beeef6b05637a554d3506d689000",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW7e66beeef6b05637a554d3506d689000",
@@ -39,6 +40,5 @@
             "symbol": "kJ/mol"
         }
     ],
-    "quantity_property": "Property:HasMolarEnergyValue",
-    "default_unit": "Item:OSW7e66beeef6b05637a554d3506d689000"
+    "quantity_property": "Property:HasMolarEnergyValue"
 }

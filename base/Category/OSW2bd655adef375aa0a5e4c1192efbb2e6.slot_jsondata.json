@@ -6,10 +6,10 @@
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ConductivityVariance_NEON"
     ],
-    "name": "NEON",
+    "name": "NeonConductivityVariance",
     "label": [
         {
-            "text": "NEON",
+            "text": "NEON Conductivity Variance",
             "lang": "en"
         }
     ],
@@ -26,6 +26,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW4cf3ca9de4975790bd5a9f014797c432",
+    "default_unit": "Item:OSW89e525be6d675802a9d695d2d6655505",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW89e525be6d675802a9d695d2d6655505",
@@ -33,6 +34,5 @@
             "symbol": "uS2/cm2"
         }
     ],
-    "quantity_property": "Property:HasNEONValue",
-    "default_unit": "Item:OSW89e525be6d675802a9d695d2d6655505"
+    "quantity_property": "Property:HasNeonConductivityVarianceValue"
 }

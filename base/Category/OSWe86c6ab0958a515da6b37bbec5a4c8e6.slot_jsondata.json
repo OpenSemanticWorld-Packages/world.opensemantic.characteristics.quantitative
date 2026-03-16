@@ -26,6 +26,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW03954ee2364e54e48154880b7b9a22b2",
+    "default_unit": "Item:OSW20b837bfd2fa5c3abc86347ce702f27c",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW20b837bfd2fa5c3abc86347ce702f27c",
@@ -43,6 +44,5 @@
             "symbol": "cm²/s"
         }
     ],
-    "quantity_property": "Property:HasThermalDiffusionCoefficientValue",
-    "default_unit": "Item:OSW20b837bfd2fa5c3abc86347ce702f27c"
+    "quantity_property": "Property:HasThermalDiffusionCoefficientValue"
 }

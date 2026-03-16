@@ -30,12 +30,6 @@
             "conversion_factor_to_main_unit": "0.001"
         },
         {
-            "uuid": "4a1c9876-e5b9-5cdd-9e3c-91c4bcb4a1b9",
-            "name": "mA/mm",
-            "main_symbol": "mA/mm",
-            "conversion_factor_to_main_unit": "1.0"
-        },
-        {
             "uuid": "99297bb9-0534-5118-99ba-c3777780ca81",
             "name": "kA/m",
             "main_symbol": "kA/m",
@@ -46,6 +40,12 @@
             "name": "A/cm",
             "main_symbol": "A/cm",
             "conversion_factor_to_main_unit": "0.01"
+        },
+        {
+            "uuid": "4a1c9876-e5b9-5cdd-9e3c-91c4bcb4a1b9",
+            "name": "mA/mm",
+            "main_symbol": "mA/mm",
+            "conversion_factor_to_main_unit": "1.0"
         }
     ]
 }

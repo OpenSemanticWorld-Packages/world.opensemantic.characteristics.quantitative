@@ -24,12 +24,6 @@
     },
     "additional_units": [
         {
-            "uuid": "bb1e1eae-0b10-5a6d-b215-01d0061c1b1d",
-            "name": "nF/m",
-            "main_symbol": "nF/m",
-            "conversion_factor_to_main_unit": "1000000000.0"
-        },
-        {
             "uuid": "8b027915-5c41-53d2-80bf-e951bf83c4d0",
             "name": "pF/m",
             "main_symbol": "pF/m",
@@ -40,6 +34,12 @@
             "name": "F/km",
             "main_symbol": "F/km",
             "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "bb1e1eae-0b10-5a6d-b215-01d0061c1b1d",
+            "name": "nF/m",
+            "main_symbol": "nF/m",
+            "conversion_factor_to_main_unit": "1000000000.0"
         },
         {
             "uuid": "ee949e60-37a5-54bb-8166-b54fe8826f7d",

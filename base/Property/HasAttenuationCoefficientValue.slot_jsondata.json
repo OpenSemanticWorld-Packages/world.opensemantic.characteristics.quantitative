@@ -24,10 +24,10 @@
     },
     "additional_units": [
         {
-            "uuid": "bbe0a6ff-9011-52fd-9216-a66260b21e1f",
-            "name": "1/mm",
-            "main_symbol": "1/mm",
-            "conversion_factor_to_main_unit": "0.001"
+            "uuid": "920418d3-0c27-5885-88c2-05b09fdee6ab",
+            "name": "1/cm",
+            "main_symbol": "1/cm",
+            "conversion_factor_to_main_unit": "0.01"
         },
         {
             "uuid": "903aa99a-8cfb-57a2-bdd0-e52a576b75cc",
@@ -36,16 +36,16 @@
             "conversion_factor_to_main_unit": "0.0"
         },
         {
-            "uuid": "920418d3-0c27-5885-88c2-05b09fdee6ab",
-            "name": "1/cm",
-            "main_symbol": "1/cm",
-            "conversion_factor_to_main_unit": "0.01"
+            "uuid": "bbe0a6ff-9011-52fd-9216-a66260b21e1f",
+            "name": "1/mm",
+            "main_symbol": "1/mm",
+            "conversion_factor_to_main_unit": "0.001"
         },
         {
-            "uuid": "f69b3b81-deac-5e76-ae8d-60cf7c8f099f",
-            "name": "1/km",
-            "main_symbol": "1/km",
-            "conversion_factor_to_main_unit": "1000.0"
+            "uuid": "3d306379-9409-5dd9-a51e-33e2701193ec",
+            "name": "1/pm",
+            "main_symbol": "1/pm",
+            "conversion_factor_to_main_unit": "0.0"
         },
         {
             "uuid": "e8d2b422-488b-572b-9847-f7d18f4cc69b",
@@ -54,10 +54,10 @@
             "conversion_factor_to_main_unit": "1e-06"
         },
         {
-            "uuid": "3d306379-9409-5dd9-a51e-33e2701193ec",
-            "name": "1/pm",
-            "main_symbol": "1/pm",
-            "conversion_factor_to_main_unit": "0.0"
+            "uuid": "f69b3b81-deac-5e76-ae8d-60cf7c8f099f",
+            "name": "1/km",
+            "main_symbol": "1/km",
+            "conversion_factor_to_main_unit": "1000.0"
         }
     ]
 }

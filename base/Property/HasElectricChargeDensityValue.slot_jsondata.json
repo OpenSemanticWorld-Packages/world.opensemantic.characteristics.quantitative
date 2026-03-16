@@ -24,33 +24,9 @@
     },
     "additional_units": [
         {
-            "uuid": "4edf491f-82b5-583c-b851-19f5a33929d5",
-            "name": "GC/m³",
-            "main_symbol": "GC/m³",
-            "conversion_factor_to_main_unit": "0.0"
-        },
-        {
             "uuid": "f5fb58d5-5ec8-5b3a-9caf-44554137e75f",
             "name": "MC/m³",
             "main_symbol": "MC/m³",
-            "conversion_factor_to_main_unit": "1e-06"
-        },
-        {
-            "uuid": "98de27fb-de8c-553c-8ed1-748718c113f0",
-            "name": "μC/m³",
-            "main_symbol": "μC/m³",
-            "conversion_factor_to_main_unit": "1000000.0"
-        },
-        {
-            "uuid": "95e81432-0e4a-5ac5-84af-7d08a90eb03d",
-            "name": "C/mm³",
-            "main_symbol": "C/mm³",
-            "conversion_factor_to_main_unit": "0.0"
-        },
-        {
-            "uuid": "70f32378-81c4-5acb-8121-85d0a9b47739",
-            "name": "C/cm³",
-            "main_symbol": "C/cm³",
             "conversion_factor_to_main_unit": "1e-06"
         },
         {
@@ -60,10 +36,34 @@
             "conversion_factor_to_main_unit": "0.001"
         },
         {
+            "uuid": "95e81432-0e4a-5ac5-84af-7d08a90eb03d",
+            "name": "C/mm³",
+            "main_symbol": "C/mm³",
+            "conversion_factor_to_main_unit": "0.0"
+        },
+        {
             "uuid": "ae13c95e-12df-5206-b976-8a4c68d4c0bb",
             "name": "mC/m³",
             "main_symbol": "mC/m³",
             "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "98de27fb-de8c-553c-8ed1-748718c113f0",
+            "name": "μC/m³",
+            "main_symbol": "μC/m³",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "4edf491f-82b5-583c-b851-19f5a33929d5",
+            "name": "GC/m³",
+            "main_symbol": "GC/m³",
+            "conversion_factor_to_main_unit": "0.0"
+        },
+        {
+            "uuid": "70f32378-81c4-5acb-8121-85d0a9b47739",
+            "name": "C/cm³",
+            "main_symbol": "C/cm³",
+            "conversion_factor_to_main_unit": "1e-06"
         }
     ]
 }

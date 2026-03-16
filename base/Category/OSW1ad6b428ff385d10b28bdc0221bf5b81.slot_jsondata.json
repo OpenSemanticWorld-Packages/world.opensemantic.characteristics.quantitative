@@ -26,6 +26,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSWc766e20cb7ff511c97a24fe36f363e05",
+    "default_unit": "Item:OSWf1731214810f50999e9ce8343fe57e34",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSWf1731214810f50999e9ce8343fe57e34",
@@ -33,6 +34,5 @@
             "symbol": "m²/K"
         }
     ],
-    "quantity_property": "Property:HasAreaThermalExpansionValue",
-    "default_unit": "Item:OSWf1731214810f50999e9ce8343fe57e34"
+    "quantity_property": "Property:HasAreaThermalExpansionValue"
 }

@@ -24,10 +24,10 @@
     },
     "additional_units": [
         {
-            "uuid": "d6665f6b-00fa-5122-a2ac-725be2478018",
-            "name": "cm/s",
-            "main_symbol": "cm/s",
-            "conversion_factor_to_main_unit": "100.0"
+            "uuid": "f6b709ec-ad78-5b83-ab82-389b864ddd9a",
+            "name": "km/s",
+            "main_symbol": "km/s",
+            "conversion_factor_to_main_unit": "0.001"
         },
         {
             "uuid": "51e8f4f6-7d12-5ea6-988c-7f86034fc538",
@@ -36,16 +36,16 @@
             "conversion_factor_to_main_unit": "1000000.0"
         },
         {
+            "uuid": "d6665f6b-00fa-5122-a2ac-725be2478018",
+            "name": "cm/s",
+            "main_symbol": "cm/s",
+            "conversion_factor_to_main_unit": "100.0"
+        },
+        {
             "uuid": "f01a755b-5cb5-576b-b68f-57e9f0d9e8ce",
             "name": "mm/s",
             "main_symbol": "mm/s",
             "conversion_factor_to_main_unit": "1000.0"
-        },
-        {
-            "uuid": "f6b709ec-ad78-5b83-ab82-389b864ddd9a",
-            "name": "km/s",
-            "main_symbol": "km/s",
-            "conversion_factor_to_main_unit": "0.001"
         }
     ]
 }

@@ -27,33 +27,28 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW036183f222d7556584126b9e2337880e",
+    "default_unit": "Item:OSW63503515821858d6a2c9d64b94e54ace",
     "unit_enumeration": [
         {
-            "osw_id": "Item:OSW78331234e1a15aeebd8b0caa71201939",
-            "name": "meter_per_second",
-            "symbol": "m/s"
+            "osw_id": "Item:OSW63503515821858d6a2c9d64b94e54ace",
+            "name": "hertz_meter",
+            "symbol": "Hz·m"
         },
         {
-            "osw_id": "Item:OSW78331234e1a15aeebd8b0caa71201939#OSWd094e4cfd62c52248aad5ef87c19fb7d",
-            "name": "centi_meter_per_second",
-            "symbol": "cm/s"
+            "osw_id": "Item:OSW63503515821858d6a2c9d64b94e54ace#OSW1a4d9f24164c50ba81439e8a85b8f6b8",
+            "name": "mega_hertz_meter",
+            "symbol": "m·MHz"
         },
         {
-            "osw_id": "Item:OSW78331234e1a15aeebd8b0caa71201939#OSWfc9fca27ba5b543c8780521b4af39189",
-            "name": "micro_meter_per_second",
-            "symbol": "μm/s"
+            "osw_id": "Item:OSW63503515821858d6a2c9d64b94e54ace#OSWae889a06480a5a0ba336966fb1f19724",
+            "name": "kilo_hertz_meter",
+            "symbol": "kHz·m"
         },
         {
-            "osw_id": "Item:OSW78331234e1a15aeebd8b0caa71201939#OSW4937ac85021f506cb7ba3958f2216bd1",
-            "name": "milli_meter_per_second",
-            "symbol": "mm/s"
-        },
-        {
-            "osw_id": "Item:OSW78331234e1a15aeebd8b0caa71201939#OSW9f12ce12bc725cd59791265e2e480fd2",
-            "name": "kilo_meter_per_second",
-            "symbol": "km/s"
+            "osw_id": "Item:OSW63503515821858d6a2c9d64b94e54ace#OSW0a03c1787bd75930855f22d98c7bd4cb",
+            "name": "giga_hertz_meter",
+            "symbol": "GHz·m"
         }
     ],
-    "quantity_property": "Property:HasSpeedValue",
-    "default_unit": "Item:OSW78331234e1a15aeebd8b0caa71201939"
+    "quantity_property": "Property:HasSpeedValue"
 }

@@ -20,6 +20,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW81700c3cc3bf57e6a043623aeef9b778",
+    "default_unit": "Item:OSW8a2c52d852d358a79e43fa4496c65528",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW8a2c52d852d358a79e43fa4496c65528",
@@ -27,6 +28,5 @@
             "symbol": "MeV·fm"
         }
     ],
-    "quantity_property": "Property:HasLengthEnergyValue",
-    "default_unit": "Item:OSW8a2c52d852d358a79e43fa4496c65528"
+    "quantity_property": "Property:HasLengthEnergyValue"
 }

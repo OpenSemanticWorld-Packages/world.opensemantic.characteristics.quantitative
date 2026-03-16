@@ -32,6 +32,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSWd92c3da50c6c5288b9e5a3edbf1d7c97",
+    "default_unit": "Item:OSWb0010d0f4c7a52e18edbfdc34e4c0653",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSWb0010d0f4c7a52e18edbfdc34e4c0653",
@@ -39,6 +40,5 @@
             "symbol": "rad/s"
         }
     ],
-    "quantity_property": "Property:HasAngularVelocityValue",
-    "default_unit": "Item:OSWb0010d0f4c7a52e18edbfdc34e4c0653"
+    "quantity_property": "Property:HasAngularVelocityValue"
 }

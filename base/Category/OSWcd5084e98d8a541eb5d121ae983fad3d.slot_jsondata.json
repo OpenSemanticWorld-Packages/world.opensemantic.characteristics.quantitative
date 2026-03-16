@@ -32,6 +32,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW1de16ae30fbb595380681f3941efc0f0",
+    "default_unit": "Item:OSWf04f81ce6d6a53b98630967e75958e53",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSWf04f81ce6d6a53b98630967e75958e53",
@@ -39,6 +40,5 @@
             "symbol": "cd"
         }
     ],
-    "quantity_property": "Property:HasLuminousIntensityValue",
-    "default_unit": "Item:OSWf04f81ce6d6a53b98630967e75958e53"
+    "quantity_property": "Property:HasLuminousIntensityValue"
 }

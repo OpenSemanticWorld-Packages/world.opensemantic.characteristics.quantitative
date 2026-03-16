@@ -27,6 +27,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW0c4f336a48c35552b0e92da08deda5a6",
+    "default_unit": "Item:OSW45282d4f758259de9032e1df3d80d870",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW45282d4f758259de9032e1df3d80d870",
@@ -34,6 +35,5 @@
             "symbol": "V·m"
         }
     ],
-    "quantity_property": "Property:HasElectricFluxValue",
-    "default_unit": "Item:OSW45282d4f758259de9032e1df3d80d870"
+    "quantity_property": "Property:HasElectricFluxValue"
 }

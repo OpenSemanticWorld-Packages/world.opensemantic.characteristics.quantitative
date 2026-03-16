@@ -26,6 +26,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSWa70daa686e9b58529a898046850470f4",
+    "default_unit": "Item:OSWb175d26e736c5603bcaa1060f2afddff",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSWb175d26e736c5603bcaa1060f2afddff",
@@ -38,6 +39,5 @@
             "symbol": "cd/klm"
         }
     ],
-    "quantity_property": "Property:HasIonConcentrationValue",
-    "default_unit": "Item:OSWb175d26e736c5603bcaa1060f2afddff"
+    "quantity_property": "Property:HasIonConcentrationValue"
 }

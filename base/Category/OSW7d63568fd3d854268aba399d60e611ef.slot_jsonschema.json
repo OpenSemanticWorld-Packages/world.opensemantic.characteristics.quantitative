@@ -34,17 +34,17 @@
                 "unit": {
                     "title": "MagneticMomentUnit",
                     "enum": [
-                        "Item:OSWd99c0ceb8ce951b6a513cd58955b69d2"
+                        "Item:OSWa0a0662b7e5b53f79c6d8bef841dd415"
                     ],
                     "x-enum-varnames": [
-                        "joule_per_tesla"
+                        "ampere_meter_squared"
                     ],
                     "options": {
                         "enum_titles": [
-                            "J/T"
+                            "A·m²"
                         ]
                     },
-                    "default": "Item:OSWd99c0ceb8ce951b6a513cd58955b69d2"
+                    "default": "Item:OSWa0a0662b7e5b53f79c6d8bef841dd415"
                 }
             },
             "defaultProperties": [

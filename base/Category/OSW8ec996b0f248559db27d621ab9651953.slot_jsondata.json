@@ -26,6 +26,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW3dca300cd5b85a2b9c4aae83e782d642",
+    "default_unit": "Item:OSW9660b61081145dbcb6d4ebb5ab9244ff",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW9660b61081145dbcb6d4ebb5ab9244ff",
@@ -33,6 +34,5 @@
             "symbol": "J/m⁴"
         }
     ],
-    "quantity_property": "Property:HasSpectralRadiantEnergyDensityValue",
-    "default_unit": "Item:OSW9660b61081145dbcb6d4ebb5ab9244ff"
+    "quantity_property": "Property:HasSpectralRadiantEnergyDensityValue"
 }

@@ -26,6 +26,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW7177c9a6d3ba5b64ad95d9a6e1719c9e",
+    "default_unit": "Item:OSWe96cbd9b4c9c5e2ab7b4a76d5ad71449",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSWe96cbd9b4c9c5e2ab7b4a76d5ad71449",
@@ -33,6 +34,5 @@
             "symbol": "mol/(kg·Pa)"
         }
     ],
-    "quantity_property": "Property:HasMolarMassVariationDueToPressureValue",
-    "default_unit": "Item:OSWe96cbd9b4c9c5e2ab7b4a76d5ad71449"
+    "quantity_property": "Property:HasMolarMassVariationDueToPressureValue"
 }

@@ -26,6 +26,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSWcb23e8586d535c2298c83ac1f87ff15f",
+    "default_unit": "Item:OSWc4c970d2dd145fbc883dfca4b380edff",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSWc4c970d2dd145fbc883dfca4b380edff",
@@ -33,6 +34,5 @@
             "symbol": "lm·s"
         }
     ],
-    "quantity_property": "Property:HasLuminousEnergyValue",
-    "default_unit": "Item:OSWc4c970d2dd145fbc883dfca4b380edff"
+    "quantity_property": "Property:HasLuminousEnergyValue"
 }

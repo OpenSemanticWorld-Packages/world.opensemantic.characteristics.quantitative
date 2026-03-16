@@ -30,6 +30,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW75915d6f72ba5b5aaeca591b318bd189",
+    "default_unit": "Item:OSWa2b4ab78b9975e0891d0d14dfbb12314",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSWa2b4ab78b9975e0891d0d14dfbb12314",
@@ -37,6 +38,5 @@
             "symbol": "kg/(Pa·s·m)"
         }
     ],
-    "quantity_property": "Property:HasWaterVapourDiffusionCoefficientValue",
-    "default_unit": "Item:OSWa2b4ab78b9975e0891d0d14dfbb12314"
+    "quantity_property": "Property:HasWaterVapourDiffusionCoefficientValue"
 }

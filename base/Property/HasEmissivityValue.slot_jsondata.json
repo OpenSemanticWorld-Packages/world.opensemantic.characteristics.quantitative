@@ -1,0 +1,25 @@
+{
+    "uuid": "5e097d2f-d207-5853-917c-0f1a07e9dd98",
+    "name": "HasEmissivityValue",
+    "label": [
+        {
+            "text": "Emissivity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Emissivity of a material (usually written $\\varepsilon$ or e) is the relative ability of its surface to emit energy by radiation.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "64d89d8f-1515-5e84-af23-10e1ba1dbcbb",
+        "name": "%",
+        "main_symbol": "%"
+    }
+}

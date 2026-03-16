@@ -6,10 +6,10 @@
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/VaporPermeance"
     ],
-    "name": "VaporPermeability",
+    "name": "VaporPermeance",
     "label": [
         {
-            "text": "Vapor Permeability",
+            "text": "VaporPermeance",
             "lang": "en"
         }
     ],
@@ -26,6 +26,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSWa44d9a3db69d58a19382fcdb2e94203d",
+    "default_unit": "Item:OSW60bdefc5b50c502095c7e1f8f8a7d03e",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW60bdefc5b50c502095c7e1f8f8a7d03e",
@@ -33,6 +34,5 @@
             "symbol": "kg/(m²·Pa·s)"
         }
     ],
-    "quantity_property": "Property:HasVaporPermeabilityValue",
-    "default_unit": "Item:OSW60bdefc5b50c502095c7e1f8f8a7d03e"
+    "quantity_property": "Property:HasVaporPermeanceValue"
 }

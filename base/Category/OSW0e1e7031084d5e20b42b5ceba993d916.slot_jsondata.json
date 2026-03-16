@@ -26,6 +26,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW4afb74be52255c0ab1b49ca32dc29252",
+    "default_unit": "Item:OSW46249e4c237d546198d98bff0b9d5e93",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW46249e4c237d546198d98bff0b9d5e93",
@@ -48,6 +49,5 @@
             "symbol": "μS"
         }
     ],
-    "quantity_property": "Property:HasConductanceValue",
-    "default_unit": "Item:OSW46249e4c237d546198d98bff0b9d5e93"
+    "quantity_property": "Property:HasConductanceValue"
 }

@@ -24,16 +24,16 @@
     },
     "additional_units": [
         {
-            "uuid": "243414ad-7234-5d06-a37f-bc2f57bf33c5",
-            "name": "μm/K",
-            "main_symbol": "μm/K",
-            "conversion_factor_to_main_unit": "1000000.0"
-        },
-        {
             "uuid": "fbdbddd7-9a5b-595b-8026-ea18a4472b3f",
             "name": "cm/K",
             "main_symbol": "cm/K",
             "conversion_factor_to_main_unit": "100.0"
+        },
+        {
+            "uuid": "243414ad-7234-5d06-a37f-bc2f57bf33c5",
+            "name": "μm/K",
+            "main_symbol": "μm/K",
+            "conversion_factor_to_main_unit": "1000000.0"
         },
         {
             "uuid": "dff0d74e-8910-5d9e-bb7b-57f0bd7343b0",

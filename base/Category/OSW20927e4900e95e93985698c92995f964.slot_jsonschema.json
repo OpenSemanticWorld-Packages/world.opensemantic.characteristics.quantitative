@@ -33,17 +33,20 @@
                 "unit": {
                     "title": "TemperatureUnit",
                     "enum": [
-                        "Item:OSWe728730c00ea5cf9af66a550e51b9717"
+                        "Item:OSWad04992cecb75af4be6f2205e791b42e",
+                        "Item:OSWad04992cecb75af4be6f2205e791b42e#OSW883731d442e852778ae00df071dd0719"
                     ],
                     "x-enum-varnames": [
-                        "kelvin"
+                        "Celsius",
+                        "milli_Celsius"
                     ],
                     "options": {
                         "enum_titles": [
-                            "K"
+                            "°C",
+                            "m°C"
                         ]
                     },
-                    "default": "Item:OSWe728730c00ea5cf9af66a550e51b9717"
+                    "default": "Item:OSWad04992cecb75af4be6f2205e791b42e"
                 }
             },
             "defaultProperties": [

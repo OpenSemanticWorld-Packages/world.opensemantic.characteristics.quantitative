@@ -27,13 +27,18 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW04312c9196a4543d9c827a28f37878d9",
+    "default_unit": "Item:OSWad04992cecb75af4be6f2205e791b42e",
     "unit_enumeration": [
         {
-            "osw_id": "Item:OSWe728730c00ea5cf9af66a550e51b9717",
-            "name": "kelvin",
-            "symbol": "K"
+            "osw_id": "Item:OSWad04992cecb75af4be6f2205e791b42e",
+            "name": "Celsius",
+            "symbol": "°C"
+        },
+        {
+            "osw_id": "Item:OSWad04992cecb75af4be6f2205e791b42e#OSW883731d442e852778ae00df071dd0719",
+            "name": "milli_Celsius",
+            "symbol": "m°C"
         }
     ],
-    "quantity_property": "Property:HasTemperatureValue",
-    "default_unit": "Item:OSWe728730c00ea5cf9af66a550e51b9717"
+    "quantity_property": "Property:HasTemperatureValue"
 }

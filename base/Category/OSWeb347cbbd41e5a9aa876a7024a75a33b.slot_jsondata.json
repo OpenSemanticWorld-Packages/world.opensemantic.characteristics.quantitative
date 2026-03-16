@@ -26,6 +26,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSWe5277de76c4e5ae1840f1931a942b628",
+    "default_unit": "Item:OSW4cf53c813d36501db82ba5b6ac1a48bf",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW4cf53c813d36501db82ba5b6ac1a48bf",
@@ -33,6 +34,5 @@
             "symbol": "W/m"
         }
     ],
-    "quantity_property": "Property:HasLineicPowerValue",
-    "default_unit": "Item:OSW4cf53c813d36501db82ba5b6ac1a48bf"
+    "quantity_property": "Property:HasLineicPowerValue"
 }

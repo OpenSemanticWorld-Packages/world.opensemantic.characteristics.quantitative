@@ -26,6 +26,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW72802cba83075839ad7b5145d88eb641",
+    "default_unit": "Item:OSW56a0d2c5894a539dab6c6581082cf5ae",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW56a0d2c5894a539dab6c6581082cf5ae",
@@ -33,6 +34,5 @@
             "symbol": "J·m²"
         }
     ],
-    "quantity_property": "Property:HasTotalAtomicStoppingPowerValue",
-    "default_unit": "Item:OSW56a0d2c5894a539dab6c6581082cf5ae"
+    "quantity_property": "Property:HasTotalAtomicStoppingPowerValue"
 }

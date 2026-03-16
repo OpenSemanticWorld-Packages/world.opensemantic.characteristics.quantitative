@@ -1,0 +1,38 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "ff3b7c47-e671-50a4-8138-2e342ac8395e",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Emissivity"
+    ],
+    "name": "Emissivity",
+    "label": [
+        {
+            "text": "Emissivity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Emissivity of a material (usually written $\\varepsilon$ or e) is the relative ability of its surface to emit energy by radiation.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW38222e1d591f5c8bb4a9725da404f33c",
+    "default_unit": "Item:OSW5d2e595005cc569ab40c8563754ba3db",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW5d2e595005cc569ab40c8563754ba3db",
+            "name": "percent",
+            "symbol": "%"
+        }
+    ],
+    "quantity_property": "Property:HasEmissivityValue"
+}

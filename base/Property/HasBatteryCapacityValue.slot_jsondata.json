@@ -1,0 +1,25 @@
+{
+    "uuid": "31419ddf-7554-586a-9c7b-12a06beb9eca",
+    "name": "HasBatteryCapacityValue",
+    "label": [
+        {
+            "text": "Battery capacity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Elektrizitätsmenge oder elektrische Ladung, die eine vollgeladenen Batterie unter festgelegten Bedingungen abgeben kann als Produkt aus Entladestrom und Entladezeit",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "218a7b84-6998-5323-8efc-ee665bfa21fd",
+        "name": "A·s",
+        "main_symbol": "A·s"
+    }
+}

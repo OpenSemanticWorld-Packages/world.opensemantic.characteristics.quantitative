@@ -35,25 +35,25 @@
                     "title": "InductanceUnit",
                     "enum": [
                         "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2",
+                        "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2#OSW466788b3b91054088792f8efcf881b73",
                         "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2#OSWc916910c94335ef4bfd4956fdb64d445",
-                        "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2#OSW0b6f22fdf4505cd1a14ced6ce63fd1c3",
                         "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2#OSWf936212f93685b0a81e881b7b4cd691c",
-                        "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2#OSW466788b3b91054088792f8efcf881b73"
+                        "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2#OSW0b6f22fdf4505cd1a14ced6ce63fd1c3"
                     ],
                     "x-enum-varnames": [
                         "henry",
+                        "nano_henry",
                         "pico_henry",
-                        "micro_henry",
                         "milli_henry",
-                        "nano_henry"
+                        "micro_henry"
                     ],
                     "options": {
                         "enum_titles": [
                             "H",
+                            "nH",
                             "pH",
-                            "μH",
                             "mH",
-                            "nH"
+                            "μH"
                         ]
                     },
                     "default": "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2"

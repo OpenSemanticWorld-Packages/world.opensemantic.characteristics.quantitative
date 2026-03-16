@@ -30,10 +30,10 @@
             "conversion_factor_to_main_unit": "1000000000.0"
         },
         {
-            "uuid": "0136226d-7b0a-5f76-bd5d-8676d5245a4c",
-            "name": "dam³",
-            "main_symbol": "dam³",
-            "conversion_factor_to_main_unit": "0.001"
+            "uuid": "0d9f266c-f5ef-5d56-a4f3-991b2e8add66",
+            "name": "dm³",
+            "main_symbol": "dm³",
+            "conversion_factor_to_main_unit": "1000.0"
         },
         {
             "uuid": "6b93ef00-ad07-5989-9827-e2c19b47748e",
@@ -42,16 +42,16 @@
             "conversion_factor_to_main_unit": "9.999999999999999e+17"
         },
         {
+            "uuid": "0136226d-7b0a-5f76-bd5d-8676d5245a4c",
+            "name": "dam³",
+            "main_symbol": "dam³",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
             "uuid": "2d0df6f5-316e-519f-8cb9-35ba1338612a",
             "name": "cm³",
             "main_symbol": "cm³",
             "conversion_factor_to_main_unit": "1000000.0"
-        },
-        {
-            "uuid": "0d9f266c-f5ef-5d56-a4f3-991b2e8add66",
-            "name": "dm³",
-            "main_symbol": "dm³",
-            "conversion_factor_to_main_unit": "1000.0"
         }
     ]
 }

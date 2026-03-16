@@ -1,0 +1,25 @@
+{
+    "uuid": "93940286-8698-52ee-b014-af15c3d9d219",
+    "name": "HasNeonTemperatureVarianceValue",
+    "label": [
+        {
+            "text": "NEON Temperature Variance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Variance for NEON temperature data measured in degrees celcius",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "cadc819d-cc53-57e0-ba33-ae2d701c1297",
+        "name": "°C²",
+        "main_symbol": "°C²"
+    }
+}

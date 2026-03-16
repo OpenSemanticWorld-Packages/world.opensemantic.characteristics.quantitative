@@ -20,6 +20,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW7549b83a203e59e3bcc8c6e7854bd87d",
+    "default_unit": "Item:OSWe74a789a7a8c5e499c23e49bd2a6b220",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSWe74a789a7a8c5e499c23e49bd2a6b220",
@@ -27,6 +28,5 @@
             "symbol": "m²·K"
         }
     ],
-    "quantity_property": "Property:HasAreaTemperatureValue",
-    "default_unit": "Item:OSWe74a789a7a8c5e499c23e49bd2a6b220"
+    "quantity_property": "Property:HasAreaTemperatureValue"
 }

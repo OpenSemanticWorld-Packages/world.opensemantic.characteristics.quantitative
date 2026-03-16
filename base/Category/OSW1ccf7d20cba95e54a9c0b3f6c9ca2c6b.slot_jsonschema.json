@@ -34,19 +34,19 @@
                     "title": "MolarFlowRateUnit",
                     "enum": [
                         "Item:OSW6b764c5799c45b62bb947ed93f8b99eb",
-                        "Item:OSW6b764c5799c45b62bb947ed93f8b99eb#OSW10e98cb9b70150158fc1544d9f094ad2",
-                        "Item:OSW6b764c5799c45b62bb947ed93f8b99eb#OSWb3ad32c2d89057e08a13a3562b52bd17"
+                        "Item:OSW6b764c5799c45b62bb947ed93f8b99eb#OSWb3ad32c2d89057e08a13a3562b52bd17",
+                        "Item:OSW6b764c5799c45b62bb947ed93f8b99eb#OSW10e98cb9b70150158fc1544d9f094ad2"
                     ],
                     "x-enum-varnames": [
                         "mole_per_second",
-                        "micro_mole_per_second",
-                        "kilo_mole_per_second"
+                        "kilo_mole_per_second",
+                        "micro_mole_per_second"
                     ],
                     "options": {
                         "enum_titles": [
                             "mol/s",
-                            "μmol/s",
-                            "kmol/s"
+                            "kmol/s",
+                            "μmol/s"
                         ]
                     },
                     "default": "Item:OSW6b764c5799c45b62bb947ed93f8b99eb"

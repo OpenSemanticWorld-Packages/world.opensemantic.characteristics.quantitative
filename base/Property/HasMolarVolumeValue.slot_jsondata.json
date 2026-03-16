@@ -28,16 +28,16 @@
     },
     "additional_units": [
         {
-            "uuid": "3e68b0c2-0124-5e30-80df-0060b61c7866",
-            "name": "dm³/mol",
-            "main_symbol": "dm³/mol",
-            "conversion_factor_to_main_unit": "1000.0"
-        },
-        {
             "uuid": "d045ab9a-7df0-5172-9a28-e3b1f7820b07",
             "name": "cm³/mol",
             "main_symbol": "cm³/mol",
             "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "3e68b0c2-0124-5e30-80df-0060b61c7866",
+            "name": "dm³/mol",
+            "main_symbol": "dm³/mol",
+            "conversion_factor_to_main_unit": "1000.0"
         }
     ]
 }

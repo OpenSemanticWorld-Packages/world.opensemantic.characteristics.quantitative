@@ -33,17 +33,17 @@
                 "unit": {
                     "title": "PolarisabilityUnit",
                     "enum": [
-                        "Item:OSW9ed3650077ea5a42931687ccd72f11ba"
+                        "Item:OSWd5e480234d635c7e8c93bbd6c99e521a"
                     ],
                     "x-enum-varnames": [
-                        "coulomb_squared_meter_squared_per_joule"
+                        "coulomb_meter_squared_per_volt"
                     ],
                     "options": {
                         "enum_titles": [
-                            "C²·m²/J"
+                            "C·m²/V"
                         ]
                     },
-                    "default": "Item:OSW9ed3650077ea5a42931687ccd72f11ba"
+                    "default": "Item:OSWd5e480234d635c7e8c93bbd6c99e521a"
                 }
             },
             "defaultProperties": [

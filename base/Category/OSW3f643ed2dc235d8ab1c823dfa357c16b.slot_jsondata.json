@@ -27,6 +27,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW51273aeec07859f6b24a13aaf5072cc4",
+    "default_unit": "Item:OSW12866a70d0a25caa932f30e99aceaf78",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW12866a70d0a25caa932f30e99aceaf78",
@@ -44,6 +45,5 @@
             "symbol": "nH/m"
         }
     ],
-    "quantity_property": "Property:HasPermeabilityValue",
-    "default_unit": "Item:OSW12866a70d0a25caa932f30e99aceaf78"
+    "quantity_property": "Property:HasPermeabilityValue"
 }

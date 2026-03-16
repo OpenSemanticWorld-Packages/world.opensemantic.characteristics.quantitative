@@ -26,6 +26,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW4d8d1ce29dc75b5ab24d22c06630cd83",
+    "default_unit": "Item:OSW397d9707b473555a8b294558cbc5d2a1",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW397d9707b473555a8b294558cbc5d2a1",
@@ -33,6 +34,5 @@
             "symbol": "1/(J·m³)"
         }
     ],
-    "quantity_property": "Property:HasEnergyDensityOfStatesValue",
-    "default_unit": "Item:OSW397d9707b473555a8b294558cbc5d2a1"
+    "quantity_property": "Property:HasEnergyDensityOfStatesValue"
 }

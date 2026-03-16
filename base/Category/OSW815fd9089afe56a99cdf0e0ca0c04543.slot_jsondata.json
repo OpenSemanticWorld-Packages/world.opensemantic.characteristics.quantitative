@@ -26,6 +26,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW6236c367865d596887f68c615b7cf531",
+    "default_unit": "Item:OSWd3720cbbb37c5c1698a8570b837b5af9",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSWd3720cbbb37c5c1698a8570b837b5af9",
@@ -33,6 +34,5 @@
             "symbol": "Bq/m³"
         }
     ],
-    "quantity_property": "Property:HasActivityConcentrationValue",
-    "default_unit": "Item:OSWd3720cbbb37c5c1698a8570b837b5af9"
+    "quantity_property": "Property:HasActivityConcentrationValue"
 }

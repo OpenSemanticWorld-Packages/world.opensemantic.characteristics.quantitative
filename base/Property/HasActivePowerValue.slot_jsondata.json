@@ -14,7 +14,7 @@
         }
     ],
     "property_type": "Quantity",
-    "subproperty_of": "Property:HasComplexPowerValue",
+    "subproperty_of": "Property:HasElectricPowerValue",
     "type": [
         "Category:OSW69f251a900944602a08d1cca830249b5"
     ],

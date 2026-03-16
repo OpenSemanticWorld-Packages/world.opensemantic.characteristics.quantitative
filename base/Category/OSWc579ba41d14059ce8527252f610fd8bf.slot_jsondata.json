@@ -30,6 +30,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW07af327f814251278d9918f706dfdcd6",
+    "default_unit": "Item:OSWf63766f7c83852d7a1d8e12deeee90c7",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSWf63766f7c83852d7a1d8e12deeee90c7",
@@ -37,6 +38,5 @@
             "symbol": "m²/m"
         }
     ],
-    "quantity_property": "Property:HasAreaPerLengthValue",
-    "default_unit": "Item:OSWf63766f7c83852d7a1d8e12deeee90c7"
+    "quantity_property": "Property:HasAreaPerLengthValue"
 }

@@ -28,6 +28,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSWca531d47ecae5596b94eaaf1bcc04e9a",
+    "default_unit": "Item:OSWa1b4f9da4183543a8161e3fe99751be2",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSWa1b4f9da4183543a8161e3fe99751be2",
@@ -40,6 +41,11 @@
             "symbol": "pF"
         },
         {
+            "osw_id": "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSW2c99e79b872e50d7a3cdb3b0614bbb1d",
+            "name": "nano_farad",
+            "symbol": "nF"
+        },
+        {
             "osw_id": "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSW233c7ca125dc5092bdc69b05723ba75b",
             "name": "milli_farad",
             "symbol": "mF"
@@ -50,16 +56,10 @@
             "symbol": "μF"
         },
         {
-            "osw_id": "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSW2c99e79b872e50d7a3cdb3b0614bbb1d",
-            "name": "nano_farad",
-            "symbol": "nF"
-        },
-        {
             "osw_id": "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSW328bea7c368659c0ab2729ace2604ebc",
             "name": "atto_farad",
             "symbol": "aF"
         }
     ],
-    "quantity_property": "Property:HasCapacitanceValue",
-    "default_unit": "Item:OSWa1b4f9da4183543a8161e3fe99751be2"
+    "quantity_property": "Property:HasCapacitanceValue"
 }

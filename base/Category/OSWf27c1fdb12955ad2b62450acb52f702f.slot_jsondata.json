@@ -26,6 +26,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSWb3a5d8236aa653fe9fe2501d7e264951",
+    "default_unit": "Item:OSW85f51fc6962e5c5ea5e541ad1bdce849",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW85f51fc6962e5c5ea5e541ad1bdce849",
@@ -33,6 +34,5 @@
             "symbol": "J/(K·kg·Pa)"
         }
     ],
-    "quantity_property": "Property:HasSpecificHeatPressureValue",
-    "default_unit": "Item:OSW85f51fc6962e5c5ea5e541ad1bdce849"
+    "quantity_property": "Property:HasSpecificHeatPressureValue"
 }

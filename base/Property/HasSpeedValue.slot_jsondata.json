@@ -18,34 +18,28 @@
         "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
     ],
     "main_unit": {
-        "uuid": "c6d1c729-ec16-5744-83f6-da4db6e930f3",
-        "name": "m/s",
-        "main_symbol": "m/s"
+        "uuid": "699c3b62-98c2-57b5-828f-b5a50a635f1b",
+        "name": "Hz·m",
+        "main_symbol": "Hz·m"
     },
     "additional_units": [
         {
-            "uuid": "d6665f6b-00fa-5122-a2ac-725be2478018",
-            "name": "cm/s",
-            "main_symbol": "cm/s",
-            "conversion_factor_to_main_unit": "100.0"
+            "uuid": "183ac31c-8ccf-52e2-ab35-a4f86a143f6a",
+            "name": "m·MHz",
+            "main_symbol": "m·MHz",
+            "conversion_factor_to_main_unit": "1e-06"
         },
         {
-            "uuid": "51e8f4f6-7d12-5ea6-988c-7f86034fc538",
-            "name": "μm/s",
-            "main_symbol": "μm/s",
-            "conversion_factor_to_main_unit": "1000000.0"
-        },
-        {
-            "uuid": "f01a755b-5cb5-576b-b68f-57e9f0d9e8ce",
-            "name": "mm/s",
-            "main_symbol": "mm/s",
-            "conversion_factor_to_main_unit": "1000.0"
-        },
-        {
-            "uuid": "f6b709ec-ad78-5b83-ab82-389b864ddd9a",
-            "name": "km/s",
-            "main_symbol": "km/s",
+            "uuid": "0cb9c4ad-d11d-5493-adad-2cdb9df24786",
+            "name": "kHz·m",
+            "main_symbol": "kHz·m",
             "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "765a61eb-5ee2-57a0-a7f2-13506fd9efcf",
+            "name": "GHz·m",
+            "main_symbol": "GHz·m",
+            "conversion_factor_to_main_unit": "0.0"
         }
     ]
 }

@@ -31,17 +31,17 @@
                 "unit": {
                     "title": "LengthTemperatureUnit",
                     "enum": [
-                        "Item:OSWe5ae11f7ed995d13bdf12af6c0a8a444"
+                        "Item:OSWb87aaf787d285ba88225897edbebc154"
                     ],
                     "x-enum-varnames": [
                         "kelvin_meter"
                     ],
                     "options": {
                         "enum_titles": [
-                            "m·K"
+                            "K·m"
                         ]
                     },
-                    "default": "Item:OSWe5ae11f7ed995d13bdf12af6c0a8a444"
+                    "default": "Item:OSWb87aaf787d285ba88225897edbebc154"
                 }
             },
             "defaultProperties": [

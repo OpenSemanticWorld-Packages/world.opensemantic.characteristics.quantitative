@@ -26,6 +26,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW05bfe78b370e5338924177e2aaeb648f",
+    "default_unit": "Item:OSW57e1f78efd6a50fd8f2c35ea808d7b86",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW57e1f78efd6a50fd8f2c35ea808d7b86",
@@ -33,6 +34,5 @@
             "symbol": "A·m²/(J·s)"
         }
     ],
-    "quantity_property": "Property:HasElectricChargePerMassValue",
-    "default_unit": "Item:OSW57e1f78efd6a50fd8f2c35ea808d7b86"
+    "quantity_property": "Property:HasElectricChargePerMassValue"
 }

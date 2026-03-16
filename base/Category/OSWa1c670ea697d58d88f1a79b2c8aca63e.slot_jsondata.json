@@ -20,6 +20,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW4c44b1a316ea5abda59b980d4fa31e00",
+    "default_unit": "Item:OSWac77b78c88875d4b829975141f651b94",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSWac77b78c88875d4b829975141f651b94",
@@ -42,6 +43,5 @@
             "symbol": "kPa/K"
         }
     ],
-    "quantity_property": "Property:HasPressureCoefficientValue",
-    "default_unit": "Item:OSWac77b78c88875d4b829975141f651b94"
+    "quantity_property": "Property:HasPressureCoefficientValue"
 }

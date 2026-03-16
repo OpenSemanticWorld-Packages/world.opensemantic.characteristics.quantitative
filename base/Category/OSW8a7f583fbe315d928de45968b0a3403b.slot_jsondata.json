@@ -26,6 +26,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW7aabb9d536ce5b5b9d745b2ee2ac41a3",
+    "default_unit": "Item:OSW7496c09c41b154bdba82f6d09195cae5",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW7496c09c41b154bdba82f6d09195cae5",
@@ -53,6 +54,5 @@
             "symbol": "THz"
         }
     ],
-    "quantity_property": "Property:HasRotationalFrequencyValue",
-    "default_unit": "Item:OSW7496c09c41b154bdba82f6d09195cae5"
+    "quantity_property": "Property:HasRotationalFrequencyValue"
 }

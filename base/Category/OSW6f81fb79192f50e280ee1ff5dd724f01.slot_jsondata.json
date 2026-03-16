@@ -20,6 +20,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW00ec0699be4351e7b4c33bd6f4fc561e",
+    "default_unit": "Item:OSW258e0e8da8e15fd69ec6810d5b93c7ab",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW258e0e8da8e15fd69ec6810d5b93c7ab",
@@ -27,6 +28,5 @@
             "symbol": "K·s"
         }
     ],
-    "quantity_property": "Property:HasTimeTemperatureValue",
-    "default_unit": "Item:OSW258e0e8da8e15fd69ec6810d5b93c7ab"
+    "quantity_property": "Property:HasTimeTemperatureValue"
 }

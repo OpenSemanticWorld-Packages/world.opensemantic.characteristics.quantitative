@@ -26,6 +26,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW19a5a65be8795055953dfaddf46a281d",
+    "default_unit": "Item:OSW164f2a6f077a564c914320ff303d09e8",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW164f2a6f077a564c914320ff303d09e8",
@@ -33,6 +34,5 @@
             "symbol": "N·m²/A"
         }
     ],
-    "quantity_property": "Property:HasMagneticDipoleMomentValue",
-    "default_unit": "Item:OSW164f2a6f077a564c914320ff303d09e8"
+    "quantity_property": "Property:HasMagneticDipoleMomentValue"
 }

@@ -18,8 +18,8 @@
         "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
     ],
     "main_unit": {
-        "uuid": "16e72fbd-1bcd-59aa-96f6-142c7dea0ac8",
-        "name": "mJ/g",
-        "main_symbol": "mJ/g"
+        "uuid": "ebabad04-d971-5593-a5f2-220ff9a51f95",
+        "name": "J/kg",
+        "main_symbol": "J/kg"
     }
 }

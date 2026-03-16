@@ -27,6 +27,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW4ca8ac5521cc586ea69a10a52dd9a23d",
+    "default_unit": "Item:OSWfb230f7ff1a55c23accf8ae94aacc9e1",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSWfb230f7ff1a55c23accf8ae94aacc9e1",
@@ -39,6 +40,5 @@
             "symbol": "mPa·s"
         }
     ],
-    "quantity_property": "Property:HasViscosityValue",
-    "default_unit": "Item:OSWfb230f7ff1a55c23accf8ae94aacc9e1"
+    "quantity_property": "Property:HasViscosityValue"
 }

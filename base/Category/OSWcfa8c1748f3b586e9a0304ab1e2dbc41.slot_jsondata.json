@@ -32,6 +32,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW1ce952564ed15efebbd43e22a2d917b7",
+    "default_unit": "Item:OSW6b270053305955a89f37c50637fc7aeb",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW6b270053305955a89f37c50637fc7aeb",
@@ -49,6 +50,5 @@
             "symbol": "mrad"
         }
     ],
-    "quantity_property": "Property:HasPlaneAngleValue",
-    "default_unit": "Item:OSW6b270053305955a89f37c50637fc7aeb"
+    "quantity_property": "Property:HasPlaneAngleValue"
 }

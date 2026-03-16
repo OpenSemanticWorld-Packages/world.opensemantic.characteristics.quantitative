@@ -26,6 +26,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW5d0cca2f4ce059abb2806e91ede1d53d",
+    "default_unit": "Item:OSW50e05e2d20e858f281ef0d396691ec1e",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW50e05e2d20e858f281ef0d396691ec1e",
@@ -33,6 +34,5 @@
             "symbol": "V/m²"
         }
     ],
-    "quantity_property": "Property:HasEnergyPerAreaElectricChargeValue",
-    "default_unit": "Item:OSW50e05e2d20e858f281ef0d396691ec1e"
+    "quantity_property": "Property:HasEnergyPerAreaElectricChargeValue"
 }

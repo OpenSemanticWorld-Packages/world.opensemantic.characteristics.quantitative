@@ -30,6 +30,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW386062cd4f2559bf877a2a56a237d0df",
+    "default_unit": "Item:OSW20b837bfd2fa5c3abc86347ce702f27c",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW20b837bfd2fa5c3abc86347ce702f27c",
@@ -47,6 +48,5 @@
             "symbol": "cm²/s"
         }
     ],
-    "quantity_property": "Property:HasDiffusionCoefficientValue",
-    "default_unit": "Item:OSW20b837bfd2fa5c3abc86347ce702f27c"
+    "quantity_property": "Property:HasDiffusionCoefficientValue"
 }

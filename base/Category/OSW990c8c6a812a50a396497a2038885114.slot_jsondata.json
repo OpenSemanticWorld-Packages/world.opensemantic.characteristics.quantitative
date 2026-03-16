@@ -20,6 +20,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSWf7148422e50b5448b5ec6bfb6e985441",
+    "default_unit": "Item:OSWa5c77be3eb415d749ce66c39717fb676",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSWa5c77be3eb415d749ce66c39717fb676",
@@ -27,6 +28,5 @@
             "symbol": "cm²·min"
         }
     ],
-    "quantity_property": "Property:HasAreaTimeValue",
-    "default_unit": "Item:OSWa5c77be3eb415d749ce66c39717fb676"
+    "quantity_property": "Property:HasAreaTimeValue"
 }

@@ -26,6 +26,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSWfef2dea1225352f4890da21126d77a16",
+    "default_unit": "Item:OSW646be3968f185e0ab1832d987570b812",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW646be3968f185e0ab1832d987570b812",
@@ -33,6 +34,5 @@
             "symbol": "S·m²/mol"
         }
     ],
-    "quantity_property": "Property:HasMolarConductivityValue",
-    "default_unit": "Item:OSW646be3968f185e0ab1832d987570b812"
+    "quantity_property": "Property:HasMolarConductivityValue"
 }

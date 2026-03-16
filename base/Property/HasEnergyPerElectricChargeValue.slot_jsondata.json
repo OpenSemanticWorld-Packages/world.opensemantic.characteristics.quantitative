@@ -24,28 +24,28 @@
     },
     "additional_units": [
         {
-            "uuid": "441c2940-7a83-5303-818a-a9a2328e29d3",
-            "name": "mV",
-            "main_symbol": "mV",
-            "conversion_factor_to_main_unit": "1000.0"
-        },
-        {
             "uuid": "aaa3a0bb-3208-580c-b97d-f92d06109610",
             "name": "µV",
             "main_symbol": "µV",
             "conversion_factor_to_main_unit": "1000000.0"
         },
         {
-            "uuid": "65bac576-ce64-5d74-9be5-2901a14ddb6d",
-            "name": "kV",
-            "main_symbol": "kV",
-            "conversion_factor_to_main_unit": "0.001"
-        },
-        {
             "uuid": "34b118c0-4663-5c37-81f4-a51bf5b8a1ce",
             "name": "MV",
             "main_symbol": "MV",
             "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "441c2940-7a83-5303-818a-a9a2328e29d3",
+            "name": "mV",
+            "main_symbol": "mV",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "65bac576-ce64-5d74-9be5-2901a14ddb6d",
+            "name": "kV",
+            "main_symbol": "kV",
+            "conversion_factor_to_main_unit": "0.001"
         }
     ]
 }

@@ -34,21 +34,21 @@
                     "title": "LinearThermalExpansionUnit",
                     "enum": [
                         "Item:OSWb2550b7d752e505bb62ecc632d6c20f9",
-                        "Item:OSWb2550b7d752e505bb62ecc632d6c20f9#OSW8aabb581b81c50b688909bbc187a92d1",
                         "Item:OSWb2550b7d752e505bb62ecc632d6c20f9#OSW3585b69d1b325a36918e362b36dcd2b9",
+                        "Item:OSWb2550b7d752e505bb62ecc632d6c20f9#OSW8aabb581b81c50b688909bbc187a92d1",
                         "Item:OSWb2550b7d752e505bb62ecc632d6c20f9#OSW023c203283725c8b814a69dd13cfcb92"
                     ],
                     "x-enum-varnames": [
                         "meter_per_kelvin",
-                        "micro_meter_per_kelvin",
                         "centi_meter_per_kelvin",
+                        "micro_meter_per_kelvin",
                         "milli_meter_per_kelvin"
                     ],
                     "options": {
                         "enum_titles": [
                             "m/K",
-                            "μm/K",
                             "cm/K",
+                            "μm/K",
                             "mm/K"
                         ]
                     },

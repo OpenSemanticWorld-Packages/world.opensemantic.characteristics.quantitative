@@ -24,22 +24,10 @@
     },
     "additional_units": [
         {
-            "uuid": "cf91adbc-e5bd-54f3-81ef-9e969bedb74f",
-            "name": "pg/g",
-            "main_symbol": "pg/g",
-            "conversion_factor_to_main_unit": "1000000000000.0"
-        },
-        {
             "uuid": "aa1dfbc6-817f-5f2e-a770-690b9963ba6a",
             "name": "kg/kg",
             "main_symbol": "kg/kg",
             "conversion_factor_to_main_unit": "1.0"
-        },
-        {
-            "uuid": "af470501-dd2c-5f48-936b-35ac3957ce92",
-            "name": "mg/g",
-            "main_symbol": "mg/g",
-            "conversion_factor_to_main_unit": "1000.0"
         },
         {
             "uuid": "16ea4e22-d805-53a5-93f4-db4e2d7c8729",
@@ -52,6 +40,18 @@
             "name": "g/kg",
             "main_symbol": "g/kg",
             "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "af470501-dd2c-5f48-936b-35ac3957ce92",
+            "name": "mg/g",
+            "main_symbol": "mg/g",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "cf91adbc-e5bd-54f3-81ef-9e969bedb74f",
+            "name": "pg/g",
+            "main_symbol": "pg/g",
+            "conversion_factor_to_main_unit": "1000000000000.0"
         }
     ]
 }

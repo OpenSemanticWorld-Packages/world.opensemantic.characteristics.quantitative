@@ -26,6 +26,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW355991130bb05ab39e068c0cc8028094",
+    "default_unit": "Item:OSWb2902ae1df0b561682bfc174af5ff039",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSWb2902ae1df0b561682bfc174af5ff039",
@@ -43,6 +44,5 @@
             "symbol": "μg/(m²·d)"
         }
     ],
-    "quantity_property": "Property:HasMassPerAreaTimeValue",
-    "default_unit": "Item:OSWb2902ae1df0b561682bfc174af5ff039"
+    "quantity_property": "Property:HasMassPerAreaTimeValue"
 }

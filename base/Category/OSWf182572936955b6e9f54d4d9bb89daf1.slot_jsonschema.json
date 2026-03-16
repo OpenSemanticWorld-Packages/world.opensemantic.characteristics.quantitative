@@ -34,25 +34,25 @@
                     "title": "EnergyFluenceUnit",
                     "enum": [
                         "Item:OSW0747b5382b955ef2adef0e4c4b1efa81",
-                        "Item:OSW0747b5382b955ef2adef0e4c4b1efa81#OSWf9cdbd6556545d55a9bde1a0915a9545",
+                        "Item:OSW0747b5382b955ef2adef0e4c4b1efa81#OSW48c62f71ae5a512ca24dcb6059999b8d",
                         "Item:OSW0747b5382b955ef2adef0e4c4b1efa81#OSW3b9b7dca35ec5f7995ba76de650fcadf",
-                        "Item:OSW0747b5382b955ef2adef0e4c4b1efa81#OSW16b24f4ffe12585aa114fbefbf3dbd5b",
-                        "Item:OSW0747b5382b955ef2adef0e4c4b1efa81#OSW48c62f71ae5a512ca24dcb6059999b8d"
+                        "Item:OSW0747b5382b955ef2adef0e4c4b1efa81#OSWf9cdbd6556545d55a9bde1a0915a9545",
+                        "Item:OSW0747b5382b955ef2adef0e4c4b1efa81#OSW16b24f4ffe12585aa114fbefbf3dbd5b"
                     ],
                     "x-enum-varnames": [
                         "joule_per_meter_squared",
-                        "mega_joule_per_meter_squared",
+                        "giga_joule_per_meter_squared",
                         "milli_joule_per_meter_squared",
-                        "joule_per_centi_meter_squared",
-                        "giga_joule_per_meter_squared"
+                        "mega_joule_per_meter_squared",
+                        "joule_per_centi_meter_squared"
                     ],
                     "options": {
                         "enum_titles": [
                             "J/m²",
-                            "MJ/m²",
+                            "GJ/m²",
                             "mJ/m²",
-                            "J/cm²",
-                            "GJ/m²"
+                            "MJ/m²",
+                            "J/cm²"
                         ]
                     },
                     "default": "Item:OSW0747b5382b955ef2adef0e4c4b1efa81"

@@ -26,6 +26,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSWf766b6c3f2e65edc9566ef54ad605289",
+    "default_unit": "Item:OSWee60f0c86f6051bb9e1c60b77a607ba2",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSWee60f0c86f6051bb9e1c60b77a607ba2",
@@ -33,6 +34,5 @@
             "symbol": "°C/m"
         }
     ],
-    "quantity_property": "Property:HasTemperatureGradientValue",
-    "default_unit": "Item:OSWee60f0c86f6051bb9e1c60b77a607ba2"
+    "quantity_property": "Property:HasTemperatureGradientValue"
 }

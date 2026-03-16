@@ -28,16 +28,10 @@
     },
     "additional_units": [
         {
-            "uuid": "9cb87b7d-d93c-5f4a-8597-4db0bf3eb802",
-            "name": "mg/L",
-            "main_symbol": "mg/L",
-            "conversion_factor_to_main_unit": "1000.0"
-        },
-        {
-            "uuid": "6735ce5d-92e1-5696-9a88-0f3d6ca93ded",
-            "name": "μg/L",
-            "main_symbol": "μg/L",
-            "conversion_factor_to_main_unit": "1000000.0"
+            "uuid": "285a9e4c-cc72-559a-9fe5-a20f61d96e88",
+            "name": "mg/mL",
+            "main_symbol": "mg/mL",
+            "conversion_factor_to_main_unit": "1.0"
         },
         {
             "uuid": "ad09be31-4425-5102-bcf9-11bba6e023e4",
@@ -46,10 +40,10 @@
             "conversion_factor_to_main_unit": "0.001"
         },
         {
-            "uuid": "b4dbdd40-b07c-5f15-bda6-d7c3d99e5997",
-            "name": "kg/L",
-            "main_symbol": "kg/L",
-            "conversion_factor_to_main_unit": "0.001"
+            "uuid": "8fe18288-38db-5098-b70c-28289bfe75da",
+            "name": "fg/L",
+            "main_symbol": "fg/L",
+            "conversion_factor_to_main_unit": "999999999999999.9"
         },
         {
             "uuid": "877be685-46ea-54df-9e5d-4b3ac710cd79",
@@ -58,10 +52,22 @@
             "conversion_factor_to_main_unit": "1000000000000.0"
         },
         {
-            "uuid": "285a9e4c-cc72-559a-9fe5-a20f61d96e88",
-            "name": "mg/mL",
-            "main_symbol": "mg/mL",
-            "conversion_factor_to_main_unit": "1.0"
+            "uuid": "b4dbdd40-b07c-5f15-bda6-d7c3d99e5997",
+            "name": "kg/L",
+            "main_symbol": "kg/L",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "6735ce5d-92e1-5696-9a88-0f3d6ca93ded",
+            "name": "μg/L",
+            "main_symbol": "μg/L",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "64d06201-27ed-5240-ace2-0f1a45afd199",
+            "name": "ng/L",
+            "main_symbol": "ng/L",
+            "conversion_factor_to_main_unit": "1000000000.0"
         },
         {
             "uuid": "2a60c070-8de2-5e9d-afa5-30d680e5c108",
@@ -70,16 +76,10 @@
             "conversion_factor_to_main_unit": "0.1"
         },
         {
-            "uuid": "8fe18288-38db-5098-b70c-28289bfe75da",
-            "name": "fg/L",
-            "main_symbol": "fg/L",
-            "conversion_factor_to_main_unit": "999999999999999.9"
-        },
-        {
-            "uuid": "64d06201-27ed-5240-ace2-0f1a45afd199",
-            "name": "ng/L",
-            "main_symbol": "ng/L",
-            "conversion_factor_to_main_unit": "1000000000.0"
+            "uuid": "9cb87b7d-d93c-5f4a-8597-4db0bf3eb802",
+            "name": "mg/L",
+            "main_symbol": "mg/L",
+            "conversion_factor_to_main_unit": "1000.0"
         }
     ]
 }

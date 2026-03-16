@@ -26,6 +26,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW3a66f272a42d5ea69573f3eb99dcb859",
+    "default_unit": "Item:OSW46249e4c237d546198d98bff0b9d5e93",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW46249e4c237d546198d98bff0b9d5e93",
@@ -48,6 +49,5 @@
             "symbol": "μS"
         }
     ],
-    "quantity_property": "Property:HasAdmittanceValue",
-    "default_unit": "Item:OSW46249e4c237d546198d98bff0b9d5e93"
+    "quantity_property": "Property:HasAdmittanceValue"
 }

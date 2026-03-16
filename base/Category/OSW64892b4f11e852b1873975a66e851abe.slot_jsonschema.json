@@ -31,23 +31,17 @@
                 "unit": {
                     "title": "AreaPerTimeUnit",
                     "enum": [
-                        "Item:OSW20b837bfd2fa5c3abc86347ce702f27c",
-                        "Item:OSW20b837bfd2fa5c3abc86347ce702f27c#OSW5db8f161eb8c59129cef62d84dd3309c",
-                        "Item:OSW20b837bfd2fa5c3abc86347ce702f27c#OSW031bb99ee99a5794a24c66e6203c21db"
+                        "Item:OSWbcb6356964e659dfad78833199412afc"
                     ],
                     "x-enum-varnames": [
-                        "meter_squared_per_second",
-                        "milli_meter_squared_per_second",
-                        "centi_meter_squared_per_second"
+                        "hertz_meter_squared"
                     ],
                     "options": {
                         "enum_titles": [
-                            "m²/s",
-                            "mm²/s",
-                            "cm²/s"
+                            "m²·Hz"
                         ]
                     },
-                    "default": "Item:OSW20b837bfd2fa5c3abc86347ce702f27c"
+                    "default": "Item:OSWbcb6356964e659dfad78833199412afc"
                 }
             },
             "defaultProperties": [

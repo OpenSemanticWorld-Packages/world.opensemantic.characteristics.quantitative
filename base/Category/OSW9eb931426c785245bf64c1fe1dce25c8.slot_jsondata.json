@@ -27,6 +27,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSWc7a27a8849a6527497c6ce4611bccce4",
+    "default_unit": "Item:OSW4db6d50e4e4e5d9dbd549d706e3f6c44",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW4db6d50e4e4e5d9dbd549d706e3f6c44",
@@ -39,6 +40,5 @@
             "symbol": "J/(cm³·K)"
         }
     ],
-    "quantity_property": "Property:HasVolumetricHeatCapacityValue",
-    "default_unit": "Item:OSW4db6d50e4e4e5d9dbd549d706e3f6c44"
+    "quantity_property": "Property:HasVolumetricHeatCapacityValue"
 }

@@ -31,17 +31,17 @@
                 "unit": {
                     "title": "InverseMagneticFluxUnit",
                     "enum": [
-                        "Item:OSW47655982de7d5958a051f4f3aa75b62a"
+                        "Item:OSW0effc6b933ac5d01927c086bd170f4c7"
                     ],
                     "x-enum-varnames": [
-                        "per_weber"
+                        "hertz_per_volt"
                     ],
                     "options": {
                         "enum_titles": [
-                            "1/Wb"
+                            "Hz/V"
                         ]
                     },
-                    "default": "Item:OSW47655982de7d5958a051f4f3aa75b62a"
+                    "default": "Item:OSW0effc6b933ac5d01927c086bd170f4c7"
                 }
             },
             "defaultProperties": [

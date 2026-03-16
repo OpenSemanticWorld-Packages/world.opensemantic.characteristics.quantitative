@@ -26,6 +26,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW2efbbc890c2c5b01af84c480c9285ee5",
+    "default_unit": "Item:OSWf619f81d86235c0c8ec35b106174a40b",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSWf619f81d86235c0c8ec35b106174a40b",
@@ -33,6 +34,5 @@
             "symbol": "°C²/s"
         }
     ],
-    "quantity_property": "Property:HasUnknownValue",
-    "default_unit": "Item:OSWf619f81d86235c0c8ec35b106174a40b"
+    "quantity_property": "Property:HasUnknownValue"
 }

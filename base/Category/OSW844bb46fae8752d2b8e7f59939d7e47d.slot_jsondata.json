@@ -20,6 +20,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW42fb0234fd0f51869be4df807b2dde2a",
+    "default_unit": "Item:OSW5b9ccf8109b457aca03dbd2a487500ed",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW5b9ccf8109b457aca03dbd2a487500ed",
@@ -27,6 +28,5 @@
             "symbol": "K/T"
         }
     ],
-    "quantity_property": "Property:HasTemperaturePerMagneticFluxDensityValue",
-    "default_unit": "Item:OSW5b9ccf8109b457aca03dbd2a487500ed"
+    "quantity_property": "Property:HasTemperaturePerMagneticFluxDensityValue"
 }

@@ -20,6 +20,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW9c9d2a228088580fbf35ffb6dda0051d",
+    "default_unit": "Item:OSW69c99f1ab4825dffbf3578e6d04cd58e",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW69c99f1ab4825dffbf3578e6d04cd58e",
@@ -27,6 +28,5 @@
             "symbol": "N·s/m"
         }
     ],
-    "quantity_property": "Property:HasMassPerTimeValue",
-    "default_unit": "Item:OSW69c99f1ab4825dffbf3578e6d04cd58e"
+    "quantity_property": "Property:HasMassPerTimeValue"
 }

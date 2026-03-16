@@ -27,6 +27,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW56bbf029a3a6596ea3b79a48d6cea4ce",
+    "default_unit": "Item:OSW8afae973361b5e9ba300c36ac631da76",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW8afae973361b5e9ba300c36ac631da76",
@@ -34,6 +35,5 @@
             "symbol": "W/(m²·sr)"
         }
     ],
-    "quantity_property": "Property:HasRadianceValue",
-    "default_unit": "Item:OSW8afae973361b5e9ba300c36ac631da76"
+    "quantity_property": "Property:HasRadianceValue"
 }

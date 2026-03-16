@@ -28,6 +28,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW4683511b386659fb870a7a60bd4c968e",
+    "default_unit": "Item:OSW3b1e36710511523da37025a70b6a305d",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW3b1e36710511523da37025a70b6a305d",
@@ -35,6 +36,5 @@
             "symbol": "m²/(s²·K)"
         }
     ],
-    "quantity_property": "Property:HasSpecificHeatCapacityValue",
-    "default_unit": "Item:OSW3b1e36710511523da37025a70b6a305d"
+    "quantity_property": "Property:HasSpecificHeatCapacityValue"
 }

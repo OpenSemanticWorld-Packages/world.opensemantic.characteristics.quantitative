@@ -20,6 +20,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW86f40d0f8df55e898a469f9c52e49179",
+    "default_unit": "Item:OSW98c14d48aecc52fdab52023fb924debd",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW98c14d48aecc52fdab52023fb924debd",
@@ -27,6 +28,5 @@
             "symbol": "1/(kVA·h)"
         }
     ],
-    "quantity_property": "Property:HasInverseEnergyValue",
-    "default_unit": "Item:OSW98c14d48aecc52fdab52023fb924debd"
+    "quantity_property": "Property:HasInverseEnergyValue"
 }

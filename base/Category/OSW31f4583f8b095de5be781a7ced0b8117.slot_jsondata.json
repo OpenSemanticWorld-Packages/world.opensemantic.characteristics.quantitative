@@ -26,6 +26,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW7ed252bb9ca75ffdafb198c9c2ce126e",
+    "default_unit": "Item:OSW9108816e33465625bcd9b4850d64cf9a",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW9108816e33465625bcd9b4850d64cf9a",
@@ -33,6 +34,5 @@
             "symbol": "μg/(L·d)"
         }
     ],
-    "quantity_property": "Property:HasMassConcentrationRateOfChangeValue",
-    "default_unit": "Item:OSW9108816e33465625bcd9b4850d64cf9a"
+    "quantity_property": "Property:HasMassConcentrationRateOfChangeValue"
 }

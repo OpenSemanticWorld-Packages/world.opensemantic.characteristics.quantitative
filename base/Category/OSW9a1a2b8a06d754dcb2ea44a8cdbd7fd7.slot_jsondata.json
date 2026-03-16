@@ -27,6 +27,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW7a041f565fd05aa7800b4fa1cedb3d9a",
+    "default_unit": "Item:OSW70d2cca5a9c75bec807d755997acbf8c",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW70d2cca5a9c75bec807d755997acbf8c",
@@ -39,6 +40,5 @@
             "symbol": "km³/s²"
         }
     ],
-    "quantity_property": "Property:HasStandardGravitationalParameterValue",
-    "default_unit": "Item:OSW70d2cca5a9c75bec807d755997acbf8c"
+    "quantity_property": "Property:HasStandardGravitationalParameterValue"
 }

@@ -35,24 +35,24 @@
                     "enum": [
                         "Item:OSW21e01a5082e35d5cbcf741df0a054cee",
                         "Item:OSW21e01a5082e35d5cbcf741df0a054cee#OSW81d243ef653b5b6b890b1102d37d6d78",
-                        "Item:OSW21e01a5082e35d5cbcf741df0a054cee#OSWe385b197cb0e581d8e25ce1ec9a73c7a",
                         "Item:OSW21e01a5082e35d5cbcf741df0a054cee#OSWe299bb79004b52b3a4c9f8a739b881bf",
-                        "Item:OSW21e01a5082e35d5cbcf741df0a054cee#OSW8d315234960451fa895c98b88e9f1b28"
+                        "Item:OSW21e01a5082e35d5cbcf741df0a054cee#OSW8d315234960451fa895c98b88e9f1b28",
+                        "Item:OSW21e01a5082e35d5cbcf741df0a054cee#OSWe385b197cb0e581d8e25ce1ec9a73c7a"
                     ],
                     "x-enum-varnames": [
                         "ampere_per_meter",
                         "ampere_per_milli_meter",
-                        "milli_ampere_per_milli_meter",
                         "kilo_ampere_per_meter",
-                        "ampere_per_centi_meter"
+                        "ampere_per_centi_meter",
+                        "milli_ampere_per_milli_meter"
                     ],
                     "options": {
                         "enum_titles": [
                             "A/m",
                             "A/mm",
-                            "mA/mm",
                             "kA/m",
-                            "A/cm"
+                            "A/cm",
+                            "mA/mm"
                         ]
                     },
                     "default": "Item:OSW21e01a5082e35d5cbcf741df0a054cee"

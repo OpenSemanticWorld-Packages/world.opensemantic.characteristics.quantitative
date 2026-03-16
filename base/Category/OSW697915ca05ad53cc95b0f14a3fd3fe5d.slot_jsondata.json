@@ -26,6 +26,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSWc0cfa243b463511db3421ebcb7d1292b",
+    "default_unit": "Item:OSW7e66beeef6b05637a554d3506d689000",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW7e66beeef6b05637a554d3506d689000",
@@ -38,6 +39,5 @@
             "symbol": "kJ/mol"
         }
     ],
-    "quantity_property": "Property:HasChemicalAffinityValue",
-    "default_unit": "Item:OSW7e66beeef6b05637a554d3506d689000"
+    "quantity_property": "Property:HasChemicalAffinityValue"
 }

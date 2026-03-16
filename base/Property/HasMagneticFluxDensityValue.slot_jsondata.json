@@ -28,16 +28,16 @@
     },
     "additional_units": [
         {
-            "uuid": "b704047e-973c-594b-9e54-95d97e44d3df",
-            "name": "µT",
-            "main_symbol": "µT",
-            "conversion_factor_to_main_unit": "1000000.0"
-        },
-        {
             "uuid": "38759f87-2c3a-532f-87d4-b15615386a84",
             "name": "mT",
             "main_symbol": "mT",
             "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "b704047e-973c-594b-9e54-95d97e44d3df",
+            "name": "µT",
+            "main_symbol": "µT",
+            "conversion_factor_to_main_unit": "1000000.0"
         },
         {
             "uuid": "9b914c95-aeda-59e8-87b7-8134a09896fa",

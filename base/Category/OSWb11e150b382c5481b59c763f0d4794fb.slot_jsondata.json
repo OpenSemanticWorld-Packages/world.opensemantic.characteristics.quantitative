@@ -30,6 +30,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW8753c936eb01513dbd3a1b3f349b44a9",
+    "default_unit": "Item:OSWb2b78d963e4e54d7b5e64db90eb5fad2",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSWb2b78d963e4e54d7b5e64db90eb5fad2",
@@ -42,6 +43,5 @@
             "symbol": "cm²/(V·s)"
         }
     ],
-    "quantity_property": "Property:HasMobilityValue",
-    "default_unit": "Item:OSWb2b78d963e4e54d7b5e64db90eb5fad2"
+    "quantity_property": "Property:HasMobilityValue"
 }

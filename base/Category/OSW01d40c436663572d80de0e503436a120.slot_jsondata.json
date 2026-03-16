@@ -20,6 +20,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW89896336be9f5f908642806a1e96151a",
+    "default_unit": "Item:OSW779e33a057275cba9d6f363a1526d8bf",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW779e33a057275cba9d6f363a1526d8bf",
@@ -27,6 +28,5 @@
             "symbol": "1/g"
         }
     ],
-    "quantity_property": "Property:HasReciprocalMassValue",
-    "default_unit": "Item:OSW779e33a057275cba9d6f363a1526d8bf"
+    "quantity_property": "Property:HasReciprocalMassValue"
 }

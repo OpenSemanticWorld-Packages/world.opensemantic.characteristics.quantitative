@@ -24,16 +24,16 @@
     },
     "additional_units": [
         {
-            "uuid": "ea745027-5fdd-501a-976c-560e24ef4db4",
-            "name": "μmol/s",
-            "main_symbol": "μmol/s",
-            "conversion_factor_to_main_unit": "1000000.0"
-        },
-        {
             "uuid": "f34f1253-1670-592c-a19a-69df946d3a8f",
             "name": "kmol/s",
             "main_symbol": "kmol/s",
             "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "ea745027-5fdd-501a-976c-560e24ef4db4",
+            "name": "μmol/s",
+            "main_symbol": "μmol/s",
+            "conversion_factor_to_main_unit": "1000000.0"
         }
     ]
 }

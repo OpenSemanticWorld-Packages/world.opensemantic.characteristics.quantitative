@@ -27,6 +27,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW54fd9cc117e055018abe2f8a9abb8ceb",
+    "default_unit": "Item:OSW8967238ff12d589a8e1383b0a684ddc5",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW8967238ff12d589a8e1383b0a684ddc5",
@@ -39,6 +40,5 @@
             "symbol": "mm³/kg"
         }
     ],
-    "quantity_property": "Property:HasSpecificVolumeValue",
-    "default_unit": "Item:OSW8967238ff12d589a8e1383b0a684ddc5"
+    "quantity_property": "Property:HasSpecificVolumeValue"
 }

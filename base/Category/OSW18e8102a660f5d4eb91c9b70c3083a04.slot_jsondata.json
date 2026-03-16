@@ -20,6 +20,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW491d4adbfc21571e942b00acc7e3ee44",
+    "default_unit": "Item:OSW9ed7c23bcd215a00b2da55e18e9d1238",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW9ed7c23bcd215a00b2da55e18e9d1238",
@@ -32,6 +33,5 @@
             "symbol": "kN·m/m"
         }
     ],
-    "quantity_property": "Property:HasTorquePerLengthValue",
-    "default_unit": "Item:OSW9ed7c23bcd215a00b2da55e18e9d1238"
+    "quantity_property": "Property:HasTorquePerLengthValue"
 }

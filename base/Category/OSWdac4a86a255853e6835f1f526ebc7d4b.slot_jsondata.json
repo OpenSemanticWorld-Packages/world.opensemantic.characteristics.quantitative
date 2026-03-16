@@ -26,6 +26,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW18b8edc1dbf851968463e408d46923f8",
+    "default_unit": "Item:OSW480ba7517ec75d798c6b56f61d91de1d",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW480ba7517ec75d798c6b56f61d91de1d",
@@ -33,6 +34,5 @@
             "symbol": "Pa²·s"
         }
     ],
-    "quantity_property": "Property:HasSoundExposureValue",
-    "default_unit": "Item:OSW480ba7517ec75d798c6b56f61d91de1d"
+    "quantity_property": "Property:HasSoundExposureValue"
 }

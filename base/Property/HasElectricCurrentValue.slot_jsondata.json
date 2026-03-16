@@ -28,16 +28,22 @@
     },
     "additional_units": [
         {
-            "uuid": "4293fa6c-ffd2-58c9-bb9d-cf12b388532f",
-            "name": "pA",
-            "main_symbol": "pA",
-            "conversion_factor_to_main_unit": "1000000000000.0"
+            "uuid": "f048dfaf-4ada-5c7a-b6f1-ce55aaeb0805",
+            "name": "mA",
+            "main_symbol": "mA",
+            "conversion_factor_to_main_unit": "1000.0"
         },
         {
             "uuid": "45d53682-9638-516d-9974-b519673f0ada",
             "name": "MA",
             "main_symbol": "MA",
             "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "4293fa6c-ffd2-58c9-bb9d-cf12b388532f",
+            "name": "pA",
+            "main_symbol": "pA",
+            "conversion_factor_to_main_unit": "1000000000000.0"
         },
         {
             "uuid": "4b1892c3-f328-5909-b176-07231e8ac857",
@@ -50,12 +56,6 @@
             "name": "μA",
             "main_symbol": "μA",
             "conversion_factor_to_main_unit": "1000000.0"
-        },
-        {
-            "uuid": "f048dfaf-4ada-5c7a-b6f1-ce55aaeb0805",
-            "name": "mA",
-            "main_symbol": "mA",
-            "conversion_factor_to_main_unit": "1000.0"
         }
     ]
 }

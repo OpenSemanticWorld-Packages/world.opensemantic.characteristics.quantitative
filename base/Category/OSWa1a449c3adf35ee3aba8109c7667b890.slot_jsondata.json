@@ -26,6 +26,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW0bbc7fb5c8e1534983dead4922e5d1be",
+    "default_unit": "Item:OSWe9c4745c4d3a5c17a288b08a7f870ffc",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSWe9c4745c4d3a5c17a288b08a7f870ffc",
@@ -33,6 +34,5 @@
             "symbol": "m²/sr"
         }
     ],
-    "quantity_property": "Property:HasAngularCrossSectionValue",
-    "default_unit": "Item:OSWe9c4745c4d3a5c17a288b08a7f870ffc"
+    "quantity_property": "Property:HasAngularCrossSectionValue"
 }

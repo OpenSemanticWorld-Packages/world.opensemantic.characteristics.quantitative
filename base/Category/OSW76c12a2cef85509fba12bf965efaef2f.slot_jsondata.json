@@ -1,0 +1,38 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "76c12a2c-ef85-509f-ba12-bf965efaef2f",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ApparentThermalInertia"
+    ],
+    "name": "MeasurementUnitForAQuantityApproximatelyProportionalToThermalInertia",
+    "label": [
+        {
+            "text": "Measurement Unit for a quantity approximately proportional to Thermal Inertia",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Thermal inertia is a term used to describe the observed delays in a body's temperature response during heat transfers",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWd38166d0b91c51e7b08c8155bd32fd66",
+    "default_unit": "Item:OSW33dfda3d4dea57d192d02eecdbc09b86",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW33dfda3d4dea57d192d02eecdbc09b86",
+            "name": "per_kelvin",
+            "symbol": "1/K"
+        }
+    ],
+    "quantity_property": "Property:HasMeasurementUnitForAQuantityApproximatelyProportionalToThermalInertiaValue"
+}

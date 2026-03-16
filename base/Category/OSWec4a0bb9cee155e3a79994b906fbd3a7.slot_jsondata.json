@@ -26,6 +26,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW1867660f9640528c809c8d29b3051296",
+    "default_unit": "Item:OSW25bef56399fe5f7fa5d119aff09cfb30",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW25bef56399fe5f7fa5d119aff09cfb30",
@@ -38,6 +39,5 @@
             "symbol": "cm³/(mol·s)"
         }
     ],
-    "quantity_property": "Property:HasReactionRateConstantValue",
-    "default_unit": "Item:OSW25bef56399fe5f7fa5d119aff09cfb30"
+    "quantity_property": "Property:HasReactionRateConstantValue"
 }

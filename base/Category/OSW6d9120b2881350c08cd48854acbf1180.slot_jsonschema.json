@@ -35,25 +35,25 @@
                     "title": "ElectricPotentialDifferenceUnit",
                     "enum": [
                         "Item:OSW85efe1428cb75363a75aab6435e2d98d",
-                        "Item:OSW85efe1428cb75363a75aab6435e2d98d#OSW82d25d00b1485cc18c204f95de4536a9",
                         "Item:OSW85efe1428cb75363a75aab6435e2d98d#OSWc0cb09a94aa553589a59ea70bfccfc96",
-                        "Item:OSW85efe1428cb75363a75aab6435e2d98d#OSW4deed980237a5360b48e0dd1331d4199",
-                        "Item:OSW85efe1428cb75363a75aab6435e2d98d#OSW78798aa1bdcb57f0aea8d4eb86ff3355"
+                        "Item:OSW85efe1428cb75363a75aab6435e2d98d#OSW78798aa1bdcb57f0aea8d4eb86ff3355",
+                        "Item:OSW85efe1428cb75363a75aab6435e2d98d#OSW82d25d00b1485cc18c204f95de4536a9",
+                        "Item:OSW85efe1428cb75363a75aab6435e2d98d#OSW4deed980237a5360b48e0dd1331d4199"
                     ],
                     "x-enum-varnames": [
                         "volt",
-                        "milli_volt",
                         "micro_volt",
-                        "kilo_volt",
-                        "mega_volt"
+                        "mega_volt",
+                        "milli_volt",
+                        "kilo_volt"
                     ],
                     "options": {
                         "enum_titles": [
                             "V",
-                            "mV",
                             "µV",
-                            "kV",
-                            "MV"
+                            "MV",
+                            "mV",
+                            "kV"
                         ]
                     },
                     "default": "Item:OSW85efe1428cb75363a75aab6435e2d98d"

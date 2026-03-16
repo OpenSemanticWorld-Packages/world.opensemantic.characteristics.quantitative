@@ -24,10 +24,16 @@
     },
     "additional_units": [
         {
-            "uuid": "45a8a9e4-c8f4-552e-8aab-18ffea6af001",
-            "name": "µV/m",
-            "main_symbol": "µV/m",
-            "conversion_factor_to_main_unit": "1000000.0"
+            "uuid": "d19dd010-d118-562d-a38a-9307783eadd6",
+            "name": "kV/m",
+            "main_symbol": "kV/m",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "34945978-1bef-55a8-87fe-1d3a878b494c",
+            "name": "mV/m",
+            "main_symbol": "mV/m",
+            "conversion_factor_to_main_unit": "1000.0"
         },
         {
             "uuid": "88c75d03-57b0-5551-9a0b-ea0b8e76fa74",
@@ -36,16 +42,10 @@
             "conversion_factor_to_main_unit": "0.001"
         },
         {
-            "uuid": "537a2c05-9323-53f2-8d62-350ecfa7fe3a",
-            "name": "V/cm",
-            "main_symbol": "V/cm",
-            "conversion_factor_to_main_unit": "0.01"
-        },
-        {
-            "uuid": "d19dd010-d118-562d-a38a-9307783eadd6",
-            "name": "kV/m",
-            "main_symbol": "kV/m",
-            "conversion_factor_to_main_unit": "0.001"
+            "uuid": "45a8a9e4-c8f4-552e-8aab-18ffea6af001",
+            "name": "µV/m",
+            "main_symbol": "µV/m",
+            "conversion_factor_to_main_unit": "1000000.0"
         },
         {
             "uuid": "28c0d432-ef03-52b8-8280-c28939455d78",
@@ -54,10 +54,10 @@
             "conversion_factor_to_main_unit": "1e-06"
         },
         {
-            "uuid": "34945978-1bef-55a8-87fe-1d3a878b494c",
-            "name": "mV/m",
-            "main_symbol": "mV/m",
-            "conversion_factor_to_main_unit": "1000.0"
+            "uuid": "537a2c05-9323-53f2-8d62-350ecfa7fe3a",
+            "name": "V/cm",
+            "main_symbol": "V/cm",
+            "conversion_factor_to_main_unit": "0.01"
         }
     ]
 }

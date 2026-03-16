@@ -26,6 +26,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSWd7be48e92b265f2d894583ccc298b6f0",
+    "default_unit": "Item:OSWd7015166d39d5cae866a40eac3d51896#OSWc811db362efa5d33a49b56ffdd77e54d",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSWd7015166d39d5cae866a40eac3d51896#OSWc811db362efa5d33a49b56ffdd77e54d",
@@ -33,6 +34,5 @@
             "symbol": "m²/kg"
         }
     ],
-    "quantity_property": "Property:HasSpecificSurfaceAreaValue",
-    "default_unit": "Item:OSWd7015166d39d5cae866a40eac3d51896#OSWc811db362efa5d33a49b56ffdd77e54d"
+    "quantity_property": "Property:HasSpecificSurfaceAreaValue"
 }

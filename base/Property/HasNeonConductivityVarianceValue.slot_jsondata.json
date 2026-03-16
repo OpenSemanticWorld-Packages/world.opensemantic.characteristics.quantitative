@@ -1,9 +1,9 @@
 {
-    "uuid": "ae3bfb3a-9255-5ad7-b4b7-69f073c5c6e2",
-    "name": "HasNEONValue",
+    "uuid": "2eafb89a-4bce-5270-8899-1b2e981e6346",
+    "name": "HasNeonConductivityVarianceValue",
     "label": [
         {
-            "text": "NEON",
+            "text": "NEON Conductivity Variance",
             "lang": "en"
         }
     ],

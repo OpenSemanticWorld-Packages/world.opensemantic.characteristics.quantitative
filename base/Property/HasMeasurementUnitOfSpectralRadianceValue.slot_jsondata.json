@@ -1,0 +1,33 @@
+{
+    "uuid": "fdd8c7c3-94dd-5f6a-bd2f-071ed3111190",
+    "name": "HasMeasurementUnitOfSpectralRadianceValue",
+    "label": [
+        {
+            "text": "Measurement Unit of Spectral Radiance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Spectral Radiance is a radiometry term for the power per unit area of electromagnetic radiation per unit wavelength per unit solid angle emerging from a surface.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "main_unit": {
+        "uuid": "62831cca-7848-52a2-988b-4da35693802d",
+        "name": "W/(m²·m·sr)",
+        "main_symbol": "W/(m²·m·sr)"
+    },
+    "additional_units": [
+        {
+            "uuid": "95e44003-ca91-58cc-b2ab-6a270b14a8f4",
+            "name": "W/(m²·nm·sr)",
+            "main_symbol": "W/(m²·nm·sr)",
+            "conversion_factor_to_main_unit": "0.0"
+        }
+    ]
+}

@@ -20,6 +20,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW5042e3c9dfc35ca4bd2f1dd3717d3e44",
+    "default_unit": "Item:OSW21febbc735d25a9badefe5f3191757d9",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW21febbc735d25a9badefe5f3191757d9",
@@ -32,6 +33,5 @@
             "symbol": "MHz/K"
         }
     ],
-    "quantity_property": "Property:HasInverseTimeTemperatureValue",
-    "default_unit": "Item:OSW21febbc735d25a9badefe5f3191757d9"
+    "quantity_property": "Property:HasInverseTimeTemperatureValue"
 }

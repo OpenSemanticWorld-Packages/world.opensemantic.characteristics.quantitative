@@ -26,6 +26,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSWe4638a78ef8354ed9c89f0464de1aaa0",
+    "default_unit": "Item:OSW03b25e9a7cef5adeb7f3d5f82115dfc3",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW03b25e9a7cef5adeb7f3d5f82115dfc3",
@@ -43,6 +44,5 @@
             "symbol": "μBq/kg"
         }
     ],
-    "quantity_property": "Property:HasMassicActivityValue",
-    "default_unit": "Item:OSW03b25e9a7cef5adeb7f3d5f82115dfc3"
+    "quantity_property": "Property:HasMassicActivityValue"
 }

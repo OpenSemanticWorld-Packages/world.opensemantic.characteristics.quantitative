@@ -18,34 +18,10 @@
     },
     "additional_units": [
         {
-            "uuid": "f7ce34d7-2690-5d3d-a52f-a9521a093f30",
-            "name": "cmol/kg",
-            "main_symbol": "cmol/kg",
-            "conversion_factor_to_main_unit": "100.0"
-        },
-        {
-            "uuid": "50290ac9-dfba-5880-bc87-fbcd59ab6121",
-            "name": "μmol/kg",
-            "main_symbol": "μmol/kg",
-            "conversion_factor_to_main_unit": "1000000.0"
-        },
-        {
-            "uuid": "6c4f88cf-ead3-5d0d-86b9-e0ede4756608",
-            "name": "fmol/kg",
-            "main_symbol": "fmol/kg",
-            "conversion_factor_to_main_unit": "999999999999999.9"
-        },
-        {
             "uuid": "360a1be7-ffd5-50a5-b5b2-aceed2582082",
             "name": "pmol/kg",
             "main_symbol": "pmol/kg",
             "conversion_factor_to_main_unit": "1000000000000.0"
-        },
-        {
-            "uuid": "95b44aeb-86bc-5313-92d1-98e6be5f7a15",
-            "name": "mmol/kg",
-            "main_symbol": "mmol/kg",
-            "conversion_factor_to_main_unit": "1000.0"
         },
         {
             "uuid": "c3864f50-b189-5ce7-bd95-239b04a3b353",
@@ -58,6 +34,30 @@
             "name": "kmol/kg",
             "main_symbol": "kmol/kg",
             "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "6c4f88cf-ead3-5d0d-86b9-e0ede4756608",
+            "name": "fmol/kg",
+            "main_symbol": "fmol/kg",
+            "conversion_factor_to_main_unit": "999999999999999.9"
+        },
+        {
+            "uuid": "f7ce34d7-2690-5d3d-a52f-a9521a093f30",
+            "name": "cmol/kg",
+            "main_symbol": "cmol/kg",
+            "conversion_factor_to_main_unit": "100.0"
+        },
+        {
+            "uuid": "95b44aeb-86bc-5313-92d1-98e6be5f7a15",
+            "name": "mmol/kg",
+            "main_symbol": "mmol/kg",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "50290ac9-dfba-5880-bc87-fbcd59ab6121",
+            "name": "μmol/kg",
+            "main_symbol": "μmol/kg",
+            "conversion_factor_to_main_unit": "1000000.0"
         }
     ]
 }

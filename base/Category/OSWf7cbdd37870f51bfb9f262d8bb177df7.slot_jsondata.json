@@ -26,6 +26,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW830ed291ed1e50928be41ad485b68392",
+    "default_unit": "Item:OSWf4a7837882ed5a0b9b128b2d067fc97b",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSWf4a7837882ed5a0b9b128b2d067fc97b",
@@ -33,6 +34,5 @@
             "symbol": "m²/mol"
         }
     ],
-    "quantity_property": "Property:HasMolarAbsorptionCoefficientValue",
-    "default_unit": "Item:OSWf4a7837882ed5a0b9b128b2d067fc97b"
+    "quantity_property": "Property:HasMolarAbsorptionCoefficientValue"
 }

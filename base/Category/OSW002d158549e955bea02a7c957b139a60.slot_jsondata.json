@@ -30,6 +30,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW2b034f2648bb5e9dba9a8f5135484c29",
+    "default_unit": "Item:OSW20ac6724f1a05ee884222d546955e78f",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW20ac6724f1a05ee884222d546955e78f",
@@ -37,6 +38,5 @@
             "symbol": "B"
         }
     ],
-    "quantity_property": "Property:HasSoundPressureLevelValue",
-    "default_unit": "Item:OSW20ac6724f1a05ee884222d546955e78f"
+    "quantity_property": "Property:HasSoundPressureLevelValue"
 }

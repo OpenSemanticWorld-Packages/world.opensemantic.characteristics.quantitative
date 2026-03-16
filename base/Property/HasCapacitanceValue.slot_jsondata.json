@@ -30,6 +30,12 @@
             "conversion_factor_to_main_unit": "1000000000000.0"
         },
         {
+            "uuid": "457c740c-6ee0-54ed-8ca9-ec1872034bf3",
+            "name": "nF",
+            "main_symbol": "nF",
+            "conversion_factor_to_main_unit": "1000000000.0"
+        },
+        {
             "uuid": "543cfa65-2532-5870-bca6-43a892fa78c9",
             "name": "mF",
             "main_symbol": "mF",
@@ -40,12 +46,6 @@
             "name": "μF",
             "main_symbol": "μF",
             "conversion_factor_to_main_unit": "1000000.0"
-        },
-        {
-            "uuid": "457c740c-6ee0-54ed-8ca9-ec1872034bf3",
-            "name": "nF",
-            "main_symbol": "nF",
-            "conversion_factor_to_main_unit": "1000000000.0"
         },
         {
             "uuid": "0d5a9753-fc7c-58c2-8f08-24e4ebecc147",

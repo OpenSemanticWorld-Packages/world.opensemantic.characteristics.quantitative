@@ -26,6 +26,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW74555169ee9a593b9ae0cf7f3fb29bbe",
+    "default_unit": "Item:OSW3063bab947d256b1a7a11cdb158d11b1",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW3063bab947d256b1a7a11cdb158d11b1",
@@ -43,6 +44,5 @@
             "symbol": "μmol/(m²·s)"
         }
     ],
-    "quantity_property": "Property:HasMolarFluxDensityValue",
-    "default_unit": "Item:OSW3063bab947d256b1a7a11cdb158d11b1"
+    "quantity_property": "Property:HasMolarFluxDensityValue"
 }

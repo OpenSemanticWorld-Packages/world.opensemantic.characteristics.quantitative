@@ -18,8 +18,16 @@
         "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
     ],
     "main_unit": {
-        "uuid": "7c7c6b5f-d76a-5abe-92e1-006bc49ce7e4",
-        "name": "K",
-        "main_symbol": "K"
-    }
+        "uuid": "03b5183d-0403-5f91-aff2-8269f9e68692",
+        "name": "°C",
+        "main_symbol": "°C"
+    },
+    "additional_units": [
+        {
+            "uuid": "dca23854-8300-51b7-b580-0dfc101b79db",
+            "name": "m°C",
+            "main_symbol": "m°C",
+            "conversion_factor_to_main_unit": "1000.0"
+        }
+    ]
 }

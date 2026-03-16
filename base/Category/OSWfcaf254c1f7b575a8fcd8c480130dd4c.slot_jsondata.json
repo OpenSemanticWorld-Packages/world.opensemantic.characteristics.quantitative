@@ -1,0 +1,38 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "fcaf254c-1f7b-575a-8fcd-8c480130dd4c",
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/BatteryCapacity"
+    ],
+    "name": "BatteryCapacity",
+    "label": [
+        {
+            "text": "Battery capacity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Elektrizitätsmenge oder elektrische Ladung, die eine vollgeladenen Batterie unter festgelegten Bedingungen abgeben kann als Produkt aus Entladestrom und Entladezeit",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWeb5b34a350205d1f9427a61b7b945960",
+    "default_unit": "Item:OSW5705fe1e62ee57b3b67f335a31bc8e6e",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW5705fe1e62ee57b3b67f335a31bc8e6e",
+            "name": "ampere_second",
+            "symbol": "A·s"
+        }
+    ],
+    "quantity_property": "Property:HasBatteryCapacityValue"
+}

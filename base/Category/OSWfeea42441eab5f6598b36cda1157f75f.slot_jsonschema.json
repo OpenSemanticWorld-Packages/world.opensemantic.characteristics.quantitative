@@ -34,28 +34,28 @@
                     "title": "MassRatioUnit",
                     "enum": [
                         "Item:OSW36c3b3d668515d6ba8fd68089a3a0371",
-                        "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSW0e151b869b4358e09c5be62ba332b9e2",
                         "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSWae508fcfb7fb56c78ae5250e13758161",
-                        "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSW31fbfb51bd3f59f8ad0721cb4d285ad3",
                         "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSW8b2109351a6e507492cbce6f37661a92",
-                        "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSWddab3ad9ea7357ebbf27de6e6e20405d"
+                        "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSWddab3ad9ea7357ebbf27de6e6e20405d",
+                        "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSW31fbfb51bd3f59f8ad0721cb4d285ad3",
+                        "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSW0e151b869b4358e09c5be62ba332b9e2"
                     ],
                     "x-enum-varnames": [
                         "",
-                        "pico_gram_per_gram",
                         "",
-                        "milli_gram_per_gram",
                         "micro_gram_per_gram",
-                        "gram_per_kilo_gram"
+                        "gram_per_kilo_gram",
+                        "milli_gram_per_gram",
+                        "pico_gram_per_gram"
                     ],
                     "options": {
                         "enum_titles": [
                             "g/g",
-                            "pg/g",
                             "kg/kg",
-                            "mg/g",
                             "μg/g",
-                            "g/kg"
+                            "g/kg",
+                            "mg/g",
+                            "pg/g"
                         ]
                     },
                     "default": "Item:OSW36c3b3d668515d6ba8fd68089a3a0371"

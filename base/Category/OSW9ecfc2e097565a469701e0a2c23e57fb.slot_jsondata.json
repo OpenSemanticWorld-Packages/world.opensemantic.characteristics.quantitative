@@ -20,6 +20,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSWe6412907ab75573ebfb6aa4b95ca0b4d",
+    "default_unit": "Item:OSW7f98af11c42058aeb941076309b78dea",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW7f98af11c42058aeb941076309b78dea",
@@ -27,6 +28,5 @@
             "symbol": "N·s/rad"
         }
     ],
-    "quantity_property": "Property:HasMomentumPerAngleValue",
-    "default_unit": "Item:OSW7f98af11c42058aeb941076309b78dea"
+    "quantity_property": "Property:HasMomentumPerAngleValue"
 }

@@ -26,6 +26,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSWb92ae8a4e8d05cacbf1255b69282db17",
+    "default_unit": "Item:OSW7d0144647c655cbeac604178c20df9c8",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW7d0144647c655cbeac604178c20df9c8",
@@ -38,6 +39,5 @@
             "symbol": "V/µs"
         }
     ],
-    "quantity_property": "Property:HasPowerPerElectricChargeValue",
-    "default_unit": "Item:OSW7d0144647c655cbeac604178c20df9c8"
+    "quantity_property": "Property:HasPowerPerElectricChargeValue"
 }

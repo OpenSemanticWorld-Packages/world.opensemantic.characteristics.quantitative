@@ -24,18 +24,6 @@
     },
     "additional_units": [
         {
-            "uuid": "87e1d5c3-bbed-5ae2-bb29-46045d0e1c78",
-            "name": "pmol/m³",
-            "main_symbol": "pmol/m³",
-            "conversion_factor_to_main_unit": "1000000000000.0"
-        },
-        {
-            "uuid": "b69622d2-8796-5d32-b5fe-ff72cac34a9e",
-            "name": "kmol/m³",
-            "main_symbol": "kmol/m³",
-            "conversion_factor_to_main_unit": "0.001"
-        },
-        {
             "uuid": "8c4ae01e-e606-5adf-9683-2bb6774ec26b",
             "name": "mmol/m³",
             "main_symbol": "mmol/m³",
@@ -46,6 +34,18 @@
             "name": "mol/dm³",
             "main_symbol": "mol/dm³",
             "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "b69622d2-8796-5d32-b5fe-ff72cac34a9e",
+            "name": "kmol/m³",
+            "main_symbol": "kmol/m³",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "87e1d5c3-bbed-5ae2-bb29-46045d0e1c78",
+            "name": "pmol/m³",
+            "main_symbol": "pmol/m³",
+            "conversion_factor_to_main_unit": "1000000000000.0"
         }
     ]
 }

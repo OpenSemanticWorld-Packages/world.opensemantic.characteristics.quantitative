@@ -20,6 +20,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW46dae0da5ca851cd9d10ec3ae0da828a",
+    "default_unit": "Item:OSW7897b70c933d560b918444de17703f23",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW7897b70c933d560b918444de17703f23",
@@ -27,6 +28,5 @@
             "symbol": "m/F"
         }
     ],
-    "quantity_property": "Property:HasInversePermittivityValue",
-    "default_unit": "Item:OSW7897b70c933d560b918444de17703f23"
+    "quantity_property": "Property:HasInversePermittivityValue"
 }

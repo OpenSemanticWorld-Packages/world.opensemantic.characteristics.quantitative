@@ -21,6 +21,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW6030085aa5785bbb89b6d8a8edc42630",
+    "default_unit": "Item:OSWb91fd68d93375855a57c795180c429a3",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSWb91fd68d93375855a57c795180c429a3",
@@ -33,6 +34,5 @@
             "symbol": "cm/s²"
         }
     ],
-    "quantity_property": "Property:HasLinearAccelerationValue",
-    "default_unit": "Item:OSWb91fd68d93375855a57c795180c429a3"
+    "quantity_property": "Property:HasLinearAccelerationValue"
 }

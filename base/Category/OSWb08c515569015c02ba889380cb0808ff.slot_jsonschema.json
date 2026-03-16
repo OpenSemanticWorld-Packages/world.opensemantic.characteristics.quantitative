@@ -34,28 +34,28 @@
                     "title": "MagneticTensionUnit",
                     "enum": [
                         "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec",
-                        "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSWb59bf21962f75857965df77a55549178",
+                        "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSW614e3543b8aa55a5b4aa87c9cd179703",
                         "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSWc611b97c5c4354059113fb8f17a26f2f",
+                        "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSWb59bf21962f75857965df77a55549178",
                         "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSW49e59ce46e35588193327425fa1d89ab",
-                        "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSW771bd899c7045f84b282cc653efe6d28",
-                        "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSW614e3543b8aa55a5b4aa87c9cd179703"
+                        "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSW771bd899c7045f84b282cc653efe6d28"
                     ],
                     "x-enum-varnames": [
                         "ampere",
-                        "pico_ampere",
+                        "milli_ampere",
                         "mega_ampere",
+                        "pico_ampere",
                         "kilo_ampere",
-                        "micro_ampere",
-                        "milli_ampere"
+                        "micro_ampere"
                     ],
                     "options": {
                         "enum_titles": [
                             "A",
-                            "pA",
+                            "mA",
                             "MA",
+                            "pA",
                             "kA",
-                            "μA",
-                            "mA"
+                            "μA"
                         ]
                     },
                     "default": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec"

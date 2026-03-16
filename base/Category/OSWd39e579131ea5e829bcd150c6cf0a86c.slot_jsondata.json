@@ -20,6 +20,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW0f2201e259ef5ebc84304e4e0455bec7",
+    "default_unit": "Item:OSWbf685bb28c9b5d15ab98238af18f1f74",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSWbf685bb28c9b5d15ab98238af18f1f74",
@@ -27,6 +28,5 @@
             "symbol": "C³·m/J²"
         }
     ],
-    "quantity_property": "Property:HasCubicElectricDipoleMomentPerSquareEnergyValue",
-    "default_unit": "Item:OSWbf685bb28c9b5d15ab98238af18f1f74"
+    "quantity_property": "Property:HasCubicElectricDipoleMomentPerSquareEnergyValue"
 }

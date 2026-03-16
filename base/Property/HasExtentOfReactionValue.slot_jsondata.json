@@ -30,16 +30,16 @@
             "conversion_factor_to_main_unit": "1000.0"
         },
         {
-            "uuid": "f0a7b39d-7ebc-54bb-b753-4256a7d00d8d",
-            "name": "kmol",
-            "main_symbol": "kmol",
-            "conversion_factor_to_main_unit": "0.001"
-        },
-        {
             "uuid": "d84237c5-1c18-5fe0-8427-b549b4dfd79c",
             "name": "fmol",
             "main_symbol": "fmol",
             "conversion_factor_to_main_unit": "999999999999999.9"
+        },
+        {
+            "uuid": "f0a7b39d-7ebc-54bb-b753-4256a7d00d8d",
+            "name": "kmol",
+            "main_symbol": "kmol",
+            "conversion_factor_to_main_unit": "0.001"
         },
         {
             "uuid": "d0886728-1e9b-56e2-a51b-fdba6de6ed2b",

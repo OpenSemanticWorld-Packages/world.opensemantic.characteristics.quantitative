@@ -31,6 +31,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSWd9d306d537225473a3f2d7ad0493ee80",
+    "default_unit": "Item:OSWb05df920a96b5987aeb46a9b4f7ca333",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSWb05df920a96b5987aeb46a9b4f7ca333",
@@ -38,6 +39,5 @@
             "symbol": "N·m·s/m"
         }
     ],
-    "quantity_property": "Property:HasMomentumValue",
-    "default_unit": "Item:OSWb05df920a96b5987aeb46a9b4f7ca333"
+    "quantity_property": "Property:HasMomentumValue"
 }

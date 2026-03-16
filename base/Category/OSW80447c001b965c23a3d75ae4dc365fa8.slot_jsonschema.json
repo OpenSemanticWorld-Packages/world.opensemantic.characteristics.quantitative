@@ -35,19 +35,19 @@
                     "title": "MolarVolumeUnit",
                     "enum": [
                         "Item:OSW94bba2ee2f9a573eb5fa99c9331f1626",
-                        "Item:OSW94bba2ee2f9a573eb5fa99c9331f1626#OSW6eaa02f1d5ad581f97e7e017fab31412",
-                        "Item:OSW94bba2ee2f9a573eb5fa99c9331f1626#OSW90c99a00002b5483a1ac0638fdbe9078"
+                        "Item:OSW94bba2ee2f9a573eb5fa99c9331f1626#OSW90c99a00002b5483a1ac0638fdbe9078",
+                        "Item:OSW94bba2ee2f9a573eb5fa99c9331f1626#OSW6eaa02f1d5ad581f97e7e017fab31412"
                     ],
                     "x-enum-varnames": [
                         "meter_cubed_per_mole",
-                        "deci_meter_cubed_per_mole",
-                        "centi_meter_cubed_per_mole"
+                        "centi_meter_cubed_per_mole",
+                        "deci_meter_cubed_per_mole"
                     ],
                     "options": {
                         "enum_titles": [
                             "m³/mol",
-                            "dm³/mol",
-                            "cm³/mol"
+                            "cm³/mol",
+                            "dm³/mol"
                         ]
                     },
                     "default": "Item:OSW94bba2ee2f9a573eb5fa99c9331f1626"

@@ -26,6 +26,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSWedef4c24551a534bb82739d3b465101e",
+    "default_unit": "Item:OSW9ea4bf89c42b56728392f1c55639ac18",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW9ea4bf89c42b56728392f1c55639ac18",
@@ -38,6 +39,5 @@
             "symbol": "MJ/m³"
         }
     ],
-    "quantity_property": "Property:HasRadiantEnergyDensityValue",
-    "default_unit": "Item:OSW9ea4bf89c42b56728392f1c55639ac18"
+    "quantity_property": "Property:HasRadiantEnergyDensityValue"
 }

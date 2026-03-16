@@ -24,16 +24,16 @@
     },
     "additional_units": [
         {
-            "uuid": "a77bdf8d-bcf3-5bf1-bd8f-1cc84dcf4f94",
-            "name": "cm³/s",
-            "main_symbol": "cm³/s",
-            "conversion_factor_to_main_unit": "1000000.0"
-        },
-        {
             "uuid": "13b3779e-3221-5dc1-a381-8c5043e9450e",
             "name": "dm³/s",
             "main_symbol": "dm³/s",
             "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "a77bdf8d-bcf3-5bf1-bd8f-1cc84dcf4f94",
+            "name": "cm³/s",
+            "main_symbol": "cm³/s",
+            "conversion_factor_to_main_unit": "1000000.0"
         }
     ]
 }

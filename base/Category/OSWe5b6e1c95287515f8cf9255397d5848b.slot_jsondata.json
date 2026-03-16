@@ -26,6 +26,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSWb5a1a6fd28d5554893d41e84f22fef1a",
+    "default_unit": "Item:OSW462714679d475b158c530d359d42de44",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW462714679d475b158c530d359d42de44",
@@ -33,6 +34,5 @@
             "symbol": "J/T²"
         }
     ],
-    "quantity_property": "Property:HasEnergyPerSquareMagneticFluxDensityValue",
-    "default_unit": "Item:OSW462714679d475b158c530d359d42de44"
+    "quantity_property": "Property:HasEnergyPerSquareMagneticFluxDensityValue"
 }

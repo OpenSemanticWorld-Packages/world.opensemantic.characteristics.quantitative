@@ -20,6 +20,7 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW16d6aedc16785e00af658016a6d0d060",
+    "default_unit": "Item:OSWfd24f9425d815d66beab746eecaf5926",
     "unit_enumeration": [
         {
             "osw_id": "Item:OSWfd24f9425d815d66beab746eecaf5926",
@@ -27,6 +28,5 @@
             "symbol": "K·kg"
         }
     ],
-    "quantity_property": "Property:HasMassTemperatureValue",
-    "default_unit": "Item:OSWfd24f9425d815d66beab746eecaf5926"
+    "quantity_property": "Property:HasMassTemperatureValue"
 }

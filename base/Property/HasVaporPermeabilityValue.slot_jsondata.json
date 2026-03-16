@@ -9,7 +9,7 @@
     ],
     "description": [
         {
-            "text": "A material's \"permeance\", is dependent on thickness much like the R-value in heat transmission. Dividing the permeability of a material by its thickness gives the material's permeance. Permeance is the number that should be used to compare various products in regard to moisture transmission resistance.",
+            "text": "The moisture transmission rate of a material is referred to as its \"permeability\".",
             "lang": "en"
         }
     ],
@@ -18,8 +18,8 @@
         "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
     ],
     "main_unit": {
-        "uuid": "1524fa0b-83ee-5586-95eb-d3e32a840b94",
-        "name": "kg/(m²·Pa·s)",
-        "main_symbol": "kg/(m²·Pa·s)"
+        "uuid": "09fd8dbc-11ae-5e53-841a-90ec3c9719c5",
+        "name": "kg/(Pa·s·m)",
+        "main_symbol": "kg/(Pa·s·m)"
     }
 }
