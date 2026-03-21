@@ -1,0 +1,16 @@
+{
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "uuid": "bd4ac86f-770f-5c1b-ae3e-0326b117a3cf",
+    "name": "HasSerumOrPlasmaLevelValue",
+    "label": [
+        {
+            "text": "Serum or Plasma Level",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasAmountOfSubstancePerVolumeValue",
+    "base_property": "Property:HasAmountOfSubstancePerVolumeValue"
+}

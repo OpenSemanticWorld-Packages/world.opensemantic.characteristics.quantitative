@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "73108f4d-d6b1-5fe2-ad96-2094480cfc69",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/BurnTime"
     ],
+    "uuid": "73108f4d-d6b1-5fe2-ad96-2094480cfc69",
     "name": "BurnTime",
     "label": [
         {

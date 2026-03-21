@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "8dc9564f-0c0e-5606-ad2a-3638f2266313",
     "name": "HasSeebeckCoefficientValue",
     "label": [
@@ -14,12 +17,10 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "245b2de2-8939-58bf-9563-15e9182ebb3c",
         "name": "V/K",
-        "main_symbol": "V/K"
+        "main_symbol": "V/K",
+        "conversion_factor_to_main_unit": "1.0"
     }
 }

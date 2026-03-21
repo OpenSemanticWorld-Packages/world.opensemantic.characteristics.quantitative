@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "416ee5dc-68e5-5357-9a81-e352df2a0641",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/SuperconductionTransitionTemperature"
     ],
+    "uuid": "416ee5dc-68e5-5357-9a81-e352df2a0641",
     "name": "SuperconductionTransitionTemperature",
     "label": [
         {

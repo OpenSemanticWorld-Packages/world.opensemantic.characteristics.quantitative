@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "5079df5b-d908-5725-aebd-171ce0f1bc1b",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/StressOpticCoefficient"
     ],
+    "uuid": "5079df5b-d908-5725-aebd-171ce0f1bc1b",
     "name": "StressOpticCoefficient",
     "label": [
         {
@@ -31,7 +31,27 @@
         {
             "osw_id": "Item:OSWf030abd4441d52a7a8c5f84950985ea4",
             "name": "per_pascal",
-            "symbol": "1/Pa"
+            "symbol": "/Pa"
+        },
+        {
+            "osw_id": "Item:OSW9efb21041c865012bb4d4d80abcd8d02",
+            "name": "nano_meter_per_centi_meter_per_mega_pascal",
+            "symbol": "nm/(cm·MPa)"
+        },
+        {
+            "osw_id": "Item:OSWa893bf53983b5d1f9bc175bd32036d57",
+            "name": "nano_meter_per_mega_pascal_per_milli_meter",
+            "symbol": "nm/(mm·MPa)"
+        },
+        {
+            "osw_id": "Item:OSWf030abd4441d52a7a8c5f84950985ea4#OSW76c7de3066ca5349bd8e252ca3e3ee95",
+            "name": "per_mega_pascal",
+            "symbol": "/MPa"
+        },
+        {
+            "osw_id": "Item:OSWfabd2eabe9d5542f9de724b3d10058ec",
+            "name": "meter_squared_per_newton",
+            "symbol": "m²/N"
         }
     ],
     "quantity_property": "Property:HasStressOpticCoefficientValue"

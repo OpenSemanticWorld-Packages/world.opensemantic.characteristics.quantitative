@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "6ce762ef-103d-5b15-976d-cfa13914bef4",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/LinearElectricCurrentDensity"
     ],
+    "uuid": "6ce762ef-103d-5b15-976d-cfa13914bef4",
     "name": "LinearElectricCurrentDensity",
     "label": [
         {
@@ -34,6 +34,16 @@
             "symbol": "A/m"
         },
         {
+            "osw_id": "Item:OSW21e01a5082e35d5cbcf741df0a054cee#OSWe385b197cb0e581d8e25ce1ec9a73c7a",
+            "name": "milli_ampere_per_milli_meter",
+            "symbol": "mA/mm"
+        },
+        {
+            "osw_id": "Item:OSW21e01a5082e35d5cbcf741df0a054cee#OSW8d315234960451fa895c98b88e9f1b28",
+            "name": "ampere_per_centi_meter",
+            "symbol": "A/cm"
+        },
+        {
             "osw_id": "Item:OSW21e01a5082e35d5cbcf741df0a054cee#OSW81d243ef653b5b6b890b1102d37d6d78",
             "name": "ampere_per_milli_meter",
             "symbol": "A/mm"
@@ -42,16 +52,6 @@
             "osw_id": "Item:OSW21e01a5082e35d5cbcf741df0a054cee#OSWe299bb79004b52b3a4c9f8a739b881bf",
             "name": "kilo_ampere_per_meter",
             "symbol": "kA/m"
-        },
-        {
-            "osw_id": "Item:OSW21e01a5082e35d5cbcf741df0a054cee#OSW8d315234960451fa895c98b88e9f1b28",
-            "name": "ampere_per_centi_meter",
-            "symbol": "A/cm"
-        },
-        {
-            "osw_id": "Item:OSW21e01a5082e35d5cbcf741df0a054cee#OSWe385b197cb0e581d8e25ce1ec9a73c7a",
-            "name": "milli_ampere_per_milli_meter",
-            "symbol": "mA/mm"
         }
     ],
     "quantity_property": "Property:HasLinearElectricCurrentDensityValue"

@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "a002dbed-f44c-5a86-a375-783a4e7ba6e7",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/CrossSection"
     ],
+    "uuid": "a002dbed-f44c-5a86-a375-783a4e7ba6e7",
     "name": "CrossSection",
     "label": [
         {

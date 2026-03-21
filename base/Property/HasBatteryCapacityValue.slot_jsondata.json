@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "31419ddf-7554-586a-9c7b-12a06beb9eca",
     "name": "HasBatteryCapacityValue",
     "label": [
@@ -14,12 +17,36 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "218a7b84-6998-5323-8efc-ee665bfa21fd",
         "name": "A·s",
-        "main_symbol": "A·s"
-    }
+        "main_symbol": "A·s",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "5d727e9a-df84-5dcc-9e71-3bcb09b5a9eb",
+            "name": "kA·h",
+            "main_symbol": "kA·h",
+            "conversion_factor_to_main_unit": "2.7777777777777776e-07"
+        },
+        {
+            "uuid": "e5be629f-07c2-521a-9a56-71a525d6a7c0",
+            "name": "A·h",
+            "main_symbol": "A·h",
+            "conversion_factor_to_main_unit": "0.0002777777777777778"
+        },
+        {
+            "uuid": "15144a54-617c-5051-ae6a-93cfd8944cdf",
+            "name": "mA·h",
+            "main_symbol": "mA·h",
+            "conversion_factor_to_main_unit": "0.2777777777777778"
+        },
+        {
+            "uuid": "e5f99031-383d-516b-bdb7-b85188c1729c",
+            "name": "mA·s",
+            "main_symbol": "mA·s",
+            "conversion_factor_to_main_unit": "1000.0"
+        }
+    ]
 }

@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
     "uuid": "92977443-9f77-5810-9d41-1812d26f932a",
     "name": "HasWebTimeAverageThrustValue",
     "label": [
@@ -9,8 +12,5 @@
     ],
     "property_type": "Quantity",
     "subproperty_of": "Property:HasThrustValue",
-    "type": [
-        "Category:OSW69f251a900944602a08d1cca830249b5"
-    ],
-    "base_property": "Property:HasForceValue"
+    "base_property": "Property:HasThrustValue"
 }

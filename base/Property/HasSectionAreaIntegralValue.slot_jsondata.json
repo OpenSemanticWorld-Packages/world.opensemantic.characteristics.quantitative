@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "7b7ac527-3f26-59bf-9f48-003b8665bc9f",
     "name": "HasSectionAreaIntegralValue",
     "label": [
@@ -14,12 +17,10 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "06d5a221-6274-5032-b9e2-951d410cfe90",
         "name": "m⁵",
-        "main_symbol": "m⁵"
+        "main_symbol": "m⁵",
+        "conversion_factor_to_main_unit": "1.0"
     }
 }

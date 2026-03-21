@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "0accaf04-56ef-52ee-8816-1e974f36e3ba",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ChargeNumber"
     ],
+    "uuid": "0accaf04-56ef-52ee-8816-1e974f36e3ba",
     "name": "ChargeNumber",
     "label": [
         {

@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "a76a1a2e-60f9-52fd-9b4b-da2edfd4047a",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/OsmoticPressure"
     ],
+    "uuid": "a76a1a2e-60f9-52fd-9b4b-da2edfd4047a",
     "name": "OsmoticPressure",
     "label": [
         {

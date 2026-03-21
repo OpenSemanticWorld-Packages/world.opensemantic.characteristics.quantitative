@@ -1,0 +1,38 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/GeneralizedCoordinate"
+    ],
+    "uuid": "0121ff06-c718-51eb-9f63-0271e5f52e4a",
+    "name": "GeneralizedCoordinate",
+    "label": [
+        {
+            "text": "Generalized Coordinate",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Generalized Coordinates refers to the parameters that describe the configuration of the system relative to some reference configuration. These parameters must uniquely define the configuration of the system relative to the reference configuration.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW3e77f02292e553cba8a8ffff5d34a6e7",
+    "default_unit": "Item:OSWc72c8e13779050d1a5512740a9a12112",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWc72c8e13779050d1a5512740a9a12112",
+            "name": "unitless",
+            "symbol": "一"
+        }
+    ],
+    "quantity_property": "Property:HasGeneralizedCoordinateValue"
+}

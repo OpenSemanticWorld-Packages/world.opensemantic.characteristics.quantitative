@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "bfa6ba2f-29ab-5696-b9cd-4ad2f8ebd8b8",
     "name": "HasConductanceValue",
     "label": [
@@ -14,20 +17,18 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "aaf34d16-25f0-5159-b859-f0ff52e987c8",
         "name": "S",
-        "main_symbol": "S"
+        "main_symbol": "S",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
         {
-            "uuid": "06efd988-312c-59b8-8090-a5453ce8bf31",
-            "name": "mS",
-            "main_symbol": "mS",
-            "conversion_factor_to_main_unit": "1000.0"
+            "uuid": "99908e95-a74d-5bd3-a78d-55f559850252",
+            "name": "MS",
+            "main_symbol": "MS",
+            "conversion_factor_to_main_unit": "1e-06"
         },
         {
             "uuid": "6e4f0051-b37a-5c36-8fc8-0287308a2442",
@@ -36,10 +37,34 @@
             "conversion_factor_to_main_unit": "0.001"
         },
         {
+            "uuid": "0dc2ea48-a076-54be-8c88-500cbc363ed1",
+            "name": "dS",
+            "main_symbol": "dS",
+            "conversion_factor_to_main_unit": "10.0"
+        },
+        {
+            "uuid": "06efd988-312c-59b8-8090-a5453ce8bf31",
+            "name": "mS",
+            "main_symbol": "mS",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
             "uuid": "6c3ae8dd-d46e-5fa8-8b5a-1f09ecfda3ff",
             "name": "μS",
             "main_symbol": "μS",
             "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "4c74f406-09df-520c-be9f-d92d4423b31f",
+            "name": "nS",
+            "main_symbol": "nS",
+            "conversion_factor_to_main_unit": "999999999.9999999"
+        },
+        {
+            "uuid": "39599572-c78a-5ed8-b8a8-8b47b1a3520c",
+            "name": "pS",
+            "main_symbol": "pS",
+            "conversion_factor_to_main_unit": "1000000000000.0"
         }
     ]
 }

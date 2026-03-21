@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "uuid": "01d726d5-3b38-526e-a83f-34ae4401012e",
+    "name": "HasLossFactorValue",
+    "label": [
+        {
+            "text": "Loss Factor",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Loss Factor is the inverse of Quality Factor and is the ratio of the resistance and modulus of reactance.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "main_unit": {
+        "uuid": "4411f5ca-371f-5a11-91c7-0ca80634c8f5",
+        "name": "一",
+        "main_symbol": "一",
+        "conversion_factor_to_main_unit": "1.0"
+    }
+}

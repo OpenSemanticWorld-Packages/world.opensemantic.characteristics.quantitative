@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "cdd31e6a-bf82-53a8-94c6-e44a4282924d",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/TotalCurrentDensity"
     ],
+    "uuid": "cdd31e6a-bf82-53a8-94c6-e44a4282924d",
     "name": "TotalCurrentDensity",
     "label": [
         {
@@ -39,19 +39,19 @@
             "symbol": "kA/m²"
         },
         {
+            "osw_id": "Item:OSW2b1e97f1edd650c088abbe8896fe0333#OSWec1a540d03745760af1d26077e9d762e",
+            "name": "ampere_per_centi_meter_squared",
+            "symbol": "A/cm²"
+        },
+        {
             "osw_id": "Item:OSW2b1e97f1edd650c088abbe8896fe0333#OSW8d7d0b57aaba5f8a8f40e8bacc5cb2f6",
             "name": "ampere_per_milli_meter_squared",
             "symbol": "A/mm²"
         },
         {
-            "osw_id": "Item:OSW2b1e97f1edd650c088abbe8896fe0333#OSWd0a4ce0cc105550b9bcbc416589a1b85",
+            "osw_id": "Item:OSWd0a4ce0cc105550b9bcbc416589a1b85",
             "name": "mega_ampere_per_meter_squared",
             "symbol": "MA/m²"
-        },
-        {
-            "osw_id": "Item:OSW2b1e97f1edd650c088abbe8896fe0333#OSWec1a540d03745760af1d26077e9d762e",
-            "name": "ampere_per_centi_meter_squared",
-            "symbol": "A/cm²"
         }
     ],
     "quantity_property": "Property:HasTotalCurrentDensityValue"

@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
     "uuid": "105d551e-e0b8-5559-b8b1-13d0d056035a",
     "name": "HasThermodynamicCriticalMagneticFluxDensityValue",
     "label": [
@@ -15,8 +18,5 @@
     ],
     "property_type": "Quantity",
     "subproperty_of": "Property:HasMagneticFluxDensityValue",
-    "type": [
-        "Category:OSW69f251a900944602a08d1cca830249b5"
-    ],
     "base_property": "Property:HasMagneticFluxDensityValue"
 }

@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
     "uuid": "b7c990b8-9f03-5f4f-b1fd-d8801ee0e0e3",
     "name": "HasStaticFrictionValue",
     "label": [
@@ -15,8 +18,5 @@
     ],
     "property_type": "Quantity",
     "subproperty_of": "Property:HasFrictionValue",
-    "type": [
-        "Category:OSW69f251a900944602a08d1cca830249b5"
-    ],
-    "base_property": "Property:HasForceValue"
+    "base_property": "Property:HasFrictionValue"
 }

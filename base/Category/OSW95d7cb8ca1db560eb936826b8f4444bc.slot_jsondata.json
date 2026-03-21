@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "95d7cb8c-a1db-560e-b936-826b8f4444bc",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/InverseTimeTemperature"
     ],
+    "uuid": "95d7cb8c-a1db-560e-b936-826b8f4444bc",
     "name": "InverseTimeTemperature",
     "label": [
         {

@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "uuid": "08ea5257-6212-5d9c-9f26-9fd0161c94a6",
+    "name": "HasMagneticSusceptabilityValue",
+    "label": [
+        {
+            "text": "Magnetic Susceptability",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Magnetic Susceptability\" is a scalar or tensor quantity the product of which by the magnetic constant $\\mu_0$ and by the magnetic field strength $H$ is equal to the magnetic polarization $J$. The definition given applies to an isotropic medium. For an anisotropic medium permeability is a second order tensor.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "main_unit": {
+        "uuid": "4411f5ca-371f-5a11-91c7-0ca80634c8f5",
+        "name": "一",
+        "main_symbol": "一",
+        "conversion_factor_to_main_unit": "1.0"
+    }
+}

@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "39461742-9839-59d7-9702-3ac052a90323",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/SoundReductionIndex"
     ],
+    "uuid": "39461742-9839-59d7-9702-3ac052a90323",
     "name": "SoundReductionIndex",
     "label": [
         {
@@ -30,8 +30,13 @@
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW20ac6724f1a05ee884222d546955e78f",
-            "name": "byte",
+            "name": "bel",
             "symbol": "B"
+        },
+        {
+            "osw_id": "Item:OSW07ca63bf7dc757298a3f4e0d372dfe73",
+            "name": "decibel",
+            "symbol": "dB"
         }
     ],
     "quantity_property": "Property:HasSoundReductionIndexValue"

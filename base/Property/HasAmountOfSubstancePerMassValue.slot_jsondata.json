@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "6d94904b-9463-57e4-afe3-6b47b7e3f468",
     "name": "HasAmountOfSubstancePerMassValue",
     "label": [
@@ -8,27 +11,13 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
-        "uuid": "394f49d1-6bed-58ae-b5d7-83c149344f6e",
-        "name": "mol/kg",
-        "main_symbol": "mol/kg"
+        "uuid": "89ee949a-0f6a-5205-9582-57ce8eee45fb",
+        "name": "mmol/g",
+        "main_symbol": "mmol/g",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
-        {
-            "uuid": "360a1be7-ffd5-50a5-b5b2-aceed2582082",
-            "name": "pmol/kg",
-            "main_symbol": "pmol/kg",
-            "conversion_factor_to_main_unit": "1000000000000.0"
-        },
-        {
-            "uuid": "c3864f50-b189-5ce7-bd95-239b04a3b353",
-            "name": "nmol/kg",
-            "main_symbol": "nmol/kg",
-            "conversion_factor_to_main_unit": "1000000000.0"
-        },
         {
             "uuid": "feb64749-11f6-5295-8f31-c8cee20ceda3",
             "name": "kmol/kg",
@@ -36,10 +25,10 @@
             "conversion_factor_to_main_unit": "0.001"
         },
         {
-            "uuid": "6c4f88cf-ead3-5d0d-86b9-e0ede4756608",
-            "name": "fmol/kg",
-            "main_symbol": "fmol/kg",
-            "conversion_factor_to_main_unit": "999999999999999.9"
+            "uuid": "394f49d1-6bed-58ae-b5d7-83c149344f6e",
+            "name": "mol/kg",
+            "main_symbol": "mol/kg",
+            "conversion_factor_to_main_unit": "1.0"
         },
         {
             "uuid": "f7ce34d7-2690-5d3d-a52f-a9521a093f30",
@@ -54,10 +43,40 @@
             "conversion_factor_to_main_unit": "1000.0"
         },
         {
+            "uuid": "0f5c071a-d4b1-5d81-a240-759fb36b20c6",
+            "name": "μmol/g",
+            "main_symbol": "μmol/g",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "3e9a60bf-11cc-5ac5-847f-dfe08598d171",
+            "name": "nmol/g",
+            "main_symbol": "nmol/g",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
             "uuid": "50290ac9-dfba-5880-bc87-fbcd59ab6121",
             "name": "μmol/kg",
             "main_symbol": "μmol/kg",
             "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "c3864f50-b189-5ce7-bd95-239b04a3b353",
+            "name": "nmol/kg",
+            "main_symbol": "nmol/kg",
+            "conversion_factor_to_main_unit": "999999999.9999999"
+        },
+        {
+            "uuid": "360a1be7-ffd5-50a5-b5b2-aceed2582082",
+            "name": "pmol/kg",
+            "main_symbol": "pmol/kg",
+            "conversion_factor_to_main_unit": "1000000000000.0"
+        },
+        {
+            "uuid": "6c4f88cf-ead3-5d0d-86b9-e0ede4756608",
+            "name": "fmol/kg",
+            "main_symbol": "fmol/kg",
+            "conversion_factor_to_main_unit": "999999999999999.9"
         }
     ]
 }

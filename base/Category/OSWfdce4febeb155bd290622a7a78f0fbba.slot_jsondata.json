@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "fdce4feb-eb15-5bd2-9062-2a7a78f0fbba",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MoistureDiffusivity"
     ],
+    "uuid": "fdce4feb-eb15-5bd2-9062-2a7a78f0fbba",
     "name": "MoistureDiffusivity",
     "label": [
         {

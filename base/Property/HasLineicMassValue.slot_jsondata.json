@@ -1,0 +1,58 @@
+{
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "uuid": "77f00917-d35e-5bb5-8e0b-417202c23131",
+    "name": "HasLineicMassValue",
+    "label": [
+        {
+            "text": "Lineic mass",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "main_unit": {
+        "uuid": "80403beb-2a0c-54ca-ae6c-abfda6e38bee",
+        "name": "kg/m",
+        "main_symbol": "kg/m",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "08efb0e2-1bc3-500f-88ea-accdb8393d70",
+            "name": "kg/mm",
+            "main_symbol": "kg/mm",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "2a946d0f-bf42-57bd-8258-3a54bc4c0fc7",
+            "name": "g/mm",
+            "main_symbol": "g/mm",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "3f9ab425-8e5d-576f-b9a8-ecbdf286f74c",
+            "name": "g/m",
+            "main_symbol": "g/m",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "2a489a13-3138-5858-b898-a16090976308",
+            "name": "kg/km",
+            "main_symbol": "kg/km",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "5c57edc6-8e11-50e9-a4e6-9325fe4e009e",
+            "name": "g/km",
+            "main_symbol": "g/km",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "9a409fee-809a-599b-b9af-89e06c3c645a",
+            "name": "mg/m",
+            "main_symbol": "mg/m",
+            "conversion_factor_to_main_unit": "1000000.0"
+        }
+    ]
+}

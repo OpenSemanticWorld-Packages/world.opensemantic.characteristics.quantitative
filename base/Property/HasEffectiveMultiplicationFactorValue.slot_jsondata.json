@@ -1,0 +1,22 @@
+{
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "uuid": "49a329f3-2123-5e6a-bd4e-92f26126f1ae",
+    "name": "HasEffectiveMultiplicationFactorValue",
+    "label": [
+        {
+            "text": "Effective Multiplication Factor",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Effective Multiplication Factor\" is the multiplication factor for a finite medium.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasMultiplicationFactorValue",
+    "base_property": "Property:HasMultiplicationFactorValue"
+}

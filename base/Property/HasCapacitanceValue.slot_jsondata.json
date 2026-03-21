@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "65da5e02-a075-59ee-9f84-312f2b8b75f1",
     "name": "HasCapacitanceValue",
     "label": [
@@ -14,26 +17,18 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "3b00991a-111f-52be-9532-3b4b89d63cf3",
         "name": "F",
-        "main_symbol": "F"
+        "main_symbol": "F",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
         {
-            "uuid": "37f4ff6d-4af4-5be2-b5b0-effdda5d47df",
-            "name": "pF",
-            "main_symbol": "pF",
-            "conversion_factor_to_main_unit": "1000000000000.0"
-        },
-        {
-            "uuid": "457c740c-6ee0-54ed-8ca9-ec1872034bf3",
-            "name": "nF",
-            "main_symbol": "nF",
-            "conversion_factor_to_main_unit": "1000000000.0"
+            "uuid": "4e01789e-9d13-58b3-9ead-9f88ff98b0cf",
+            "name": "kF",
+            "main_symbol": "kF",
+            "conversion_factor_to_main_unit": "0.001"
         },
         {
             "uuid": "543cfa65-2532-5870-bca6-43a892fa78c9",
@@ -46,6 +41,24 @@
             "name": "μF",
             "main_symbol": "μF",
             "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "457c740c-6ee0-54ed-8ca9-ec1872034bf3",
+            "name": "nF",
+            "main_symbol": "nF",
+            "conversion_factor_to_main_unit": "999999999.9999999"
+        },
+        {
+            "uuid": "37f4ff6d-4af4-5be2-b5b0-effdda5d47df",
+            "name": "pF",
+            "main_symbol": "pF",
+            "conversion_factor_to_main_unit": "1000000000000.0"
+        },
+        {
+            "uuid": "9a7f24e3-b362-55aa-8dd0-3ee320769600",
+            "name": "fF",
+            "main_symbol": "fF",
+            "conversion_factor_to_main_unit": "999999999999999.9"
         },
         {
             "uuid": "0d5a9753-fc7c-58c2-8f08-24e4ebecc147",

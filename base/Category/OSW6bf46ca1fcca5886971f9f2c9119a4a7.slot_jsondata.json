@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "6bf46ca1-fcca-5886-971f-9f2c9119a4a7",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ReactorTimeConstant"
     ],
+    "uuid": "6bf46ca1-fcca-5886-971f-9f2c9119a4a7",
     "name": "ReactorTimeConstant",
     "label": [
         {

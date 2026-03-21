@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "d6e7af58-9178-5a8e-b9b5-4036c37a8bcb",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/PowerAreaPerSolidAngle"
     ],
+    "uuid": "d6e7af58-9178-5a8e-b9b5-4036c37a8bcb",
     "name": "PowerAreaPerSolidAngle",
     "label": [
         {

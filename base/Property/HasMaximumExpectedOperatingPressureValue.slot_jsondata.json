@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
     "uuid": "d6679476-4f1e-5985-bf52-62dc6efc7436",
     "name": "HasMaximumExpectedOperatingPressureValue",
     "label": [
@@ -9,8 +12,5 @@
     ],
     "property_type": "Quantity",
     "subproperty_of": "Property:HasPressureValue",
-    "type": [
-        "Category:OSW69f251a900944602a08d1cca830249b5"
-    ],
-    "base_property": "Property:HasForcePerAreaValue"
+    "base_property": "Property:HasPressureValue"
 }

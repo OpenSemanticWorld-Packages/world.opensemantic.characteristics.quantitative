@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
     "uuid": "68de612c-39a1-5d8f-8acd-1dad41d97b10",
     "name": "HasThicknessValue",
     "label": [
@@ -15,8 +18,5 @@
     ],
     "property_type": "Quantity",
     "subproperty_of": "Property:HasLengthValue",
-    "type": [
-        "Category:OSW69f251a900944602a08d1cca830249b5"
-    ],
     "base_property": "Property:HasLengthValue"
 }

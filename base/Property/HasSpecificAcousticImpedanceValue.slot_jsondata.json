@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "5997bd6b-e9b5-5843-b805-58490677e3be",
     "name": "HasSpecificAcousticImpedanceValue",
     "label": [
@@ -8,12 +11,18 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "410fb3a0-b71b-5df7-95c9-8c4fc62b8eb9",
         "name": "N·s/m³",
-        "main_symbol": "N·s/m³"
-    }
+        "main_symbol": "N·s/m³",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "d5adb5da-2e87-515b-bfb7-3e70f76affeb",
+            "name": "kg/(m²·s)",
+            "main_symbol": "kg/(m²·s)",
+            "conversion_factor_to_main_unit": "1.0"
+        }
+    ]
 }

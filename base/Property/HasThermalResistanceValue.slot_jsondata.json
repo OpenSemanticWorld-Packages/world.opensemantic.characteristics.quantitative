@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "c24d055d-a16e-59ad-bedc-388ae3a4230f",
     "name": "HasThermalResistanceValue",
     "label": [
@@ -18,12 +21,10 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "c9591ca9-dd28-5d5a-a43a-722f474252f5",
         "name": "K/W",
-        "main_symbol": "K/W"
+        "main_symbol": "K/W",
+        "conversion_factor_to_main_unit": "1.0"
     }
 }

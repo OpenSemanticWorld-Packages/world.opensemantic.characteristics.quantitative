@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "ead5dcb1-6a9a-5c25-9862-f31eca41609d",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/SpeedOfLight",
-        "http://dbpedia.org/resource/Speed_of_light"
+        "http://dbpedia.org/resource/Speed_of_light",
+        "http://qudt.org/vocab/quantitykind/SpeedOfLight"
     ],
+    "uuid": "ead5dcb1-6a9a-5c25-9862-f31eca41609d",
     "name": "SpeedOfLight",
     "label": [
         {

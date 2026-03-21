@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "72a50f12-12bd-568f-b1ac-ca74abad26e4",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ThermalTransmittance"
     ],
+    "uuid": "72a50f12-12bd-568f-b1ac-ca74abad26e4",
     "name": "ThermalTransmittance",
     "label": [
         {

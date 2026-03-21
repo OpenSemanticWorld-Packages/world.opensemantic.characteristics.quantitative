@@ -1,0 +1,38 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/EinsteinTransitionProbability"
+    ],
+    "uuid": "87ca7d84-1fd8-5fd3-90f8-06303cc44c46",
+    "name": "EinsteinTransitionProbability",
+    "label": [
+        {
+            "text": "Einstein Transition Probability",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Given two atomic states of energy $E_j$ and $E_k$.  Let $E_j > E_k$.  Assume the atom is bathed in radiation of energy density $u(w)$.  Transitions between these states can take place in three different ways. Spontaneous, induced/stimulated emission, and induced absorption. $A_jk$ represents the Einstein transition probability for spontaneous emission.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWb4da0a50f80e57c49faf268e810326c2",
+    "default_unit": "Item:OSWc72c8e13779050d1a5512740a9a12112",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWc72c8e13779050d1a5512740a9a12112",
+            "name": "unitless",
+            "symbol": "一"
+        }
+    ],
+    "quantity_property": "Property:HasEinsteinTransitionProbabilityValue"
+}

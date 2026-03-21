@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "3b181c30-ca9f-5a6c-9b34-f2778915d5fb",
     "name": "HasMolarVolumeValue",
     "label": [
@@ -18,26 +21,36 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "da83f5fb-f796-5e59-b032-9de9e729882f",
         "name": "m³/mol",
-        "main_symbol": "m³/mol"
+        "main_symbol": "m³/mol",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
         {
-            "uuid": "d045ab9a-7df0-5172-9a28-e3b1f7820b07",
-            "name": "cm³/mol",
-            "main_symbol": "cm³/mol",
-            "conversion_factor_to_main_unit": "1000000.0"
+            "uuid": "8a851021-d5c5-5621-aaa4-56f9f1a21744",
+            "name": "L/μmol",
+            "main_symbol": "L/μmol",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "0b2ff4c2-afc1-5936-bfb0-293cd20d1647",
+            "name": "L/mol",
+            "main_symbol": "L/mol",
+            "conversion_factor_to_main_unit": "1000.0"
         },
         {
             "uuid": "3e68b0c2-0124-5e30-80df-0060b61c7866",
             "name": "dm³/mol",
             "main_symbol": "dm³/mol",
             "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "d045ab9a-7df0-5172-9a28-e3b1f7820b07",
+            "name": "cm³/mol",
+            "main_symbol": "cm³/mol",
+            "conversion_factor_to_main_unit": "1000000.0"
         }
     ]
 }

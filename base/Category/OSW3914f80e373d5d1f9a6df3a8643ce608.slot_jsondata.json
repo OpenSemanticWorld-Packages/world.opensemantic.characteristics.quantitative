@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "3914f80e-373d-5d1f-9a6d-f3a8643ce608",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/SuperconductorEnergyGap"
     ],
+    "uuid": "3914f80e-373d-5d1f-9a6d-f3a8643ce608",
     "name": "SuperconductorEnergyGap",
     "label": [
         {

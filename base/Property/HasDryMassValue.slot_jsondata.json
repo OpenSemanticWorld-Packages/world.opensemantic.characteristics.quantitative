@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
     "uuid": "96d88e33-cf4a-5eb3-a364-75389105df47",
     "name": "HasDryMassValue",
     "label": [
@@ -15,8 +18,5 @@
     ],
     "property_type": "Quantity",
     "subproperty_of": "Property:HasMassValue",
-    "type": [
-        "Category:OSW69f251a900944602a08d1cca830249b5"
-    ],
     "base_property": "Property:HasMassValue"
 }

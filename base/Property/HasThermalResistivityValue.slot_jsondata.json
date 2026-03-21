@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "6c73b28a-f6e8-501f-91ba-ec96bc6ab885",
     "name": "HasThermalResistivityValue",
     "label": [
@@ -14,12 +17,18 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
-        "uuid": "35c94e28-484c-542e-9d86-ffd615cfba02",
-        "name": "K·m/W",
-        "main_symbol": "K·m/W"
-    }
+        "uuid": "e8493cea-efb1-51fd-972a-6a1a4ba1e36b",
+        "name": "m·K/W",
+        "main_symbol": "m·K/W",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "35c94e28-484c-542e-9d86-ffd615cfba02",
+            "name": "K·m/W",
+            "main_symbol": "K·m/W",
+            "conversion_factor_to_main_unit": "1.0"
+        }
+    ]
 }

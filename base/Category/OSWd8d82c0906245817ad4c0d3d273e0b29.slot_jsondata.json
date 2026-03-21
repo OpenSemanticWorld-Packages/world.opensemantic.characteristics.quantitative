@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "d8d82c09-0624-5817-ad4c-0d3d273e0b29",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ActivePower"
     ],
+    "uuid": "d8d82c09-0624-5817-ad4c-0d3d273e0b29",
     "name": "ActivePower",
     "label": [
         {

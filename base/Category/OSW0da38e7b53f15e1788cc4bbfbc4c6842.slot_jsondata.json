@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "0da38e7b-53f1-5e17-88cc-4bbfbc4c6842",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/InverseEnergy"
     ],
+    "uuid": "0da38e7b-53f1-5e17-88cc-4bbfbc4c6842",
     "name": "InverseEnergy",
     "label": [
         {
@@ -25,7 +25,7 @@
         {
             "osw_id": "Item:OSW98c14d48aecc52fdab52023fb924debd",
             "name": "per_hour_per_kilo_volt_ampere",
-            "symbol": "1/(kVA·h)"
+            "symbol": "/(kVA·h)"
         }
     ],
     "quantity_property": "Property:HasInverseEnergyValue"

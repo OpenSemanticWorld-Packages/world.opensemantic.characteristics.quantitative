@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
     "uuid": "0f2ab546-d146-5719-9a5c-600413a2c444",
     "name": "HasModulusOfLinearSubgradeReactionValue",
     "label": [
@@ -15,8 +18,5 @@
     ],
     "property_type": "Quantity",
     "subproperty_of": "Property:HasForcePerAreaValue",
-    "type": [
-        "Category:OSW69f251a900944602a08d1cca830249b5"
-    ],
     "base_property": "Property:HasForcePerAreaValue"
 }

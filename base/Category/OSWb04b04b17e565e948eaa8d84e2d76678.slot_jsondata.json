@@ -1,0 +1,38 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/GFactorOfNucleus"
+    ],
+    "uuid": "b04b04b1-7e56-5e94-8eaa-8d84e2d76678",
+    "name": "GFactorOfNucleus",
+    "label": [
+        {
+            "text": "G-Factor of Nucleus",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"g-Factor of Nucleus\" is associated with the spin and magnetic moments of protons, neutrons, and many nuclei.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW39e3d48c7d8656459f39f89245c8b072",
+    "default_unit": "Item:OSWc72c8e13779050d1a5512740a9a12112",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWc72c8e13779050d1a5512740a9a12112",
+            "name": "unitless",
+            "symbol": "一"
+        }
+    ],
+    "quantity_property": "Property:HasGFactorOfNucleusValue"
+}

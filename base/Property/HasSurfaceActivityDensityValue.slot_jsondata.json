@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "5215ebf6-55a4-57e6-9218-053861226888",
     "name": "HasSurfaceActivityDensityValue",
     "label": [
@@ -14,12 +17,10 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "c29d37f6-8e13-5782-b5c2-bc9c03127405",
         "name": "Bq/m²",
-        "main_symbol": "Bq/m²"
+        "main_symbol": "Bq/m²",
+        "conversion_factor_to_main_unit": "1.0"
     }
 }

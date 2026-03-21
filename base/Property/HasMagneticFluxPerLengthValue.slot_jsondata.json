@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "95585fa1-df00-5448-bb90-7be184c7837a",
     "name": "HasMagneticFluxPerLengthValue",
     "label": [
@@ -14,12 +17,24 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
-        "uuid": "d55481f2-e704-5449-a6f5-928be5cd6d6c",
-        "name": "N/A",
-        "main_symbol": "N/A"
-    }
+        "uuid": "d7209395-c683-5724-8492-9427789878d0",
+        "name": "T·m",
+        "main_symbol": "T·m",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "d55481f2-e704-5449-a6f5-928be5cd6d6c",
+            "name": "N/A",
+            "main_symbol": "N/A",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "662ccac8-2551-5bc0-9025-cf04fda117d6",
+            "name": "V·s/m",
+            "main_symbol": "V·s/m",
+            "conversion_factor_to_main_unit": "1.0"
+        }
+    ]
 }

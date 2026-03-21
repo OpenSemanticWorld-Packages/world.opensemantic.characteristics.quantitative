@@ -1,0 +1,22 @@
+{
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "uuid": "96a16c53-238c-5068-a323-e9822229711b",
+    "name": "HasApiGravityValue",
+    "label": [
+        {
+            "text": "API Gravity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The American Petroleum Institute gravity, or API gravity, is a measure of how heavy or light a petroleum liquid is compared to water: if its API gravity is greater than 10, it is lighter and floats on water; if less than 10, it is heavier and sinks.\n\nAPI gravity is thus an inverse measure of a petroleum liquid's density relative to that of water (also known as specific gravity). It is used to compare densities of petroleum liquids. For example, if one petroleum liquid is less dense than another, it has a greater API gravity. Although API gravity is mathematically a dimensionless quantity (see the formula below), it is referred to as being in 'degrees'. API gravity is graduated in degrees on a hydrometer instrument. API gravity values of most petroleum liquids fall between 10 and 70 degrees.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessRatioValue",
+    "base_property": "Property:HasDimensionlessRatioValue"
+}

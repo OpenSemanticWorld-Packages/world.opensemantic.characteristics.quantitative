@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "948d4659-d877-571c-8dd7-5c8788a9d71a",
     "name": "HasEnergyPerAreaElectricChargeValue",
     "label": [
@@ -14,12 +17,10 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "1f34fccb-47cc-5e91-adf6-da6ed8f9124e",
         "name": "V/m²",
-        "main_symbol": "V/m²"
+        "main_symbol": "V/m²",
+        "conversion_factor_to_main_unit": "1.0"
     }
 }

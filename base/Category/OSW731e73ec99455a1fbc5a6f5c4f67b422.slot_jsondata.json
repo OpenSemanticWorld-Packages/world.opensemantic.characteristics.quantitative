@@ -1,0 +1,63 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/PressureGradient"
+    ],
+    "uuid": "731e73ec-9945-5a1f-bc5a-6f5c4f67b422",
+    "name": "PressureGradient",
+    "label": [
+        {
+            "text": "Pressure gradient",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Differenzdruck dividiert durch die zugehörige Länge",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW8be5d8d51a8153a6b6824010699baa88",
+    "default_unit": "Item:OSW0003c1109b645575b70f007360b49fa2",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW0003c1109b645575b70f007360b49fa2",
+            "name": "pascal_per_meter",
+            "symbol": "Pa/m"
+        },
+        {
+            "osw_id": "Item:OSW99601f470fd45cfdb1212116828089a1",
+            "name": "pico_pascal_per_kilo_meter",
+            "symbol": "pPa/km"
+        },
+        {
+            "osw_id": "Item:OSW0003c1109b645575b70f007360b49fa2#OSWd4588382274f5562bb8ae501d79a9a7b",
+            "name": "milli_pascal_per_meter",
+            "symbol": "mPa/m"
+        },
+        {
+            "osw_id": "Item:OSW0003c1109b645575b70f007360b49fa2#OSWdbc16d304ae05714ba10f091cf23016f",
+            "name": "hecto_pascal_per_meter",
+            "symbol": "hPa/m"
+        },
+        {
+            "osw_id": "Item:OSW0003c1109b645575b70f007360b49fa2#OSWde57b565a8ad5f508b6f7c24f3f98db6",
+            "name": "kilo_pascal_per_meter",
+            "symbol": "kPa/m"
+        },
+        {
+            "osw_id": "Item:OSWa1f0f30cdd0c5e6a898e05fc76e109ad",
+            "name": "kilo_pascal_per_milli_meter",
+            "symbol": "kPa/mm"
+        }
+    ],
+    "quantity_property": "Property:HasPressureGradientValue"
+}

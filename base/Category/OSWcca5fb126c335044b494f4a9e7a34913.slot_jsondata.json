@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "cca5fb12-6c33-5044-b494-f4a9e7a34913",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/PhotonRadiance"
     ],
+    "uuid": "cca5fb12-6c33-5044-b494-f4a9e7a34913",
     "name": "PhotonRadiance",
     "label": [
         {
@@ -31,7 +31,7 @@
         {
             "osw_id": "Item:OSWb2f2150d25eb5a948de6ae5033a72afa",
             "name": "per_meter_squared_per_second_per_steradian",
-            "symbol": "1/(s·m²·sr)"
+            "symbol": "/(s·m²·sr)"
         }
     ],
     "quantity_property": "Property:HasPhotonRadianceValue"

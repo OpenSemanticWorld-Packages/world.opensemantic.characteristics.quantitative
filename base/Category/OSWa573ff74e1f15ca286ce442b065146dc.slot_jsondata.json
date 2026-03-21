@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "a573ff74-e1f1-5ca2-86ce-442b065146dc",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/InitialVehicleMass"
     ],
+    "uuid": "a573ff74-e1f1-5ca2-86ce-442b065146dc",
     "name": "InitialVehicleMass",
     "label": [
         {

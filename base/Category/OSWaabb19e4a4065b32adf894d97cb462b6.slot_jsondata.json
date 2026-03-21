@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "aabb19e4-a406-5b32-adf8-94d97cb462b6",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/EllipticalOrbitPerigeeVelocity"
     ],
+    "uuid": "aabb19e4-a406-5b32-adf8-94d97cb462b6",
     "name": "EllipticalOrbitPerigeeVelocity",
     "label": [
         {

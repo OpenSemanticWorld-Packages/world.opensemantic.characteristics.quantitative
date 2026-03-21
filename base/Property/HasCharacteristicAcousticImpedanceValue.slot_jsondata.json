@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
     "uuid": "f67f800e-5b16-5a7d-b807-84a271cff7ca",
     "name": "HasCharacteristicAcousticImpedanceValue",
     "label": [
@@ -15,8 +18,5 @@
     ],
     "property_type": "Quantity",
     "subproperty_of": "Property:HasAcousticImpedianceValue",
-    "type": [
-        "Category:OSW69f251a900944602a08d1cca830249b5"
-    ],
-    "base_property": "Property:HasMassPerAreaTimeValue"
+    "base_property": "Property:HasAcousticImpedianceValue"
 }

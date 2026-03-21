@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
     "uuid": "e41cc34c-5e87-570e-b3ec-eb9e567a68d8",
     "name": "HasEnergyContentValue",
     "label": [
@@ -15,8 +18,5 @@
     ],
     "property_type": "Quantity",
     "subproperty_of": "Property:HasEnergyValue",
-    "type": [
-        "Category:OSW69f251a900944602a08d1cca830249b5"
-    ],
     "base_property": "Property:HasEnergyValue"
 }

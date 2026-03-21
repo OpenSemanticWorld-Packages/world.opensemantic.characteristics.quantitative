@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
     "uuid": "bb21b109-59da-59ee-aba3-11c9da7975eb",
     "name": "HasMagneticFieldStrengthValue",
     "label": [
@@ -19,8 +22,5 @@
     ],
     "property_type": "Quantity",
     "subproperty_of": "Property:HasElectricCurrentPerLengthValue",
-    "type": [
-        "Category:OSW69f251a900944602a08d1cca830249b5"
-    ],
-    "base_property": "Property:HasLinearElectricCurrentDensityValue"
+    "base_property": "Property:HasElectricCurrentPerLengthValue"
 }

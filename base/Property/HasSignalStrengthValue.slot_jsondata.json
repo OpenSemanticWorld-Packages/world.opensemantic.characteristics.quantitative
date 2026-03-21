@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
     "uuid": "0c568d6b-c05c-5fa3-80a2-fc7ff97b892b",
     "name": "HasSignalStrengthValue",
     "label": [
@@ -14,9 +17,6 @@
         }
     ],
     "property_type": "Quantity",
-    "subproperty_of": "Property:HasElectricFieldStrengthValue",
-    "type": [
-        "Category:OSW69f251a900944602a08d1cca830249b5"
-    ],
-    "base_property": "Property:HasElectricFieldStrengthValue"
+    "subproperty_of": "Property:HasElectricFieldValue",
+    "base_property": "Property:HasElectricFieldValue"
 }

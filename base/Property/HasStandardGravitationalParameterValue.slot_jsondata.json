@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "aa0e5406-5c13-56bb-9807-c7ace77286fc",
     "name": "HasStandardGravitationalParameterValue",
     "label": [
@@ -14,20 +17,18 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "24557c93-3956-5d27-b673-2339373db05b",
         "name": "m³/s²",
-        "main_symbol": "m³/s²"
+        "main_symbol": "m³/s²",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
         {
             "uuid": "e8d23d1a-b2aa-502a-9ffa-53146ba61fbe",
             "name": "km³/s²",
             "main_symbol": "km³/s²",
-            "conversion_factor_to_main_unit": "0.0"
+            "conversion_factor_to_main_unit": "1e-09"
         }
     ]
 }

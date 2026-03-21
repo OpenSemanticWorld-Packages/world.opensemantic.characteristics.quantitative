@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "1045cc59-10ff-5d9d-be61-e2e68363a9bc",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/HeatCapacityRatio",
-        "http://dbpedia.org/resource/Heat_capacity_ratio"
+        "http://dbpedia.org/resource/Heat_capacity_ratio",
+        "http://qudt.org/vocab/quantitykind/HeatCapacityRatio"
     ],
+    "uuid": "1045cc59-10ff-5d9d-be61-e2e68363a9bc",
     "name": "HeatCapacityRatio",
     "label": [
         {

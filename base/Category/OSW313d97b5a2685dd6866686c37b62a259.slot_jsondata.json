@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "313d97b5-a268-5dd6-8666-86c37b62a259",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/AngularMomentumPerAngle"
     ],
+    "uuid": "313d97b5-a268-5dd6-8666-86c37b62a259",
     "name": "AngularMomentumPerAngle",
     "label": [
         {

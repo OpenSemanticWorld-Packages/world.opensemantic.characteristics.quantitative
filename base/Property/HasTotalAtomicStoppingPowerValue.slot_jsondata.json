@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "cc9fe963-eb92-51b9-9e49-32540246cb24",
     "name": "HasTotalAtomicStoppingPowerValue",
     "label": [
@@ -14,12 +17,10 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "bef1e7e3-93ae-5fac-b858-ac9a72cd8314",
         "name": "J·m²",
-        "main_symbol": "J·m²"
+        "main_symbol": "J·m²",
+        "conversion_factor_to_main_unit": "1.0"
     }
 }

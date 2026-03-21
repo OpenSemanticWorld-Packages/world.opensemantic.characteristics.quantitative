@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ConvectiveHeatTransfer"
+    ],
+    "uuid": "145875ad-d7eb-5b64-b048-ff90e703a942",
+    "name": "ConvectiveHeatTransfer",
+    "label": [
+        {
+            "text": "Convective Heat Transfer",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Convective Heat Transfer\" is convective heat transfer coefficient multiplied by temperature difference and exchange area.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW2cae7f47264e5a25abee5713c593bc56"
+    ],
+    "quantity_property": "Property:HasConvectiveHeatTransferValue"
+}

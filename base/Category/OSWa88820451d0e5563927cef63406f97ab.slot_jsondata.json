@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "a8882045-1d0e-5563-927c-ef63406f97ab",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/HeatingValue",
-        "http://dbpedia.org/resource/Specific_energy"
+        "http://dbpedia.org/resource/Specific_energy",
+        "http://qudt.org/vocab/quantitykind/HeatingValue"
     ],
+    "uuid": "a8882045-1d0e-5563-927c-ef63406f97ab",
     "name": "CalorificValue",
     "label": [
         {

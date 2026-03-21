@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "79225fde-5f80-59d1-802f-8181c06b4cfa",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/LuminousFluxPerArea"
     ],
+    "uuid": "79225fde-5f80-59d1-802f-8181c06b4cfa",
     "name": "LuminousFluxPerArea",
     "label": [
         {
@@ -32,6 +32,11 @@
             "osw_id": "Item:OSWca14d08a41b65ac59d79d96be1351305",
             "name": "lux",
             "symbol": "lx"
+        },
+        {
+            "osw_id": "Item:OSW4f047e2da1fc5ea497c9e22eb8e98ce5",
+            "name": "candela_per_meter_squared",
+            "symbol": "cd/m²"
         }
     ],
     "quantity_property": "Property:HasLuminousFluxPerAreaValue"

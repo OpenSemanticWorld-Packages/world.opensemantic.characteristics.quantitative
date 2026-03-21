@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "b48038c5-3db8-52e4-adb4-dabd954c764c",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/BurnRate"
     ],
+    "uuid": "b48038c5-3db8-52e4-adb4-dabd954c764c",
     "name": "BurnRate",
     "label": [
         {

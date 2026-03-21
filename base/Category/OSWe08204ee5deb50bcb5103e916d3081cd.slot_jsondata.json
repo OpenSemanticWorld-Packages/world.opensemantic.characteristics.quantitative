@@ -1,0 +1,38 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/BindingFraction"
+    ],
+    "uuid": "e08204ee-5deb-50bc-b510-3e916d3081cd",
+    "name": "BindingFraction",
+    "label": [
+        {
+            "text": "Binding Fraction",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Binding Fraction\" is the ratio of the binding energy of a nucleus to the atomic mass number.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW28c19febd7d75236ac86fe7563ba398b",
+    "default_unit": "Item:OSWc72c8e13779050d1a5512740a9a12112",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWc72c8e13779050d1a5512740a9a12112",
+            "name": "unitless",
+            "symbol": "一"
+        }
+    ],
+    "quantity_property": "Property:HasBindingFractionValue"
+}

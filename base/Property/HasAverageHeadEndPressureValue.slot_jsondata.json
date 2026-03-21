@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
     "uuid": "f9506cf0-1f56-52dc-a6e1-febc9e75e688",
     "name": "HasAverageHeadEndPressureValue",
     "label": [
@@ -9,8 +12,5 @@
     ],
     "property_type": "Quantity",
     "subproperty_of": "Property:HasHeadEndPressureValue",
-    "type": [
-        "Category:OSW69f251a900944602a08d1cca830249b5"
-    ],
-    "base_property": "Property:HasForcePerAreaValue"
+    "base_property": "Property:HasHeadEndPressureValue"
 }

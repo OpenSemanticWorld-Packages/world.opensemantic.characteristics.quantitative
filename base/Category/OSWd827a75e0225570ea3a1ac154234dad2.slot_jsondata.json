@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "d827a75e-0225-570e-a3a1-ac154234dad2",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/NozzleThroatCrossSectionalArea"
     ],
+    "uuid": "d827a75e-0225-570e-a3a1-ac154234dad2",
     "name": "NozzleThroatCrossSectionalArea",
     "label": [
         {

@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "7d5aaca5-0d5d-5e79-8ac2-9a9e209310cf",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/RelativePressureCoefficient"
     ],
+    "uuid": "7d5aaca5-0d5d-5e79-8ac2-9a9e209310cf",
     "name": "RelativePressureCoefficient",
     "label": [
         {
@@ -25,7 +25,12 @@
         {
             "osw_id": "Item:OSW33dfda3d4dea57d192d02eecdbc09b86",
             "name": "per_kelvin",
-            "symbol": "1/K"
+            "symbol": "/K"
+        },
+        {
+            "osw_id": "Item:OSW33dfda3d4dea57d192d02eecdbc09b86#OSWd07bed05663858c08eb760bc560b620c",
+            "name": "per_mega_kelvin",
+            "symbol": "/MK"
         }
     ],
     "quantity_property": "Property:HasRelativePressureCoefficientValue"

@@ -1,0 +1,22 @@
+{
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "uuid": "584a16d8-eecd-5818-9728-b1f54a30853c",
+    "name": "HasInfiniteMultiplicationFactorValue",
+    "label": [
+        {
+            "text": "Infinite Multiplication Factor",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Infinite Multiplication Factor\" is the multiplication factor for an infinite medium or for an infinite repeating lattice.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasMultiplicationFactorValue",
+    "base_property": "Property:HasMultiplicationFactorValue"
+}

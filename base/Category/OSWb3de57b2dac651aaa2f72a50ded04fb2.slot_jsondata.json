@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "b3de57b2-dac6-51aa-a2f7-2a50ded04fb2",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/AtomicCharge"
     ],
+    "uuid": "b3de57b2-dac6-51aa-a2f7-2a50ded04fb2",
     "name": "AtomicCharge",
     "label": [
         {

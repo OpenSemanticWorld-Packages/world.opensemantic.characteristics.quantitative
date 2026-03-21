@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "uuid": "2fb3214a-951e-5cd2-be95-09378c2e782f",
+    "name": "HasUnbalanceValue",
+    "label": [
+        {
+            "text": "Unbalance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "durch ungleichmäßige Masseverteilung bedingter, unruhiger Lauf rotierender Körper, ausgedrückt als Produkt aus dem Radius und einer zugehörigen Masse",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "main_unit": {
+        "uuid": "0e973c96-915c-576f-948d-ad0c26d99657",
+        "name": "g·mm",
+        "main_symbol": "g·mm",
+        "conversion_factor_to_main_unit": "1.0"
+    }
+}

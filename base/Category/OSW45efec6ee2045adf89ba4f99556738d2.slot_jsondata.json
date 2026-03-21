@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/EffectiveMultiplicationFactor"
+    ],
+    "uuid": "45efec6e-e204-5adf-89ba-4f99556738d2",
+    "name": "EffectiveMultiplicationFactor",
+    "label": [
+        {
+            "text": "Effective Multiplication Factor",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Effective Multiplication Factor\" is the multiplication factor for a finite medium.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4384c6d9e96657c0b4e77f665495be59"
+    ],
+    "quantity_property": "Property:HasEffectiveMultiplicationFactorValue"
+}

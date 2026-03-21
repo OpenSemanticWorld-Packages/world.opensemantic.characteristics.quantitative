@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "c2570a8c-e0a6-5454-a303-491826ff7617",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ParticlePositionVector"
     ],
+    "uuid": "c2570a8c-e0a6-5454-a303-491826ff7617",
     "name": "ParticlePositionVector",
     "label": [
         {

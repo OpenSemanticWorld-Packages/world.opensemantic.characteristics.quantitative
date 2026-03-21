@@ -2,12 +2,12 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "d76028b6-5910-5d13-9a01-faedd83fefbd",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/AngularVelocity",
         "http://dbpedia.org/resource/Angular_velocity",
-        "https://si-digital-framework.org/SI/quantities/VELA"
+        "http://qudt.org/vocab/quantitykind/AngularVelocity",
+        "https://si-digital-framework.org/quantities/VELA"
     ],
+    "uuid": "d76028b6-5910-5d13-9a01-faedd83fefbd",
     "name": "AngularVelocity",
     "label": [
         {
@@ -38,6 +38,16 @@
             "osw_id": "Item:OSWb0010d0f4c7a52e18edbfdc34e4c0653",
             "name": "radian_per_second",
             "symbol": "rad/s"
+        },
+        {
+            "osw_id": "Item:OSWd528ce45d4565b60b62ab5ad9ebcb98b",
+            "name": "radian_per_hour",
+            "symbol": "rad/h"
+        },
+        {
+            "osw_id": "Item:OSW2b1bf544bf1d5403abbb836a8c388a68",
+            "name": "radian_per_minute",
+            "symbol": "rad/min"
         }
     ],
     "quantity_property": "Property:HasAngularVelocityValue"

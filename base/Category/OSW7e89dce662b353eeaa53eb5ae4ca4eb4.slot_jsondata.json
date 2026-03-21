@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "7e89dce6-62b3-53ee-aa53-eb5ae4ca4eb4",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ElectronRadius"
     ],
+    "uuid": "7e89dce6-62b3-53ee-aa53-eb5ae4ca4eb4",
     "name": "ElectronRadius",
     "label": [
         {

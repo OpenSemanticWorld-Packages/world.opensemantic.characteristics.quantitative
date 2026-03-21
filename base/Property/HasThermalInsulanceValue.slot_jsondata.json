@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "49f9bb65-217b-59ea-bcd7-f3e2ff54df33",
     "name": "HasThermalInsulanceValue",
     "label": [
@@ -14,12 +17,10 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "356b39e9-e01b-5e88-88fa-bf6ee17b0333",
         "name": "m²·K/W",
-        "main_symbol": "m²·K/W"
+        "main_symbol": "m²·K/W",
+        "conversion_factor_to_main_unit": "1.0"
     }
 }

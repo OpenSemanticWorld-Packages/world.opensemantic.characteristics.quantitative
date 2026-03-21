@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "dbbc6a4f-e070-57ac-8135-afb96caaf32d",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MassOfElectricalPowerSupply"
     ],
+    "uuid": "dbbc6a4f-e070-57ac-8135-afb96caaf32d",
     "name": "MassOfElectricalPowerSupply",
     "label": [
         {

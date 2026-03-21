@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
     "uuid": "aa77b025-acf5-5bcd-b813-9be6c2822344",
     "name": "HasSystolicBloodPressureValue",
     "label": [
@@ -15,8 +18,5 @@
     ],
     "property_type": "Quantity",
     "subproperty_of": "Property:HasPressureValue",
-    "type": [
-        "Category:OSW69f251a900944602a08d1cca830249b5"
-    ],
-    "base_property": "Property:HasForcePerAreaValue"
+    "base_property": "Property:HasPressureValue"
 }

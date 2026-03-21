@@ -1,0 +1,22 @@
+{
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "uuid": "fca02584-5ac1-5d14-9d79-2912f6cbdd02",
+    "name": "HasPermittivityRatioValue",
+    "label": [
+        {
+            "text": "Permittivity Ratio",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Permittivity Ratio\" is the ratio of permittivity to the permittivity of a vacuum.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessRatioValue",
+    "base_property": "Property:HasDimensionlessRatioValue"
+}

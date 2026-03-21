@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "7ad0e917-48bb-5eed-ac17-c39491d0626e",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Kerma"
     ],
+    "uuid": "7ad0e917-48bb-5eed-ac17-c39491d0626e",
     "name": "Kerma",
     "label": [
         {

@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "00ae7010-dd63-5404-bd82-873cfd7a3254",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/PathLength"
     ],
+    "uuid": "00ae7010-dd63-5404-bd82-873cfd7a3254",
     "name": "PathLength",
     "label": [
         {

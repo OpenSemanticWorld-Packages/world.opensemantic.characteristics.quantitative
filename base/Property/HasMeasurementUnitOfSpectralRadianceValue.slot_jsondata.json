@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "fdd8c7c3-94dd-5f6a-bd2f-071ed3111190",
     "name": "HasMeasurementUnitOfSpectralRadianceValue",
     "label": [
@@ -14,20 +17,66 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "62831cca-7848-52a2-988b-4da35693802d",
         "name": "W/(m²·m·sr)",
-        "main_symbol": "W/(m²·m·sr)"
+        "main_symbol": "W/(m²·m·sr)",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
+        {
+            "uuid": "c2075ea0-ae5f-54bd-860e-4bdd20c7598f",
+            "name": "W/(m²·nm)",
+            "main_symbol": "W/(m²·nm)",
+            "conversion_factor_to_main_unit": "1e-09"
+        },
         {
             "uuid": "95e44003-ca91-58cc-b2ab-6a270b14a8f4",
             "name": "W/(m²·nm·sr)",
             "main_symbol": "W/(m²·nm·sr)",
-            "conversion_factor_to_main_unit": "0.0"
+            "conversion_factor_to_main_unit": "1e-09"
+        },
+        {
+            "uuid": "a8b742e2-eb5c-51d0-89f6-e334ce4e2a62",
+            "name": "mW/(cm²·μm·sr)",
+            "main_symbol": "mW/(cm²·μm·sr)",
+            "conversion_factor_to_main_unit": "1e-07"
+        },
+        {
+            "uuid": "eb8c9f02-7a58-58f1-9861-01677fefbe72",
+            "name": "W/(m²·μm)",
+            "main_symbol": "W/(m²·μm)",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "522594b8-19c1-5224-b96a-481412c4d987",
+            "name": "W/(m²·μm·sr)",
+            "main_symbol": "W/(m²·μm·sr)",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "3942c587-4a4c-5880-81c8-c1600b1651c8",
+            "name": "mW/(m²·nm)",
+            "main_symbol": "mW/(m²·nm)",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "c367b7e4-6750-547c-9a89-dd81dc1438f4",
+            "name": "mW/(m²·nm·sr)",
+            "main_symbol": "mW/(m²·nm·sr)",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "441d1ddb-2e2d-5162-9904-49a343cb255b",
+            "name": "μW/(cm²·μm·sr)",
+            "main_symbol": "μW/(cm²·μm·sr)",
+            "conversion_factor_to_main_unit": "0.0001"
+        },
+        {
+            "uuid": "d02abdaa-bad8-5ed2-b440-993226d28e64",
+            "name": "W/(m²·m)",
+            "main_symbol": "W/(m²·m)",
+            "conversion_factor_to_main_unit": "1.0"
         }
     ]
 }

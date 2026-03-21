@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "6400b78d-a8e7-5a95-a5c1-d90efa5e3c0c",
     "name": "HasExtentOfReactionValue",
     "label": [
@@ -14,27 +17,13 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "3f332a85-c699-56a3-81f4-919ccb6969c8",
         "name": "mol",
-        "main_symbol": "mol"
+        "main_symbol": "mol",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
-        {
-            "uuid": "3f231d19-2676-5b70-bec4-409784bff895",
-            "name": "mmol",
-            "main_symbol": "mmol",
-            "conversion_factor_to_main_unit": "1000.0"
-        },
-        {
-            "uuid": "d84237c5-1c18-5fe0-8427-b549b4dfd79c",
-            "name": "fmol",
-            "main_symbol": "fmol",
-            "conversion_factor_to_main_unit": "999999999999999.9"
-        },
         {
             "uuid": "f0a7b39d-7ebc-54bb-b753-4256a7d00d8d",
             "name": "kmol",
@@ -42,10 +31,40 @@
             "conversion_factor_to_main_unit": "0.001"
         },
         {
+            "uuid": "93097b04-7fb3-53a1-8c3e-28abe015f918",
+            "name": "cmol",
+            "main_symbol": "cmol",
+            "conversion_factor_to_main_unit": "100.0"
+        },
+        {
+            "uuid": "3f231d19-2676-5b70-bec4-409784bff895",
+            "name": "mmol",
+            "main_symbol": "mmol",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
             "uuid": "d0886728-1e9b-56e2-a51b-fdba6de6ed2b",
             "name": "μmol",
             "main_symbol": "μmol",
             "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "65ed7b29-0d24-597b-bf17-f5924c0fd42b",
+            "name": "nmol",
+            "main_symbol": "nmol",
+            "conversion_factor_to_main_unit": "999999999.9999999"
+        },
+        {
+            "uuid": "0e8b792b-fd30-5aa1-90d7-997785782df5",
+            "name": "pmol",
+            "main_symbol": "pmol",
+            "conversion_factor_to_main_unit": "1000000000000.0"
+        },
+        {
+            "uuid": "d84237c5-1c18-5fe0-8427-b549b4dfd79c",
+            "name": "fmol",
+            "main_symbol": "fmol",
+            "conversion_factor_to_main_unit": "999999999999999.9"
         }
     ]
 }

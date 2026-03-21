@@ -1,0 +1,38 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/PermeabilityRatio"
+    ],
+    "uuid": "83b5310c-3d62-5578-b62c-3727b49bba56",
+    "name": "PermeabilityRatio",
+    "label": [
+        {
+            "text": "Permeability Ratio",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The ratio of the effective permeability of a porous phase to the absolute permeability.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWe18addcff9d058bdb779075b79cd5057",
+    "default_unit": "Item:OSW5d3fe58ebbac5483bad8904ff8811366",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW5d3fe58ebbac5483bad8904ff8811366",
+            "name": "number",
+            "symbol": "#"
+        }
+    ],
+    "quantity_property": "Property:HasPermeabilityRatioValue"
+}

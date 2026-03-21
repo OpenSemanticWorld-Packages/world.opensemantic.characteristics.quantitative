@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "1122e0bc-34a9-581f-aea3-1f6967f701d6",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/AcousticImpedance"
     ],
+    "uuid": "1122e0bc-34a9-581f-aea3-1f6967f701d6",
     "name": "AcousticImpediance",
     "label": [
         {

@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "3cd5a696-56f4-5901-94bb-bfc7cfa614fb",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/IsothermalMoistureCapacity"
     ],
+    "uuid": "3cd5a696-56f4-5901-94bb-bfc7cfa614fb",
     "name": "IsothermalMoistureCapacity",
     "label": [
         {

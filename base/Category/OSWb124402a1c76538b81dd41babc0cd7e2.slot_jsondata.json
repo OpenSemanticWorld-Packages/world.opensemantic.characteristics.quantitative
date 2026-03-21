@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "b124402a-1c76-538b-81dd-41babc0cd7e2",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/TemperaturePerTime"
     ],
+    "uuid": "b124402a-1c76-538b-81dd-41babc0cd7e2",
     "name": "TemperaturePerTime",
     "label": [
         {
@@ -20,8 +20,38 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW49ded25372bf5076b29624297d4cc47e",
-    "default_unit": "Item:OSW90e277e1e16052a49c728adea4b95d64",
+    "default_unit": "Item:OSW5a0326dccf685dfca1de8fb221a03e5d",
     "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW5a0326dccf685dfca1de8fb221a03e5d",
+            "name": "kelvin_per_second",
+            "symbol": "K/s"
+        },
+        {
+            "osw_id": "Item:OSW40f56bbf08925e8da7108016ee541d76",
+            "name": "Celsius_per_year",
+            "symbol": "°C/a"
+        },
+        {
+            "osw_id": "Item:OSW7be773fb951751d2bb78e91aee179d91",
+            "name": "kelvin_per_hour",
+            "symbol": "K/h"
+        },
+        {
+            "osw_id": "Item:OSW307cd27845b05cf8916a1708601e4a13",
+            "name": "Celsius_per_hour",
+            "symbol": "°C/h"
+        },
+        {
+            "osw_id": "Item:OSWf925ff1754bb5b05ae3bb6cdfde1e27d",
+            "name": "kelvin_per_minute",
+            "symbol": "K/min"
+        },
+        {
+            "osw_id": "Item:OSW4223c9212104521196c4e0355088f6a2",
+            "name": "Celsius_per_minute",
+            "symbol": "°C/min"
+        },
         {
             "osw_id": "Item:OSW90e277e1e16052a49c728adea4b95d64",
             "name": "Celsius_per_second",

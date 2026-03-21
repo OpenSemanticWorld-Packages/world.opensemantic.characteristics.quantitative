@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "aebde3cc-25da-54f7-868f-8c09f8c22336",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/CorrelatedColorTemperature"
     ],
+    "uuid": "aebde3cc-25da-54f7-868f-8c09f8c22336",
     "name": "CorrelatedColourTemperature",
     "label": [
         {

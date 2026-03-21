@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "de7fca61-6701-5b52-80b9-35114fbfc76b",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Tilt"
     ],
+    "uuid": "de7fca61-6701-5b52-80b9-35114fbfc76b",
     "name": "Tilt",
     "label": [
         {

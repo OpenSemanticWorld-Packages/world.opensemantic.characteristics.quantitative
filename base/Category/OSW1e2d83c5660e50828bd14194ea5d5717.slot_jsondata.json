@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "1e2d83c5-660e-5082-8bd1-4194ea5d5717",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/AreaRatio"
     ],
+    "uuid": "1e2d83c5-660e-5082-8bd1-4194ea5d5717",
     "name": "AreaRatio",
     "label": [
         {

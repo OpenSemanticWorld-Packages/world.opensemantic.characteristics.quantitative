@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "2aeb29e2-0464-500c-8df9-79d1625f6e75",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/BurgersVector"
     ],
+    "uuid": "2aeb29e2-0464-500c-8df9-79d1625f6e75",
     "name": "BurgersVector",
     "label": [
         {

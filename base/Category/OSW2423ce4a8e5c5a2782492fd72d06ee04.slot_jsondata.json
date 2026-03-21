@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "2423ce4a-8e5c-5a27-8249-2fd72d06ee04",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/Altitude",
-        "http://dbpedia.org/resource/Altitude"
+        "http://dbpedia.org/resource/Altitude",
+        "http://qudt.org/vocab/quantitykind/Altitude"
     ],
+    "uuid": "2423ce4a-8e5c-5a27-8249-2fd72d06ee04",
     "name": "Altitude",
     "label": [
         {

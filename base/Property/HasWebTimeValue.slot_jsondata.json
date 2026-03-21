@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
     "uuid": "fbd078a7-47b2-56a3-b7e8-ae425eadd104",
     "name": "HasWebTimeValue",
     "label": [
@@ -9,8 +12,5 @@
     ],
     "property_type": "Quantity",
     "subproperty_of": "Property:HasTimeValue",
-    "type": [
-        "Category:OSW69f251a900944602a08d1cca830249b5"
-    ],
     "base_property": "Property:HasTimeValue"
 }

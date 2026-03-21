@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "56a827e5-3330-5207-9e10-f02eecf577ad",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MolarAttenuationCoefficient"
     ],
+    "uuid": "56a827e5-3330-5207-9e10-f02eecf577ad",
     "name": "MolarAttenuationCoefficient",
     "label": [
         {

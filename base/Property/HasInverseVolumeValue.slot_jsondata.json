@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "16e79003-1352-5156-9926-3a08893a288f",
     "name": "HasInverseVolumeValue",
     "label": [
@@ -8,26 +11,36 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "d6059d89-ee77-51e7-9779-a5d568e05292",
-        "name": "1/m³",
-        "main_symbol": "1/m³"
+        "name": "/m³",
+        "main_symbol": "/m³",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
         {
             "uuid": "d85a7690-4112-510c-9bce-122c08bc8c31",
             "name": "/mm³",
             "main_symbol": "/mm³",
-            "conversion_factor_to_main_unit": "0.0"
+            "conversion_factor_to_main_unit": "1e-09"
         },
         {
             "uuid": "140fe8cb-d38c-5802-adc9-53f3168f3637",
             "name": "/cm³",
             "main_symbol": "/cm³",
             "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "2d36355b-7275-5b7b-bf34-9ddaa199f09b",
+            "name": "/mL",
+            "main_symbol": "/mL",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "72fde10e-8085-5be8-ad73-189d7e95e4a1",
+            "name": "/L",
+            "main_symbol": "/L",
+            "conversion_factor_to_main_unit": "0.001"
         }
     ]
 }

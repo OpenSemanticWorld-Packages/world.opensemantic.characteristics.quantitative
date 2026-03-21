@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "uuid": "2ac7689c-e0d8-5573-b15d-1d083ade74da",
+    "name": "HasNumberOfParticlesValue",
+    "label": [
+        {
+            "text": "Number of Particles",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Number of Particles\", also known as the particle number, of a thermodynamic system, conventionally indicated with the letter N, is the number of constituent particles in that system.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "main_unit": {
+        "uuid": "4411f5ca-371f-5a11-91c7-0ca80634c8f5",
+        "name": "一",
+        "main_symbol": "一",
+        "conversion_factor_to_main_unit": "1.0"
+    }
+}

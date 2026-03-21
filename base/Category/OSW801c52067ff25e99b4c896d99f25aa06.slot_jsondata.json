@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "801c5206-7ff2-5e99-b4c8-96d99f25aa06",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/AreaMass"
     ],
+    "uuid": "801c5206-7ff2-5e99-b4c8-96d99f25aa06",
     "name": "AreicMass",
     "label": [
         {

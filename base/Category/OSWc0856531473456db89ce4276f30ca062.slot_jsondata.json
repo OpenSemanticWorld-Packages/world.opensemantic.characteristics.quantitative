@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "c0856531-4734-56db-89ce-4276f30ca062",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/CENTER-OF-GRAVITY_Y"
     ],
+    "uuid": "c0856531-4734-56db-89ce-4276f30ca062",
     "name": "CenterOfGravityInTheYAxis",
     "label": [
         {

@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
     "uuid": "2f878416-f434-518e-b253-9d9bcccc62d8",
     "name": "HasTrueExhaustVelocityValue",
     "label": [
@@ -9,8 +12,5 @@
     ],
     "property_type": "Quantity",
     "subproperty_of": "Property:HasVelocityValue",
-    "type": [
-        "Category:OSW69f251a900944602a08d1cca830249b5"
-    ],
     "base_property": "Property:HasVelocityValue"
 }

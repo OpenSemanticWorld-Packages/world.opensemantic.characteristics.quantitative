@@ -2,12 +2,12 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "554c1d1b-9453-5a17-9366-575d25dc4c6b",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/ElectricFluxDensity",
         "http://dbpedia.org/resource/Electric_flux",
-        "https://si-digital-framework.org/SI/quantities/ELFD"
+        "http://qudt.org/vocab/quantitykind/ElectricFluxDensity",
+        "https://si-digital-framework.org/quantities/ELFD"
     ],
+    "uuid": "554c1d1b-9453-5a17-9366-575d25dc4c6b",
     "name": "ElectricFluxDensity",
     "label": [
         {

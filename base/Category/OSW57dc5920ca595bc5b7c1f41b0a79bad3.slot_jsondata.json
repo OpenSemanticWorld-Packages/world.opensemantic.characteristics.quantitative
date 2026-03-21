@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "57dc5920-ca59-5bc5-b7c1-f41b0a79bad3",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/MolarMass",
-        "http://dbpedia.org/resource/Molar_mass"
+        "http://dbpedia.org/resource/Molar_mass",
+        "http://qudt.org/vocab/quantitykind/MolarMass"
     ],
+    "uuid": "57dc5920-ca59-5bc5-b7c1-f41b0a79bad3",
     "name": "MolarMass",
     "label": [
         {
@@ -37,6 +37,16 @@
             "osw_id": "Item:OSW968a3fd57529500f9eb03f4efc083e36#OSW31a2c5ae09d1578a843267fef44c2cdb",
             "name": "kilo_gram_per_mole",
             "symbol": "kg/mol"
+        },
+        {
+            "osw_id": "Item:OSW968a3fd57529500f9eb03f4efc083e36",
+            "name": "gram_per_mole",
+            "symbol": "g/mol"
+        },
+        {
+            "osw_id": "Item:OSW968a3fd57529500f9eb03f4efc083e36#OSW4c27839f7cd4587ca5e6f44b592e5922",
+            "name": "kilo_gram_per_kilo_mole",
+            "symbol": "kg/kmol"
         }
     ],
     "quantity_property": "Property:HasMolarMassValue"

@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "dac4a86a-2558-53e6-835f-1f526ebc7d4b",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/SoundExposure"
     ],
+    "uuid": "dac4a86a-2558-53e6-835f-1f526ebc7d4b",
     "name": "SoundExposure",
     "label": [
         {

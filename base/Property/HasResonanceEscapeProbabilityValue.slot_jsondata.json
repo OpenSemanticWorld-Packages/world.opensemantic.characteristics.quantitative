@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "uuid": "2491350d-a5d5-5aac-a08c-865830cc926c",
+    "name": "HasResonanceEscapeProbabilityValue",
+    "label": [
+        {
+            "text": "Resonance Escape Probability",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Resonance Escape Probability\" is the fraction of fission neutrons that manage to slow down from fission to thermal energies without being absorbed. In an infinite medium, the probability that a neutron slowing down will traverse all or some specified portion of the range of resonance energies without being absorbed.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "main_unit": {
+        "uuid": "4411f5ca-371f-5a11-91c7-0ca80634c8f5",
+        "name": "一",
+        "main_symbol": "一",
+        "conversion_factor_to_main_unit": "1.0"
+    }
+}

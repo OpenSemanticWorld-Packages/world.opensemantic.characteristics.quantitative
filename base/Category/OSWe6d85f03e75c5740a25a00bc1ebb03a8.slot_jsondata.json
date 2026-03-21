@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "e6d85f03-e75c-5740-a25a-00bc1ebb03a8",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/SectionAreaIntegral"
     ],
+    "uuid": "e6d85f03-e75c-5740-a25a-00bc1ebb03a8",
     "name": "SectionAreaIntegral",
     "label": [
         {
@@ -30,7 +30,7 @@
     "unit_enumeration": [
         {
             "osw_id": "Item:OSWe03debd3c6025a95b236f88c61ba0bac",
-            "name": "5",
+            "name": "meter_to_the_fifth",
             "symbol": "m⁵"
         }
     ],

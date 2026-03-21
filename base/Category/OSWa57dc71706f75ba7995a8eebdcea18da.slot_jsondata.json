@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "a57dc717-06f7-5ba7-995a-8eebdcea18da",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/RotationalVelocity"
     ],
+    "uuid": "a57dc717-06f7-5ba7-995a-8eebdcea18da",
     "name": "RotationalFrequency",
     "label": [
         {
@@ -26,22 +26,47 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSWd4a79a7f76665a249277f08a8b9d466d",
-    "default_unit": "Item:OSW7496c09c41b154bdba82f6d09195cae5",
+    "default_unit": "Item:OSW98372a3dae18565f8e4c5863c7aaf33a",
     "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW98372a3dae18565f8e4c5863c7aaf33a",
+            "name": "per_second",
+            "symbol": "/s"
+        },
+        {
+            "osw_id": "Item:OSW7496c09c41b154bdba82f6d09195cae5#OSW077a52d68b86560a897183598a476b41",
+            "name": "milli_hertz",
+            "symbol": "mHz"
+        },
+        {
+            "osw_id": "Item:OSWed94e8968e8855bb9130785f981b0549",
+            "name": "per_minute",
+            "symbol": "rev/min"
+        },
         {
             "osw_id": "Item:OSW7496c09c41b154bdba82f6d09195cae5",
             "name": "hertz",
             "symbol": "Hz"
         },
         {
-            "osw_id": "Item:OSW7496c09c41b154bdba82f6d09195cae5#OSWb5d0dd4f66285e15af5977a1b77d5daa",
-            "name": "mega_hertz",
-            "symbol": "MHz"
+            "osw_id": "Item:OSWa80beccbe400554f9308ab46307aa80f",
+            "name": "speed_of_light_per_second",
+            "symbol": "c/s"
+        },
+        {
+            "osw_id": "Item:OSW98372a3dae18565f8e4c5863c7aaf33a#OSW4e1dedc5c7a6585c868ff31ff7432d99",
+            "name": "per_milli_second",
+            "symbol": "/ms"
         },
         {
             "osw_id": "Item:OSW7496c09c41b154bdba82f6d09195cae5#OSWfbbfa62ac8095c5bb37ea9f22ab121dd",
             "name": "kilo_hertz",
             "symbol": "kHz"
+        },
+        {
+            "osw_id": "Item:OSW7496c09c41b154bdba82f6d09195cae5#OSWb5d0dd4f66285e15af5977a1b77d5daa",
+            "name": "mega_hertz",
+            "symbol": "MHz"
         },
         {
             "osw_id": "Item:OSW7496c09c41b154bdba82f6d09195cae5#OSW37c66b2e350050d891107e427a1c0210",
@@ -52,6 +77,11 @@
             "osw_id": "Item:OSW7496c09c41b154bdba82f6d09195cae5#OSW5860049cdfae5d64abcd7bb8ace55540",
             "name": "tera_hertz",
             "symbol": "THz"
+        },
+        {
+            "osw_id": "Item:OSW7496c09c41b154bdba82f6d09195cae5#OSWd1cfeefa4862510399a624711178435a",
+            "name": "peta_hertz",
+            "symbol": "PHz"
         }
     ],
     "quantity_property": "Property:HasRotationalFrequencyValue"

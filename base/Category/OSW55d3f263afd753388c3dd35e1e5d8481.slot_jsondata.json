@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "55d3f263-afd7-5338-8c3d-d35e1e5d8481",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/CENTER-OF-MASS"
     ],
+    "uuid": "55d3f263-afd7-5338-8c3d-d35e1e5d8481",
     "name": "CenterOfMassCom",
     "label": [
         {

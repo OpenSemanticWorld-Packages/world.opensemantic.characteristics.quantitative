@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "9321ad05-d637-531b-87fd-af5993788342",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Solubility_Water"
     ],
+    "uuid": "9321ad05-d637-531b-87fd-af5993788342",
     "name": "WaterSolubility",
     "label": [
         {

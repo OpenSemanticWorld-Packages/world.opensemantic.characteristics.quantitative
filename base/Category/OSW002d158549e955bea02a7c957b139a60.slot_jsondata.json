@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "002d1585-49e9-55be-a02a-7c957b139a60",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/SoundPressureLevel"
     ],
+    "uuid": "002d1585-49e9-55be-a02a-7c957b139a60",
     "name": "SoundPressureLevel",
     "label": [
         {
@@ -34,8 +34,13 @@
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW20ac6724f1a05ee884222d546955e78f",
-            "name": "byte",
+            "name": "bel",
             "symbol": "B"
+        },
+        {
+            "osw_id": "Item:OSW07ca63bf7dc757298a3f4e0d372dfe73",
+            "name": "decibel",
+            "symbol": "dB"
         }
     ],
     "quantity_property": "Property:HasSoundPressureLevelValue"

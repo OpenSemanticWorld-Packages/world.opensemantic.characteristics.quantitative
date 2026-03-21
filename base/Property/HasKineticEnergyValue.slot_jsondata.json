@@ -1,26 +1,22 @@
 {
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
     "uuid": "387e905f-9d50-5b88-a585-b04564771096",
     "name": "HasKineticEnergyValue",
     "label": [
         {
-            "text": "Kinetic energy",
+            "text": "Kinetic Energy",
             "lang": "en"
-        },
-        {
-            "text": "Kinetische Energie",
-            "lang": "de"
         }
     ],
     "description": [
         {
-            "text": "The kinetic energy of an object is the energy which it possesses due to its motion. It is defined as the work needed to accelerate a body of a given mass from rest to its stated velocity.",
+            "text": "$\\textit{Kinetic Energy}$ is the energy which a body possesses as a consequence of its motion, defined as one-half the product of its mass $m$ and the square of its speed $v$, $ \\frac{1}{2} mv^{2} $. The kinetic energy per unit volume of a fluid parcel is the $ \\frac{1}{2}  p v^{2}$ , where $p$ is the density and $v$ the speed of the parcel. See potential energy. For relativistic speeds the kinetic energy is given by $E_k = mc^2 - m_0 c^2$, where $c$ is the velocity of light in a vacuum, $m_0$ is the rest mass, and $m$ is the moving mass.",
             "lang": "en"
         }
     ],
     "property_type": "Quantity",
     "subproperty_of": "Property:HasEnergyValue",
-    "type": [
-        "Category:OSW69f251a900944602a08d1cca830249b5"
-    ],
     "base_property": "Property:HasEnergyValue"
 }

@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
     "uuid": "235606a6-9f8c-5154-ad6b-c547b6c440e9",
     "name": "HasFailureRateValue",
     "label": [
@@ -15,8 +18,5 @@
     ],
     "property_type": "Quantity",
     "subproperty_of": "Property:HasIncidenceValue",
-    "type": [
-        "Category:OSW69f251a900944602a08d1cca830249b5"
-    ],
-    "base_property": "Property:HasFrequencyValue"
+    "base_property": "Property:HasIncidenceValue"
 }

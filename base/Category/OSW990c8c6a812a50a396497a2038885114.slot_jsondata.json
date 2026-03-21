@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "990c8c6a-812a-50a3-9649-7a2038885114",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/AreaTime"
     ],
+    "uuid": "990c8c6a-812a-50a3-9649-7a2038885114",
     "name": "AreaTime",
     "label": [
         {
@@ -26,6 +26,11 @@
             "osw_id": "Item:OSWa5c77be3eb415d749ce66c39717fb676",
             "name": "centi_meter_squared_minute",
             "symbol": "cm²·min"
+        },
+        {
+            "osw_id": "Item:OSWeb7f01695c965360be41408bae5e1eba",
+            "name": "centi_meter_squared_second",
+            "symbol": "cm²·s"
         }
     ],
     "quantity_property": "Property:HasAreaTimeValue"

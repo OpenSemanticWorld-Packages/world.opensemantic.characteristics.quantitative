@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "405e3d0a-77f5-50a7-bf63-2bb907ae9c47",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/SpecificEnthalpy",
-        "http://dbpedia.org/resource/Entropy"
+        "http://dbpedia.org/resource/Entropy",
+        "http://qudt.org/vocab/quantitykind/SpecificEnthalpy"
     ],
+    "uuid": "405e3d0a-77f5-50a7-bf63-2bb907ae9c47",
     "name": "SpecificEnthalpy",
     "label": [
         {

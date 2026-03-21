@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "1c582dc8-1597-51f9-9cb8-3fa8f973389b",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/RadialDistance"
     ],
+    "uuid": "1c582dc8-1597-51f9-9cb8-3fa8f973389b",
     "name": "RadialDistance",
     "label": [
         {

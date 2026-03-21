@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
     "uuid": "53f0f3c2-4cb6-5bb5-9c8d-1eddfad97675",
     "name": "HasEllipticalOrbitPerigeeVelocityValue",
     "label": [
@@ -15,8 +18,5 @@
     ],
     "property_type": "Quantity",
     "subproperty_of": "Property:HasVehicleVelocityValue",
-    "type": [
-        "Category:OSW69f251a900944602a08d1cca830249b5"
-    ],
-    "base_property": "Property:HasVelocityValue"
+    "base_property": "Property:HasVehicleVelocityValue"
 }

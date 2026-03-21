@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "107acd5d-3b2b-5749-9e53-b91a0d2b2cc8",
     "name": "HasFluxValue",
     "label": [
@@ -14,12 +17,24 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "c54940c5-17f7-5f85-a9b1-a37cdd3b9554",
-        "name": "1/(m²·s)",
-        "main_symbol": "1/(m²·s)"
-    }
+        "name": "/(m²·s)",
+        "main_symbol": "/(m²·s)",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "1e2568c7-0b76-5db1-ac24-422c5325ca2c",
+            "name": "/(s·m²)",
+            "main_symbol": "/(s·m²)",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "5e24e557-c549-5aaa-b4f9-1af0cbbe048a",
+            "name": "μm/(L·d)",
+            "main_symbol": "μm/(L·d)",
+            "conversion_factor_to_main_unit": "86400000.0"
+        }
+    ]
 }

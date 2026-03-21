@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "9807945e-f51e-5e71-af33-9c5b6984f693",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/GaugePressure"
     ],
+    "uuid": "9807945e-f51e-5e71-af33-9c5b6984f693",
     "name": "GaugePressure",
     "label": [
         {

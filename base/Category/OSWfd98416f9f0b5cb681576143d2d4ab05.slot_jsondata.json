@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "fd98416f-9f0b-5cb6-8157-6143d2d4ab05",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MolarOpticalRotatoryPower"
     ],
+    "uuid": "fd98416f-9f0b-5cb6-8157-6143d2d4ab05",
     "name": "MolarOpticalRotatoryPower",
     "label": [
         {

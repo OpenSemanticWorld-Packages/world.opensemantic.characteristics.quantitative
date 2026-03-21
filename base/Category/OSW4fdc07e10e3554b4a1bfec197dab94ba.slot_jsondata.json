@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "4fdc07e1-0e35-54b4-a1bf-ec197dab94ba",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/CoherenceLength"
     ],
+    "uuid": "4fdc07e1-0e35-54b4-a1bf-ec197dab94ba",
     "name": "CoherenceLength",
     "label": [
         {

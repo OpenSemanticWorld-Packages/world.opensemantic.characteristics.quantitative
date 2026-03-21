@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "7f41c3f8-71b9-551c-bd40-32f756f3fc0d",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/CelsiusTemperature",
-        "https://si-digital-framework.org/SI/quantities/TEMC"
+        "https://si-digital-framework.org/quantities/TEMC"
     ],
+    "uuid": "7f41c3f8-71b9-551c-bd40-32f756f3fc0d",
     "name": "CelsiusTemperature",
     "label": [
         {

@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "c1785119-277b-56f0-b8b0-69c41b019d06",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MassPerLength"
     ],
+    "uuid": "c1785119-277b-56f0-b8b0-69c41b019d06",
     "name": "MassPerLength",
     "label": [
         {
@@ -32,6 +32,36 @@
             "osw_id": "Item:OSW0429f89d17e6572fac6630caa443c336#OSW1e1793e6b72454f1a81b08eabc8272b7",
             "name": "kilo_gram_per_meter",
             "symbol": "kg/m"
+        },
+        {
+            "osw_id": "Item:OSW0429f89d17e6572fac6630caa443c336#OSWd82843dc68c8505a94349a0d7ce152e6",
+            "name": "gram_per_kilo_meter",
+            "symbol": "g/km"
+        },
+        {
+            "osw_id": "Item:OSW98356a7e8083515b8b8cbd389998555e",
+            "name": "milli_gram_per_meter",
+            "symbol": "mg/m"
+        },
+        {
+            "osw_id": "Item:OSW0429f89d17e6572fac6630caa443c336",
+            "name": "gram_per_meter",
+            "symbol": "g/m"
+        },
+        {
+            "osw_id": "Item:OSW0429f89d17e6572fac6630caa443c336#OSWfdc0ce8d7bb15042a381bec3f3949c23",
+            "name": "kilo_gram_per_kilo_meter",
+            "symbol": "kg/km"
+        },
+        {
+            "osw_id": "Item:OSW0429f89d17e6572fac6630caa443c336#OSW78d4dd32fca8531cad7272b3f6961f8e",
+            "name": "gram_per_milli_meter",
+            "symbol": "g/mm"
+        },
+        {
+            "osw_id": "Item:OSW0429f89d17e6572fac6630caa443c336#OSW194a4a498f1e582e87f6a0a6001aab1f",
+            "name": "kilo_gram_per_milli_meter",
+            "symbol": "kg/mm"
         }
     ],
     "quantity_property": "Property:HasMassPerLengthValue"

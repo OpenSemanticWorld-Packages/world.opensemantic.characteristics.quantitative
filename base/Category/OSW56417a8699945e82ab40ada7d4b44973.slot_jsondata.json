@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "56417a86-9994-5e82-ab40-ada7d4b44973",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ExitPlaneTemperature"
     ],
+    "uuid": "56417a86-9994-5e82-ab40-ada7d4b44973",
     "name": "ExitPlaneTemperature",
     "label": [
         {

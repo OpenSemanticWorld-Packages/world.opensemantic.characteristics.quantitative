@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "9a071c3e-82af-50f6-bef8-0aee14562a5d",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/SolidStateDiffusionLength"
     ],
+    "uuid": "9a071c3e-82af-50f6-bef8-0aee14562a5d",
     "name": "DiffusionLengthSolidStatePhysics",
     "label": [
         {

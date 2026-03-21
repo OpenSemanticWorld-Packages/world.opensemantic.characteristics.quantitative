@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "78b09fe4-74c8-5bf0-9529-d7eb3db0fe78",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/GapEnergy"
     ],
+    "uuid": "78b09fe4-74c8-5bf0-9529-d7eb3db0fe78",
     "name": "GapEnergy",
     "label": [
         {

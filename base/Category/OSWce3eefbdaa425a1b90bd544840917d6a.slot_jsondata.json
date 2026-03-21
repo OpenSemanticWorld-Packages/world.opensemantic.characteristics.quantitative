@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "ce3eefbd-aa42-5a1b-90bd-544840917d6a",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/PowerArea"
     ],
+    "uuid": "ce3eefbd-aa42-5a1b-90bd-544840917d6a",
     "name": "PowerArea",
     "label": [
         {

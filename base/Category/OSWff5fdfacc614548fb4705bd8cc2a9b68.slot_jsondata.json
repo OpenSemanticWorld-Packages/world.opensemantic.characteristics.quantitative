@@ -1,0 +1,38 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Unbalance"
+    ],
+    "uuid": "ff5fdfac-c614-548f-b470-5bd8cc2a9b68",
+    "name": "Unbalance",
+    "label": [
+        {
+            "text": "Unbalance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "durch ungleichmäßige Masseverteilung bedingter, unruhiger Lauf rotierender Körper, ausgedrückt als Produkt aus dem Radius und einer zugehörigen Masse",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWd60abe5fc83e5a458c3c5356cc32d36e",
+    "default_unit": "Item:OSW5baa1fbaa17b50d5ab35eb004c5388df",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW5baa1fbaa17b50d5ab35eb004c5388df",
+            "name": "gram_milli_meter",
+            "symbol": "g·mm"
+        }
+    ],
+    "quantity_property": "Property:HasUnbalanceValue"
+}

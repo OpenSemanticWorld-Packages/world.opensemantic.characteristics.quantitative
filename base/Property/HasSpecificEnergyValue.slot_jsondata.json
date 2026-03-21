@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "9d47c41b-0a0e-5aaf-8e80-b093792e536a",
     "name": "HasSpecificEnergyValue",
     "label": [
@@ -14,12 +17,42 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
-        "uuid": "ebabad04-d971-5593-a5f2-220ff9a51f95",
-        "name": "J/kg",
-        "main_symbol": "J/kg"
-    }
+        "uuid": "7b528526-ab40-567b-b54d-36165de9fc7a",
+        "name": "N·m/kg",
+        "main_symbol": "N·m/kg",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "e5954789-61c5-5eb5-aa50-8a52fdd9655d",
+            "name": "MJ/kg",
+            "main_symbol": "MJ/kg",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "69e51ba6-ea0a-525e-b4bf-334794f5ad35",
+            "name": "J/g",
+            "main_symbol": "J/g",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "38b72ae4-024b-5352-b1e4-3f58f39c806e",
+            "name": "kJ/kg",
+            "main_symbol": "kJ/kg",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "ebabad04-d971-5593-a5f2-220ff9a51f95",
+            "name": "J/kg",
+            "main_symbol": "J/kg",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "16e72fbd-1bcd-59aa-96f6-142c7dea0ac8",
+            "name": "mJ/g",
+            "main_symbol": "mJ/g",
+            "conversion_factor_to_main_unit": "1.0"
+        }
+    ]
 }

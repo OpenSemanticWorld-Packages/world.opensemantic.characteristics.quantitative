@@ -2,12 +2,12 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "9a32b5a8-4f23-5a0c-b0a9-e9fba9bd252e",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/SpecificEnergy",
         "http://dbpedia.org/resource/Specific_energy",
-        "https://si-digital-framework.org/SI/quantities/SENG"
+        "http://qudt.org/vocab/quantitykind/SpecificEnergy",
+        "https://si-digital-framework.org/quantities/SENG"
     ],
+    "uuid": "9a32b5a8-4f23-5a0c-b0a9-e9fba9bd252e",
     "name": "SpecificEnergy",
     "label": [
         {
@@ -28,12 +28,37 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW2cfe41cc5e625e029378332ec29f10cd",
-    "default_unit": "Item:OSW0fb024653eb9557482d93f027840ee33#OSWffdf8410a8c65687a122eaf44719162d",
+    "default_unit": "Item:OSWffdf8410a8c65687a122eaf44719162d",
     "unit_enumeration": [
         {
-            "osw_id": "Item:OSW0fb024653eb9557482d93f027840ee33#OSWffdf8410a8c65687a122eaf44719162d",
+            "osw_id": "Item:OSWffdf8410a8c65687a122eaf44719162d",
             "name": "joule_per_kilo_gram",
             "symbol": "J/kg"
+        },
+        {
+            "osw_id": "Item:OSW5c3bc74f490f59b898441d2863f5e961",
+            "name": "meter_newton_per_kilo_gram",
+            "symbol": "N·m/kg"
+        },
+        {
+            "osw_id": "Item:OSW0fb024653eb9557482d93f027840ee33#OSW27784b13f8b75b47875a87f13de1cde9",
+            "name": "milli_joule_per_gram",
+            "symbol": "mJ/g"
+        },
+        {
+            "osw_id": "Item:OSW0fb024653eb9557482d93f027840ee33",
+            "name": "joule_per_gram",
+            "symbol": "J/g"
+        },
+        {
+            "osw_id": "Item:OSW0fb024653eb9557482d93f027840ee33#OSW4acc791f0c595c508efa5222cb675287",
+            "name": "kilo_joule_per_kilo_gram",
+            "symbol": "kJ/kg"
+        },
+        {
+            "osw_id": "Item:OSW0fb024653eb9557482d93f027840ee33#OSW198b087b3d565fedb18279ccd08a5b40",
+            "name": "mega_joule_per_kilo_gram",
+            "symbol": "MJ/kg"
         }
     ],
     "quantity_property": "Property:HasSpecificEnergyValue"

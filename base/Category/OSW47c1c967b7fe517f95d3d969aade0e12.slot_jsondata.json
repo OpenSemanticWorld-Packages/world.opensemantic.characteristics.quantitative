@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "47c1c967-b7fe-517f-95d3-d969aade0e12",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/InitialExpansionRatio"
     ],
+    "uuid": "47c1c967-b7fe-517f-95d3-d969aade0e12",
     "name": "InitialExpansionRatio",
     "label": [
         {

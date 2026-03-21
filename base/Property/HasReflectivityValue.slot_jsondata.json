@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
     "uuid": "f6ba3de6-9631-5c09-ba11-1769cc4252f0",
     "name": "HasReflectivityValue",
     "label": [
@@ -15,8 +18,5 @@
     ],
     "property_type": "Quantity",
     "subproperty_of": "Property:HasReflectanceValue",
-    "type": [
-        "Category:OSW69f251a900944602a08d1cca830249b5"
-    ],
-    "base_property": "Property:HasDimensionlessValue"
+    "base_property": "Property:HasReflectanceValue"
 }

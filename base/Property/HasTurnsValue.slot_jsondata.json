@@ -1,0 +1,22 @@
+{
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "uuid": "cb6200d8-9b4f-56ed-9dc4-f5f1757c37c7",
+    "name": "HasTurnsValue",
+    "label": [
+        {
+            "text": "Turns",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Turns\" is the number of turns in a winding.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasCountValue",
+    "base_property": "Property:HasCountValue"
+}

@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "195a002e-2d4d-57c7-82cd-dc93385555d0",
     "name": "HasReactionRateConstantValue",
     "label": [
@@ -14,13 +17,11 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "cb1c50fd-b5d2-5b70-9b46-48208a02d3cb",
         "name": "m³/(mol·s)",
-        "main_symbol": "m³/(mol·s)"
+        "main_symbol": "m³/(mol·s)",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
         {

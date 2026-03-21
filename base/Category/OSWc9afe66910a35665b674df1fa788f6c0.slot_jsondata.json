@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "c9afe669-10a3-5665-b674-df1fa788f6c0",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/SpecificHelmholtzEnergy"
     ],
+    "uuid": "c9afe669-10a3-5665-b674-df1fa788f6c0",
     "name": "SpecificHelmholtzEnergy",
     "label": [
         {

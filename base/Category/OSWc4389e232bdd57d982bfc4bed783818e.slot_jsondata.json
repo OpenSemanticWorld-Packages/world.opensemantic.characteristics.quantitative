@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "c4389e23-2bdd-57d9-82bf-c4bed783818e",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/StandardChemicalPotential"
     ],
+    "uuid": "c4389e23-2bdd-57d9-82bf-c4bed783818e",
     "name": "StandardChemicalPotential",
     "label": [
         {

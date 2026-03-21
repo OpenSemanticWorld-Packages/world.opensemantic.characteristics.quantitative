@@ -1,0 +1,38 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Fluidity"
+    ],
+    "uuid": "fbdd4e78-d6e2-52bb-9859-a4a4d6ad15fe",
+    "name": "Fluidity",
+    "label": [
+        {
+            "text": "Fluidity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Fließvermögen eines Stoffes als Kehrwert der dynamischen Viskosität",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW0b26b407f60b513abe2e4f4635bbeae4",
+    "default_unit": "Item:OSW5a76f98abf765e69b9639b8e6b7b8530",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW5a76f98abf765e69b9639b8e6b7b8530",
+            "name": "per_pascal_per_second",
+            "symbol": "/(Pa·s)"
+        }
+    ],
+    "quantity_property": "Property:HasFluidityValue"
+}

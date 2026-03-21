@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "92473183-e458-54a8-bd13-de8f0aefff19",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/Friction",
-        "http://dbpedia.org/resource/Friction"
+        "http://dbpedia.org/resource/Friction",
+        "http://qudt.org/vocab/quantitykind/Friction"
     ],
+    "uuid": "92473183-e458-54a8-bd13-de8f0aefff19",
     "name": "Friction",
     "label": [
         {

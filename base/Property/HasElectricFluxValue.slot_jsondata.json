@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "069644ea-14de-5b89-afe5-259c16e74c11",
     "name": "HasElectricFluxValue",
     "label": [
@@ -14,12 +17,10 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "62ed5927-c3c6-55e7-b13e-d33b710045e3",
         "name": "V·m",
-        "main_symbol": "V·m"
+        "main_symbol": "V·m",
+        "conversion_factor_to_main_unit": "1.0"
     }
 }

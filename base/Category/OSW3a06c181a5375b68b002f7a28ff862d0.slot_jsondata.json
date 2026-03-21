@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "3a06c181-a537-5b68-b002-f7a28ff862d0",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MASS-PROPERTY-UNCERTAINTY"
     ],
+    "uuid": "3a06c181-a537-5b68-b002-f7a28ff862d0",
     "name": "MassPropertyUncertainty",
     "label": [
         {

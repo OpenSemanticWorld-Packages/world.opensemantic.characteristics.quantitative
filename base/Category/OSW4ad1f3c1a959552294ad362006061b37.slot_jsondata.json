@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "4ad1f3c1-a959-5522-94ad-362006061b37",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ThermodynamicEntropy"
     ],
+    "uuid": "4ad1f3c1-a959-5522-94ad-362006061b37",
     "name": "ThermodynamicEntropy",
     "label": [
         {

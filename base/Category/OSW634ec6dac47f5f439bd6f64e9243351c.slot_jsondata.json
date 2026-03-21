@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "634ec6da-c47f-5f43-9bd6-f64e9243351c",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/AreaChargeDensity"
     ],
+    "uuid": "634ec6da-c47f-5f43-9bd6-f64e9243351c",
     "name": "AreicChargeDensity",
     "label": [
         {

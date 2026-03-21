@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
     "uuid": "4a2c49ce-c349-5431-81fd-7bf7c6eb9a2c",
     "name": "HasSpinQuantumNumberValue",
     "label": [
@@ -15,8 +18,5 @@
     ],
     "property_type": "Quantity",
     "subproperty_of": "Property:HasQuantumNumberValue",
-    "type": [
-        "Category:OSW69f251a900944602a08d1cca830249b5"
-    ],
-    "base_property": "Property:HasDimensionlessValue"
+    "base_property": "Property:HasQuantumNumberValue"
 }

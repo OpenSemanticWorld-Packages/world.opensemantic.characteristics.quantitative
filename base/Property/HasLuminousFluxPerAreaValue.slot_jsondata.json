@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "be94c919-aca3-5b62-a84a-736d8a02689d",
     "name": "HasLuminousFluxPerAreaValue",
     "label": [
@@ -14,12 +17,18 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
-        "uuid": "807f107c-eb14-5b4b-8d1a-b75e90dbca94",
-        "name": "lx",
-        "main_symbol": "lx"
-    }
+        "uuid": "68ac24be-a9c2-5765-9d9b-dc1d50d86b51",
+        "name": "cd/m²",
+        "main_symbol": "cd/m²",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "807f107c-eb14-5b4b-8d1a-b75e90dbca94",
+            "name": "lx",
+            "main_symbol": "lx",
+            "conversion_factor_to_main_unit": "1.0"
+        }
+    ]
 }

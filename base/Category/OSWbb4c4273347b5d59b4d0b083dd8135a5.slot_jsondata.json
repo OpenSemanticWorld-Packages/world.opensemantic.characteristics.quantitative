@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "bb4c4273-347b-5d59-b4d0-b083dd8135a5",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MagneticFluxPerLength"
     ],
+    "uuid": "bb4c4273-347b-5d59-b4d0-b083dd8135a5",
     "name": "MagneticFluxPerLength",
     "label": [
         {
@@ -32,6 +32,16 @@
             "osw_id": "Item:OSWefcd851d718352018f7355bf1594398e",
             "name": "newton_per_ampere",
             "symbol": "N/A"
+        },
+        {
+            "osw_id": "Item:OSWe180e39c49d7563ca3bb04314b1b3c90",
+            "name": "meter_tesla",
+            "symbol": "T·m"
+        },
+        {
+            "osw_id": "Item:OSWf63c15f03855534fabdc39bb5403d1ff",
+            "name": "second_volt_per_meter",
+            "symbol": "V·s/m"
         }
     ],
     "quantity_property": "Property:HasMagneticFluxPerLengthValue"

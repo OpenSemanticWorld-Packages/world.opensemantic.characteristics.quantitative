@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "e1ce3c92-78dd-5766-b37e-01a7c94e5445",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/RotationalMass"
     ],
+    "uuid": "e1ce3c92-78dd-5766-b37e-01a7c94e5445",
     "name": "RotationalMass",
     "label": [
         {
@@ -32,6 +32,16 @@
             "osw_id": "Item:OSWd211fc61709b5e48a4c96473c86a8d13",
             "name": "kilo_gram_meter_squared",
             "symbol": "kg·m²"
+        },
+        {
+            "osw_id": "Item:OSW391034a969af55ae94b7511e27805794",
+            "name": "kilo_gram_milli_meter_squared",
+            "symbol": "kg·mm²"
+        },
+        {
+            "osw_id": "Item:OSW82c716e8954c527fa755f64c88150efd",
+            "name": "centi_meter_squared_kilo_gram",
+            "symbol": "kg·cm²"
         }
     ],
     "quantity_property": "Property:HasRotationalMassValue"

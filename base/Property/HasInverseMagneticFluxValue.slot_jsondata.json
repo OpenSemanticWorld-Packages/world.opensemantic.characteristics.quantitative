@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "9bd62421-eb7f-505d-b030-7f6698434c0a",
     "name": "HasInverseMagneticFluxValue",
     "label": [
@@ -8,12 +11,18 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "a602dafc-7909-51c8-8d69-bc55296351fb",
         "name": "Hz/V",
-        "main_symbol": "Hz/V"
-    }
+        "main_symbol": "Hz/V",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "b4e3a590-867a-5092-9fc8-8810104911d8",
+            "name": "/Wb",
+            "main_symbol": "/Wb",
+            "conversion_factor_to_main_unit": "1.0"
+        }
+    ]
 }

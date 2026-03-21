@@ -1,0 +1,64 @@
+{
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "uuid": "43c44afd-0df8-5c2a-a0eb-899011f35c77",
+    "name": "HasFractionalAmountOfSubstanceValue",
+    "label": [
+        {
+            "text": "Fractional Amount of Substance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Fractional Amount of Substance\" is defined as tthe amount of a constituent divided by the total amount of all constituents in a mixture.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "main_unit": {
+        "uuid": "8f61e972-498f-51b6-9c88-bc54fee65fed",
+        "name": "#",
+        "main_symbol": "#",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "638ca923-1477-5241-b630-8d4112d51962",
+            "name": "‰",
+            "main_symbol": "‰",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "3e25f14a-39d9-5322-9280-39c471ed773f",
+            "name": "PPM",
+            "main_symbol": "PPM",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "475ca94d-62d1-5870-b299-690434cf4b7d",
+            "name": "PPTM",
+            "main_symbol": "PPTM",
+            "conversion_factor_to_main_unit": "10000000.0"
+        },
+        {
+            "uuid": "6087383b-5f44-5f14-9642-cdfb4ce87289",
+            "name": "PPB",
+            "main_symbol": "PPB",
+            "conversion_factor_to_main_unit": "999999999.9999999"
+        },
+        {
+            "uuid": "400507a5-8808-57ed-9011-c0c56abdad7a",
+            "name": "ppt",
+            "main_symbol": "ppt",
+            "conversion_factor_to_main_unit": "1000000000000.0"
+        },
+        {
+            "uuid": "15b767e1-0dd9-563d-ab3e-bae547620e43",
+            "name": "ppq",
+            "main_symbol": "ppq",
+            "conversion_factor_to_main_unit": "1e+16"
+        }
+    ]
+}

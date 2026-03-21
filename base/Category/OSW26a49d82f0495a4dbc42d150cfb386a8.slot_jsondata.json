@@ -1,0 +1,92 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/DatasetOfBits"
+    ],
+    "uuid": "26a49d82-f049-5a4d-bc42-d150cfb386a8",
+    "name": "DatasetOfBits",
+    "label": [
+        {
+            "text": "Dataset of bits",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW31e4f172dcac585c83835438b4e47c29",
+    "default_unit": "Item:OSW8db8e99fc1ce5914bdb7f42fa21afe1f",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW8db8e99fc1ce5914bdb7f42fa21afe1f",
+            "name": "barn",
+            "symbol": "b"
+        },
+        {
+            "osw_id": "Item:OSW8db8e99fc1ce5914bdb7f42fa21afe1f#OSW9bfb1f563c795551b120b81aee334a1c",
+            "name": "kilo_barn",
+            "symbol": "kb"
+        },
+        {
+            "osw_id": "Item:OSW8db8e99fc1ce5914bdb7f42fa21afe1f#OSW5f2dc6682bff5c29ba358c256f76dbdd",
+            "name": "kibi_barn",
+            "symbol": "Kib"
+        },
+        {
+            "osw_id": "Item:OSW8db8e99fc1ce5914bdb7f42fa21afe1f#OSW5cea3c72bbce533b9a539e20bc5b888b",
+            "name": "mega_barn",
+            "symbol": "Mb"
+        },
+        {
+            "osw_id": "Item:OSW8db8e99fc1ce5914bdb7f42fa21afe1f#OSWfabc6224737a5f35b831471cf367fc1d",
+            "name": "mebi_barn",
+            "symbol": "Mib"
+        },
+        {
+            "osw_id": "Item:OSW8db8e99fc1ce5914bdb7f42fa21afe1f#OSWc75fce7992485963b57ef0cfac41629d",
+            "name": "gilbert",
+            "symbol": "Gb"
+        },
+        {
+            "osw_id": "Item:OSW8db8e99fc1ce5914bdb7f42fa21afe1f#OSWe1e9720fb8a7555a93f142fdba50bda8",
+            "name": "gibi_barn",
+            "symbol": "Gib"
+        },
+        {
+            "osw_id": "Item:OSW8db8e99fc1ce5914bdb7f42fa21afe1f#OSWf5016b254a37592b8ea1acfc4a340303",
+            "name": "tera_barn",
+            "symbol": "Tb"
+        },
+        {
+            "osw_id": "Item:OSW8db8e99fc1ce5914bdb7f42fa21afe1f#OSW52d866ae576c5ea1a642c3a62bc07d36",
+            "name": "tebi_barn",
+            "symbol": "Tib"
+        },
+        {
+            "osw_id": "Item:OSW8db8e99fc1ce5914bdb7f42fa21afe1f#OSWcee86d4c2c9d5dc58996ffffdd61574d",
+            "name": "pebi_barn",
+            "symbol": "Pib"
+        },
+        {
+            "osw_id": "Item:OSW8db8e99fc1ce5914bdb7f42fa21afe1f#OSW29829be3cfe15b41872f17c8d6a6703f",
+            "name": "peta_barn",
+            "symbol": "Pb"
+        },
+        {
+            "osw_id": "Item:OSW8db8e99fc1ce5914bdb7f42fa21afe1f#OSW3e10c0ec91b95dcd875980c5570caa32",
+            "name": "exbi_barn",
+            "symbol": "Eib"
+        },
+        {
+            "osw_id": "Item:OSW8db8e99fc1ce5914bdb7f42fa21afe1f#OSWbb65f7727d57539da58298d206e81536",
+            "name": "exa_barn",
+            "symbol": "Eb"
+        }
+    ],
+    "quantity_property": "Property:HasDatasetOfBitsValue"
+}

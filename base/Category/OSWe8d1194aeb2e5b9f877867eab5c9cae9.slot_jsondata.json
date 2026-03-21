@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "e8d1194a-eb2e-5b9f-8778-67eab5c9cae9",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Incidence"
     ],
+    "uuid": "e8d1194a-eb2e-5b9f-8778-67eab5c9cae9",
     "name": "Incidence",
     "label": [
         {

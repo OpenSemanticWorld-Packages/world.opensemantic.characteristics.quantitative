@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "a284f00a-432c-5ca0-9e8b-1c61eb0d30ed",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/DebyeAngularFrequency"
     ],
+    "uuid": "a284f00a-432c-5ca0-9e8b-1c61eb0d30ed",
     "name": "DebyeAngularFrequency",
     "label": [
         {

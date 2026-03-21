@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "2c869e5a-09fa-5fdf-b818-543b40bacb08",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Radiosity"
     ],
+    "uuid": "2c869e5a-09fa-5fdf-b818-543b40bacb08",
     "name": "Radiosity",
     "label": [
         {

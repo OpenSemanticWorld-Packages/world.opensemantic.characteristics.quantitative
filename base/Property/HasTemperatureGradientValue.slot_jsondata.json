@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "1aaa9f5d-fb8f-556a-aebb-073ca57afdf1",
     "name": "HasTemperatureGradientValue",
     "label": [
@@ -14,12 +17,18 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
-        "uuid": "267bc06b-b126-5f85-b10c-dd78fe4fd953",
-        "name": "°C/m",
-        "main_symbol": "°C/m"
-    }
+        "uuid": "60c37cb1-047b-58b1-b318-b5366f592d9d",
+        "name": "K/m",
+        "main_symbol": "K/m",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "267bc06b-b126-5f85-b10c-dd78fe4fd953",
+            "name": "°C/m",
+            "main_symbol": "°C/m",
+            "conversion_factor_to_main_unit": "1.0"
+        }
+    ]
 }

@@ -2,12 +2,12 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "60f1d4c9-0b5d-5f15-a5c3-8d7741ba689e",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/ThermalConductivity",
         "http://dbpedia.org/resource/Thermal_conductivity",
-        "https://si-digital-framework.org/SI/quantities/TCON"
+        "http://qudt.org/vocab/quantitykind/ThermalConductivity",
+        "https://si-digital-framework.org/quantities/TCON"
     ],
+    "uuid": "60f1d4c9-0b5d-5f15-a5c3-8d7741ba689e",
     "name": "ThermalConductivity",
     "label": [
         {
@@ -34,6 +34,11 @@
             "osw_id": "Item:OSW2b8517640ac75611a57b26b56bd5124c",
             "name": "watt_per_kelvin_per_meter",
             "symbol": "W/(m·K)"
+        },
+        {
+            "osw_id": "Item:OSW2b8517640ac75611a57b26b56bd5124c#OSW3b50125df4135593a9c674f59cfcdc88",
+            "name": "kilo_watt_per_kelvin_per_meter",
+            "symbol": "kW/(m·K)"
         }
     ],
     "quantity_property": "Property:HasThermalConductivityValue"

@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "0b0a3633-0fb3-5c46-b179-79e278ed3242",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/CurieTemperature"
     ],
+    "uuid": "0b0a3633-0fb3-5c46-b179-79e278ed3242",
     "name": "CurieTemperature",
     "label": [
         {

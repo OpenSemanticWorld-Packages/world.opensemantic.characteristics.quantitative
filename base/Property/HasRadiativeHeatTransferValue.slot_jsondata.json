@@ -1,0 +1,22 @@
+{
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "uuid": "d154b62d-f964-5c18-9612-8aebc9c92e4d",
+    "name": "HasRadiativeHeatTransferValue",
+    "label": [
+        {
+            "text": "Radiative Heat Transfer",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Radiative Heat Transfer\" is proportional to $(T_1^4 - T_2^4)$ and area of the surface, where $T_1$ and $T_2$ are thermodynamic temperatures of two black surfaces, for non totally black surfaces an additional factor less than 1 is needed.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasHeatFlowRateValue",
+    "base_property": "Property:HasHeatFlowRateValue"
+}

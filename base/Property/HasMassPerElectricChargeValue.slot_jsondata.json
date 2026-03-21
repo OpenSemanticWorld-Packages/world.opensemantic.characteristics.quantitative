@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "eed489d4-f090-5b52-a896-4a27c9090395",
     "name": "HasMassPerElectricChargeValue",
     "label": [
@@ -14,12 +17,10 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "a4b46d13-748f-5efe-9cbd-011f0842ac17",
         "name": "T·s",
-        "main_symbol": "T·s"
+        "main_symbol": "T·s",
+        "conversion_factor_to_main_unit": "1.0"
     }
 }

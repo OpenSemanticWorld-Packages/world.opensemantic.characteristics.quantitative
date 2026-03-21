@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "2df374b7-f746-58f0-9c0a-3f780cbe43c8",
     "name": "HasVelocityValue",
     "label": [
@@ -18,15 +21,37 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
-        "uuid": "c6d1c729-ec16-5744-83f6-da4db6e930f3",
-        "name": "m/s",
-        "main_symbol": "m/s"
+        "uuid": "699c3b62-98c2-57b5-828f-b5a50a635f1b",
+        "name": "Hz·m",
+        "main_symbol": "Hz·m",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
+        {
+            "uuid": "765a61eb-5ee2-57a0-a7f2-13506fd9efcf",
+            "name": "GHz·m",
+            "main_symbol": "GHz·m",
+            "conversion_factor_to_main_unit": "1e-09"
+        },
+        {
+            "uuid": "47cf99fc-896e-5499-84ed-784ca8bc877a",
+            "name": "MHz·km",
+            "main_symbol": "MHz·km",
+            "conversion_factor_to_main_unit": "1e-09"
+        },
+        {
+            "uuid": "183ac31c-8ccf-52e2-ab35-a4f86a143f6a",
+            "name": "MHz·m",
+            "main_symbol": "MHz·m",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "0cb9c4ad-d11d-5493-adad-2cdb9df24786",
+            "name": "kHz·m",
+            "main_symbol": "kHz·m",
+            "conversion_factor_to_main_unit": "0.001"
+        },
         {
             "uuid": "f6b709ec-ad78-5b83-ab82-389b864ddd9a",
             "name": "km/s",
@@ -34,10 +59,28 @@
             "conversion_factor_to_main_unit": "0.001"
         },
         {
-            "uuid": "51e8f4f6-7d12-5ea6-988c-7f86034fc538",
-            "name": "μm/s",
-            "main_symbol": "μm/s",
-            "conversion_factor_to_main_unit": "1000000.0"
+            "uuid": "c6d1c729-ec16-5744-83f6-da4db6e930f3",
+            "name": "m/s",
+            "main_symbol": "m/s",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "2fe96394-985a-5232-8904-e16c0f6d9b59",
+            "name": "km/h",
+            "main_symbol": "km/h",
+            "conversion_factor_to_main_unit": "3.5999999999999996"
+        },
+        {
+            "uuid": "5dca5c40-c69a-5fc4-b738-cb9fbf700be4",
+            "name": "m/min",
+            "main_symbol": "m/min",
+            "conversion_factor_to_main_unit": "60.0"
+        },
+        {
+            "uuid": "f049fead-23bc-575e-86eb-2acaa928bbdf",
+            "name": "km/d",
+            "main_symbol": "km/d",
+            "conversion_factor_to_main_unit": "86.4"
         },
         {
             "uuid": "d6665f6b-00fa-5122-a2ac-725be2478018",
@@ -50,6 +93,78 @@
             "name": "mm/s",
             "main_symbol": "mm/s",
             "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "2ef98089-2b24-592b-9ec0-ff0b0ffae5b8",
+            "name": "m/h",
+            "main_symbol": "m/h",
+            "conversion_factor_to_main_unit": "3600.0"
+        },
+        {
+            "uuid": "1a6797af-7d39-52ce-bb31-41a17b7bf5e0",
+            "name": "mm/min",
+            "main_symbol": "mm/min",
+            "conversion_factor_to_main_unit": "60000.0"
+        },
+        {
+            "uuid": "f16e0494-8c05-556e-aee3-b8536fe6cb08",
+            "name": "m/d",
+            "main_symbol": "m/d",
+            "conversion_factor_to_main_unit": "86400.0"
+        },
+        {
+            "uuid": "e5d1f601-aa5c-5a31-8dd3-0b077feb7739",
+            "name": "cm/h",
+            "main_symbol": "cm/h",
+            "conversion_factor_to_main_unit": "360000.0"
+        },
+        {
+            "uuid": "51e8f4f6-7d12-5ea6-988c-7f86034fc538",
+            "name": "μm/s",
+            "main_symbol": "μm/s",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "43f018cb-e71a-510f-b3cc-f3fa0ae57d6e",
+            "name": "mm/h",
+            "main_symbol": "mm/h",
+            "conversion_factor_to_main_unit": "3600000.0000000005"
+        },
+        {
+            "uuid": "6da1a261-afa6-5b90-a596-a1d50aa30722",
+            "name": "m/a",
+            "main_symbol": "m/a",
+            "conversion_factor_to_main_unit": "31557600.000000004"
+        },
+        {
+            "uuid": "ea3e50eb-5f01-5652-9c8d-72b4525f2dd4",
+            "name": "μm/min",
+            "main_symbol": "μm/min",
+            "conversion_factor_to_main_unit": "60000000.0"
+        },
+        {
+            "uuid": "cbf43350-463a-52d9-a401-cba5f7bca794",
+            "name": "mm/d",
+            "main_symbol": "mm/d",
+            "conversion_factor_to_main_unit": "86400000.0"
+        },
+        {
+            "uuid": "a774aff7-b0a0-554c-ba96-f14c0e7d0b09",
+            "name": "cm/a",
+            "main_symbol": "cm/a",
+            "conversion_factor_to_main_unit": "3155760000.0"
+        },
+        {
+            "uuid": "5942653e-2fcb-5a8c-813e-b2f3e0748323",
+            "name": "mm/a",
+            "main_symbol": "mm/a",
+            "conversion_factor_to_main_unit": "31557600000.000004"
+        },
+        {
+            "uuid": "4d2a155a-776e-52f8-b56a-1f068b85ce26",
+            "name": "cm/ka",
+            "main_symbol": "cm/ka",
+            "conversion_factor_to_main_unit": "3155760000000.0"
         }
     ]
 }

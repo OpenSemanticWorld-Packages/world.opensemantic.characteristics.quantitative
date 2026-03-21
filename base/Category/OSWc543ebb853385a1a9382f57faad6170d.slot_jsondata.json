@@ -2,12 +2,12 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "c543ebb8-5338-5a1a-9382-f57faad6170d",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/Frequency",
         "http://dbpedia.org/resource/Frequency",
-        "https://si-digital-framework.org/SI/quantities/FREQ"
+        "http://qudt.org/vocab/quantitykind/Frequency",
+        "https://si-digital-framework.org/quantities/FREQ"
     ],
+    "uuid": "c543ebb8-5338-5a1a-9382-f57faad6170d",
     "name": "Frequency",
     "label": [
         {
@@ -32,17 +32,82 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW3ac39ad3fd725738a73af0f3e3639935",
-    "default_unit": "Item:OSW7496c09c41b154bdba82f6d09195cae5",
+    "default_unit": "Item:OSW98372a3dae18565f8e4c5863c7aaf33a",
     "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW98372a3dae18565f8e4c5863c7aaf33a",
+            "name": "per_second",
+            "symbol": "/s"
+        },
+        {
+            "osw_id": "Item:OSW06027f437dd357449795ec4d0e001467#OSW99f5ef542438535da66f86b2f237ad6c",
+            "name": "nano_becquerel",
+            "symbol": "nBq"
+        },
+        {
+            "osw_id": "Item:OSWd2434a78e02852fc9426025f9a4e50ba",
+            "name": "per_year",
+            "symbol": "/a"
+        },
+        {
+            "osw_id": "Item:OSW4bd500e7dccd574ca2b86fdb915507fe",
+            "name": "per_month",
+            "symbol": "/mo"
+        },
+        {
+            "osw_id": "Item:OSW06027f437dd357449795ec4d0e001467#OSWef0f2e23f0715f4ba318816bc556b062",
+            "name": "micro_becquerel",
+            "symbol": "μBq"
+        },
+        {
+            "osw_id": "Item:OSWaccfb09899f65bfa93efac2d83a7a2ad",
+            "name": "per_week",
+            "symbol": "/wk"
+        },
+        {
+            "osw_id": "Item:OSW66fe6ce97e5158609e118ef904c8eff6",
+            "name": "per_day",
+            "symbol": "/d"
+        },
+        {
+            "osw_id": "Item:OSWb07c39d8e66b5b069b953cddad34eb1c",
+            "name": "per_hour",
+            "symbol": "/h"
+        },
+        {
+            "osw_id": "Item:OSW06027f437dd357449795ec4d0e001467#OSW9607f6e5f4b15b59a05bfea6168d375e",
+            "name": "milli_becquerel",
+            "symbol": "mBq"
+        },
+        {
+            "osw_id": "Item:OSW7496c09c41b154bdba82f6d09195cae5#OSW077a52d68b86560a897183598a476b41",
+            "name": "milli_hertz",
+            "symbol": "mHz"
+        },
+        {
+            "osw_id": "Item:OSWdeb1214b8f475f71b338cd500825426f",
+            "name": "per_minute",
+            "symbol": "/min"
+        },
+        {
+            "osw_id": "Item:OSW06027f437dd357449795ec4d0e001467",
+            "name": "becquerel",
+            "symbol": "Bq"
+        },
         {
             "osw_id": "Item:OSW7496c09c41b154bdba82f6d09195cae5",
             "name": "hertz",
             "symbol": "Hz"
         },
         {
-            "osw_id": "Item:OSW7496c09c41b154bdba82f6d09195cae5#OSWb5d0dd4f66285e15af5977a1b77d5daa",
-            "name": "mega_hertz",
-            "symbol": "MHz"
+            "osw_id": "Item:OSW98372a3dae18565f8e4c5863c7aaf33a#OSW4e1dedc5c7a6585c868ff31ff7432d99",
+            "name": "per_milli_second",
+            "symbol": "/ms"
+        },
+        {
+            "osw_id": "Item:OSW06027f437dd357449795ec4d0e001467#OSW7acd61611e90570789a0c17bd89a0332",
+            "name": "kilo_becquerel",
+            "symbol": "kBq"
         },
         {
             "osw_id": "Item:OSW7496c09c41b154bdba82f6d09195cae5#OSWfbbfa62ac8095c5bb37ea9f22ab121dd",
@@ -50,14 +115,44 @@
             "symbol": "kHz"
         },
         {
+            "osw_id": "Item:OSW06027f437dd357449795ec4d0e001467#OSWb3a8a39c00505c75a3993bb11241fdb9",
+            "name": "mega_becquerel",
+            "symbol": "MBq"
+        },
+        {
+            "osw_id": "Item:OSW7496c09c41b154bdba82f6d09195cae5#OSWb5d0dd4f66285e15af5977a1b77d5daa",
+            "name": "mega_hertz",
+            "symbol": "MHz"
+        },
+        {
+            "osw_id": "Item:OSW06027f437dd357449795ec4d0e001467#OSWa7085a17a3595929beed2cd9978fe734",
+            "name": "giga_becquerel",
+            "symbol": "GBq"
+        },
+        {
             "osw_id": "Item:OSW7496c09c41b154bdba82f6d09195cae5#OSW37c66b2e350050d891107e427a1c0210",
             "name": "giga_hertz",
             "symbol": "GHz"
         },
         {
+            "osw_id": "Item:OSW06027f437dd357449795ec4d0e001467#OSW133cc94ec8375000abf7ff60018449ae",
+            "name": "tera_becquerel",
+            "symbol": "TBq"
+        },
+        {
             "osw_id": "Item:OSW7496c09c41b154bdba82f6d09195cae5#OSW5860049cdfae5d64abcd7bb8ace55540",
             "name": "tera_hertz",
             "symbol": "THz"
+        },
+        {
+            "osw_id": "Item:OSW06027f437dd357449795ec4d0e001467#OSW7005d44ef1dd51acbe20cb145041606a",
+            "name": "peta_becquerel",
+            "symbol": "PBq"
+        },
+        {
+            "osw_id": "Item:OSW7496c09c41b154bdba82f6d09195cae5#OSWd1cfeefa4862510399a624711178435a",
+            "name": "peta_hertz",
+            "symbol": "PHz"
         }
     ],
     "quantity_property": "Property:HasFrequencyValue"

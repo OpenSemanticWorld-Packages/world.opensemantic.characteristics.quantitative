@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "0a6d4ab2-792f-569d-a06a-f40abdb83759",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/WaterHorsepower"
     ],
+    "uuid": "0a6d4ab2-792f-569d-a06a-f40abdb83759",
     "name": "WaterHorsepower",
     "label": [
         {

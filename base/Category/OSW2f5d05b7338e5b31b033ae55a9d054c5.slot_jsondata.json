@@ -1,0 +1,20 @@
+{
+    "type": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/DistanceTraveledDuringBurn"
+    ],
+    "uuid": "2f5d05b7-338e-5b31-b033-ae55a9d054c5",
+    "name": "DistanceTraveledDuringABurn",
+    "label": [
+        {
+            "text": "Distance Traveled During a Burn",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW5074a29ba5505fc98e379b0a9df0bd69"
+    ],
+    "quantity_property": "Property:HasDistanceTraveledDuringABurnValue"
+}

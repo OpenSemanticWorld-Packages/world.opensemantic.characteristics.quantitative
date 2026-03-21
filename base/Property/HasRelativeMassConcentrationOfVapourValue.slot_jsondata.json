@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "uuid": "14190542-4d1f-561c-be74-be84d40f8d55",
+    "name": "HasRelativeMassConcentrationOfVapourValue",
+    "label": [
+        {
+            "text": "Relative Mass Concentration of Vapour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Relative Mass Concentration of Vapour is one of a number of Relative Concentration quantities defined by ISO 80000.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "main_unit": {
+        "uuid": "4411f5ca-371f-5a11-91c7-0ca80634c8f5",
+        "name": "一",
+        "main_symbol": "一",
+        "conversion_factor_to_main_unit": "1.0"
+    }
+}

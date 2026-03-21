@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "5ff27cfd-df43-5372-a70b-e4040f61d68b",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/CyclotronAngularFrequency"
     ],
+    "uuid": "5ff27cfd-df43-5372-a70b-e4040f61d68b",
     "name": "LarmorAngularFrequency",
     "label": [
         {

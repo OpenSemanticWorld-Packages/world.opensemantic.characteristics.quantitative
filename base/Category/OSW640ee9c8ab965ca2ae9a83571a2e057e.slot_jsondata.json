@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "640ee9c8-ab96-5ca2-ae9a-83571a2e057e",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/LiftForce"
     ],
+    "uuid": "640ee9c8-ab96-5ca2-ae9a-83571a2e057e",
     "name": "LiftForce",
     "label": [
         {

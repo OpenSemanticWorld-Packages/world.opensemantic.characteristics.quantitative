@@ -2,12 +2,12 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "b58cb5a4-654f-52e1-804c-74c035d21352",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/Pressure",
         "http://dbpedia.org/resource/Pressure",
-        "https://si-digital-framework.org/SI/quantities/PRES"
+        "http://qudt.org/vocab/quantitykind/Pressure",
+        "https://si-digital-framework.org/quantities/PRES"
     ],
+    "uuid": "b58cb5a4-654f-52e1-804c-74c035d21352",
     "name": "Pressure",
     "label": [
         {

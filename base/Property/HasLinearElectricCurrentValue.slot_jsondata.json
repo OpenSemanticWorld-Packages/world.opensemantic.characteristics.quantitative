@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
     "uuid": "1e352cca-d382-5ad4-abf3-2cc2fdc1a1cf",
     "name": "HasLinearElectricCurrentValue",
     "label": [
@@ -15,8 +18,5 @@
     ],
     "property_type": "Quantity",
     "subproperty_of": "Property:HasLinearElectricCurrentDensityValue",
-    "type": [
-        "Category:OSW69f251a900944602a08d1cca830249b5"
-    ],
     "base_property": "Property:HasLinearElectricCurrentDensityValue"
 }

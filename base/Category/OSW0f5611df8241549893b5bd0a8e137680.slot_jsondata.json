@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "0f5611df-8241-5498-93b5-bd0a8e137680",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ParticleFluence"
     ],
+    "uuid": "0f5611df-8241-5498-93b5-bd0a8e137680",
     "name": "ParticleFluence",
     "label": [
         {
@@ -31,7 +31,12 @@
         {
             "osw_id": "Item:OSW3adb44b7a27d5ed0b9691b095779cb1f",
             "name": "per_meter_squared",
-            "symbol": "1/m²"
+            "symbol": "/m²"
+        },
+        {
+            "osw_id": "Item:OSW9e2974a529375b7ca4133b4f2806739c",
+            "name": "per_meter_per_nano_meter",
+            "symbol": "/(m·nm)"
         }
     ],
     "quantity_property": "Property:HasParticleFluenceValue"

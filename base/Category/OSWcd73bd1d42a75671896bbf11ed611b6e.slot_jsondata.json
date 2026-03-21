@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "cd73bd1d-42a7-5671-896b-bf11ed611b6e",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/EnergyDensityOfStates"
     ],
+    "uuid": "cd73bd1d-42a7-5671-896b-bf11ed611b6e",
     "name": "EnergyDensityOfStates",
     "label": [
         {
@@ -31,7 +31,7 @@
         {
             "osw_id": "Item:OSW397d9707b473555a8b294558cbc5d2a1",
             "name": "per_joule_per_meter_cubed",
-            "symbol": "1/(J·m³)"
+            "symbol": "/(J·m³)"
         }
     ],
     "quantity_property": "Property:HasEnergyDensityOfStatesValue"

@@ -1,0 +1,42 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/InverseSquareEnergy"
+    ],
+    "uuid": "2ff0e06e-1f99-5bd0-82b2-fb855c1b8963",
+    "name": "InverseSquareEnergy",
+    "label": [
+        {
+            "text": "Inverse Square Energy",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWbc07166833ae540ab5e76726e4d53d04",
+    "default_unit": "Item:OSW0dddefef8d455a10adeaafa69cd3afd7",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW0dddefef8d455a10adeaafa69cd3afd7",
+            "name": "per_joule_squared",
+            "symbol": "/J²"
+        },
+        {
+            "osw_id": "Item:OSW864f459cac8757098e620280f19c506f#OSW025e0d3a3db95067ac8c0539e8fd8682",
+            "name": "per_giga_electron_volt_squared",
+            "symbol": "/GeV²"
+        },
+        {
+            "osw_id": "Item:OSW864f459cac8757098e620280f19c506f",
+            "name": "per_electron_volt_squared",
+            "symbol": "/eV²"
+        }
+    ],
+    "quantity_property": "Property:HasInverseSquareEnergyValue"
+}

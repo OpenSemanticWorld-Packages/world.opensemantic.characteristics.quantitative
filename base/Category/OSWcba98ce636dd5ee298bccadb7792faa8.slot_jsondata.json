@@ -1,0 +1,38 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/EnergyPerSquareMagneticFluxDensity"
+    ],
+    "uuid": "cba98ce6-36dd-5ee2-98bc-cadb7792faa8",
+    "name": "EnergyPerSquareMagneticFluxDensity",
+    "label": [
+        {
+            "text": "Energy Per Square Magnetic Flux Density",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Energy Per Square Magnetic Flux Density\" is a measure of energy for a unit of magnetic flux density.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWf283acddcb05590caedfbf2e998ee05a",
+    "default_unit": "Item:OSW462714679d475b158c530d359d42de44",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW462714679d475b158c530d359d42de44",
+            "name": "joule_per_tesla_squared",
+            "symbol": "J/T²"
+        }
+    ],
+    "quantity_property": "Property:HasEnergyPerSquareMagneticFluxDensityValue"
+}

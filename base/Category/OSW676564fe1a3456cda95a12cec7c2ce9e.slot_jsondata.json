@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "676564fe-1a34-56cd-a95a-12cec7c2ce9e",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Flux"
     ],
+    "uuid": "676564fe-1a34-56cd-a95a-12cec7c2ce9e",
     "name": "Flux",
     "label": [
         {
@@ -31,7 +31,17 @@
         {
             "osw_id": "Item:OSW580b455ce69e57418303f409d43f373a",
             "name": "per_meter_squared_per_second",
-            "symbol": "1/(m²·s)"
+            "symbol": "/(m²·s)"
+        },
+        {
+            "osw_id": "Item:OSW86063c1ed298526d9fca457fe605f00e",
+            "name": "micro_meter_per_day_per_liter",
+            "symbol": "μm/(L·d)"
+        },
+        {
+            "osw_id": "Item:OSWe5961e1fe91e50b7bee983e5cb1c375b",
+            "name": "per_meter_squared_per_second",
+            "symbol": "/(s·m²)"
         }
     ],
     "quantity_property": "Property:HasFluxValue"

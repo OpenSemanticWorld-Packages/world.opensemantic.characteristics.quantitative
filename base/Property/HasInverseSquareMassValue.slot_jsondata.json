@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "4651ab63-c5fc-5bf6-a16b-59938573556f",
     "name": "HasInverseSquareMassValue",
     "label": [
@@ -8,12 +11,10 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "42677097-25b6-526c-83ba-077185aaa1fa",
-        "name": "1/kg²",
-        "main_symbol": "1/kg²"
+        "name": "/kg²",
+        "main_symbol": "/kg²",
+        "conversion_factor_to_main_unit": "1.0"
     }
 }

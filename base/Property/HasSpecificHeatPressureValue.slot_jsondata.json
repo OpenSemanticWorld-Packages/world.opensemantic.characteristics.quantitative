@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "1eaa4f55-0cf9-570b-8d86-4703d29dc35c",
     "name": "HasSpecificHeatPressureValue",
     "label": [
@@ -14,12 +17,10 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "0dbc6d52-49cc-5210-8de2-7d1e3d52af9c",
-        "name": "J/(K·kg·Pa)",
-        "main_symbol": "J/(K·kg·Pa)"
+        "name": "J/(kg·K·Pa)",
+        "main_symbol": "J/(kg·K·Pa)",
+        "conversion_factor_to_main_unit": "1.0"
     }
 }

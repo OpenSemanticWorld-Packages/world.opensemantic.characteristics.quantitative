@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "298b2f8a-4a01-55aa-951a-e75231e4343f",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/WarpingConstant"
     ],
+    "uuid": "298b2f8a-4a01-55aa-951a-e75231e4343f",
     "name": "WarpingConstant",
     "label": [
         {
@@ -30,12 +30,12 @@
     "unit_enumeration": [
         {
             "osw_id": "Item:OSWc5904c8a783d5e8da5f6a24745774a6b",
-            "name": "6",
+            "name": "meter_to_the_sixth",
             "symbol": "m⁶"
         },
         {
             "osw_id": "Item:OSWc5904c8a783d5e8da5f6a24745774a6b#OSWffc057592b945f8aaad8ef5e3e1903a4",
-            "name": "6",
+            "name": "centi_meter_to_the_sixth",
             "symbol": "cm⁶"
         }
     ],

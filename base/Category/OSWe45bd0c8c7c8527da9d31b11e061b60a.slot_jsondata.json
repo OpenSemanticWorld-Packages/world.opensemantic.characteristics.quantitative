@@ -2,12 +2,12 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "e45bd0c8-c7c8-527d-a9d3-1b11e061b60a",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/Activity",
         "http://dbpedia.org/resource/Radioactive_decay",
-        "https://si-digital-framework.org/SI/quantities/ARRN"
+        "http://qudt.org/vocab/quantitykind/Activity",
+        "https://si-digital-framework.org/quantities/ARRN"
     ],
+    "uuid": "e45bd0c8-c7c8-527d-a9d3-1b11e061b60a",
     "name": "Activity",
     "label": [
         {

@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "5ec15881-cb91-5f81-ab44-b6b7d9477fbc",
     "name": "HasMolarEnergyValue",
     "label": [
@@ -14,13 +17,11 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "da436d0a-f512-5528-874e-2a30f76cb78d",
         "name": "J/mol",
-        "main_symbol": "J/mol"
+        "main_symbol": "J/mol",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
         {

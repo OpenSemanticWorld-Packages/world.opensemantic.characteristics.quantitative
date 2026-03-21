@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "e362e9df-854f-518a-984e-309779ff69d1",
     "name": "HasEnergyDensityOfStatesValue",
     "label": [
@@ -14,12 +17,10 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "f047580f-daad-5fbc-b022-df405fcb8d3d",
-        "name": "1/(J·m³)",
-        "main_symbol": "1/(J·m³)"
+        "name": "/(J·m³)",
+        "main_symbol": "/(J·m³)",
+        "conversion_factor_to_main_unit": "1.0"
     }
 }

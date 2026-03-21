@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "b6919e9f-2e94-555a-8a7d-56a7cc3d9c85",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/AbsoluteTypographicMeasurement"
     ],
+    "uuid": "b6919e9f-2e94-555a-8a7d-56a7cc3d9c85",
     "name": "AbsoluteTypographicMeasurement",
     "label": [
         {

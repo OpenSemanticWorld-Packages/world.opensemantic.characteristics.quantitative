@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
     "uuid": "2b707c78-6dd3-5854-a262-dc81a4afd7ae",
     "name": "HasMacroscopicTotalCrossSectionValue",
     "label": [
@@ -15,8 +18,5 @@
     ],
     "property_type": "Quantity",
     "subproperty_of": "Property:HasCrossSectionValue",
-    "type": [
-        "Category:OSW69f251a900944602a08d1cca830249b5"
-    ],
-    "base_property": "Property:HasAreaValue"
+    "base_property": "Property:HasCrossSectionValue"
 }

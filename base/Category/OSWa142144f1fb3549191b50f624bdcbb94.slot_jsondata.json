@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "a142144f-1fb3-5491-91b5-0f624bdcbb94",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/INERT-MASS"
     ],
+    "uuid": "a142144f-1fb3-5491-91b5-0f624bdcbb94",
     "name": "InertMass",
     "label": [
         {

@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "af03e645-fd23-505e-aa56-a8201aed7c36",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/FlashPoint"
     ],
+    "uuid": "af03e645-fd23-505e-aa56-a8201aed7c36",
     "name": "FlashPointTemperature",
     "label": [
         {

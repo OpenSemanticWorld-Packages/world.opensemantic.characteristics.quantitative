@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "2746ace2-7973-5bb9-98af-dcc5f5821a22",
     "name": "HasLinearAccelerationValue",
     "label": [
@@ -8,20 +11,30 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "aeb15552-6656-5fad-8581-9f1a2188d45c",
         "name": "m/s²",
-        "main_symbol": "m/s²"
+        "main_symbol": "m/s²",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
+        {
+            "uuid": "3af4e318-b2c0-5f78-80cf-807a2a2df967",
+            "name": "km/s²",
+            "main_symbol": "km/s²",
+            "conversion_factor_to_main_unit": "0.001"
+        },
         {
             "uuid": "9e859eb7-8757-5183-9ec3-3360d9e1798f",
             "name": "cm/s²",
             "main_symbol": "cm/s²",
             "conversion_factor_to_main_unit": "100.0"
+        },
+        {
+            "uuid": "9a7a8fb4-e4f0-5de0-8c11-1f0b054ba61e",
+            "name": "mm/s²",
+            "main_symbol": "mm/s²",
+            "conversion_factor_to_main_unit": "1000.0"
         }
     ]
 }

@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "2341adcf-1a54-557f-8861-37e4180398d9",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/PowerPerElectricCharge"
     ],
+    "uuid": "2341adcf-1a54-557f-8861-37e4180398d9",
     "name": "PowerPerElectricCharge",
     "label": [
         {
@@ -34,9 +34,14 @@
             "symbol": "V/s"
         },
         {
+            "osw_id": "Item:OSWeb2b1de516395cee816ba36de570a3cf",
+            "name": "milli_volt_per_minute",
+            "symbol": "mV/min"
+        },
+        {
             "osw_id": "Item:OSW7d0144647c655cbeac604178c20df9c8#OSWa89d207ffc6f502a9f742482fb84c1ad",
             "name": "volt_per_micro_second",
-            "symbol": "V/µs"
+            "symbol": "V/μs"
         }
     ],
     "quantity_property": "Property:HasPowerPerElectricChargeValue"

@@ -1,0 +1,42 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/RefractiveIndex"
+    ],
+    "uuid": "d53baee8-38e6-500a-b00d-08482dd8b0dc",
+    "name": "RefractiveIndex",
+    "label": [
+        {
+            "text": "Refractive index",
+            "lang": "en"
+        },
+        {
+            "text": "Brechzahl",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"refractive index\" or index of refraction n of a substance (optical medium) is a dimensionless number that describes how light, or any other radiation, propagates through that medium.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWa28d22a099ab56f68ec9f1cabfa898b5",
+    "default_unit": "Item:OSWc72c8e13779050d1a5512740a9a12112",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWc72c8e13779050d1a5512740a9a12112",
+            "name": "unitless",
+            "symbol": "一"
+        }
+    ],
+    "quantity_property": "Property:HasRefractiveIndexValue"
+}

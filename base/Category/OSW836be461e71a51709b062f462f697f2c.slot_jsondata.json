@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MomentOfInertia_Z"
+    ],
+    "uuid": "836be461-e71a-5170-9b06-2f462f697f2c",
+    "name": "MomentOfInertiaInTheZAxis",
+    "label": [
+        {
+            "text": "Moment of Inertia in the Z axis",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The rotational inertia or resistance to change in direction or speed of rotation about a defined axis.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW2e958a0e653558a8abf2bd1fa3c6dd59"
+    ],
+    "quantity_property": "Property:HasMomentOfInertiaInTheZAxisValue"
+}

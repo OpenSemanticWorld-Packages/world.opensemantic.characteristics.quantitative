@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "c92f6543-cf0b-54d0-a508-2ef1e67267ad",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/VacuumThrust"
     ],
+    "uuid": "c92f6543-cf0b-54d0-a508-2ef1e67267ad",
     "name": "VacuumThrust",
     "label": [
         {

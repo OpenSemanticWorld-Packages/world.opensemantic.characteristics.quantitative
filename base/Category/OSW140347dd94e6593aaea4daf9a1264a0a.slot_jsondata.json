@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "140347dd-94e6-593a-aea4-daf9a1264a0a",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/AngularImpulse",
-        "http://dbpedia.org/resource/AngularMomentum"
+        "http://dbpedia.org/resource/AngularMomentum",
+        "http://qudt.org/vocab/quantitykind/AngularImpulse"
     ],
+    "uuid": "140347dd-94e6-593a-aea4-daf9a1264a0a",
     "name": "AngularImpulse",
     "label": [
         {
@@ -39,9 +39,24 @@
             "symbol": "J·s"
         },
         {
-            "osw_id": "Item:OSWf045a04750e15ea2b152fb3bfebf162a#OSW3eaa66dd20f856fe9a5c4199bc0a1ea4",
+            "osw_id": "Item:OSW1dd1ded9a5705629b47aa64b3ac3deea",
+            "name": "electron_volt_second",
+            "symbol": "eV·s"
+        },
+        {
+            "osw_id": "Item:OSW3eaa66dd20f856fe9a5c4199bc0a1ea4",
             "name": "atto_joule_second",
             "symbol": "aJ·s"
+        },
+        {
+            "osw_id": "Item:OSW5e6ed82c68555dc2b37925babf728409",
+            "name": "meter_newton_second",
+            "symbol": "N·m·s"
+        },
+        {
+            "osw_id": "Item:OSWc5e4d5b0a17f513ca13db454fc844fbc",
+            "name": "kilo_gram_meter_squared_per_second",
+            "symbol": "kg·m²/s"
         }
     ],
     "quantity_property": "Property:HasAngularImpulseValue"

@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "50366327-7407-50e5-87b6-152153a82749",
     "name": "HasMagneticMomentValue",
     "label": [
@@ -18,12 +21,24 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "7073b868-b8f5-5217-95bc-e37d41cec7ef",
         "name": "A·m²",
-        "main_symbol": "A·m²"
-    }
+        "main_symbol": "A·m²",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "61ac7092-c125-5292-9e15-a54955b6db81",
+            "name": "J/T",
+            "main_symbol": "J/T",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "1a4adb4f-fb35-50b7-bc64-4bc443fc8678",
+            "name": "eV/T",
+            "main_symbol": "eV/T",
+            "conversion_factor_to_main_unit": "6.241509074460763e+18"
+        }
+    ]
 }

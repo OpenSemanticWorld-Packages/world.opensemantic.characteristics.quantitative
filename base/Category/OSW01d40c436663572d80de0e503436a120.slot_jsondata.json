@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "01d40c43-6663-572d-80de-0e503436a120",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/InverseMass"
     ],
+    "uuid": "01d40c43-6663-572d-80de-0e503436a120",
     "name": "ReciprocalMass",
     "label": [
         {
@@ -20,12 +20,22 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW89896336be9f5f908642806a1e96151a",
-    "default_unit": "Item:OSW779e33a057275cba9d6f363a1526d8bf",
+    "default_unit": "Item:OSW779e33a057275cba9d6f363a1526d8bf#OSW51e92cfef8085d169733191c9e3af49f",
     "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW779e33a057275cba9d6f363a1526d8bf#OSW51e92cfef8085d169733191c9e3af49f",
+            "name": "per_kilo_gram",
+            "symbol": "/kg"
+        },
         {
             "osw_id": "Item:OSW779e33a057275cba9d6f363a1526d8bf",
             "name": "per_gram",
-            "symbol": "1/g"
+            "symbol": "/g"
+        },
+        {
+            "osw_id": "Item:OSW779e33a057275cba9d6f363a1526d8bf#OSW426037dcdc9a53ce9412d341d3bd0dbf",
+            "name": "per_milli_gram",
+            "symbol": "/mg"
         }
     ],
     "quantity_property": "Property:HasReciprocalMassValue"

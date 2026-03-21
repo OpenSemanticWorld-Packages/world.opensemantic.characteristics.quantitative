@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "0f23b91f-a360-5c65-a1e0-02e9a2fa0f10",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/BloodGlucoseLevel"
     ],
+    "uuid": "0f23b91f-a360-5c65-a1e0-02e9a2fa0f10",
     "name": "BloodGlucoseLevel",
     "label": [
         {
@@ -32,6 +32,36 @@
             "osw_id": "Item:OSW58a109c7b24256769e6f6716407aff58#OSW42ad2b521cac599c9a5f08e3edd7d88a",
             "name": "milli_mole_per_liter",
             "symbol": "mmol/L"
+        },
+        {
+            "osw_id": "Item:OSW6c417325ca155276b312fd6393406a04",
+            "name": "femto_mole_per_liter",
+            "symbol": "fmol/L"
+        },
+        {
+            "osw_id": "Item:OSW37d2d772a3135db595349578327b5ac8",
+            "name": "pico_mole_per_liter",
+            "symbol": "pmol/L"
+        },
+        {
+            "osw_id": "Item:OSW040f32fcf76d545aa5d4c002e316f98b",
+            "name": "nano_mole_per_liter",
+            "symbol": "nmol/L"
+        },
+        {
+            "osw_id": "Item:OSW5367e00a40605a74b878ae9d2962dcee",
+            "name": "micro_mole_per_liter",
+            "symbol": "μmol/L"
+        },
+        {
+            "osw_id": "Item:OSW33e8faadc379559c9b0e8b5466b51b78",
+            "name": "centi_mole_per_liter",
+            "symbol": "cmol/L"
+        },
+        {
+            "osw_id": "Item:OSW58a109c7b24256769e6f6716407aff58",
+            "name": "mole_per_liter",
+            "symbol": "mol/L"
         }
     ],
     "quantity_property": "Property:HasBloodGlucoseLevelValue"

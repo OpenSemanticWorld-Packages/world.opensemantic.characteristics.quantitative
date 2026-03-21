@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "7cf1f307-6962-552c-be80-28e61a15af53",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/HelmholtzEnergy"
     ],
+    "uuid": "7cf1f307-6962-552c-be80-28e61a15af53",
     "name": "HelmholtzEnergy",
     "label": [
         {

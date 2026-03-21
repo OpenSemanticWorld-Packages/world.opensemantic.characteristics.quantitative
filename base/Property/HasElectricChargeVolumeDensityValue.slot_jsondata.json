@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "0dca57b1-fb0c-5177-a3b9-2c7dd27a9c36",
     "name": "HasElectricChargeVolumeDensityValue",
     "label": [
@@ -14,15 +17,31 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "fe46acaf-f783-5e8e-9c92-4b419a11ec53",
         "name": "C/m³",
-        "main_symbol": "C/m³"
+        "main_symbol": "C/m³",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
+        {
+            "uuid": "95e81432-0e4a-5ac5-84af-7d08a90eb03d",
+            "name": "C/mm³",
+            "main_symbol": "C/mm³",
+            "conversion_factor_to_main_unit": "1e-09"
+        },
+        {
+            "uuid": "4edf491f-82b5-583c-b851-19f5a33929d5",
+            "name": "GC/m³",
+            "main_symbol": "GC/m³",
+            "conversion_factor_to_main_unit": "1e-09"
+        },
+        {
+            "uuid": "70f32378-81c4-5acb-8121-85d0a9b47739",
+            "name": "C/cm³",
+            "main_symbol": "C/cm³",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
         {
             "uuid": "f5fb58d5-5ec8-5b3a-9caf-44554137e75f",
             "name": "MC/m³",
@@ -36,12 +55,6 @@
             "conversion_factor_to_main_unit": "0.001"
         },
         {
-            "uuid": "95e81432-0e4a-5ac5-84af-7d08a90eb03d",
-            "name": "C/mm³",
-            "main_symbol": "C/mm³",
-            "conversion_factor_to_main_unit": "0.0"
-        },
-        {
             "uuid": "ae13c95e-12df-5206-b976-8a4c68d4c0bb",
             "name": "mC/m³",
             "main_symbol": "mC/m³",
@@ -52,18 +65,6 @@
             "name": "μC/m³",
             "main_symbol": "μC/m³",
             "conversion_factor_to_main_unit": "1000000.0"
-        },
-        {
-            "uuid": "4edf491f-82b5-583c-b851-19f5a33929d5",
-            "name": "GC/m³",
-            "main_symbol": "GC/m³",
-            "conversion_factor_to_main_unit": "0.0"
-        },
-        {
-            "uuid": "70f32378-81c4-5acb-8121-85d0a9b47739",
-            "name": "C/cm³",
-            "main_symbol": "C/cm³",
-            "conversion_factor_to_main_unit": "1e-06"
         }
     ]
 }

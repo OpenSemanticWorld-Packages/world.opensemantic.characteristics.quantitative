@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "uuid": "dd344e56-35d8-59d8-8fcf-c53cfa9b39aa",
+    "name": "HasVapourPermeabilityValue",
+    "label": [
+        {
+            "text": "Vapour Permeability",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The moisture transmission rate of a material is referred to as its \"permeability\".",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "main_unit": {
+        "uuid": "09fd8dbc-11ae-5e53-841a-90ec3c9719c5",
+        "name": "kg/(Pa·s·m)",
+        "main_symbol": "kg/(Pa·s·m)",
+        "conversion_factor_to_main_unit": "1.0"
+    }
+}

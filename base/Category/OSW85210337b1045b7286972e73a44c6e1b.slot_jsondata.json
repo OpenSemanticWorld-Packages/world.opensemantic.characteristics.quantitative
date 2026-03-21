@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "85210337-b104-5b72-8697-2e73a44c6e1b",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/TemporalSummationFunction"
     ],
+    "uuid": "85210337-b104-5b72-8697-2e73a44c6e1b",
     "name": "TemporalSummationFunction",
     "label": [
         {
@@ -31,7 +31,7 @@
         {
             "osw_id": "Item:OSWaf6c62c0856f5ac288ac862f5344f227",
             "name": "per_second_per_steradian",
-            "symbol": "1/(s·sr)"
+            "symbol": "/(s·sr)"
         }
     ],
     "quantity_property": "Property:HasTemporalSummationFunctionValue"

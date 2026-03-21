@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "6bbe0ce5-74cc-56d0-8a60-5c6011d82e6c",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/NeutronNumber"
     ],
+    "uuid": "6bbe0ce5-74cc-56d0-8a60-5c6011d82e6c",
     "name": "NeutronNumber",
     "label": [
         {

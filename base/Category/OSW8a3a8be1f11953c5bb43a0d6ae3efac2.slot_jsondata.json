@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "8a3a8be1-f119-53c5-bb43-a0d6ae3efac2",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/SoilAdsorptionCoefficient"
     ],
+    "uuid": "8a3a8be1-f119-53c5-bb43-a0d6ae3efac2",
     "name": "SoilAdsorptionCoefficient",
     "label": [
         {

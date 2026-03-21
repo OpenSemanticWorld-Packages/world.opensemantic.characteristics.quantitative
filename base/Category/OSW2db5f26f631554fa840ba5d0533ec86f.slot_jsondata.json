@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "2db5f26f-6315-54fa-840b-a5d0533ec86f",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/LiftCoefficient"
     ],
+    "uuid": "2db5f26f-6315-54fa-840b-a5d0533ec86f",
     "name": "LiftCoefficient",
     "label": [
         {

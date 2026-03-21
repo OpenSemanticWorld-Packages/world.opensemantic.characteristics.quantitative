@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "577e79a6-dcff-5f1e-a297-ca5c75e2a4a6",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/EccentricityOfOrbit"
     ],
+    "uuid": "577e79a6-dcff-5f1e-a297-ca5c75e2a4a6",
     "name": "EccentricityOfOrbit",
     "label": [
         {

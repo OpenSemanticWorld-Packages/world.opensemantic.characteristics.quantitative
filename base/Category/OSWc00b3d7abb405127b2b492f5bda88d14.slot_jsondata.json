@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "c00b3d7a-bb40-5127-b2b4-92f5bda88d14",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/SpecificAcousticImpedance"
     ],
+    "uuid": "c00b3d7a-bb40-5127-b2b4-92f5bda88d14",
     "name": "SpecificAcousticImpedance",
     "label": [
         {
@@ -26,6 +26,11 @@
             "osw_id": "Item:OSW4ba64f5b6daa583389742dfca1776afe",
             "name": "newton_second_per_meter_cubed",
             "symbol": "N·s/m³"
+        },
+        {
+            "osw_id": "Item:OSWebfdb321c4215ee6b0e498a101b191c9",
+            "name": "kilo_gram_per_meter_squared_per_second",
+            "symbol": "kg/(m²·s)"
         }
     ],
     "quantity_property": "Property:HasSpecificAcousticImpedanceValue"

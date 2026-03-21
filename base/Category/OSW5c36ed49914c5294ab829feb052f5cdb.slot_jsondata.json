@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "5c36ed49-914c-5294-ab82-9feb052f5cdb",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/OrbitalAngularMomentumQuantumNumber"
     ],
+    "uuid": "5c36ed49-914c-5294-ab82-9feb052f5cdb",
     "name": "OrbitalAngularMomentumQuantumNumber",
     "label": [
         {

@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "4a0860ff-03e6-5af1-9b7c-64e3b837fc81",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/MassFlowRate",
-        "http://dbpedia.org/resource/Mass_flow_rate"
+        "http://dbpedia.org/resource/Mass_flow_rate",
+        "http://qudt.org/vocab/quantitykind/MassFlowRate"
     ],
+    "uuid": "4a0860ff-03e6-5af1-9b7c-64e3b837fc81",
     "name": "MassFlowRate",
     "label": [
         {
@@ -27,12 +27,112 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW1cb3c982b37b598f8343861962fb5026",
-    "default_unit": "Item:OSWf6bfa826fcea5795b76c5756f7ec78fb#OSWfe7b5227d12757e789055c9fd32d15e4",
+    "default_unit": "Item:OSWfe7b5227d12757e789055c9fd32d15e4",
     "unit_enumeration": [
         {
-            "osw_id": "Item:OSWf6bfa826fcea5795b76c5756f7ec78fb#OSWfe7b5227d12757e789055c9fd32d15e4",
+            "osw_id": "Item:OSWfe7b5227d12757e789055c9fd32d15e4",
             "name": "kilo_gram_per_second",
             "symbol": "kg/s"
+        },
+        {
+            "osw_id": "Item:OSW09596198c0d757358dba075062495dd1#OSWb952071c62fb51ed91cee87301a5266a",
+            "name": "nano_gram_per_day",
+            "symbol": "ng/d"
+        },
+        {
+            "osw_id": "Item:OSW5b7b73152833524ea13c5a7fd74fe998",
+            "name": "milli_gram_per_day",
+            "symbol": "mg/d"
+        },
+        {
+            "osw_id": "Item:OSW7bc2ff12a16455b3921e012268eede5d#OSW0495cb740afb5527ad1532b7b4bec0e2",
+            "name": "milli_gram_per_hour",
+            "symbol": "mg/h"
+        },
+        {
+            "osw_id": "Item:OSW09596198c0d757358dba075062495dd1",
+            "name": "gram_per_day",
+            "symbol": "g/d"
+        },
+        {
+            "osw_id": "Item:OSWe679b9663f575f409d1b5285f46183eb#OSWf560acf39498593cbf7447bfb7f2de24",
+            "name": "milli_gram_per_minute",
+            "symbol": "mg/min"
+        },
+        {
+            "osw_id": "Item:OSW4ece1fb1eec9514db192a479fb617b8a",
+            "name": "kilo_gram_per_year",
+            "symbol": "kg/a"
+        },
+        {
+            "osw_id": "Item:OSW7bc2ff12a16455b3921e012268eede5d",
+            "name": "gram_per_hour",
+            "symbol": "g/h"
+        },
+        {
+            "osw_id": "Item:OSWbdc0ed1395245ea6ab4e216073c79697",
+            "name": "milli_gram_per_second",
+            "symbol": "mg/s"
+        },
+        {
+            "osw_id": "Item:OSW09596198c0d757358dba075062495dd1#OSWfe7f05b088c55addb7a97e911f007616",
+            "name": "kilo_gram_per_day",
+            "symbol": "kg/d"
+        },
+        {
+            "osw_id": "Item:OSWe679b9663f575f409d1b5285f46183eb",
+            "name": "gram_per_minute",
+            "symbol": "g/min"
+        },
+        {
+            "osw_id": "Item:OSW6db7b397b40459e6a976f9f77c568089",
+            "name": "metric_ton_per_year",
+            "symbol": "t/a"
+        },
+        {
+            "osw_id": "Item:OSW7bc2ff12a16455b3921e012268eede5d#OSW413aa7e88ce653968b0587f53d191c08",
+            "name": "kilo_gram_per_hour",
+            "symbol": "kg/h"
+        },
+        {
+            "osw_id": "Item:OSWf6bfa826fcea5795b76c5756f7ec78fb",
+            "name": "gram_per_second",
+            "symbol": "g/s"
+        },
+        {
+            "osw_id": "Item:OSWdca2b4ec25b6599786cd88de8e1b220f",
+            "name": "metric_ton_per_day",
+            "symbol": "t/d"
+        },
+        {
+            "osw_id": "Item:OSWe679b9663f575f409d1b5285f46183eb#OSWf21d489442ee596396758812a0446f87",
+            "name": "kilo_gram_per_minute",
+            "symbol": "kg/min"
+        },
+        {
+            "osw_id": "Item:OSWca073491ff03557f94054c2212cb8275",
+            "name": "knot_per_year",
+            "symbol": "kt/a"
+        },
+        {
+            "osw_id": "Item:OSW6d650c88d8c75bee874e7d612c5baf8e",
+            "name": "metric_ton_per_hour",
+            "symbol": "t/h"
+        },
+        {
+            "osw_id": "Item:OSW19835c2f0ed35921a39798e1da0ef04d",
+            "name": "metric_ton_per_minute",
+            "symbol": "t/min"
+        },
+        {
+            "osw_id": "Item:OSWd3f15570893355cd8d56d0f7b5cc31a5",
+            "name": "mega_metric_ton_per_year",
+            "symbol": "Mt/a"
+        },
+        {
+            "osw_id": "Item:OSWdca432507fd5502ca9e38e09f7e6ef6e",
+            "name": "metric_ton_per_second",
+            "symbol": "t/s"
         }
     ],
     "quantity_property": "Property:HasMassFlowRateValue"

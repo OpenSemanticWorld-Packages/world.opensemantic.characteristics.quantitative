@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "6ea9da91-7989-54da-a6d0-059bfba4ddbe",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/NozzleThroatPressure"
     ],
+    "uuid": "6ea9da91-7989-54da-a6d0-059bfba4ddbe",
     "name": "NozzleThroatPressure",
     "label": [
         {

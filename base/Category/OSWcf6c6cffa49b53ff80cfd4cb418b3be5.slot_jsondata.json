@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "cf6c6cff-a49b-53ff-80cf-d4cb418b3be5",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/FundamentalLatticeVector"
     ],
+    "uuid": "cf6c6cff-a49b-53ff-80cf-d4cb418b3be5",
     "name": "FundamentalLatticeVector",
     "label": [
         {

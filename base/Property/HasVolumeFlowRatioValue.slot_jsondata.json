@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
     "uuid": "d4db7def-0035-5fbf-bf1d-62c1b31a6d09",
     "name": "HasVolumeFlowRatioValue",
     "label": [
@@ -15,8 +18,5 @@
     ],
     "property_type": "Quantity",
     "subproperty_of": "Property:HasDimensionlessRatioValue",
-    "type": [
-        "Category:OSW69f251a900944602a08d1cca830249b5"
-    ],
-    "base_property": "Property:HasDimensionlessValue"
+    "base_property": "Property:HasDimensionlessRatioValue"
 }

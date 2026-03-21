@@ -1,0 +1,20 @@
+{
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "uuid": "c72188d4-5e76-5682-872b-1c9714405562",
+    "name": "HasSquareTimeValue",
+    "label": [
+        {
+            "text": "Square Time",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "main_unit": {
+        "uuid": "571d519a-ea28-5c8a-89cc-0f9a9a1f1f46",
+        "name": "s²",
+        "main_symbol": "s²",
+        "conversion_factor_to_main_unit": "1.0"
+    }
+}

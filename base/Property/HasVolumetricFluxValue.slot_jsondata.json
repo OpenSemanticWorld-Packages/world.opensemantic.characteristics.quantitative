@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "a31637e9-09cf-52b0-a959-f41400f4ffa3",
     "name": "HasVolumetricFluxValue",
     "label": [
@@ -14,12 +17,18 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "62f4ae36-72bf-5056-ad51-cef3c76a485e",
         "name": "mL/(cm²·min)",
-        "main_symbol": "mL/(cm²·min)"
-    }
+        "main_symbol": "mL/(cm²·min)",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "8c12d278-7cca-5b97-a1f3-841afd71f3f1",
+            "name": "mL/(cm²·s)",
+            "main_symbol": "mL/(cm²·s)",
+            "conversion_factor_to_main_unit": "0.016666666666666666"
+        }
+    ]
 }

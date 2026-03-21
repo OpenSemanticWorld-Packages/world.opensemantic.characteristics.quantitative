@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "4c3c3d6b-abf8-5eb9-9c2c-5fe376323c7c",
     "name": "HasWarpingConstantValue",
     "label": [
@@ -14,13 +17,11 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "742f787d-f26c-5fe3-b70f-f9bf63cda951",
         "name": "m⁶",
-        "main_symbol": "m⁶"
+        "main_symbol": "m⁶",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
         {

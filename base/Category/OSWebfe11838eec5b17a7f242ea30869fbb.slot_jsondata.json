@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "ebfe1183-8eec-5b17-a7f2-42ea30869fbb",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/LengthEnergy"
     ],
+    "uuid": "ebfe1183-8eec-5b17-a7f2-42ea30869fbb",
     "name": "LengthEnergy",
     "label": [
         {

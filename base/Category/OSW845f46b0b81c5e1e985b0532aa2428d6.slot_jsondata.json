@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "845f46b0-b81c-5e1e-985b-0532aa2428d6",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MassExcess"
     ],
+    "uuid": "845f46b0-b81c-5e1e-985b-0532aa2428d6",
     "name": "MassExcess",
     "label": [
         {

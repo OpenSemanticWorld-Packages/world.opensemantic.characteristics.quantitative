@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "0ddf63f6-9e72-5cb6-9e0e-5e0deca608b2",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/DutyCycle"
     ],
+    "uuid": "0ddf63f6-9e72-5cb6-9e0e-5e0deca608b2",
     "name": "DutyCycle",
     "label": [
         {

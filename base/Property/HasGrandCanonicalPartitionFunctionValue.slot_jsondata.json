@@ -1,0 +1,22 @@
+{
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "uuid": "52755b80-1670-5949-b198-2294af63948d",
+    "name": "HasGrandCanonicalPartitionFunctionValue",
+    "label": [
+        {
+            "text": "Grand Canonical Partition Function",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "An \"Grand Canonical Partition Function\" for a grand canonical ensemble, a system that can exchange both heat and particles with the environment, which has a constant temperature and a chemical potential.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasCanonicalPartitionFunctionValue",
+    "base_property": "Property:HasCanonicalPartitionFunctionValue"
+}

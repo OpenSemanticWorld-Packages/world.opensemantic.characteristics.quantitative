@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "e5068aa8-fec2-52a2-803f-5ecf06a90cbb",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/WebTimeAverageThrust"
     ],
+    "uuid": "e5068aa8-fec2-52a2-803f-5ecf06a90cbb",
     "name": "WebTimeAverageThrust",
     "label": [
         {

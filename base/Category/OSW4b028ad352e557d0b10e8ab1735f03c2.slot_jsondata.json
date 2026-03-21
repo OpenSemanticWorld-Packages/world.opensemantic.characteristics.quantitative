@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "4b028ad3-52e5-57d0-b10e-8ab1735f03c2",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MagneticReluctivity"
     ],
+    "uuid": "4b028ad3-52e5-57d0-b10e-8ab1735f03c2",
     "name": "MagneticReluctivity",
     "label": [
         {
@@ -31,7 +31,7 @@
         {
             "osw_id": "Item:OSWdedbe50d76c75dc2a87b1000faa99b10",
             "name": "per_meter_per_tesla",
-            "symbol": "1/(T·m)"
+            "symbol": "/(T·m)"
         }
     ],
     "quantity_property": "Property:HasMagneticReluctivityValue"

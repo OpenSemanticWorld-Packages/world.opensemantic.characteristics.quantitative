@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "884b9506-5e35-5545-b9ad-5d495e65a1ea",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/SystolicBloodPressure"
     ],
+    "uuid": "884b9506-5e35-5545-b9ad-5d495e65a1ea",
     "name": "SystolicBloodPressure",
     "label": [
         {

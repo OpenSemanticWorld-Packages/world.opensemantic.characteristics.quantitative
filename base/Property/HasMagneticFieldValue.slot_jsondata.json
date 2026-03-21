@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "81107070-14ce-5811-95a7-aac8ddd9c88b",
     "name": "HasMagneticFieldValue",
     "label": [
@@ -14,15 +17,19 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "fcd9b500-c4e2-57a3-a301-60e38a288b03",
         "name": "T",
-        "main_symbol": "T"
+        "main_symbol": "T",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
+        {
+            "uuid": "fda4a2db-64ac-5ba4-8fc5-478551b3dd8d",
+            "name": "kT",
+            "main_symbol": "kT",
+            "conversion_factor_to_main_unit": "0.001"
+        },
         {
             "uuid": "38759f87-2c3a-532f-87d4-b15615386a84",
             "name": "mT",
@@ -31,15 +38,15 @@
         },
         {
             "uuid": "b704047e-973c-594b-9e54-95d97e44d3df",
-            "name": "µT",
-            "main_symbol": "µT",
+            "name": "μT",
+            "main_symbol": "μT",
             "conversion_factor_to_main_unit": "1000000.0"
         },
         {
             "uuid": "9b914c95-aeda-59e8-87b7-8134a09896fa",
             "name": "nT",
             "main_symbol": "nT",
-            "conversion_factor_to_main_unit": "1000000000.0"
+            "conversion_factor_to_main_unit": "999999999.9999999"
         }
     ]
 }

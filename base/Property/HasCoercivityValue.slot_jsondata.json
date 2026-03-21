@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "c4940db8-2189-5570-b477-74515f90c28b",
     "name": "HasCoercivityValue",
     "label": [
@@ -14,13 +17,11 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "6fa236e9-a68a-5860-ad1b-78e4661cd868",
         "name": "A/m",
-        "main_symbol": "A/m"
+        "main_symbol": "A/m",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
         {

@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
     "uuid": "60bed351-9ada-5f14-a4d7-4e80a07a131e",
     "name": "HasAngularAccelerationValue",
     "label": [
@@ -19,8 +22,5 @@
     ],
     "property_type": "Quantity",
     "subproperty_of": "Property:HasInverseSquareTimeValue",
-    "type": [
-        "Category:OSW69f251a900944602a08d1cca830249b5"
-    ],
     "base_property": "Property:HasInverseSquareTimeValue"
 }

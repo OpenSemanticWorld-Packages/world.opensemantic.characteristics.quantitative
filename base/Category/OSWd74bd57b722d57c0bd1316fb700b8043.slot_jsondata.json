@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "d74bd57b-722d-57c0-bd13-16fb700b8043",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Acidity"
     ],
+    "uuid": "d74bd57b-722d-57c0-bd13-16fb700b8043",
     "name": "Acidity",
     "label": [
         {
@@ -30,7 +30,7 @@
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW50e9172c55045cb3b1460b1345303ed2",
-            "name": "pico_henry",
+            "name": "pH_value",
             "symbol": "pH"
         }
     ],

@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "c1bdd6bc-fc95-5882-ba1d-068110ae41cc",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/Height",
-        "http://dbpedia.org/resource/Height"
+        "http://dbpedia.org/resource/Height",
+        "http://qudt.org/vocab/quantitykind/Height"
     ],
+    "uuid": "c1bdd6bc-fc95-5882-ba1d-068110ae41cc",
     "name": "Height",
     "label": [
         {

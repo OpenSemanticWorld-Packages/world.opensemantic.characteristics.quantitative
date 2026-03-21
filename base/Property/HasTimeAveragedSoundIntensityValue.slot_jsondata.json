@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
     "uuid": "190d4e90-713a-5d1c-a1e5-ce2a2f685551",
     "name": "HasTimeAveragedSoundIntensityValue",
     "label": [
@@ -15,8 +18,5 @@
     ],
     "property_type": "Quantity",
     "subproperty_of": "Property:HasSoundIntensityValue",
-    "type": [
-        "Category:OSW69f251a900944602a08d1cca830249b5"
-    ],
-    "base_property": "Property:HasPowerPerAreaValue"
+    "base_property": "Property:HasSoundIntensityValue"
 }

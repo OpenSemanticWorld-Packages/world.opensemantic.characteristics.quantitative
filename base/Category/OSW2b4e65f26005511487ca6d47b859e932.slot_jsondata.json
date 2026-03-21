@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "2b4e65f2-6005-5114-87ca-6d47b859e932",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/SignalStrength",
-        "http://dbpedia.org/resource/Signal_strength"
+        "http://dbpedia.org/resource/Signal_strength",
+        "http://qudt.org/vocab/quantitykind/SignalStrength"
     ],
+    "uuid": "2b4e65f2-6005-5114-87ca-6d47b859e932",
     "name": "SignalStrength",
     "label": [
         {
@@ -21,7 +21,7 @@
         }
     ],
     "subclass_of": [
-        "Category:OSWc66c35bcf6bd5b08a2e9763d78a082cb"
+        "Category:OSW4f0b3f4a40ad5ffbb492a000abe2b30d"
     ],
     "quantity_property": "Property:HasSignalStrengthValue"
 }

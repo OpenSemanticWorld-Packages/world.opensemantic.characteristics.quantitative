@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "c579ba41-d140-59ce-8527-252f610fd8bf",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/AreaPerLength"
     ],
+    "uuid": "c579ba41-d140-59ce-8527-252f610fd8bf",
     "name": "AreaPerLength",
     "label": [
         {

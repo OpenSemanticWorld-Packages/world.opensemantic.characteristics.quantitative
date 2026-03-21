@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "54513644-9011-55ce-82c3-161b8ce76cf1",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MOMENT-OF-INERTIA_Y"
     ],
+    "uuid": "54513644-9011-55ce-82c3-161b8ce76cf1",
     "name": "MomentOfInertiaInTheYAxis",
     "label": [
         {

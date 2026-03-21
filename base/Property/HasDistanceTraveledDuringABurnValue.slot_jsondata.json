@@ -1,0 +1,16 @@
+{
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "uuid": "250252d1-b2de-559f-b8f8-d5312e00ee73",
+    "name": "HasDistanceTraveledDuringABurnValue",
+    "label": [
+        {
+            "text": "Distance Traveled During a Burn",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDistanceValue",
+    "base_property": "Property:HasDistanceValue"
+}

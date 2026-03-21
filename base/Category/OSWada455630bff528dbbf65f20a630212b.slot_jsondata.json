@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "ada45563-0bff-528d-bbf6-5f20a630212b",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/AreaAngle"
     ],
+    "uuid": "ada45563-0bff-528d-bbf6-5f20a630212b",
     "name": "AreaAngle",
     "label": [
         {

@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "11d1e28e-ce21-52e3-868f-438d4eb40a11",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/FailureRate"
     ],
+    "uuid": "11d1e28e-ce21-52e3-868f-438d4eb40a11",
     "name": "FailureRate",
     "label": [
         {

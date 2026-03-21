@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "a37f1067-68d4-575a-bdb5-67b17d904d2d",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/DensityOfStates"
     ],
+    "uuid": "a37f1067-68d4-575a-bdb5-67b17d904d2d",
     "name": "DensityOfStates",
     "label": [
         {

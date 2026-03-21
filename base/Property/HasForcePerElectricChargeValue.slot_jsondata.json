@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "bb91ff9b-e4ee-5be5-8fee-b919a680de9b",
     "name": "HasForcePerElectricChargeValue",
     "label": [
@@ -14,12 +17,10 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "3b4fe4a0-947d-5397-a12c-225683ac5812",
         "name": "N/C",
-        "main_symbol": "N/C"
+        "main_symbol": "N/C",
+        "conversion_factor_to_main_unit": "1.0"
     }
 }

@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Constringence"
+    ],
+    "uuid": "7e1a8df5-32dd-5a2e-b03e-057cba16fe45",
+    "name": "Constringence",
+    "label": [
+        {
+            "text": "Constringence",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In optics and lens design, constringence of a transparent material, also known as the Abbe number or the V-number, is an approximate measure of the material's dispersion (change of refractive index versus wavelength), with high values of V indicating low dispersion.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW67faac860ed758758aa4484387e5d5c9"
+    ],
+    "quantity_property": "Property:HasConstringenceValue"
+}

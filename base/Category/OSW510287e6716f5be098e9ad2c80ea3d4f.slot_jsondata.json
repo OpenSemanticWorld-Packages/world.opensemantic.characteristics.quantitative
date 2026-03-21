@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "510287e6-716f-5be0-98e9-ad2c80ea3d4f",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/IonizationEnergy"
     ],
+    "uuid": "510287e6-716f-5be0-98e9-ad2c80ea3d4f",
     "name": "IonizationEnergy",
     "label": [
         {

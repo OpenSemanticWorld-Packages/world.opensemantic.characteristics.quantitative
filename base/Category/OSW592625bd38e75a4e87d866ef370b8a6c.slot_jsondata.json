@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "592625bd-38e7-5a4e-87d8-66ef370b8a6c",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/SpecificPower"
     ],
+    "uuid": "592625bd-38e7-5a4e-87d8-66ef370b8a6c",
     "name": "SpecificPower",
     "label": [
         {
@@ -32,6 +32,41 @@
             "osw_id": "Item:OSW4cbc32faa6945fea85c32ee675aff008",
             "name": "gray_per_second",
             "symbol": "Gy/s"
+        },
+        {
+            "osw_id": "Item:OSW8a9814ddf5a250588e9853662328c977",
+            "name": "micro_sievert_per_hour",
+            "symbol": "μSv/h"
+        },
+        {
+            "osw_id": "Item:OSW4cbc32faa6945fea85c32ee675aff008#OSWdcecfcf608a85007bcd92a4bd2ffe300",
+            "name": "nano_gray_per_second",
+            "symbol": "nGy/s"
+        },
+        {
+            "osw_id": "Item:OSW4cbc32faa6945fea85c32ee675aff008#OSW6088cd1a185e5d31b1d729ad0a92fb6f",
+            "name": "micro_gray_per_second",
+            "symbol": "μGy/s"
+        },
+        {
+            "osw_id": "Item:OSW4cbc32faa6945fea85c32ee675aff008#OSW86223c99c5b9526286e5d678a64433c9",
+            "name": "milli_gray_per_second",
+            "symbol": "mGy/s"
+        },
+        {
+            "osw_id": "Item:OSW6a06afffec325f169a34e47ab7c414fe",
+            "name": "watt_per_kilo_gram",
+            "symbol": "W/kg"
+        },
+        {
+            "osw_id": "Item:OSW25f89269045e5f93a7a200ab8687615f",
+            "name": "watt_per_gram",
+            "symbol": "W/g"
+        },
+        {
+            "osw_id": "Item:OSW7207ca2b074d5f1b9ef3972f52ea670f",
+            "name": "milli_watt_per_milli_gram",
+            "symbol": "mW/mg"
         }
     ],
     "quantity_property": "Property:HasSpecificPowerValue"

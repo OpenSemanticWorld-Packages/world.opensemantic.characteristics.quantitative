@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
     "uuid": "934d8df8-3469-55ac-9f28-d19e4a45bd3e",
     "name": "HasSolidAngleValue",
     "label": [
@@ -19,8 +22,5 @@
     ],
     "property_type": "Quantity",
     "subproperty_of": "Property:HasAreaRatioValue",
-    "type": [
-        "Category:OSW69f251a900944602a08d1cca830249b5"
-    ],
-    "base_property": "Property:HasDimensionlessValue"
+    "base_property": "Property:HasAreaRatioValue"
 }

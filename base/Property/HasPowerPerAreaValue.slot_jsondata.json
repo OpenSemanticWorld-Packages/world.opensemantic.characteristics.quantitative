@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "aae4f4d2-598f-5263-a0a7-c0e6ec45a260",
     "name": "HasPowerPerAreaValue",
     "label": [
@@ -8,13 +11,11 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "a76f9003-50f7-5c6b-add7-a7596fa9407d",
         "name": "W/m²",
-        "main_symbol": "W/m²"
+        "main_symbol": "W/m²",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
         {
@@ -24,10 +25,22 @@
             "conversion_factor_to_main_unit": "0.0001"
         },
         {
-            "uuid": "62b0d64c-7d78-5584-ad38-6a8a4c367aaf",
-            "name": "pW/m²",
-            "main_symbol": "pW/m²",
-            "conversion_factor_to_main_unit": "1000000000000.0"
+            "uuid": "0a2acd50-47e7-5e53-926d-130bfb7950d9",
+            "name": "kW/m²",
+            "main_symbol": "kW/m²",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "327c4c43-ed73-532b-80a1-85193e560a7e",
+            "name": "MJ/(m²·d)",
+            "main_symbol": "MJ/(m²·d)",
+            "conversion_factor_to_main_unit": "0.08639999999999999"
+        },
+        {
+            "uuid": "5f113fa8-a6a7-51f4-a65e-989c62bad53f",
+            "name": "J/(cm²·d)",
+            "main_symbol": "J/(cm²·d)",
+            "conversion_factor_to_main_unit": "8.64"
         },
         {
             "uuid": "dfa246da-bd56-5fab-845e-cb910eba8400",
@@ -37,9 +50,21 @@
         },
         {
             "uuid": "dff7b752-4f45-5f6e-84f5-f8b5d345b2af",
-            "name": "µW/m²",
-            "main_symbol": "µW/m²",
+            "name": "μW/m²",
+            "main_symbol": "μW/m²",
             "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "454dccb8-a2a3-5908-832d-b591fc196447",
+            "name": "nW/m²",
+            "main_symbol": "nW/m²",
+            "conversion_factor_to_main_unit": "999999999.9999999"
+        },
+        {
+            "uuid": "62b0d64c-7d78-5584-ad38-6a8a4c367aaf",
+            "name": "pW/m²",
+            "main_symbol": "pW/m²",
+            "conversion_factor_to_main_unit": "1000000000000.0"
         }
     ]
 }

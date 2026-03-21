@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "f27c1fdb-1295-5ad2-b624-50acb52f702f",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/SpecificHeatPressure"
     ],
+    "uuid": "f27c1fdb-1295-5ad2-b624-50acb52f702f",
     "name": "SpecificHeatPressure",
     "label": [
         {
@@ -31,7 +31,7 @@
         {
             "osw_id": "Item:OSW85f51fc6962e5c5ea5e541ad1bdce849",
             "name": "joule_per_kelvin_per_kilo_gram_per_pascal",
-            "symbol": "J/(K·kg·Pa)"
+            "symbol": "J/(kg·K·Pa)"
         }
     ],
     "quantity_property": "Property:HasSpecificHeatPressureValue"

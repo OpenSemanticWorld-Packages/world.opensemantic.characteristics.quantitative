@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "close_ontology_match": [
+        "http://dbpedia.org/resource/Time_Squared",
+        "http://qudt.org/vocab/quantitykind/SquareTime"
+    ],
+    "uuid": "276d05cf-68e3-550d-ab71-84a47e560063",
+    "name": "SquareTime",
+    "label": [
+        {
+            "text": "Square Time",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWbeec27d45f6458378ff0434634133a08",
+    "default_unit": "Item:OSW00ec6531e2fb5ba8aee8cf8852860aed",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW00ec6531e2fb5ba8aee8cf8852860aed",
+            "name": "second_squared",
+            "symbol": "s²"
+        }
+    ],
+    "quantity_property": "Property:HasSquareTimeValue"
+}

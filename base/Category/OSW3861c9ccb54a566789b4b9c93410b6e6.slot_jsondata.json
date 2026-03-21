@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "3861c9cc-b54a-5667-89b4-b9c93410b6e6",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/LorenzCoefficient"
     ],
+    "uuid": "3861c9cc-b54a-5667-89b4-b9c93410b6e6",
     "name": "LorenzCoefficient",
     "label": [
         {

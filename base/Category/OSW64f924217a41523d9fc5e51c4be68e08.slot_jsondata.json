@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "64f92421-7a41-523d-9fc5-e51c4be68e08",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/SpecificSurfaceArea"
     ],
+    "uuid": "64f92421-7a41-523d-9fc5-e51c4be68e08",
     "name": "SpecificSurfaceArea",
     "label": [
         {
@@ -32,6 +32,16 @@
             "osw_id": "Item:OSWd7015166d39d5cae866a40eac3d51896#OSWc811db362efa5d33a49b56ffdd77e54d",
             "name": "meter_squared_per_kilo_gram",
             "symbol": "m²/kg"
+        },
+        {
+            "osw_id": "Item:OSWd7015166d39d5cae866a40eac3d51896#OSWd9d021d43da353fb8a4cefaf4498b39e",
+            "name": "centi_meter_squared_per_gram",
+            "symbol": "cm²/g"
+        },
+        {
+            "osw_id": "Item:OSWd7015166d39d5cae866a40eac3d51896",
+            "name": "meter_squared_per_gram",
+            "symbol": "m²/g"
         }
     ],
     "quantity_property": "Property:HasSpecificSurfaceAreaValue"

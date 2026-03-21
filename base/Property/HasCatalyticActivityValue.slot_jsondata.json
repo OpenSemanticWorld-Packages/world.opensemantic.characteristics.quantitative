@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "d4808d41-8c73-54a3-8e78-41f302950436",
     "name": "HasCatalyticActivityValue",
     "label": [
@@ -14,12 +17,48 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "028b8f19-c8dc-5495-be81-6a1ca9c5489a",
         "name": "kat",
-        "main_symbol": "kat"
-    }
+        "main_symbol": "kat",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "dcb19b2a-6490-5ca6-8b07-d0352eecdf6d",
+            "name": "kmol/h",
+            "main_symbol": "kmol/h",
+            "conversion_factor_to_main_unit": "3.5999999999999996"
+        },
+        {
+            "uuid": "619ca62a-0c3d-58fc-90e4-ab1f1dcd8b25",
+            "name": "mkat",
+            "main_symbol": "mkat",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "b22fa54c-ee7f-5dd5-b9d0-e512c1c6c0c4",
+            "name": "mol/h",
+            "main_symbol": "mol/h",
+            "conversion_factor_to_main_unit": "3600.0"
+        },
+        {
+            "uuid": "e54e5e76-9f9a-538c-b5c4-3ae938034fda",
+            "name": "μkat",
+            "main_symbol": "μkat",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "119571b0-79aa-5364-90f7-853b37909164",
+            "name": "nkat",
+            "main_symbol": "nkat",
+            "conversion_factor_to_main_unit": "999999999.9999999"
+        },
+        {
+            "uuid": "8241d284-b8e2-5c8e-ae2a-a75cfbf735dc",
+            "name": "pkat",
+            "main_symbol": "pkat",
+            "conversion_factor_to_main_unit": "1000000000000.0"
+        }
+    ]
 }

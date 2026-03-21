@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "50eb3918-2e34-5788-9925-e653d5a3bd03",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/LoudnessLevel"
     ],
+    "uuid": "50eb3918-2e34-5788-9925-e653d5a3bd03",
     "name": "LoudnessLevel",
     "label": [
         {

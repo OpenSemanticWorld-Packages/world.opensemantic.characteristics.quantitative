@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "c8acb208-c983-59d2-82bf-6f2a59af4e15",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MassicPower"
     ],
+    "uuid": "c8acb208-c983-59d2-82bf-6f2a59af4e15",
     "name": "MassicPower",
     "label": [
         {

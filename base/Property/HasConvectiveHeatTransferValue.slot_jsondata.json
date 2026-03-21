@@ -1,0 +1,22 @@
+{
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "uuid": "dc368b79-5ec8-57f8-8ed1-7433ec20895d",
+    "name": "HasConvectiveHeatTransferValue",
+    "label": [
+        {
+            "text": "Convective Heat Transfer",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Convective Heat Transfer\" is convective heat transfer coefficient multiplied by temperature difference and exchange area.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasHeatFlowRateValue",
+    "base_property": "Property:HasHeatFlowRateValue"
+}

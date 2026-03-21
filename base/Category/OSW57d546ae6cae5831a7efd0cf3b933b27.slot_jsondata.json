@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "57d546ae-6cae-5831-a7ef-d0cf3b933b27",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MassNumber"
     ],
+    "uuid": "57d546ae-6cae-5831-a7ef-d0cf3b933b27",
     "name": "MassNumber",
     "label": [
         {

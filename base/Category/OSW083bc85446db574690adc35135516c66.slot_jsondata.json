@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "083bc854-46db-5746-90ad-c35135516c66",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/AuxillaryMagneticField"
     ],
+    "uuid": "083bc854-46db-5746-90ad-c35135516c66",
     "name": "AuxillaryMagneticField",
     "label": [
         {
@@ -20,7 +20,7 @@
         }
     ],
     "subclass_of": [
-        "Category:OSW5066212adfda5519af307363bd1c5c79"
+        "Category:OSW129f1aed78505813a671e17140ddd9e3"
     ],
     "quantity_property": "Property:HasAuxillaryMagneticFieldValue"
 }

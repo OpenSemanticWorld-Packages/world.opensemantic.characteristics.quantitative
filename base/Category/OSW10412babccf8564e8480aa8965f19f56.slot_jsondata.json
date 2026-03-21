@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "10412bab-ccf8-564e-8480-aa8965f19f56",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/InitialVelocity"
     ],
+    "uuid": "10412bab-ccf8-564e-8480-aa8965f19f56",
     "name": "InitialVelocity",
     "label": [
         {

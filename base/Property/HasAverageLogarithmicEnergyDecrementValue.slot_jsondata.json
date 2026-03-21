@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "uuid": "cd18983e-3c70-5749-80a5-d237dcb2a9d7",
+    "name": "HasAverageLogarithmicEnergyDecrementValue",
+    "label": [
+        {
+            "text": "Average Logarithmic Energy Decrement",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Average Logarithmic Energy Decrement\" is a measure of the amount of energy a neutron loses upon colliding with various nuclei. It is the average value of the increase in lethargy in elastic collisions between neutrons and nuclei whose kinetic energy is negligible compared with that of the neutrons.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "main_unit": {
+        "uuid": "4411f5ca-371f-5a11-91c7-0ca80634c8f5",
+        "name": "一",
+        "main_symbol": "一",
+        "conversion_factor_to_main_unit": "1.0"
+    }
+}

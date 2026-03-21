@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "4e1cadc1-79b3-55b3-9ed4-0a4ea0c3ff5a",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/SpectralAngularCrossSection"
     ],
+    "uuid": "4e1cadc1-79b3-55b3-9ed4-0a4ea0c3ff5a",
     "name": "SpectralAngularCrossSection",
     "label": [
         {

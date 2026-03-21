@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "uuid": "d2b8e499-8082-5867-bdda-b72a1c27da22",
+    "name": "HasAbsorptanceValue",
+    "label": [
+        {
+            "text": "Absorptance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Absorptance is the ratio of the radiation absorbed by a surface to that incident upon it. Also known as absorbance.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "main_unit": {
+        "uuid": "4411f5ca-371f-5a11-91c7-0ca80634c8f5",
+        "name": "一",
+        "main_symbol": "一",
+        "conversion_factor_to_main_unit": "1.0"
+    }
+}

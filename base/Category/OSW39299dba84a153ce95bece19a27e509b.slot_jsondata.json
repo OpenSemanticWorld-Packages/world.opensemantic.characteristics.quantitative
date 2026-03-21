@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MolarEquivalent"
+    ],
+    "uuid": "39299dba-84a1-53ce-95be-ce19a27e509b",
+    "name": "MolarEquivalent",
+    "label": [
+        {
+            "text": "Molar Equivalent",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Molar Equivalent\" is the amount of a substance that reacts with (or is equivalent to) an arbitrary amount (typically one mole) of \nanother substance in a given chemical reaction.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW2f222621d774517193dc5eab674e3721"
+    ],
+    "quantity_property": "Property:HasMolarEquivalentValue"
+}

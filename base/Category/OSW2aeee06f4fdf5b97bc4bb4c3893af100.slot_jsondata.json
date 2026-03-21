@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "2aeee06f-4fdf-5b97-bc4b-b4c3893af100",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/SpecificModulus",
-        "http://dbpedia.org/resource/Specific_modulus"
+        "http://dbpedia.org/resource/Specific_modulus",
+        "http://qudt.org/vocab/quantitykind/SpecificModulus"
     ],
+    "uuid": "2aeee06f-4fdf-5b97-bc4b-b4c3893af100",
     "name": "SpecificModulus",
     "label": [
         {
@@ -35,7 +35,12 @@
             "symbol": "m²/s²"
         },
         {
-            "osw_id": "Item:OSWf6d6f2af61295484ab10221fe5922f97#OSWf19ea831be1053a9b70d6403acc15022",
+            "osw_id": "Item:OSWf3093f867b3e5a7e9955befd1748ff78",
+            "name": "centi_meter_cubed_giga_pascal_per_gram",
+            "symbol": "GPa·cm³/g"
+        },
+        {
+            "osw_id": "Item:OSWf19ea831be1053a9b70d6403acc15022",
             "name": "kilo_meter_squared_per_second_squared",
             "symbol": "km²/s²"
         }

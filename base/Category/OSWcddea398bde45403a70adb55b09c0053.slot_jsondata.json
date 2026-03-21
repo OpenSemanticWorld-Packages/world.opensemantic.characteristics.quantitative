@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "cddea398-bde4-5403-a70a-db55b09c0053",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/ElectricFlux",
-        "http://dbpedia.org/resource/Electric_flux"
+        "http://dbpedia.org/resource/Electric_flux",
+        "http://qudt.org/vocab/quantitykind/ElectricFlux"
     ],
+    "uuid": "cddea398-bde4-5403-a70a-db55b09c0053",
     "name": "ElectricFlux",
     "label": [
         {

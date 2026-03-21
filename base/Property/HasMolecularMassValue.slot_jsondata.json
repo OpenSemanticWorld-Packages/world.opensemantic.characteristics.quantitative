@@ -1,0 +1,22 @@
+{
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "uuid": "163fc668-ad98-5ccb-bd5d-014af0dad3ac",
+    "name": "HasMolecularMassValue",
+    "label": [
+        {
+            "text": "Molecular Mass",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The molecular mass, or molecular weight of a chemical compound is the mass of one molecule of that compound, relative to the unified atomic mass unit, u. Molecular mass should not be confused with molar mass, which is the mass of one mole of a substance.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasMassValue",
+    "base_property": "Property:HasMassValue"
+}

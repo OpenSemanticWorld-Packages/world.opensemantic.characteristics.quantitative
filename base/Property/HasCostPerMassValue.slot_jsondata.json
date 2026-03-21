@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "uuid": "70ca5f2b-eabb-5a2d-94a8-edefc3d64aae",
+    "name": "HasCostPerMassValue",
+    "label": [
+        {
+            "text": "Cost per mass",
+            "lang": "en"
+        },
+        {
+            "text": "Kosten pro Masse",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Represents the cost associated with a unit mass of a substance or material. It is typically used in economic and engineering contexts to evaluate the expense incurred per kilogram, gram, or other units of mass. This measure helps in comparing the economic efficiency of different materials or substances based on their mass.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "main_unit": {
+        "uuid": "12e4cd1b-3d24-5ab9-a41c-39d949af98e4",
+        "name": "CHF/kg",
+        "main_symbol": "CHF/kg",
+        "conversion_factor_to_main_unit": "1.0"
+    }
+}

@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "8bbfb552-acb8-5419-9f8c-ef7cf24ce319",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/SecondPolarMomentOfArea"
     ],
+    "uuid": "8bbfb552-acb8-5419-9f8c-ef7cf24ce319",
     "name": "SecondPolarMomentOfArea",
     "label": [
         {
@@ -30,17 +30,17 @@
     "unit_enumeration": [
         {
             "osw_id": "Item:OSWe4f01fe00389574e905718a14481ed36",
-            "name": "4",
+            "name": "meter_to_the_fourth",
             "symbol": "m⁴"
         },
         {
-            "osw_id": "Item:OSWe4f01fe00389574e905718a14481ed36#OSW568d0d17db6551c1993de3d51c6051cc",
-            "name": "4",
+            "osw_id": "Item:OSW568d0d17db6551c1993de3d51c6051cc",
+            "name": "milli_meter_to_the_fourth",
             "symbol": "mm⁴"
         },
         {
-            "osw_id": "Item:OSWe4f01fe00389574e905718a14481ed36#OSW73b630d93619585bbc7f4a3a4a3be104",
-            "name": "4",
+            "osw_id": "Item:OSW73b630d93619585bbc7f4a3a4a3be104",
+            "name": "centi_meter_to_the_fourth",
             "symbol": "cm⁴"
         }
     ],

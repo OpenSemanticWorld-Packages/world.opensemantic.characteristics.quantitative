@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "8c90f5f9-c23e-50fd-b640-6d6a819289cc",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/PolarizationField"
     ],
+    "uuid": "8c90f5f9-c23e-50fd-b640-6d6a819289cc",
     "name": "PolarizationField",
     "label": [
         {

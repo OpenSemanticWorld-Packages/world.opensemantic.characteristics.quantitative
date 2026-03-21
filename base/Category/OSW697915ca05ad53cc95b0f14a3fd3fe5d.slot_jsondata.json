@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "697915ca-05ad-53cc-95b0-f14a3fd3fe5d",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ChemicalAffinity"
     ],
+    "uuid": "697915ca-05ad-53cc-95b0-f14a3fd3fe5d",
     "name": "ChemicalAffinity",
     "label": [
         {

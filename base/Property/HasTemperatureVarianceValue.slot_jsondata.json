@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "uuid": "02caff62-2f13-5ca8-93da-70043ff5585f",
+    "name": "HasTemperatureVarianceValue",
+    "label": [
+        {
+            "text": "Temperature Variance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Variance for temperature data.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "main_unit": {
+        "uuid": "cadc819d-cc53-57e0-ba33-ae2d701c1297",
+        "name": "°C²",
+        "main_symbol": "°C²",
+        "conversion_factor_to_main_unit": "1.0"
+    }
+}

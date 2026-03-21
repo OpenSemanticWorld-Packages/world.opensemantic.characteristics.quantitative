@@ -2,12 +2,12 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "cd5084e9-8d8a-541e-b5d1-21ae983fad3d",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/LuminousIntensity",
         "http://dbpedia.org/resource/Luminous_intensity",
-        "https://si-digital-framework.org/SI/quantities/LUIN"
+        "http://qudt.org/vocab/quantitykind/LuminousIntensity",
+        "https://si-digital-framework.org/quantities/LUIN"
     ],
+    "uuid": "cd5084e9-8d8a-541e-b5d1-21ae983fad3d",
     "name": "LuminousIntensity",
     "label": [
         {
@@ -38,6 +38,16 @@
             "osw_id": "Item:OSWf04f81ce6d6a53b98630967e75958e53",
             "name": "candela",
             "symbol": "cd"
+        },
+        {
+            "osw_id": "Item:OSWf04f81ce6d6a53b98630967e75958e53#OSW303689572355510bbc89c9c3d26d164a",
+            "name": "millicandela",
+            "symbol": "mcd"
+        },
+        {
+            "osw_id": "Item:OSWf04f81ce6d6a53b98630967e75958e53#OSWaafc38bda34b53ec953b191d1935ce8d",
+            "name": "kilo_candela",
+            "symbol": "kcd"
         }
     ],
     "quantity_property": "Property:HasLuminousIntensityValue"

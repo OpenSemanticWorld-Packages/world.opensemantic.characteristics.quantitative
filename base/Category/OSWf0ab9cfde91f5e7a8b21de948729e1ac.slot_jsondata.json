@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "f0ab9cfd-e91f-5e7a-8b21-de948729e1ac",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ShearStress"
     ],
+    "uuid": "f0ab9cfd-e91f-5e7a-8b21-de948729e1ac",
     "name": "ShearStress",
     "label": [
         {

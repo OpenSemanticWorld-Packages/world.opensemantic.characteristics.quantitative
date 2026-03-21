@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "7d63568f-d3d8-5426-8aba-399d60e611ef",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MagneticMoment"
     ],
+    "uuid": "7d63568f-d3d8-5426-8aba-399d60e611ef",
     "name": "MagneticMoment",
     "label": [
         {
@@ -30,8 +30,18 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW1fccb5b47b665a37995f550ebf08a74e",
-    "default_unit": "Item:OSWa0a0662b7e5b53f79c6d8bef841dd415",
+    "default_unit": "Item:OSWd99c0ceb8ce951b6a513cd58955b69d2",
     "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWd99c0ceb8ce951b6a513cd58955b69d2",
+            "name": "joule_per_tesla",
+            "symbol": "J/T"
+        },
+        {
+            "osw_id": "Item:OSW6b16cd3ce2b25599a88b1b7d4f645604",
+            "name": "electron_volt_per_tesla",
+            "symbol": "eV/T"
+        },
         {
             "osw_id": "Item:OSWa0a0662b7e5b53f79c6d8bef841dd415",
             "name": "ampere_meter_squared",

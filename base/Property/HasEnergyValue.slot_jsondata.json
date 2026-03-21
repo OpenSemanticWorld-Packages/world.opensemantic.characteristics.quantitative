@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "d8add453-e810-5f47-8614-806c5813f15f",
     "name": "HasEnergyValue",
     "label": [
@@ -18,20 +21,90 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "710428e8-fdac-5305-822c-6b4ef4aee20d",
         "name": "J",
-        "main_symbol": "J"
+        "main_symbol": "J",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
         {
-            "uuid": "48b63977-b718-587f-bde6-813de7b950c9",
-            "name": "aJ",
-            "main_symbol": "aJ",
-            "conversion_factor_to_main_unit": "9.999999999999999e+17"
+            "uuid": "e1e8c21b-cafd-5f5d-b849-d984f19271ea",
+            "name": "EJ",
+            "main_symbol": "EJ",
+            "conversion_factor_to_main_unit": "1e-18"
+        },
+        {
+            "uuid": "ee6855c7-c9db-524c-a839-fa937826ed2f",
+            "name": "TW·h",
+            "main_symbol": "TW·h",
+            "conversion_factor_to_main_unit": "2.777777777777778e-16"
+        },
+        {
+            "uuid": "373da069-d5f5-5aae-8c9f-bc8739720bfc",
+            "name": "PJ",
+            "main_symbol": "PJ",
+            "conversion_factor_to_main_unit": "1e-15"
+        },
+        {
+            "uuid": "5f673df5-51f9-5c5e-8361-4e5c53b06fa6",
+            "name": "GW·h",
+            "main_symbol": "GW·h",
+            "conversion_factor_to_main_unit": "2.777777777777778e-13"
+        },
+        {
+            "uuid": "3f3da037-2c49-5edb-8a79-60d311b42c6a",
+            "name": "TJ",
+            "main_symbol": "TJ",
+            "conversion_factor_to_main_unit": "1e-12"
+        },
+        {
+            "uuid": "e9b1c86b-c36a-5fe3-ac26-cc3f31915891",
+            "name": "MVA·h",
+            "main_symbol": "MVA·h",
+            "conversion_factor_to_main_unit": "2.7777777777777777e-10"
+        },
+        {
+            "uuid": "8323281a-9a4d-5f43-8593-aadb229f26a4",
+            "name": "MW·h",
+            "main_symbol": "MW·h",
+            "conversion_factor_to_main_unit": "2.7777777777777777e-10"
+        },
+        {
+            "uuid": "7c02e42c-3db6-5a7d-901f-5ae215309564",
+            "name": "GJ",
+            "main_symbol": "GJ",
+            "conversion_factor_to_main_unit": "1e-09"
+        },
+        {
+            "uuid": "a791558f-b8d1-51d0-a00b-8cab76281f98",
+            "name": "kVA·h",
+            "main_symbol": "kVA·h",
+            "conversion_factor_to_main_unit": "2.7777777777777776e-07"
+        },
+        {
+            "uuid": "d2e0568c-2860-5f07-81e7-c9ac781dcbdf",
+            "name": "kW·h",
+            "main_symbol": "kW·h",
+            "conversion_factor_to_main_unit": "2.7777777777777776e-07"
+        },
+        {
+            "uuid": "1e453e7e-c301-5ab6-bfb5-72c0f1e3e826",
+            "name": "MJ",
+            "main_symbol": "MJ",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "68232465-63ef-50f6-b1d4-70fc5f1f1ad6",
+            "name": "VA·h",
+            "main_symbol": "VA·h",
+            "conversion_factor_to_main_unit": "0.0002777777777777778"
+        },
+        {
+            "uuid": "81a40b59-9280-5d0b-bf1d-c564763b916c",
+            "name": "W·h",
+            "main_symbol": "W·h",
+            "conversion_factor_to_main_unit": "0.0002777777777777778"
         },
         {
             "uuid": "adb8a64c-5483-52a0-9e91-c6ecb0d64f6f",
@@ -40,10 +113,10 @@
             "conversion_factor_to_main_unit": "0.001"
         },
         {
-            "uuid": "373da069-d5f5-5aae-8c9f-bc8739720bfc",
-            "name": "PJ",
-            "main_symbol": "PJ",
-            "conversion_factor_to_main_unit": "0.0"
+            "uuid": "23dd685b-75b2-55a8-aead-45850d0f163c",
+            "name": "W·s",
+            "main_symbol": "W·s",
+            "conversion_factor_to_main_unit": "1.0"
         },
         {
             "uuid": "f297e5d7-0d1e-5f12-8388-29a92f05458d",
@@ -52,10 +125,34 @@
             "conversion_factor_to_main_unit": "1000.0"
         },
         {
-            "uuid": "7c02e42c-3db6-5a7d-901f-5ae215309564",
-            "name": "GJ",
-            "main_symbol": "GJ",
-            "conversion_factor_to_main_unit": "0.0"
+            "uuid": "e0aa586f-4a66-5786-97e9-f953ce0fb450",
+            "name": "μJ",
+            "main_symbol": "μJ",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "0bf9c86e-514c-5457-90f4-22460576bc36",
+            "name": "nJ",
+            "main_symbol": "nJ",
+            "conversion_factor_to_main_unit": "999999999.9999999"
+        },
+        {
+            "uuid": "1bcb8069-9628-5d37-812c-b777683cdbff",
+            "name": "GeV",
+            "main_symbol": "GeV",
+            "conversion_factor_to_main_unit": "6241509074.460762"
+        },
+        {
+            "uuid": "35a33f9a-6526-5d2b-9502-c7782dba8f75",
+            "name": "pJ",
+            "main_symbol": "pJ",
+            "conversion_factor_to_main_unit": "1000000000000.0"
+        },
+        {
+            "uuid": "49b7bcf1-9fda-5f6b-a55e-f4faa3aa6b91",
+            "name": "MeV",
+            "main_symbol": "MeV",
+            "conversion_factor_to_main_unit": "6241509074460.763"
         },
         {
             "uuid": "7ec6053b-655f-5870-b1a6-c6187601d374",
@@ -64,22 +161,28 @@
             "conversion_factor_to_main_unit": "999999999999999.9"
         },
         {
-            "uuid": "e1e8c21b-cafd-5f5d-b849-d984f19271ea",
-            "name": "EJ",
-            "main_symbol": "EJ",
-            "conversion_factor_to_main_unit": "0.0"
+            "uuid": "5f67e4d9-d8f1-548f-86ca-6ea6603558f5",
+            "name": "keV",
+            "main_symbol": "keV",
+            "conversion_factor_to_main_unit": "6241509074460763.0"
         },
         {
-            "uuid": "3f3da037-2c49-5edb-8a79-60d311b42c6a",
-            "name": "TJ",
-            "main_symbol": "TJ",
-            "conversion_factor_to_main_unit": "0.0"
+            "uuid": "45d760cb-d84b-5ed1-aae4-d8acd0a63d2f",
+            "name": "Ha",
+            "main_symbol": "Ha",
+            "conversion_factor_to_main_unit": "2.2937126899246288e+17"
         },
         {
-            "uuid": "1e453e7e-c301-5ab6-bfb5-72c0f1e3e826",
-            "name": "MJ",
-            "main_symbol": "MJ",
-            "conversion_factor_to_main_unit": "1e-06"
+            "uuid": "48b63977-b718-587f-bde6-813de7b950c9",
+            "name": "aJ",
+            "main_symbol": "aJ",
+            "conversion_factor_to_main_unit": "9.999999999999999e+17"
+        },
+        {
+            "uuid": "e05de79b-ebf6-535d-a5ca-a6cbebda87de",
+            "name": "eV",
+            "main_symbol": "eV",
+            "conversion_factor_to_main_unit": "6.241509074460763e+18"
         }
     ]
 }

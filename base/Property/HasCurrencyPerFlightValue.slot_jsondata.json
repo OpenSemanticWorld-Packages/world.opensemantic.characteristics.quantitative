@@ -1,0 +1,16 @@
+{
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "uuid": "92937a52-40a1-5606-8261-dd29b28bcbf6",
+    "name": "HasCurrencyPerFlightValue",
+    "label": [
+        {
+            "text": "Currency Per Flight",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessRatioValue",
+    "base_property": "Property:HasDimensionlessRatioValue"
+}

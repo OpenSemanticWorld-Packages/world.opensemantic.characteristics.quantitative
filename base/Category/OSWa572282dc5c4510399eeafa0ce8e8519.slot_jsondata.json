@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "a572282d-c5c4-5103-99ee-afa0ce8e8519",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/EnergyKinetic",
-        "http://dbpedia.org/resource/Kinetic_energy"
+        "http://dbpedia.org/resource/Kinetic_energy",
+        "http://qudt.org/vocab/quantitykind/EnergyKinetic"
     ],
+    "uuid": "a572282d-c5c4-5103-99ee-afa0ce8e8519",
     "name": "KineticEnergy",
     "label": [
         {

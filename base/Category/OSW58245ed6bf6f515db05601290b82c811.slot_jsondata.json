@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "58245ed6-bf6f-515d-b056-01290b82c811",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/FissionCoreRadiusToHeightRatio"
     ],
+    "uuid": "58245ed6-bf6f-515d-b056-01290b82c811",
     "name": "FissionCoreRadiusToHeightRatio",
     "label": [
         {

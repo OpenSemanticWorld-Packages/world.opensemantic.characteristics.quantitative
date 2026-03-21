@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "58c66997-3140-5450-9357-65efe8e170d5",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ModulusOfRotationalSubgradeReaction"
     ],
+    "uuid": "58c66997-3140-5450-9357-65efe8e170d5",
     "name": "ModulusOfRotationalSubgradeReaction",
     "label": [
         {

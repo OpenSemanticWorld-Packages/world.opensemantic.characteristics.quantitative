@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "6847f51b-03eb-5ed6-b4cd-a9e82af5e51a",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MassTemperature"
     ],
+    "uuid": "6847f51b-03eb-5ed6-b4cd-a9e82af5e51a",
     "name": "MassTemperature",
     "label": [
         {
@@ -25,7 +25,7 @@
         {
             "osw_id": "Item:OSWfd24f9425d815d66beab746eecaf5926",
             "name": "kelvin_kilo_gram",
-            "symbol": "K·kg"
+            "symbol": "kg·K"
         }
     ],
     "quantity_property": "Property:HasMassTemperatureValue"

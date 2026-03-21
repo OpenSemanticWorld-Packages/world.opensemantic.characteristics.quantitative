@@ -1,0 +1,38 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ActivityCoefficient"
+    ],
+    "uuid": "76a6380b-5209-591d-bb05-1af32a54fef0",
+    "name": "ActivityCoefficient",
+    "label": [
+        {
+            "text": "Activity Coefficient",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "An \"Activity Coefficient\" is a factor used in thermodynamics to account for deviations from ideal behaviour in a mixture of chemical substances. In an ideal mixture, the interactions between each pair of chemical species are the same (or more formally, the enthalpy change of solution is zero) and, as a result, properties of the mixtures can be expressed directly in terms of simple concentrations or partial pressures of the substances present e.g. Raoult's law. Deviations from ideality are accommodated by modifying the concentration by an activity coefficient.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW01d16d37ef7c500f8ce2a268d06c4cfd",
+    "default_unit": "Item:OSWc72c8e13779050d1a5512740a9a12112",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWc72c8e13779050d1a5512740a9a12112",
+            "name": "unitless",
+            "symbol": "一"
+        }
+    ],
+    "quantity_property": "Property:HasActivityCoefficientValue"
+}

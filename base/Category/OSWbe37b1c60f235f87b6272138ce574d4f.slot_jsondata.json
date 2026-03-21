@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "be37b1c6-0f23-5f87-b627-2138ce574d4f",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/EnergyFluenceRate"
     ],
+    "uuid": "be37b1c6-0f23-5f87-b627-2138ce574d4f",
     "name": "EnergyFluenceRate",
     "label": [
         {

@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "dc5df784-e44e-5802-beda-722786fd75bf",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/InverseVolume"
     ],
+    "uuid": "dc5df784-e44e-5802-beda-722786fd75bf",
     "name": "InverseVolume",
     "label": [
         {
@@ -25,17 +25,27 @@
         {
             "osw_id": "Item:OSW22ea6fd32be65173b6ce52e47446c8ed",
             "name": "per_meter_cubed",
-            "symbol": "1/m³"
+            "symbol": "/m³"
         },
         {
-            "osw_id": "Item:OSW22ea6fd32be65173b6ce52e47446c8ed#OSWd3bd49d926475edfbe5b54108429d801",
-            "name": "per_milli_meter_cubed",
-            "symbol": "1/mm³"
+            "osw_id": "Item:OSW3033afc70c4f524dbabf2a0fb0c6352b",
+            "name": "per_liter",
+            "symbol": "/L"
         },
         {
-            "osw_id": "Item:OSW22ea6fd32be65173b6ce52e47446c8ed#OSWf6d64151fc835995b48c0fc8bb64a36a",
+            "osw_id": "Item:OSWf6d64151fc835995b48c0fc8bb64a36a",
             "name": "per_centi_meter_cubed",
-            "symbol": "1/cm³"
+            "symbol": "/cm³"
+        },
+        {
+            "osw_id": "Item:OSW82247f27468c520abd524312c0acd428",
+            "name": "per_milli_liter",
+            "symbol": "/mL"
+        },
+        {
+            "osw_id": "Item:OSWd3bd49d926475edfbe5b54108429d801",
+            "name": "per_milli_meter_cubed",
+            "symbol": "/mm³"
         }
     ],
     "quantity_property": "Property:HasInverseVolumeValue"

@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "1634701e-fb42-5f1d-8f32-fe9ae216cef8",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/EquivalentConcentration"
     ],
+    "uuid": "1634701e-fb42-5f1d-8f32-fe9ae216cef8",
     "name": "EquivalentConcentration",
     "label": [
         {

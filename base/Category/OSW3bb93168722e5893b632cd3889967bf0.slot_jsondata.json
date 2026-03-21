@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "3bb93168-722e-5893-b632-cd3889967bf0",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Slowing-DownArea"
     ],
+    "uuid": "3bb93168-722e-5893-b632-cd3889967bf0",
     "name": "SlowingDownArea",
     "label": [
         {

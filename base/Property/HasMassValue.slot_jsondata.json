@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "540fd008-9630-506d-b7c6-da1c15dae296",
     "name": "HasMassValue",
     "label": [
@@ -18,12 +21,108 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "e9f2830d-b4d4-5b7f-bd14-b434688b8745",
         "name": "kg",
-        "main_symbol": "kg"
-    }
+        "main_symbol": "kg",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "0ab8c4c2-d39f-51b0-aa52-8e1b38b9037c",
+            "name": "Mt",
+            "main_symbol": "Mt",
+            "conversion_factor_to_main_unit": "1e-09"
+        },
+        {
+            "uuid": "076c823f-976e-5e98-926e-df260e8efdb9",
+            "name": "kt",
+            "main_symbol": "kt",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "b4a2ad40-bcfe-5200-8267-d889401b2f3c",
+            "name": "Mg",
+            "main_symbol": "Mg",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "9d7e89b1-c132-5617-95c3-4c737512242a",
+            "name": "t",
+            "main_symbol": "t",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "aa86f0dd-9351-51a7-8735-2a96130b58fb",
+            "name": "dt",
+            "main_symbol": "dt",
+            "conversion_factor_to_main_unit": "0.01"
+        },
+        {
+            "uuid": "ad2306df-dd60-57f0-90bf-a5f661ca2bcd",
+            "name": "hg",
+            "main_symbol": "hg",
+            "conversion_factor_to_main_unit": "10.0"
+        },
+        {
+            "uuid": "5681ba21-39c0-52c6-bda7-e7eb70d1c681",
+            "name": "AT",
+            "main_symbol": "AT",
+            "conversion_factor_to_main_unit": "34.28571036734739"
+        },
+        {
+            "uuid": "4c8f760a-09ba-5847-acb0-9ee7d4073d3d",
+            "name": "dag",
+            "main_symbol": "dag",
+            "conversion_factor_to_main_unit": "100.0"
+        },
+        {
+            "uuid": "d93511fc-aaff-56ac-b62e-fced0f817ea8",
+            "name": "g",
+            "main_symbol": "g",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "3e0771df-d1b6-52f1-9be5-cd64b433dc26",
+            "name": "dg",
+            "main_symbol": "dg",
+            "conversion_factor_to_main_unit": "10000.0"
+        },
+        {
+            "uuid": "315496d4-a073-5343-9712-481a35448d76",
+            "name": "cg",
+            "main_symbol": "cg",
+            "conversion_factor_to_main_unit": "99999.99999999999"
+        },
+        {
+            "uuid": "c7f1580f-f0a9-52d4-b659-7c04c710a617",
+            "name": "mg",
+            "main_symbol": "mg",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "dec3ea8e-7497-55a8-9779-18e23f6a533b",
+            "name": "μg",
+            "main_symbol": "μg",
+            "conversion_factor_to_main_unit": "999999999.9999999"
+        },
+        {
+            "uuid": "ead075d3-b992-5b49-acd3-e5bc0717ba04",
+            "name": "ng",
+            "main_symbol": "ng",
+            "conversion_factor_to_main_unit": "1000000000000.0"
+        },
+        {
+            "uuid": "25ff47e5-b548-5475-86cf-b9eca4b522f9",
+            "name": "pg",
+            "main_symbol": "pg",
+            "conversion_factor_to_main_unit": "999999999999999.9"
+        },
+        {
+            "uuid": "4692c171-c610-585e-b5d6-74b76c76de73",
+            "name": "fg",
+            "main_symbol": "fg",
+            "conversion_factor_to_main_unit": "9.999999999999999e+17"
+        }
+    ]
 }

@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "31a984e9-59a4-5d6d-9f66-637db54f9833",
     "name": "HasVolumeFlowRateValue",
     "label": [
@@ -14,15 +17,25 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "a7231ad3-0fe7-5fed-85d9-53f7cc694552",
         "name": "m³/s",
-        "main_symbol": "m³/s"
+        "main_symbol": "m³/s",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
+        {
+            "uuid": "cb4155ad-2b05-5c48-a7e9-dd943be64a3d",
+            "name": "m³/min",
+            "main_symbol": "m³/min",
+            "conversion_factor_to_main_unit": "60.0"
+        },
+        {
+            "uuid": "258e8e5f-2f5d-555a-afc1-562bc5f3ea36",
+            "name": "L/s",
+            "main_symbol": "L/s",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
         {
             "uuid": "13b3779e-3221-5dc1-a381-8c5043e9450e",
             "name": "dm³/s",
@@ -30,10 +43,112 @@
             "conversion_factor_to_main_unit": "1000.0"
         },
         {
+            "uuid": "bb825816-0d8c-5f9a-bbe6-8cfc16602d35",
+            "name": "kL/h",
+            "main_symbol": "kL/h",
+            "conversion_factor_to_main_unit": "3600.0"
+        },
+        {
+            "uuid": "68f75d3e-3ec4-5cc2-b799-8aaa1019a85f",
+            "name": "m³/h",
+            "main_symbol": "m³/h",
+            "conversion_factor_to_main_unit": "3600.0"
+        },
+        {
+            "uuid": "a2f9f46c-3fca-5aad-88c2-c34f7b8f11b7",
+            "name": "L/min",
+            "main_symbol": "L/min",
+            "conversion_factor_to_main_unit": "60000.0"
+        },
+        {
+            "uuid": "fc60b62b-c954-5ef5-8b0d-3af831ac234f",
+            "name": "dm³/min",
+            "main_symbol": "dm³/min",
+            "conversion_factor_to_main_unit": "60000.0"
+        },
+        {
+            "uuid": "5ad0428a-fb9e-52ba-bb1e-17ecf693c9ce",
+            "name": "m³/d",
+            "main_symbol": "m³/d",
+            "conversion_factor_to_main_unit": "86400.0"
+        },
+        {
             "uuid": "a77bdf8d-bcf3-5bf1-bd8f-1cc84dcf4f94",
             "name": "cm³/s",
             "main_symbol": "cm³/s",
             "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "41a6eee8-fb65-56fb-bade-fe9733679d83",
+            "name": "mL/s",
+            "main_symbol": "mL/s",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "1b533afb-fb6a-5116-b94f-a198470b0faf",
+            "name": "L/h",
+            "main_symbol": "L/h",
+            "conversion_factor_to_main_unit": "3600000.0000000005"
+        },
+        {
+            "uuid": "a11e9164-f1ae-52bb-87cb-0a794120557c",
+            "name": "dm³/h",
+            "main_symbol": "dm³/h",
+            "conversion_factor_to_main_unit": "3600000.0000000005"
+        },
+        {
+            "uuid": "0861b2cb-513c-59c9-a54e-9bc143d8e7ab",
+            "name": "m³/a",
+            "main_symbol": "m³/a",
+            "conversion_factor_to_main_unit": "31557600.000000004"
+        },
+        {
+            "uuid": "b29d555f-e00c-51b5-8947-1ac0c8234279",
+            "name": "cm³/min",
+            "main_symbol": "cm³/min",
+            "conversion_factor_to_main_unit": "60000000.0"
+        },
+        {
+            "uuid": "39067613-95cc-5711-9be1-3d0b6daaa624",
+            "name": "mL/min",
+            "main_symbol": "mL/min",
+            "conversion_factor_to_main_unit": "60000000.0"
+        },
+        {
+            "uuid": "3a534e80-3421-570e-b009-c6c3fd94a928",
+            "name": "L/d",
+            "main_symbol": "L/d",
+            "conversion_factor_to_main_unit": "86400000.0"
+        },
+        {
+            "uuid": "4d476d0f-ae39-5465-8768-23f4ccca11ad",
+            "name": "dm³/d",
+            "main_symbol": "dm³/d",
+            "conversion_factor_to_main_unit": "86400000.0"
+        },
+        {
+            "uuid": "af398359-27f9-5220-9dd3-5f0a04bef6a4",
+            "name": "cm³/h",
+            "main_symbol": "cm³/h",
+            "conversion_factor_to_main_unit": "3600000000.0"
+        },
+        {
+            "uuid": "a5b9d089-dc2e-58c1-92ad-ecd0027a6e4e",
+            "name": "mL/h",
+            "main_symbol": "mL/h",
+            "conversion_factor_to_main_unit": "3600000000.0"
+        },
+        {
+            "uuid": "fdbb98d2-1b5b-5285-b019-4871f4c81e24",
+            "name": "cm³/d",
+            "main_symbol": "cm³/d",
+            "conversion_factor_to_main_unit": "86400000000.0"
+        },
+        {
+            "uuid": "c22c99c8-31e4-536d-8822-ff864e1ee422",
+            "name": "mL/d",
+            "main_symbol": "mL/d",
+            "conversion_factor_to_main_unit": "86400000000.0"
         }
     ]
 }

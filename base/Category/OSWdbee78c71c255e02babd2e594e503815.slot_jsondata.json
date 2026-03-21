@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "dbee78c7-1c25-5e02-babd-2e594e503815",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MassPerEnergy"
     ],
+    "uuid": "dbee78c7-1c25-5e02-babd-2e594e503815",
     "name": "MassPerEnergy",
     "label": [
         {
@@ -32,6 +32,11 @@
             "osw_id": "Item:OSW0ab2af45d05c527d8fe20509629f9ae3",
             "name": "kilo_gram_per_joule",
             "symbol": "kg/J"
+        },
+        {
+            "osw_id": "Item:OSWed66a7af0af258c1b94a9646a09cda97",
+            "name": "kilo_gram_per_giga_joule",
+            "symbol": "kg/GJ"
         }
     ],
     "quantity_property": "Property:HasMassPerEnergyValue"

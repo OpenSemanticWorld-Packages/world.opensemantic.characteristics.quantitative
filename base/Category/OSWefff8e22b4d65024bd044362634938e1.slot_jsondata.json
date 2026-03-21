@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "efff8e22-b4d6-5024-bd04-4362634938e1",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/AmountOfSubstancePerMass"
     ],
+    "uuid": "efff8e22-b4d6-5024-bd04-4362634938e1",
     "name": "AmountOfSubstancePerMass",
     "label": [
         {
@@ -28,39 +28,54 @@
             "symbol": "mol/kg"
         },
         {
-            "osw_id": "Item:OSWfd92e9c2c69754f78e4145ad3d31c34b#OSWd77b5543087f560caec2016c89521715",
-            "name": "pico_mole_per_kilo_gram",
-            "symbol": "pmol/kg"
-        },
-        {
-            "osw_id": "Item:OSWfd92e9c2c69754f78e4145ad3d31c34b#OSW51bd13e67a4758bba50388bd5cffe504",
-            "name": "nano_mole_per_kilo_gram",
-            "symbol": "nmol/kg"
-        },
-        {
-            "osw_id": "Item:OSWfd92e9c2c69754f78e4145ad3d31c34b#OSW84e7943cec52598082a96c43ab77d33a",
-            "name": "kilo_mole_per_kilo_gram",
-            "symbol": "kmol/kg"
-        },
-        {
-            "osw_id": "Item:OSWfd92e9c2c69754f78e4145ad3d31c34b#OSWce6b64163d095affbef6daa39c9cd063",
+            "osw_id": "Item:OSWce6b64163d095affbef6daa39c9cd063",
             "name": "femto_mole_per_kilo_gram",
             "symbol": "fmol/kg"
         },
         {
-            "osw_id": "Item:OSWfd92e9c2c69754f78e4145ad3d31c34b#OSW9abfd6b6d96b507abac8057d6e35a74f",
-            "name": "centi_mole_per_kilo_gram",
-            "symbol": "cmol/kg"
+            "osw_id": "Item:OSWd77b5543087f560caec2016c89521715",
+            "name": "pico_mole_per_kilo_gram",
+            "symbol": "pmol/kg"
         },
         {
-            "osw_id": "Item:OSWfd92e9c2c69754f78e4145ad3d31c34b#OSW78a5da75d0d15046935df4e27fa7d3a9",
+            "osw_id": "Item:OSW51bd13e67a4758bba50388bd5cffe504",
+            "name": "nano_mole_per_kilo_gram",
+            "symbol": "nmol/kg"
+        },
+        {
+            "osw_id": "Item:OSWd9fdab53b3c05657aad5be0f1382d5e7",
+            "name": "nano_mole_per_gram",
+            "symbol": "nmol/g"
+        },
+        {
+            "osw_id": "Item:OSWa9d227b6d12958eba67fdf22b0934535",
+            "name": "micro_mole_per_kilo_gram",
+            "symbol": "μmol/kg"
+        },
+        {
+            "osw_id": "Item:OSW78a5da75d0d15046935df4e27fa7d3a9",
             "name": "milli_mole_per_kilo_gram",
             "symbol": "mmol/kg"
         },
         {
-            "osw_id": "Item:OSWfd92e9c2c69754f78e4145ad3d31c34b#OSWa9d227b6d12958eba67fdf22b0934535",
-            "name": "micro_mole_per_kilo_gram",
-            "symbol": "μmol/kg"
+            "osw_id": "Item:OSWcb30576f7a525b6c88fe17b80a79ff5b",
+            "name": "micro_mole_per_gram",
+            "symbol": "μmol/g"
+        },
+        {
+            "osw_id": "Item:OSW9abfd6b6d96b507abac8057d6e35a74f",
+            "name": "centi_mole_per_kilo_gram",
+            "symbol": "cmol/kg"
+        },
+        {
+            "osw_id": "Item:OSW8cf332ce3aea59278069ed9b0da20b5c",
+            "name": "milli_mole_per_gram",
+            "symbol": "mmol/g"
+        },
+        {
+            "osw_id": "Item:OSW84e7943cec52598082a96c43ab77d33a",
+            "name": "kilo_mole_per_kilo_gram",
+            "symbol": "kmol/kg"
         }
     ],
     "quantity_property": "Property:HasAmountOfSubstancePerMassValue"

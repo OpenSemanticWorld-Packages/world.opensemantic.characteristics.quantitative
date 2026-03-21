@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "b08c5155-6901-5c02-ba88-9380cb0808ff",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MagneticTension"
     ],
+    "uuid": "b08c5155-6901-5c02-ba88-9380cb0808ff",
     "name": "MagneticTension",
     "label": [
         {
@@ -34,14 +34,14 @@
             "symbol": "A"
         },
         {
-            "osw_id": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSW614e3543b8aa55a5b4aa87c9cd179703",
-            "name": "milli_ampere",
-            "symbol": "mA"
+            "osw_id": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSW46eb50fa70c350638fc2545246ce0891",
+            "name": "atto_ampere",
+            "symbol": "aA"
         },
         {
-            "osw_id": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSWc611b97c5c4354059113fb8f17a26f2f",
-            "name": "mega_ampere",
-            "symbol": "MA"
+            "osw_id": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSW402d7d6ffbf95b2a90fd018c27b5f196",
+            "name": "femto_ampere",
+            "symbol": "fA"
         },
         {
             "osw_id": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSWb59bf21962f75857965df77a55549178",
@@ -49,14 +49,44 @@
             "symbol": "pA"
         },
         {
-            "osw_id": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSW49e59ce46e35588193327425fa1d89ab",
-            "name": "kilo_ampere",
-            "symbol": "kA"
+            "osw_id": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSW35108dc576b05e8da8a4fb293f197b7d",
+            "name": "nano_ampere",
+            "symbol": "nA"
         },
         {
             "osw_id": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSW771bd899c7045f84b282cc653efe6d28",
             "name": "micro_ampere",
             "symbol": "μA"
+        },
+        {
+            "osw_id": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSW614e3543b8aa55a5b4aa87c9cd179703",
+            "name": "milli_ampere",
+            "symbol": "mA"
+        },
+        {
+            "osw_id": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSW49e59ce46e35588193327425fa1d89ab",
+            "name": "kilo_ampere",
+            "symbol": "kA"
+        },
+        {
+            "osw_id": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSWc611b97c5c4354059113fb8f17a26f2f",
+            "name": "mega_ampere",
+            "symbol": "MA"
+        },
+        {
+            "osw_id": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSWec00063f919153e383d273d6b00d48bf",
+            "name": "giga_ampere",
+            "symbol": "GA"
+        },
+        {
+            "osw_id": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSWfe69b90d79b05ab6aaec5fbf1283e63d",
+            "name": "tera_ampere",
+            "symbol": "TA"
+        },
+        {
+            "osw_id": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSWdcb8628d23d35ca5a3fd772b55f5faab",
+            "name": "peta_ampere",
+            "symbol": "PA"
         }
     ],
     "quantity_property": "Property:HasMagneticTensionValue"

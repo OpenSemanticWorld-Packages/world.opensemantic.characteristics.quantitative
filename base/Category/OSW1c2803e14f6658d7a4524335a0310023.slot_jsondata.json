@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "1c2803e1-4f66-58d7-a452-4335a0310023",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/DynamicPressure",
-        "http://dbpedia.org/resource/Dynamic_pressure"
+        "http://dbpedia.org/resource/Dynamic_pressure",
+        "http://qudt.org/vocab/quantitykind/DynamicPressure"
     ],
+    "uuid": "1c2803e1-4f66-58d7-a452-4335a0310023",
     "name": "DynamicPressure",
     "label": [
         {

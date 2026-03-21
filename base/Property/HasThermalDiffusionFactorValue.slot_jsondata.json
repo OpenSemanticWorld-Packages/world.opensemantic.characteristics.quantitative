@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "uuid": "4a228bfb-ec0c-5a3f-9593-3cb04d3aaa69",
+    "name": "HasThermalDiffusionFactorValue",
+    "label": [
+        {
+            "text": "Thermal Diffusion Factor",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Thermal diffusion is a phenomenon in which a temperature gradient in a mixture of fluids gives rise to a flow of one constituent relative to the mixture as a whole. in the context of the equation that describes thermal diffusion, the \"Thermal Diffusion Factor\" is .",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "main_unit": {
+        "uuid": "4411f5ca-371f-5a11-91c7-0ca80634c8f5",
+        "name": "一",
+        "main_symbol": "一",
+        "conversion_factor_to_main_unit": "1.0"
+    }
+}

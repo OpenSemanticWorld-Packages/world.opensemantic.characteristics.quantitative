@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "4c8a2aa1-efad-5db1-a05f-9ae73ee05fcf",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ElectrolyticConductivity"
     ],
+    "uuid": "4c8a2aa1-efad-5db1-a05f-9ae73ee05fcf",
     "name": "ElectrolyticConductivity",
     "label": [
         {
@@ -34,19 +34,19 @@
             "symbol": "S/m"
         },
         {
+            "osw_id": "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d#OSWc9f2986f0974565b904f1d0d756d5318",
+            "name": "pico_siemens_per_meter",
+            "symbol": "pS/m"
+        },
+        {
             "osw_id": "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d#OSW6cc3591d052d589cb271f6710f816486",
             "name": "nano_siemens_per_meter",
             "symbol": "nS/m"
         },
         {
-            "osw_id": "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d#OSWe2d30b3b09325ef7819f6d51071e147e",
-            "name": "kilo_siemens_per_meter",
-            "symbol": "kS/m"
-        },
-        {
-            "osw_id": "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d#OSWd609b57361b3560d8614f22a0031921f",
-            "name": "milli_siemens_per_meter",
-            "symbol": "mS/m"
+            "osw_id": "Item:OSWf29947a1c6545b98b0a669c56a366105",
+            "name": "nano_siemens_per_centi_meter",
+            "symbol": "nS/cm"
         },
         {
             "osw_id": "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d#OSWa26d6194b3be5f54a4665a01e3df9426",
@@ -54,24 +54,39 @@
             "symbol": "μS/m"
         },
         {
+            "osw_id": "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d#OSW44bbdc0d9e555e9a8860d7f71497c430",
+            "name": "micro_siemens_per_centi_meter",
+            "symbol": "μS/cm"
+        },
+        {
+            "osw_id": "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d#OSWd609b57361b3560d8614f22a0031921f",
+            "name": "milli_siemens_per_meter",
+            "symbol": "mS/m"
+        },
+        {
             "osw_id": "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d#OSW7b2e1f125aa350409a4f5d467534727a",
             "name": "deci_siemens_per_meter",
             "symbol": "dS/m"
         },
         {
-            "osw_id": "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d#OSWc9f2986f0974565b904f1d0d756d5318",
-            "name": "pico_siemens_per_meter",
-            "symbol": "pS/m"
+            "osw_id": "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d#OSW6c046cfc0de15ce8a9f6aa09d575a524",
+            "name": "milli_siemens_per_centi_meter",
+            "symbol": "mS/cm"
+        },
+        {
+            "osw_id": "Item:OSW88703a966490546d89632c3336e28b2a",
+            "name": "siemens_per_centi_meter",
+            "symbol": "S/cm"
+        },
+        {
+            "osw_id": "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d#OSWe2d30b3b09325ef7819f6d51071e147e",
+            "name": "kilo_siemens_per_meter",
+            "symbol": "kS/m"
         },
         {
             "osw_id": "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d#OSW27b6c423e529517ba2d3f466d2c822b4",
             "name": "mega_siemens_per_meter",
             "symbol": "MS/m"
-        },
-        {
-            "osw_id": "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d#OSW88703a966490546d89632c3336e28b2a",
-            "name": "siemens_per_centi_meter",
-            "symbol": "S/cm"
         }
     ],
     "quantity_property": "Property:HasElectrolyticConductivityValue"

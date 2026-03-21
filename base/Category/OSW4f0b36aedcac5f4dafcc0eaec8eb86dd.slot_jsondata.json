@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "4f0b36ae-dcac-5f4d-afcc-0eaec8eb86dd",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ElectricChargePerArea"
     ],
+    "uuid": "4f0b36ae-dcac-5f4d-afcc-0eaec8eb86dd",
     "name": "ElectricChargePerArea",
     "label": [
         {
@@ -44,9 +44,9 @@
             "symbol": "mC/m²"
         },
         {
-            "osw_id": "Item:OSW1f38c1c62b2850deb24c1c3afccfc239#OSW596e6e9224085a35b395fc84aa4edde8",
-            "name": "coulomb_per_milli_meter_squared",
-            "symbol": "C/mm²"
+            "osw_id": "Item:OSW1f38c1c62b2850deb24c1c3afccfc239#OSW6314b9832a355b7cab3616f5d08c4165",
+            "name": "kilo_coulomb_per_meter_squared",
+            "symbol": "kC/m²"
         },
         {
             "osw_id": "Item:OSW1f38c1c62b2850deb24c1c3afccfc239#OSWf6450e8adb145e3a8cc3104122cdc667",
@@ -54,14 +54,14 @@
             "symbol": "C/cm²"
         },
         {
+            "osw_id": "Item:OSW1f38c1c62b2850deb24c1c3afccfc239#OSW596e6e9224085a35b395fc84aa4edde8",
+            "name": "coulomb_per_milli_meter_squared",
+            "symbol": "C/mm²"
+        },
+        {
             "osw_id": "Item:OSW1f38c1c62b2850deb24c1c3afccfc239#OSW344d47f96cd55fe89e73f85cb1054450",
             "name": "mega_coulomb_per_meter_squared",
             "symbol": "MC/m²"
-        },
-        {
-            "osw_id": "Item:OSW1f38c1c62b2850deb24c1c3afccfc239#OSW6314b9832a355b7cab3616f5d08c4165",
-            "name": "kilo_coulomb_per_meter_squared",
-            "symbol": "kC/m²"
         }
     ],
     "quantity_property": "Property:HasElectricChargePerAreaValue"

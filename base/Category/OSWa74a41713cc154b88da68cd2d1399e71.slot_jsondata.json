@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "a74a4171-3cc1-54b8-8da6-8cd2d1399e71",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ModulusOfSubgradeReaction"
     ],
+    "uuid": "a74a4171-3cc1-54b8-8da6-8cd2d1399e71",
     "name": "ModulusOfSubgradeReaction",
     "label": [
         {

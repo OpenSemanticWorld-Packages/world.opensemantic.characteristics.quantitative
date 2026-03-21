@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "uuid": "fedae74c-7c7d-5033-a676-c40ec83c044e",
+    "name": "HasRelativeMassDensityValue",
+    "label": [
+        {
+            "text": "Relative Mass Density",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Relative density, or specific gravity, is the ratio of the density (mass of a unit volume) of a substance to the density of a given reference material.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "main_unit": {
+        "uuid": "4411f5ca-371f-5a11-91c7-0ca80634c8f5",
+        "name": "一",
+        "main_symbol": "一",
+        "conversion_factor_to_main_unit": "1.0"
+    }
+}

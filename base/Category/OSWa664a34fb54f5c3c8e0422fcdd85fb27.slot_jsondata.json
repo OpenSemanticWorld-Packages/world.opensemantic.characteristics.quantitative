@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "a664a34f-b54f-5c3c-8e04-22fcdd85fb27",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/HeatFlowRatePerArea"
     ],
+    "uuid": "a664a34f-b54f-5c3c-8e04-22fcdd85fb27",
     "name": "HeatFlowRatePerUnitArea",
     "label": [
         {

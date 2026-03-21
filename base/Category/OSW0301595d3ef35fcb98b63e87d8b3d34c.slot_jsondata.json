@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "0301595d-3ef3-5fcb-98b6-3e87d8b3d34c",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/TotalPressure"
     ],
+    "uuid": "0301595d-3ef3-5fcb-98b6-3e87d8b3d34c",
     "name": "TotalPressure",
     "label": [
         {

@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "uuid": "5c7cc277-075d-5cae-b107-0a25c068cebf",
+    "name": "HasBurstFactorValue",
+    "label": [
+        {
+            "text": "Burst factor",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Quotient Berstdruck dividiert durch die flächenbezogene Masse",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "main_unit": {
+        "uuid": "e30180a4-ca92-5c75-9ae0-2df2f78c9fcb",
+        "name": "kPa·m²/g",
+        "main_symbol": "kPa·m²/g",
+        "conversion_factor_to_main_unit": "1.0"
+    }
+}

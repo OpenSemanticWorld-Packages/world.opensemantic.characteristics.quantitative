@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "4b7dde37-8745-5f5a-a84d-6783bda3971a",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/LengthMass"
     ],
+    "uuid": "4b7dde37-8745-5f5a-a84d-6783bda3971a",
     "name": "LengthMass",
     "label": [
         {
@@ -26,6 +26,11 @@
             "osw_id": "Item:OSW4a5d124e14e45b8c95bebb544ce245b6",
             "name": "kilo_gram_meter",
             "symbol": "m·kg"
+        },
+        {
+            "osw_id": "Item:OSW5baa1fbaa17b50d5ab35eb004c5388df",
+            "name": "gram_milli_meter",
+            "symbol": "g·mm"
         }
     ],
     "quantity_property": "Property:HasLengthMassValue"

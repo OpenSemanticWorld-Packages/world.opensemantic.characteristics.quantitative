@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "24bf224c-3e2a-57b6-a896-f3cd3b9395b2",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/PhotonIntensity"
     ],
+    "uuid": "24bf224c-3e2a-57b6-a896-f3cd3b9395b2",
     "name": "PhotonIntensity",
     "label": [
         {
@@ -31,7 +31,7 @@
         {
             "osw_id": "Item:OSWaf6c62c0856f5ac288ac862f5344f227",
             "name": "per_second_per_steradian",
-            "symbol": "1/(s·sr)"
+            "symbol": "/(s·sr)"
         }
     ],
     "quantity_property": "Property:HasPhotonIntensityValue"

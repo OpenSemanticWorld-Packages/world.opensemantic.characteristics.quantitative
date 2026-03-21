@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
     "uuid": "94c509a2-2dc0-5ec3-9b00-0ff8c513a310",
     "name": "HasDynamicPressureValue",
     "label": [
@@ -15,8 +18,5 @@
     ],
     "property_type": "Quantity",
     "subproperty_of": "Property:HasPressureValue",
-    "type": [
-        "Category:OSW69f251a900944602a08d1cca830249b5"
-    ],
-    "base_property": "Property:HasForcePerAreaValue"
+    "base_property": "Property:HasPressureValue"
 }

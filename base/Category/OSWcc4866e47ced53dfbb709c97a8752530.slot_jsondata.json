@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "cc4866e4-7ced-53df-bb70-9c97a8752530",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/RestMass"
     ],
+    "uuid": "cc4866e4-7ced-53df-bb70-9c97a8752530",
     "name": "RestMass",
     "label": [
         {

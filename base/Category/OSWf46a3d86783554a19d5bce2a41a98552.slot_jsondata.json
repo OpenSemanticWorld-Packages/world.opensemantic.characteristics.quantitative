@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "f46a3d86-7835-54a1-9d5b-ce2a41a98552",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ElectricCurrentPerAngle"
     ],
+    "uuid": "f46a3d86-7835-54a1-9d5b-ce2a41a98552",
     "name": "ElectricCurrentPerAngle",
     "label": [
         {

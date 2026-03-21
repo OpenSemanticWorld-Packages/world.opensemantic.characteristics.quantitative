@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "956f7143-2fec-58ba-8d84-b3744876ad5d",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/LondonPenetrationDepth"
     ],
+    "uuid": "956f7143-2fec-58ba-8d84-b3744876ad5d",
     "name": "LondonPenetrationDepth",
     "label": [
         {

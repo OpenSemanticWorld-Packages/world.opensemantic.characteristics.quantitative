@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "d5ff55bc-f210-5e6e-9e7f-4cf1bca75dad",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/NOMINAL-ASCENT-PROPELLANT-MASS"
     ],
+    "uuid": "d5ff55bc-f210-5e6e-9e7f-4cf1bca75dad",
     "name": "NominalAscentPropellantMass",
     "label": [
         {

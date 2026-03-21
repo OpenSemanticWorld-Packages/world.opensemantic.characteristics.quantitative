@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "55e45a78-a828-5422-8a5a-c2e6893d1d95",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/ThermalResistance",
-        "http://dbpedia.org/resource/Thermal_resistance"
+        "http://dbpedia.org/resource/Thermal_resistance",
+        "http://qudt.org/vocab/quantitykind/ThermalResistance"
     ],
+    "uuid": "55e45a78-a828-5422-8a5a-c2e6893d1d95",
     "name": "ThermalResistance",
     "label": [
         {

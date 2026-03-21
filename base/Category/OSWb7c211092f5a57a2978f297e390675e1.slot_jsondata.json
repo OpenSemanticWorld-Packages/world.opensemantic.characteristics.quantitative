@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "b7c21109-2f5a-57a2-978f-297e390675e1",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/UpperCriticalMagneticFluxDensity"
     ],
+    "uuid": "b7c21109-2f5a-57a2-978f-297e390675e1",
     "name": "UpperCriticalMagneticFluxDensity",
     "label": [
         {

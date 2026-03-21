@@ -1,0 +1,32 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/InverseSquareTime"
+    ],
+    "uuid": "d33f5020-bd93-583b-807f-360af0e833ca",
+    "name": "InverseSquareTime",
+    "label": [
+        {
+            "text": "Inverse Square Time",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW010eaa21484d5e30bb35dd02c2850c4d",
+    "default_unit": "Item:OSWbefab75c6042567c84545b5fab456055",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWbefab75c6042567c84545b5fab456055",
+            "name": "per_second_squared",
+            "symbol": "/s²"
+        }
+    ],
+    "quantity_property": "Property:HasInverseSquareTimeValue"
+}

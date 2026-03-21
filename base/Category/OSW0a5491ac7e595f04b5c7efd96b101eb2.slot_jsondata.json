@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "0a5491ac-7e59-5f04-b5c7-efd96b101eb2",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/VaporPressure"
     ],
+    "uuid": "0a5491ac-7e59-5f04-b5c7-efd96b101eb2",
     "name": "VaporPressure",
     "label": [
         {

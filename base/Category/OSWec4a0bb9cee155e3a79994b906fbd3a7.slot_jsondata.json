@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "ec4a0bb9-cee1-55e3-a799-94b906fbd3a7",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/SecondOrderReactionRateConstant"
     ],
+    "uuid": "ec4a0bb9-cee1-55e3-a799-94b906fbd3a7",
     "name": "ReactionRateConstant",
     "label": [
         {
@@ -34,7 +34,7 @@
             "symbol": "m³/(mol·s)"
         },
         {
-            "osw_id": "Item:OSW25bef56399fe5f7fa5d119aff09cfb30#OSWe3739db7a148562eb2f29ef963e3c001",
+            "osw_id": "Item:OSWe3739db7a148562eb2f29ef963e3c001",
             "name": "centi_meter_cubed_per_mole_per_second",
             "symbol": "cm³/(mol·s)"
         }

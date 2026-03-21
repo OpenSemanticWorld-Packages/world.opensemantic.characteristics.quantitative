@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "8a36c977-24bc-5aa2-8c30-49aeb0ef7d86",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/CENTER-OF-GRAVITY_Z"
     ],
+    "uuid": "8a36c977-24bc-5aa2-8c30-49aeb0ef7d86",
     "name": "CenterOfGravityInTheZAxis",
     "label": [
         {

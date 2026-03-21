@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "1a4104b1-0700-5ab9-973f-79ac86392bdd",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ResistanceRatio"
     ],
+    "uuid": "1a4104b1-0700-5ab9-973f-79ac86392bdd",
     "name": "ResistanceRatio",
     "label": [
         {

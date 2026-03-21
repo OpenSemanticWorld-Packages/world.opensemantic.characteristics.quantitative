@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "593ebee1-c9ff-5180-9f0b-1655a7cada40",
     "name": "HasAreaPerTimeValue",
     "label": [
@@ -8,12 +11,36 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
-        "uuid": "54f09d29-f6fe-5c00-bf98-f43e66def878",
-        "name": "m²·Hz",
-        "main_symbol": "m²·Hz"
-    }
+        "uuid": "185912a3-aa6b-5943-a9a3-7db6bac9cd96",
+        "name": "m²/s",
+        "main_symbol": "m²/s",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "54f09d29-f6fe-5c00-bf98-f43e66def878",
+            "name": "m²·Hz",
+            "main_symbol": "m²·Hz",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "3df02d24-a058-57dd-bb53-e79ef38f73e8",
+            "name": "m²/h",
+            "main_symbol": "m²/h",
+            "conversion_factor_to_main_unit": "3600.0"
+        },
+        {
+            "uuid": "ba0e83ac-8032-5865-83dc-524f3ef41887",
+            "name": "cm²/s",
+            "main_symbol": "cm²/s",
+            "conversion_factor_to_main_unit": "10000.0"
+        },
+        {
+            "uuid": "90bd74dd-62d4-513b-a8b4-574505807b18",
+            "name": "mm²/s",
+            "main_symbol": "mm²/s",
+            "conversion_factor_to_main_unit": "1000000.0"
+        }
+    ]
 }

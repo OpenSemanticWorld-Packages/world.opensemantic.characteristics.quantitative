@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "uuid": "585af7ca-c570-5811-a9a9-9f592a81058b",
+    "name": "HasDoseEquivalentQualityFactorValue",
+    "label": [
+        {
+            "text": "Dose Equivalent Quality Factor",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Dose Equivalent Quality Factor\" is a factor in the caculation and measurement of dose equivalent, by which the absorbed dose is to be weighted in order to account for different biological effectiveness of radiations, for radiation protection purposes.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "main_unit": {
+        "uuid": "4411f5ca-371f-5a11-91c7-0ca80634c8f5",
+        "name": "一",
+        "main_symbol": "一",
+        "conversion_factor_to_main_unit": "1.0"
+    }
+}

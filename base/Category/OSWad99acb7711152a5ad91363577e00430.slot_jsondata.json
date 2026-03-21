@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "ad99acb7-7111-52a5-ad91-363577e00430",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ElectricPolarizability"
     ],
+    "uuid": "ad99acb7-7111-52a5-ad91-363577e00430",
     "name": "ElectricPolarizability",
     "label": [
         {

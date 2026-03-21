@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "58b43062-3bde-5ec8-b77d-2f701f145fc8",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/EnergyLevel"
     ],
+    "uuid": "58b43062-3bde-5ec8-b77d-2f701f145fc8",
     "name": "EnergyLevel",
     "label": [
         {

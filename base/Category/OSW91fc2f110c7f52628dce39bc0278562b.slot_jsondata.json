@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "91fc2f11-0c7f-5262-8dce-39bc0278562b",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MagneticFluxDensity"
     ],
+    "uuid": "91fc2f11-0c7f-5262-8dce-39bc0278562b",
     "name": "MagneticFluxDensity",
     "label": [
         {
@@ -19,7 +19,7 @@
     ],
     "description": [
         {
-            "text": "\"Magnetic Flux Density\" is a vector quantity and is the magnetic flux per unit area of a magnetic field at right angles to the magnetic force. It can be defined in terms of the effects the field has, for example by $B = F/q v \\sin \\theta$, where $F$ is the force a moving charge $q$ would experience if it was travelling at a velocity $v$ in a direction making an angle θ with that of the field. The magnetic field strength is also a vector quantity and is related to $B$ by: $H = B/\\mu$, where $\\mu$ is the permeability of the medium.",
+            "text": "vektorielle Feldgröße B, die auf jedes geladene Teilchen, das eine Geschwindigkeit v hat, eine Kraft F ausübt, die gleich dem Produkt aus dem Vektorprodukt v x B und der elektrischen Ladung Q des Teilchens ist oder vektorielle Größe gleich dem Produkt aus der Magnetisierung M und der magnetischen Feldkonstante µ₀",
             "lang": "en"
         }
     ],
@@ -38,19 +38,24 @@
             "symbol": "T"
         },
         {
+            "osw_id": "Item:OSW1d9ac7ec48cc5b7da90e8c2d529d6df0#OSW7b67d49640c75e54b4906f4bd72b494b",
+            "name": "nano_tesla",
+            "symbol": "nT"
+        },
+        {
+            "osw_id": "Item:OSW1d9ac7ec48cc5b7da90e8c2d529d6df0#OSW30a0158af5445fbc8b08c843d0a84d5a",
+            "name": "micro_tesla",
+            "symbol": "μT"
+        },
+        {
             "osw_id": "Item:OSW1d9ac7ec48cc5b7da90e8c2d529d6df0#OSW490afd74306a568c858e46dd393110fe",
             "name": "milli_tesla",
             "symbol": "mT"
         },
         {
-            "osw_id": "Item:OSW1d9ac7ec48cc5b7da90e8c2d529d6df0#OSW30a0158af5445fbc8b08c843d0a84d5a",
-            "name": "micro_tesla",
-            "symbol": "µT"
-        },
-        {
-            "osw_id": "Item:OSW1d9ac7ec48cc5b7da90e8c2d529d6df0#OSW7b67d49640c75e54b4906f4bd72b494b",
-            "name": "nano_tesla",
-            "symbol": "nT"
+            "osw_id": "Item:OSW1d9ac7ec48cc5b7da90e8c2d529d6df0#OSW895257ecb53a5cbd914f286afb05f9b2",
+            "name": "kilo_tesla",
+            "symbol": "kT"
         }
     ],
     "quantity_property": "Property:HasMagneticFluxDensityValue"

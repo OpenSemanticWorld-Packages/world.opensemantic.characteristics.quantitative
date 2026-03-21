@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "297cbb81-c60a-534a-8852-18aaa3caeb0f",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/AverageEnergyLossPerElementaryChargeProduced"
     ],
+    "uuid": "297cbb81-c60a-534a-8852-18aaa3caeb0f",
     "name": "AverageEnergyLossPerElementaryChargeProduced",
     "label": [
         {

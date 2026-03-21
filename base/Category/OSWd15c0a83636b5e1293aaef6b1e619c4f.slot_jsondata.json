@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "d15c0a83-636b-5e12-93aa-ef6b1e619c4f",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/LinearCompressibility"
     ],
+    "uuid": "d15c0a83-636b-5e12-93aa-ef6b1e619c4f",
     "name": "LinearCompressibility",
     "label": [
         {

@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "c0d27635-d029-52e4-9206-73e4070e5b14",
     "name": "HasPhotonRadianceValue",
     "label": [
@@ -14,12 +17,10 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "b8301b00-9383-5032-9541-c16a806c1f88",
-        "name": "1/(s·m²·sr)",
-        "main_symbol": "1/(s·m²·sr)"
+        "name": "/(s·m²·sr)",
+        "main_symbol": "/(s·m²·sr)",
+        "conversion_factor_to_main_unit": "1.0"
     }
 }

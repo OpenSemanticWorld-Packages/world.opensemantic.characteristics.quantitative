@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "3e723f9b-7863-5333-a501-ab96ea78c49f",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/BucklingFactor"
     ],
+    "uuid": "3e723f9b-7863-5333-a501-ab96ea78c49f",
     "name": "BucklingFactor",
     "label": [
         {

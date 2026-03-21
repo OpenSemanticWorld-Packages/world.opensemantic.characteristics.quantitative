@@ -1,0 +1,16 @@
+{
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "uuid": "f7c8bce0-1e4b-515d-8a1d-93e6d7cf8165",
+    "name": "HasImaginaryPartOfComplexFrequencyValue",
+    "label": [
+        {
+            "text": "Imaginary part of complex frequency",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasFrequencyValue",
+    "base_property": "Property:HasFrequencyValue"
+}

@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "943e8e23-25b0-5f96-8807-493523567a8a",
     "name": "HasModulusOfSubgradeReactionValue",
     "label": [
@@ -14,13 +17,11 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "80e3d12c-4b7a-5e3a-93ad-764035fce370",
         "name": "N/m³",
-        "main_symbol": "N/m³"
+        "main_symbol": "N/m³",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
         {

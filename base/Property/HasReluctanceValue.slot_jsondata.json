@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "409c1aa1-c565-571f-b1e2-15733e388bf5",
     "name": "HasReluctanceValue",
     "label": [
@@ -14,12 +17,10 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "d7bbb1d2-e69e-5be9-ac8b-1634f3ff5ad3",
-        "name": "1/H",
-        "main_symbol": "1/H"
+        "name": "/H",
+        "main_symbol": "/H",
+        "conversion_factor_to_main_unit": "1.0"
     }
 }

@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "176905fa-6516-5b4d-834f-093249932fef",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/TotalAngularMomentumQuantumNumber"
     ],
+    "uuid": "176905fa-6516-5b4d-834f-093249932fef",
     "name": "TotalAngularMomentumQuantumNumber",
     "label": [
         {

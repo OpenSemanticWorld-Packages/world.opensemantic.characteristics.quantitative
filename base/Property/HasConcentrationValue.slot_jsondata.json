@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "2dbd2c6e-8756-57fa-87bc-7c954be1c1ec",
     "name": "HasConcentrationValue",
     "label": [
@@ -14,20 +17,24 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "0e9e87f7-4173-580c-81cc-0849f7ce5efb",
         "name": "mol/m³",
-        "main_symbol": "mol/m³"
+        "main_symbol": "mol/m³",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
         {
-            "uuid": "8c4ae01e-e606-5adf-9683-2bb6774ec26b",
-            "name": "mmol/m³",
-            "main_symbol": "mmol/m³",
-            "conversion_factor_to_main_unit": "1000.0"
+            "uuid": "b69622d2-8796-5d32-b5fe-ff72cac34a9e",
+            "name": "kmol/m³",
+            "main_symbol": "kmol/m³",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "ef431d8a-58d8-5a79-b5ce-b5d12fd9a4f2",
+            "name": "mol/L",
+            "main_symbol": "mol/L",
+            "conversion_factor_to_main_unit": "0.001"
         },
         {
             "uuid": "5d59859c-d6ef-580d-97e6-bde212480774",
@@ -36,10 +43,46 @@
             "conversion_factor_to_main_unit": "0.001"
         },
         {
-            "uuid": "b69622d2-8796-5d32-b5fe-ff72cac34a9e",
-            "name": "kmol/m³",
-            "main_symbol": "kmol/m³",
-            "conversion_factor_to_main_unit": "0.001"
+            "uuid": "51d82e70-3675-5d30-b0b7-bced13c27b17",
+            "name": "cmol/L",
+            "main_symbol": "cmol/L",
+            "conversion_factor_to_main_unit": "0.1"
+        },
+        {
+            "uuid": "8410aea5-dc15-5624-9712-7a8ff1a39ce1",
+            "name": "mmol/L",
+            "main_symbol": "mmol/L",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "8c4ae01e-e606-5adf-9683-2bb6774ec26b",
+            "name": "mmol/m³",
+            "main_symbol": "mmol/m³",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "527ec4ed-30a6-5d4e-bab6-2982c7c92e93",
+            "name": "μmol/L",
+            "main_symbol": "μmol/L",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "9b6c6f52-5d1b-5004-a26f-24203aa7509f",
+            "name": "nmol/L",
+            "main_symbol": "nmol/L",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "a48d0704-94b8-5eaa-8ea4-c53cbf00e930",
+            "name": "pmol/L",
+            "main_symbol": "pmol/L",
+            "conversion_factor_to_main_unit": "999999999.9999999"
+        },
+        {
+            "uuid": "c120835d-f631-5f61-a075-5e6c76286d57",
+            "name": "fmol/L",
+            "main_symbol": "fmol/L",
+            "conversion_factor_to_main_unit": "1000000000000.0"
         },
         {
             "uuid": "87e1d5c3-bbed-5ae2-bb29-46045d0e1c78",

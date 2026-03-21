@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "264c76d5-ade3-53be-a3e1-ab65437ff187",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/EquivalentDensity"
     ],
+    "uuid": "264c76d5-ade3-53be-a3e1-ab65437ff187",
     "name": "EquivalentDensity",
     "label": [
         {

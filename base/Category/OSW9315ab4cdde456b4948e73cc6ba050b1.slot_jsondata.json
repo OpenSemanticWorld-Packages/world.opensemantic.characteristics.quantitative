@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "9315ab4c-dde4-56b4-948e-73cc6ba050b1",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/PressureLossPerLength"
     ],
+    "uuid": "9315ab4c-dde4-56b4-948e-73cc6ba050b1",
     "name": "PressureLossPerLength",
     "label": [
         {

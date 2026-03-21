@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "2ea2a195-a92e-5232-854d-eeb78edf3b6f",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/ElectromotiveForce",
-        "http://dbpedia.org/resource/Electromotive_force"
+        "http://dbpedia.org/resource/Electromotive_force",
+        "http://qudt.org/vocab/quantitykind/ElectromotiveForce"
     ],
+    "uuid": "2ea2a195-a92e-5232-854d-eeb78edf3b6f",
     "name": "ElectromotiveForce",
     "label": [
         {

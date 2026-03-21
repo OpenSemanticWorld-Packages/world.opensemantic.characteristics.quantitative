@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
     "uuid": "fc4f476f-c5b3-5ecf-86bd-db4eaab08332",
     "name": "HasRadiantFluxValue",
     "label": [
@@ -19,8 +22,5 @@
     ],
     "property_type": "Quantity",
     "subproperty_of": "Property:HasPowerValue",
-    "type": [
-        "Category:OSW69f251a900944602a08d1cca830249b5"
-    ],
     "base_property": "Property:HasPowerValue"
 }

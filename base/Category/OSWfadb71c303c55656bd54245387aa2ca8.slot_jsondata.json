@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "fadb71c3-03c5-5656-bd54-245387aa2ca8",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/DiffusionCoefficientForFluenceRate"
     ],
+    "uuid": "fadb71c3-03c5-5656-bd54-245387aa2ca8",
     "name": "DiffusionCoefficientForFluenceRate",
     "label": [
         {

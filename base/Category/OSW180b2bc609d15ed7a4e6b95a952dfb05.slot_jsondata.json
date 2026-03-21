@@ -2,12 +2,12 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "180b2bc6-09d1-5ed7-a4e6-b95a952dfb05",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/SolidAngle",
         "http://dbpedia.org/resource/Solid_angle",
-        "https://si-digital-framework.org/SI/quantities/ANGS"
+        "http://qudt.org/vocab/quantitykind/SolidAngle",
+        "https://si-digital-framework.org/quantities/ANGS"
     ],
+    "uuid": "180b2bc6-09d1-5ed7-a4e6-b95a952dfb05",
     "name": "SolidAngle",
     "label": [
         {

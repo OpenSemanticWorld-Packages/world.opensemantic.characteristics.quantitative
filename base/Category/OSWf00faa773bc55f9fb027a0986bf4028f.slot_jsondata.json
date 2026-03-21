@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "f00faa77-3bc5-5f9f-b027-a0986bf4028f",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/SpatialSummationFunction"
     ],
+    "uuid": "f00faa77-3bc5-5f9f-b027-a0986bf4028f",
     "name": "SpatialSummationFunction",
     "label": [
         {

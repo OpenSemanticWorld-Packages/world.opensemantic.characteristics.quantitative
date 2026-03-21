@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "1f5c6d48-545a-5639-8956-6d8b589612c2",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MigrationArea"
     ],
+    "uuid": "1f5c6d48-545a-5639-8956-6d8b589612c2",
     "name": "MigrationArea",
     "label": [
         {

@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "ab8d90e4-cf37-5a00-a31a-76e87df91860",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ShannonDiversityIndex"
     ],
+    "uuid": "ab8d90e4-cf37-5a00-a31a-76e87df91860",
     "name": "ShannonDiversityIndex",
     "label": [
         {

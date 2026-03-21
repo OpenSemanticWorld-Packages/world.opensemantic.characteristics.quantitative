@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "5dc3dc74-fcb8-51e4-9e95-b82204c2f2dd",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/GroupSpeedOfSound"
     ],
+    "uuid": "5dc3dc74-fcb8-51e4-9e95-b82204c2f2dd",
     "name": "GroupSpeedOfSound",
     "label": [
         {

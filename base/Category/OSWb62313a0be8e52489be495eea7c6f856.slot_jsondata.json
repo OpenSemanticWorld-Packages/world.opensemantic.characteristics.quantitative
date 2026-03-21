@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "b62313a0-be8e-5248-9be4-95eea7c6f856",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/VoltageRatio"
     ],
+    "uuid": "b62313a0-be8e-5248-9be4-95eea7c6f856",
     "name": "VoltageRatio",
     "label": [
         {

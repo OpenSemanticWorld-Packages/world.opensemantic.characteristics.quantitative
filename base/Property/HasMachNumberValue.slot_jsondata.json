@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "uuid": "0dccf416-b385-5607-a177-d5908e6fd839",
+    "name": "HasMachNumberValue",
+    "label": [
+        {
+            "text": "Mach number",
+            "lang": "en"
+        },
+        {
+            "text": "Mach-Zahl",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Mach Number\" is a dimensionless quantity representing the speed of an object moving through air or other fluid divided by the local speed of sound. It is commonly used to represent the speed of an object when it is traveling close to or above the speed of sound. The Mach number is commonly used both with objects traveling at high speed in a fluid, and with high-speed fluid flows inside channels such as nozzles, diffusers or wind tunnels. As it is defined as a ratio of two speeds, it is a dimensionless number.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessRatioValue",
+    "base_property": "Property:HasDimensionlessRatioValue"
+}

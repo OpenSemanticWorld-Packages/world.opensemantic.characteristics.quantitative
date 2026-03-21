@@ -1,0 +1,92 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/CostPerEnergy"
+    ],
+    "uuid": "824f6df3-f16d-5447-b189-2f32fd5f8eb4",
+    "name": "EnergyCost",
+    "label": [
+        {
+            "text": "Energy cost",
+            "lang": "en"
+        },
+        {
+            "text": "Energiekosten",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The monetary cost of a unit of energy",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW2232b054df0354eda3181f7d7e65e3ca",
+    "default_unit": "Item:OSW62abaa6888ab5bc1993bdc057bf66d01",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW62abaa6888ab5bc1993bdc057bf66d01",
+            "name": "euro_per_W_s",
+            "symbol": "€/(W·s)"
+        },
+        {
+            "osw_id": "Item:OSW900f3e428d94531585290faab081bb65",
+            "name": "chf_per_kW_h",
+            "symbol": "CHF/(kW·h)"
+        },
+        {
+            "osw_id": "Item:OSWfc0f1b2da6735268b36f271b58a30880",
+            "name": "forint_per_kW_h",
+            "symbol": "Ft/(kW·h)"
+        },
+        {
+            "osw_id": "Item:OSWb8ebd931d79f536db513bfa5624a8170",
+            "name": "koruna_per_kW_h",
+            "symbol": "Kč/(kW·h)"
+        },
+        {
+            "osw_id": "Item:OSWa2eff55a062a5ac7b35c6644e3964a97",
+            "name": "liter_per_hour_per_kilo_watt",
+            "symbol": "L/(kW·h)"
+        },
+        {
+            "osw_id": "Item:OSW07934b5043e05afb8c3db10c3b098a87",
+            "name": "krone_per_kW_h",
+            "symbol": "kr/(kW·h)"
+        },
+        {
+            "osw_id": "Item:OSW5124e1cf54de593789b807df549a1c9c",
+            "name": "zloty_per_kW_h",
+            "symbol": "zł/(kW·h)"
+        },
+        {
+            "osw_id": "Item:OSW0e65ef0fa8bb5fa7a6cb54505e54d559",
+            "name": "pound_per_kW_h",
+            "symbol": "£/(kW·h)"
+        },
+        {
+            "osw_id": "Item:OSW0db23553b6075ef9b9a4f717b286b0d0",
+            "name": "lev_per_kW_h",
+            "symbol": "лв./(kW·h)"
+        },
+        {
+            "osw_id": "Item:OSWd07d2737c3de5ffd8e9027505e8b44db",
+            "name": "euro_per_kW_h",
+            "symbol": "€/(kW·h)"
+        },
+        {
+            "osw_id": "Item:OSW3c97bbdd02cf52839cac517b5db25755",
+            "name": "euro_per_W_h",
+            "symbol": "€/(W·h)"
+        }
+    ],
+    "quantity_property": "Property:HasEnergyCostValue"
+}

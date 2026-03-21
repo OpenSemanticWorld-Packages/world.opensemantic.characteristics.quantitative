@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "877f6c0b-1134-5264-9d1a-4ac5ea3a6710",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/Strain",
-        "http://dbpedia.org/resource/Strain"
+        "http://dbpedia.org/resource/Strain",
+        "http://qudt.org/vocab/quantitykind/Strain"
     ],
+    "uuid": "877f6c0b-1134-5264-9d1a-4ac5ea3a6710",
     "name": "Strain",
     "label": [
         {

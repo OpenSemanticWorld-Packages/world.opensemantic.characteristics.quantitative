@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "9c887dd0-f7e0-5d67-baab-92a2ba4be3bc",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Depth"
     ],
+    "uuid": "9c887dd0-f7e0-5d67-baab-92a2ba4be3bc",
     "name": "Depth",
     "label": [
         {

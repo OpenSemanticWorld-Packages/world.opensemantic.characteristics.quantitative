@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "ec7aa861-73a4-5fcf-adce-88e258181d3b",
     "name": "HasSpecificHeatCapacityAtConstantVolumeValue",
     "label": [
@@ -14,12 +17,36 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
-        "uuid": "3ebf6bf4-17f6-56fa-9f49-62a98bcd37fb",
-        "name": "J/(kg·°C)",
-        "main_symbol": "J/(kg·°C)"
-    }
+        "uuid": "6c79982a-75ce-5b80-b1af-d2fe52747e15",
+        "name": "J/(kg·K)",
+        "main_symbol": "J/(kg·K)",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "798e6065-8205-5dbc-be08-c6c1597232f4",
+            "name": "J/(g·K)",
+            "main_symbol": "J/(g·K)",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "b338906b-4545-5c93-84b0-7085fac2db37",
+            "name": "J/(g·°C)",
+            "main_symbol": "J/(g·°C)",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "f4842fc4-29cf-5147-bf51-cbb66743cc03",
+            "name": "kJ/(kg·K)",
+            "main_symbol": "kJ/(kg·K)",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "3ebf6bf4-17f6-56fa-9f49-62a98bcd37fb",
+            "name": "J/(kg·°C)",
+            "main_symbol": "J/(kg·°C)",
+            "conversion_factor_to_main_unit": "1.0"
+        }
+    ]
 }

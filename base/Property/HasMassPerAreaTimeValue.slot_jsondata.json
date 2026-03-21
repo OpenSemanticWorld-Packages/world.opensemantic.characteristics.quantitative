@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "67c4dd64-fb5a-5e40-ac69-48faf8f4272c",
     "name": "HasMassPerAreaTimeValue",
     "label": [
@@ -14,26 +17,102 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
-        "uuid": "c35d38bd-067a-5e67-9b78-cbab1994b9ff",
-        "name": "g/(m²·d)",
-        "main_symbol": "g/(m²·d)"
+        "uuid": "b7702f6b-532d-5464-abf3-1a2a50f81cdd",
+        "name": "kg/(s·m²)",
+        "main_symbol": "kg/(s·m²)",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
+        {
+            "uuid": "d5adb5da-2e87-515b-bfb7-3e70f76affeb",
+            "name": "kg/(m²·s)",
+            "main_symbol": "kg/(m²·s)",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "7a17a51c-98e7-56d0-b63d-140d330b33e2",
+            "name": "kg/(m²·d)",
+            "main_symbol": "kg/(m²·d)",
+            "conversion_factor_to_main_unit": "86400.0"
+        },
+        {
+            "uuid": "da5bbdee-5450-50bb-97c7-f07d69eef4f7",
+            "name": "mg/(m²·s)",
+            "main_symbol": "mg/(m²·s)",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "6db70a05-10c2-50a0-b201-45665a9ad122",
+            "name": "g/(cm²·a)",
+            "main_symbol": "g/(cm²·a)",
+            "conversion_factor_to_main_unit": "3155760.0"
+        },
+        {
+            "uuid": "04b803e4-4ee1-53a1-b08f-e1f0446fd2f3",
+            "name": "g/(m²·h)",
+            "main_symbol": "g/(m²·h)",
+            "conversion_factor_to_main_unit": "3600000.0000000005"
+        },
+        {
+            "uuid": "c35d38bd-067a-5e67-9b78-cbab1994b9ff",
+            "name": "g/(m²·d)",
+            "main_symbol": "g/(m²·d)",
+            "conversion_factor_to_main_unit": "86400000.0"
+        },
+        {
+            "uuid": "2cf1f7c7-34e2-5c8c-92e1-a132ee6e2bf5",
+            "name": "Mg/(ha·a)",
+            "main_symbol": "Mg/(ha·a)",
+            "conversion_factor_to_main_unit": "315576000.0"
+        },
+        {
+            "uuid": "cb618dfd-8f0b-5f58-bd03-dfc6922bccc9",
+            "name": "t/(ha·a)",
+            "main_symbol": "t/(ha·a)",
+            "conversion_factor_to_main_unit": "315576000.0"
+        },
+        {
+            "uuid": "1756ba55-3837-5039-a36a-9806fda8651c",
+            "name": "mg/(m²·h)",
+            "main_symbol": "mg/(m²·h)",
+            "conversion_factor_to_main_unit": "3600000000.0"
+        },
+        {
+            "uuid": "fb87f3cf-6ede-56c9-bc1d-b3c8050a4356",
+            "name": "g/(m²·a)",
+            "main_symbol": "g/(m²·a)",
+            "conversion_factor_to_main_unit": "31557600000.000004"
+        },
+        {
+            "uuid": "2ca3f005-582f-54dc-9c1d-6c9c27885147",
+            "name": "μg/(cm²·wk)",
+            "main_symbol": "μg/(cm²·wk)",
+            "conversion_factor_to_main_unit": "60480000000.0"
+        },
         {
             "uuid": "71d5450b-df19-5680-a127-0cdf96530fea",
             "name": "mg/(m²·d)",
             "main_symbol": "mg/(m²·d)",
-            "conversion_factor_to_main_unit": "86399999999.99982"
+            "conversion_factor_to_main_unit": "86400000000.0"
+        },
+        {
+            "uuid": "9849766f-f3d0-53cf-99cc-c943f7765fab",
+            "name": "kg/(ha·a)",
+            "main_symbol": "kg/(ha·a)",
+            "conversion_factor_to_main_unit": "315576000000.0"
+        },
+        {
+            "uuid": "1ca87452-24c0-5b1d-9454-2ecf9a420b99",
+            "name": "ng/(cm²·d)",
+            "main_symbol": "ng/(cm²·d)",
+            "conversion_factor_to_main_unit": "8640000000000.001"
         },
         {
             "uuid": "1189eb41-2b91-5f26-93fb-686ebf5cf586",
             "name": "μg/(m²·d)",
             "main_symbol": "μg/(m²·d)",
-            "conversion_factor_to_main_unit": "86399999999999.8"
+            "conversion_factor_to_main_unit": "86400000000000.0"
         }
     ]
 }

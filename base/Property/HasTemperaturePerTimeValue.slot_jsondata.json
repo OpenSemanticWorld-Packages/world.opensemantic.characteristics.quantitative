@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "3d767ddf-9440-5377-b4da-6edd156d6d74",
     "name": "HasTemperaturePerTimeValue",
     "label": [
@@ -8,12 +11,48 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
-        "uuid": "082b5781-e205-5d7c-805e-07518d2c3488",
-        "name": "°C/s",
-        "main_symbol": "°C/s"
-    }
+        "uuid": "96f2900b-f7fd-5368-aa18-28aee00ee64f",
+        "name": "K/s",
+        "main_symbol": "K/s",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "082b5781-e205-5d7c-805e-07518d2c3488",
+            "name": "°C/s",
+            "main_symbol": "°C/s",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "c41fc0db-b4f3-5434-aa97-46f1ef76ce75",
+            "name": "K/min",
+            "main_symbol": "K/min",
+            "conversion_factor_to_main_unit": "60.0"
+        },
+        {
+            "uuid": "1889cced-6b6d-5bd4-a4a7-404fdc897670",
+            "name": "°C/min",
+            "main_symbol": "°C/min",
+            "conversion_factor_to_main_unit": "60.0"
+        },
+        {
+            "uuid": "c63d7d82-07a2-5463-9c66-fcc3dbf5e0c5",
+            "name": "K/h",
+            "main_symbol": "K/h",
+            "conversion_factor_to_main_unit": "3600.0"
+        },
+        {
+            "uuid": "ac1fd84d-0716-5be8-8288-18005a882776",
+            "name": "°C/h",
+            "main_symbol": "°C/h",
+            "conversion_factor_to_main_unit": "3600.0"
+        },
+        {
+            "uuid": "da0c2527-2209-508e-8be4-e9ee5e5d23ed",
+            "name": "°C/a",
+            "main_symbol": "°C/a",
+            "conversion_factor_to_main_unit": "31557600.000000004"
+        }
+    ]
 }

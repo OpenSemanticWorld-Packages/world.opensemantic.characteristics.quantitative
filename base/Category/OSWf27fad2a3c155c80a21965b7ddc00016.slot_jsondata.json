@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "f27fad2a-3c15-5c80-a219-65b7ddc00016",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/RadiantEnergy"
     ],
+    "uuid": "f27fad2a-3c15-5c80-a219-65b7ddc00016",
     "name": "RadiantEnergy",
     "label": [
         {

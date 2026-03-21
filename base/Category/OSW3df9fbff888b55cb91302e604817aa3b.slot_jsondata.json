@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "3df9fbff-888b-55cb-9130-2e604817aa3b",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ThermalUtilizationFactorForFission"
     ],
+    "uuid": "3df9fbff-888b-55cb-9130-2e604817aa3b",
     "name": "ThermalUtilizationFactorForFission",
     "label": [
         {

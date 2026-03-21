@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "64892b4f-11e8-52b1-8739-75a66e851abe",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/AreaPerTime"
     ],
+    "uuid": "64892b4f-11e8-52b1-8739-75a66e851abe",
     "name": "AreaPerTime",
     "label": [
         {
@@ -20,8 +20,28 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSWd01359716f075c358cd1c8d5b97ed29c",
-    "default_unit": "Item:OSWbcb6356964e659dfad78833199412afc",
+    "default_unit": "Item:OSW20b837bfd2fa5c3abc86347ce702f27c",
     "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW20b837bfd2fa5c3abc86347ce702f27c",
+            "name": "meter_squared_per_second",
+            "symbol": "m²/s"
+        },
+        {
+            "osw_id": "Item:OSW5db8f161eb8c59129cef62d84dd3309c",
+            "name": "milli_meter_squared_per_second",
+            "symbol": "mm²/s"
+        },
+        {
+            "osw_id": "Item:OSW031bb99ee99a5794a24c66e6203c21db",
+            "name": "centi_meter_squared_per_second",
+            "symbol": "cm²/s"
+        },
+        {
+            "osw_id": "Item:OSW64c61484ad6054068c8e1d0755b7389b",
+            "name": "meter_squared_per_hour",
+            "symbol": "m²/h"
+        },
         {
             "osw_id": "Item:OSWbcb6356964e659dfad78833199412afc",
             "name": "hertz_meter_squared",

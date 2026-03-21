@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "bae7311e-d444-5fb5-922b-5b8470ff235a",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/StaticFriction",
-        "http://dbpedia.org/resource/Friction"
+        "http://dbpedia.org/resource/Friction",
+        "http://qudt.org/vocab/quantitykind/StaticFriction"
     ],
+    "uuid": "bae7311e-d444-5fb5-922b-5b8470ff235a",
     "name": "StaticFriction",
     "label": [
         {

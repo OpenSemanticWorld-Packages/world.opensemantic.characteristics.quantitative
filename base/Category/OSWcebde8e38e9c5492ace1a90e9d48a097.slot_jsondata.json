@@ -1,0 +1,32 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/InverseSquareMass"
+    ],
+    "uuid": "cebde8e3-8e9c-5492-ace1-a90e9d48a097",
+    "name": "InverseSquareMass",
+    "label": [
+        {
+            "text": "Inverse Square Mass",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWda44ec852ac052fb86c4179f4fbf21c2",
+    "default_unit": "Item:OSWea9499724b3152d5a6090f9ef5ce7f4a",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWea9499724b3152d5a6090f9ef5ce7f4a",
+            "name": "per_kilo_gram_squared",
+            "symbol": "/kg²"
+        }
+    ],
+    "quantity_property": "Property:HasInverseSquareMassValue"
+}

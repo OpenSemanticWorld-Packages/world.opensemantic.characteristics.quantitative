@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "f44e3346-3478-54fd-8a58-ec2f1c1894b1",
     "name": "HasResistivityValue",
     "label": [
@@ -14,12 +17,72 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "87cbcc9a-dac0-5dc9-9b65-e0a05665bcf1",
         "name": "Ω·m",
-        "main_symbol": "Ω·m"
-    }
+        "main_symbol": "Ω·m",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "bbd9d1e3-f5af-512c-9204-33a887b95b9e",
+            "name": "GΩ·m",
+            "main_symbol": "GΩ·m",
+            "conversion_factor_to_main_unit": "1e-09"
+        },
+        {
+            "uuid": "afbf10f4-2723-5aaa-b24b-89deb67500a9",
+            "name": "MΩ·km",
+            "main_symbol": "MΩ·km",
+            "conversion_factor_to_main_unit": "1e-09"
+        },
+        {
+            "uuid": "4986ef90-2d16-56bd-b978-ea93d2089bad",
+            "name": "MΩ·m",
+            "main_symbol": "MΩ·m",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "f2bade70-7350-509e-bfd8-2809941ecf3c",
+            "name": "kΩ·m",
+            "main_symbol": "kΩ·m",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "fd3eaf9a-5697-5f20-8bd6-619067c87c7d",
+            "name": "Ω·km",
+            "main_symbol": "Ω·km",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "ca1f7204-1541-5274-8388-b341f7aff922",
+            "name": "Ω·m²/m",
+            "main_symbol": "Ω·m²/m",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "b52da3b5-f6bc-5c22-92d4-de4b441657e3",
+            "name": "Ω·cm",
+            "main_symbol": "Ω·cm",
+            "conversion_factor_to_main_unit": "100.0"
+        },
+        {
+            "uuid": "74fd2789-d26e-57a1-a54c-1d338c5e0a94",
+            "name": "mΩ·m",
+            "main_symbol": "mΩ·m",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "e77b5b82-0eeb-507b-a081-922918317299",
+            "name": "μΩ·m",
+            "main_symbol": "μΩ·m",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "b6f5b0ed-d2bd-567e-8487-53f0ccdab39a",
+            "name": "nΩ·m",
+            "main_symbol": "nΩ·m",
+            "conversion_factor_to_main_unit": "999999999.9999999"
+        }
+    ]
 }

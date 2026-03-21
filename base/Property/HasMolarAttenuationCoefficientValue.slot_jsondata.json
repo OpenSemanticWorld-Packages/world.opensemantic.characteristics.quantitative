@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "d2f7c725-87c9-50b2-8b92-12a6f8cfbb88",
     "name": "HasMolarAttenuationCoefficientValue",
     "label": [
@@ -14,12 +17,10 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "1ffc24a2-0a50-5743-8bb6-0b06586bb410",
         "name": "m²/mol",
-        "main_symbol": "m²/mol"
+        "main_symbol": "m²/mol",
+        "conversion_factor_to_main_unit": "1.0"
     }
 }

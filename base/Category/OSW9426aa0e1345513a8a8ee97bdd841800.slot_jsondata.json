@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "9426aa0e-1345-513a-8a8e-e97bdd841800",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/DiastolicBloodPressure"
     ],
+    "uuid": "9426aa0e-1345-513a-8a8e-e97bdd841800",
     "name": "DiastolicBloodPressure",
     "label": [
         {

@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "68ebaa3e-9a6b-5caa-90f1-486bd5236739",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/SpecificGibbsEnergy"
     ],
+    "uuid": "68ebaa3e-9a6b-5caa-90f1-486bd5236739",
     "name": "SpecificGibbsEnergy",
     "label": [
         {

@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "a76d2f3b-5b21-5031-a315-e3ab651e5c32",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/TARGET-BOGIE-MASS"
     ],
+    "uuid": "a76d2f3b-5b21-5031-a315-e3ab651e5c32",
     "name": "TargetBogieMass",
     "label": [
         {

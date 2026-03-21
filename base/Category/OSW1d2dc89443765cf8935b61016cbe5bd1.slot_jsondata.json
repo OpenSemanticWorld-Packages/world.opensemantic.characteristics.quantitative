@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "1d2dc894-4376-5cf8-935b-61016cbe5bd1",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/AngleOfAttack"
     ],
+    "uuid": "1d2dc894-4376-5cf8-935b-61016cbe5bd1",
     "name": "AngleOfAttack",
     "label": [
         {

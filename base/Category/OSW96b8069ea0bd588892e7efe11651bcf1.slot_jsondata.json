@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "96b8069e-a0bd-5888-92e7-efe11651bcf1",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/SpecificEntropy",
-        "http://dbpedia.org/resource/Entropy"
+        "http://dbpedia.org/resource/Entropy",
+        "http://qudt.org/vocab/quantitykind/SpecificEntropy"
     ],
+    "uuid": "96b8069e-a0bd-5888-92e7-efe11651bcf1",
     "name": "SpecificEntropy",
     "label": [
         {
@@ -27,12 +27,32 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSWc7ad36f3ad0050b5a7732fa58353cd3a",
-    "default_unit": "Item:OSW93d8b6e516fd54f09d483dee1278e3a8#OSWa0cd208ccfa759388597f5f9ff5c69fc",
+    "default_unit": "Item:OSW2dab15bbb20c59a681c5ffecfdcb9e59",
     "unit_enumeration": [
         {
-            "osw_id": "Item:OSW93d8b6e516fd54f09d483dee1278e3a8#OSWa0cd208ccfa759388597f5f9ff5c69fc",
+            "osw_id": "Item:OSW2dab15bbb20c59a681c5ffecfdcb9e59",
+            "name": "joule_per_kelvin_per_kilo_gram",
+            "symbol": "J/(kg·K)"
+        },
+        {
+            "osw_id": "Item:OSWa0cd208ccfa759388597f5f9ff5c69fc",
             "name": "joule_per_Celsius_per_kilo_gram",
             "symbol": "J/(kg·°C)"
+        },
+        {
+            "osw_id": "Item:OSWbe6c8545fd585776ad877e91f1c72b16",
+            "name": "joule_per_gram_per_kelvin",
+            "symbol": "J/(g·K)"
+        },
+        {
+            "osw_id": "Item:OSW93d8b6e516fd54f09d483dee1278e3a8",
+            "name": "joule_per_Celsius_per_gram",
+            "symbol": "J/(g·°C)"
+        },
+        {
+            "osw_id": "Item:OSWbe6c8545fd585776ad877e91f1c72b16#OSW75171ce175aa5004b4f550375d9b33f6",
+            "name": "kilo_joule_per_kelvin_per_kilo_gram",
+            "symbol": "kJ/(kg·K)"
         }
     ],
     "quantity_property": "Property:HasSpecificEntropyValue"

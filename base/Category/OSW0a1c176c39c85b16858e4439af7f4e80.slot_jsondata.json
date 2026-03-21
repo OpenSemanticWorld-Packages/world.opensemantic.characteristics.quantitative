@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "0a1c176c-39c8-5b16-858e-4439af7f4e80",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/FirstMomentOfArea"
     ],
+    "uuid": "0a1c176c-39c8-5b16-858e-4439af7f4e80",
     "name": "FirstMomentOfArea",
     "label": [
         {

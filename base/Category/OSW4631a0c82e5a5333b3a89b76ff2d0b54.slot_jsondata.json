@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "4631a0c8-2e5a-5333-b3a8-9b76ff2d0b54",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ElectricChargeLinearDensity"
     ],
+    "uuid": "4631a0c8-2e5a-5333-b3a8-9b76ff2d0b54",
     "name": "ElectricChargeLinearDensity",
     "label": [
         {

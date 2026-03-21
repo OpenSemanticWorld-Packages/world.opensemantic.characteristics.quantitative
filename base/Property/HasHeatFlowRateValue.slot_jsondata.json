@@ -1,0 +1,22 @@
+{
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "uuid": "faa6c4bc-9e44-5811-b653-96dbf7aca1ce",
+    "name": "HasHeatFlowRateValue",
+    "label": [
+        {
+            "text": "Heat Flow Rate",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The rate of heat flow between two systems is measured in watts (joules per second). The formula for rate of heat flow is $\\bigtriangleup Q / \\bigtriangleup t = -K \\times A \\times \\bigtriangleup T/x$, where $\\bigtriangleup Q / \\bigtriangleup t$ is the rate of heat flow; $-K$ is the thermal conductivity factor; A is the surface area; $\\bigtriangleup T$ is the change in temperature and $x$ is the thickness of the material. $\\bigtriangleup  T/ x$ is called the temperature gradient and is always negative because of the heat of flow always goes from more thermal energy to less).",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasPowerValue",
+    "base_property": "Property:HasPowerValue"
+}

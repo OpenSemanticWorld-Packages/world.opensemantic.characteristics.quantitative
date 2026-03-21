@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "ebbeb9f9-86be-56ab-9cc8-7ca5e3faeb32",
     "name": "HasElectricPolarizationValue",
     "label": [
@@ -18,31 +21,23 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "3ccba8f5-f5a0-5b70-832f-9258652a253f",
         "name": "C/m²",
-        "main_symbol": "C/m²"
+        "main_symbol": "C/m²",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
-        {
-            "uuid": "ee6e05e7-3f99-5d82-bc9f-4c3907c53485",
-            "name": "μC/m²",
-            "main_symbol": "μC/m²",
-            "conversion_factor_to_main_unit": "1000000.0"
-        },
-        {
-            "uuid": "aa10e3b3-56ec-521c-8559-ad8d0cd83e9a",
-            "name": "mC/m²",
-            "main_symbol": "mC/m²",
-            "conversion_factor_to_main_unit": "1000.0"
-        },
         {
             "uuid": "52ded546-7804-5c6c-a318-b4abea038b81",
             "name": "C/mm²",
             "main_symbol": "C/mm²",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "d345c9e9-487e-5818-aa6e-f825879cec30",
+            "name": "MC/m²",
+            "main_symbol": "MC/m²",
             "conversion_factor_to_main_unit": "1e-06"
         },
         {
@@ -52,16 +47,22 @@
             "conversion_factor_to_main_unit": "0.0001"
         },
         {
-            "uuid": "d345c9e9-487e-5818-aa6e-f825879cec30",
-            "name": "MC/m²",
-            "main_symbol": "MC/m²",
-            "conversion_factor_to_main_unit": "1e-06"
-        },
-        {
             "uuid": "2981e8aa-3bb5-58ba-b73a-ed0cd794feac",
             "name": "kC/m²",
             "main_symbol": "kC/m²",
             "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "aa10e3b3-56ec-521c-8559-ad8d0cd83e9a",
+            "name": "mC/m²",
+            "main_symbol": "mC/m²",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "ee6e05e7-3f99-5d82-bc9f-4c3907c53485",
+            "name": "μC/m²",
+            "main_symbol": "μC/m²",
+            "conversion_factor_to_main_unit": "1000000.0"
         }
     ]
 }

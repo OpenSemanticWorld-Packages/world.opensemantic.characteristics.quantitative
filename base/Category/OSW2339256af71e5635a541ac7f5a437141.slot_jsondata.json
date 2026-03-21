@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "2339256a-f71e-5635-a541-ac7f5a437141",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/Angle",
-        "http://dbpedia.org/resource/Angle"
+        "http://dbpedia.org/resource/Angle",
+        "http://qudt.org/vocab/quantitykind/Angle"
     ],
+    "uuid": "2339256a-f71e-5635-a541-ac7f5a437141",
     "name": "Angle",
     "label": [
         {

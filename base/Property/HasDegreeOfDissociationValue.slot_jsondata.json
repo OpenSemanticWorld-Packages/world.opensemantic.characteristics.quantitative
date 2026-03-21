@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "uuid": "2306dd01-44bd-534a-acd6-27f6b6718dcb",
+    "name": "HasDegreeOfDissociationValue",
+    "label": [
+        {
+            "text": "Degree of Dissociation",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Degree of Dissociation\" is the fraction of original solute molecules that have dissociated.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "main_unit": {
+        "uuid": "4411f5ca-371f-5a11-91c7-0ca80634c8f5",
+        "name": "一",
+        "main_symbol": "一",
+        "conversion_factor_to_main_unit": "1.0"
+    }
+}

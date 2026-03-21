@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "a3f14dbd-a73f-5a4f-aa19-595388c74d3e",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MASS-DELIVERED"
     ],
+    "uuid": "a3f14dbd-a73f-5a4f-aa19-595388c74d3e",
     "name": "MassDelivered",
     "label": [
         {

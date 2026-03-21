@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "ec17c4ff-58f0-52d4-8957-2a95d9024b78",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/InverseMagneticFlux"
     ],
+    "uuid": "ec17c4ff-58f0-52d4-8957-2a95d9024b78",
     "name": "InverseMagneticFlux",
     "label": [
         {
@@ -26,6 +26,11 @@
             "osw_id": "Item:OSW0effc6b933ac5d01927c086bd170f4c7",
             "name": "hertz_per_volt",
             "symbol": "Hz/V"
+        },
+        {
+            "osw_id": "Item:OSW47655982de7d5958a051f4f3aa75b62a",
+            "name": "per_weber",
+            "symbol": "/Wb"
         }
     ],
     "quantity_property": "Property:HasInverseMagneticFluxValue"

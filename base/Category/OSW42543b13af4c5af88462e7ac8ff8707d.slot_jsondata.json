@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "42543b13-af4c-5af8-8462-e7ac8ff8707d",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/VehicleVelocity"
     ],
+    "uuid": "42543b13-af4c-5af8-8462-e7ac8ff8707d",
     "name": "VehicleVelocity",
     "label": [
         {

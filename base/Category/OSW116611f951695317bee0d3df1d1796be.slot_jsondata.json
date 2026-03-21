@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "116611f9-5169-5317-bee0-d3df1d1796be",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/CompoundPlaneAngle"
     ],
+    "uuid": "116611f9-5169-5317-bee0-d3df1d1796be",
     "name": "CompoundPlaneAngle",
     "label": [
         {

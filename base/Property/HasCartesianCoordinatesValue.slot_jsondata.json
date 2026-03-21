@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
     "uuid": "b15e1dfb-28dd-5197-8b56-25172c1ebf66",
     "name": "HasCartesianCoordinatesValue",
     "label": [
@@ -19,8 +22,5 @@
     ],
     "property_type": "Quantity",
     "subproperty_of": "Property:HasLengthValue",
-    "type": [
-        "Category:OSW69f251a900944602a08d1cca830249b5"
-    ],
     "base_property": "Property:HasLengthValue"
 }

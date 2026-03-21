@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "27391d33-7252-54a2-88fe-fb618be785f7",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ElectricChargePerMass"
     ],
+    "uuid": "27391d33-7252-54a2-88fe-fb618be785f7",
     "name": "ElectricChargePerMass",
     "label": [
         {
@@ -26,12 +26,37 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW05bfe78b370e5338924177e2aaeb648f",
-    "default_unit": "Item:OSW57e1f78efd6a50fd8f2c35ea808d7b86",
+    "default_unit": "Item:OSWf67d1f72b8d65f079085ae0b2e649428",
     "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWf67d1f72b8d65f079085ae0b2e649428",
+            "name": "per_second_per_tesla",
+            "symbol": "/(T·s)"
+        },
+        {
+            "osw_id": "Item:OSW40aee268cfd056638db75aca748bb5a9",
+            "name": "milli_coulomb_per_kilo_gram",
+            "symbol": "mC/kg"
+        },
         {
             "osw_id": "Item:OSW57e1f78efd6a50fd8f2c35ea808d7b86",
             "name": "ampere_meter_squared_per_joule_per_second",
             "symbol": "A·m²/(J·s)"
+        },
+        {
+            "osw_id": "Item:OSWae7413b736b45ffca049de991c5df83c",
+            "name": "coulomb_per_kilo_gram",
+            "symbol": "C/kg"
+        },
+        {
+            "osw_id": "Item:OSWc487154613c25f51813ae4f4de2c7802",
+            "name": "hertz_per_tesla",
+            "symbol": "Hz/T"
+        },
+        {
+            "osw_id": "Item:OSW9281c5087fb45cd3b07507b940231330",
+            "name": "mega_hertz_per_tesla",
+            "symbol": "MHz/T"
         }
     ],
     "quantity_property": "Property:HasElectricChargePerMassValue"

@@ -1,26 +1,22 @@
 {
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
     "uuid": "f8737ac8-2c3a-5cf7-b3af-579ec998a934",
     "name": "HasInternalEnergyValue",
     "label": [
         {
-            "text": "Internal energy",
+            "text": "Internal Energy",
             "lang": "en"
-        },
-        {
-            "text": "Innere Energie",
-            "lang": "de"
         }
     ],
     "description": [
         {
-            "text": "The internal energy is the total energy contained by a thermodynamic system. It is the energy needed to create the system, but excludes the energy to displace the system's surroundings, any energy associated with a move as a whole, or due to external force fields. Internal energy has two major components, kinetic energy and potential energy. The internal energy (U) is the sum of all forms of energy (Ei) intrinsic to a thermodynamic system:  $  U = \\sum_i E_i $",
+            "text": "\"Internal Energy\" is simply its energy. \"internal\" refers to the fact that some energy contributions are not considered. For instance, when the total system is in uniform motion, it has kinetic energy. This overall kinetic energy is never seen as part of the internal energy; one could call it external energy. Or, if the system is at constant non-zero height above the surface the Earth, it has constant potential energy in the gravitational field of the Earth. Gravitational energy is only taken into account when it plays a role in the phenomenon of interest, for instance in a colloidal suspension, where the gravitation influences the up- downward motion of the small particles comprising the colloid. In all other cases, gravitational energy is assumed not to contribute to the internal energy; one may call it again external energy.",
             "lang": "en"
         }
     ],
     "property_type": "Quantity",
     "subproperty_of": "Property:HasEnergyValue",
-    "type": [
-        "Category:OSW69f251a900944602a08d1cca830249b5"
-    ],
     "base_property": "Property:HasEnergyValue"
 }

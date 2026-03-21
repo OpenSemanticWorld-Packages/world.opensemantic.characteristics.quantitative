@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
     "uuid": "9decb0a2-e45b-5092-b500-ab88c92737fa",
     "name": "HasIonConcentrationValue",
     "label": [
@@ -9,14 +12,11 @@
     ],
     "description": [
         {
-            "text": "\"Ion Concentration\" is the moles of ions per volume of solution.",
+            "text": "\"Ion Concentration\" is the number of ions per unit volume. Also known as ion density.",
             "lang": "en"
         }
     ],
     "property_type": "Quantity",
-    "subproperty_of": "Property:HasConcentrationValue",
-    "type": [
-        "Category:OSW69f251a900944602a08d1cca830249b5"
-    ],
-    "base_property": "Property:HasConcentrationValue"
+    "subproperty_of": "Property:HasInverseVolumeValue",
+    "base_property": "Property:HasInverseVolumeValue"
 }

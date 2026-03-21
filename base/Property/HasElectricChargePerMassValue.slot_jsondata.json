@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "5063bbfc-e8d0-542f-9d3d-e80357e0ba53",
     "name": "HasElectricChargePerMassValue",
     "label": [
@@ -14,12 +17,42 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "4d0d9296-cfce-53f2-b322-25a97ba6f69c",
         "name": "A·m²/(J·s)",
-        "main_symbol": "A·m²/(J·s)"
-    }
+        "main_symbol": "A·m²/(J·s)",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "ea85fad6-2a59-55e5-a6fc-2782fc80c4b9",
+            "name": "MHz/T",
+            "main_symbol": "MHz/T",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "8737f9f9-095e-5887-a749-d254d767c1d7",
+            "name": "/(T·s)",
+            "main_symbol": "/(T·s)",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "e9cdece0-8853-532d-8e21-bc53d7e76907",
+            "name": "C/kg",
+            "main_symbol": "C/kg",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "3de9612e-96bb-5d24-a1d1-040dc9c7180a",
+            "name": "Hz/T",
+            "main_symbol": "Hz/T",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "f5e882e6-cc5f-5bd0-b5a4-260c42e4d386",
+            "name": "mC/kg",
+            "main_symbol": "mC/kg",
+            "conversion_factor_to_main_unit": "1000.0"
+        }
+    ]
 }

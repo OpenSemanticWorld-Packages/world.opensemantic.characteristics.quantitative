@@ -1,0 +1,94 @@
+{
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "uuid": "321de9cb-7a69-547d-a94e-ea58fbfdcb73",
+    "name": "HasDatasetOfBitsValue",
+    "label": [
+        {
+            "text": "Dataset of bits",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "main_unit": {
+        "uuid": "9dcd1426-1d8f-5f22-8a94-5a3a2beb275f",
+        "name": "b",
+        "main_symbol": "b",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "94dfad12-0a65-519a-b334-ac38e7cfd7d6",
+            "name": "Eb",
+            "main_symbol": "Eb",
+            "conversion_factor_to_main_unit": "9.999999999999999e-19"
+        },
+        {
+            "uuid": "5bea4d6e-09c2-5af8-8cac-1a82f77224cd",
+            "name": "Eib",
+            "main_symbol": "Eib",
+            "conversion_factor_to_main_unit": "6.539302647923499e-18"
+        },
+        {
+            "uuid": "e66a85d4-28f6-5877-a6f0-c1389894704e",
+            "name": "Pb",
+            "main_symbol": "Pb",
+            "conversion_factor_to_main_unit": "1e-15"
+        },
+        {
+            "uuid": "bd0ff295-9a7a-5fa8-ba47-4fad23020ce8",
+            "name": "Pib",
+            "main_symbol": "Pib",
+            "conversion_factor_to_main_unit": "7.942817632502372e-15"
+        },
+        {
+            "uuid": "09b95c2a-bf30-5b6c-b20e-72c3594bef75",
+            "name": "Tib",
+            "main_symbol": "Tib",
+            "conversion_factor_to_main_unit": "9.094947017729282e-13"
+        },
+        {
+            "uuid": "514dca20-293f-5179-91f7-a07ae204bf67",
+            "name": "Tb",
+            "main_symbol": "Tb",
+            "conversion_factor_to_main_unit": "1e-12"
+        },
+        {
+            "uuid": "c93eab33-3754-5b91-b26b-d04ac186f706",
+            "name": "Gib",
+            "main_symbol": "Gib",
+            "conversion_factor_to_main_unit": "9.313225746154785e-10"
+        },
+        {
+            "uuid": "21d65881-582a-5526-8d16-4a71d78db318",
+            "name": "Gb",
+            "main_symbol": "Gb",
+            "conversion_factor_to_main_unit": "9.999999999999999e-10"
+        },
+        {
+            "uuid": "297132fd-7218-50d6-9fcc-9a8285d1c2f4",
+            "name": "Mib",
+            "main_symbol": "Mib",
+            "conversion_factor_to_main_unit": "9.5367431640625e-07"
+        },
+        {
+            "uuid": "64bf327c-f8ea-5449-a306-d320efbc0a8f",
+            "name": "Mb",
+            "main_symbol": "Mb",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "f573a897-7894-523f-8893-1f8eddc7a4a7",
+            "name": "Kib",
+            "main_symbol": "Kib",
+            "conversion_factor_to_main_unit": "0.0009765625"
+        },
+        {
+            "uuid": "d031e9ea-b6c4-5790-a619-420b13c7e511",
+            "name": "kb",
+            "main_symbol": "kb",
+            "conversion_factor_to_main_unit": "0.0009999999999999998"
+        }
+    ]
+}

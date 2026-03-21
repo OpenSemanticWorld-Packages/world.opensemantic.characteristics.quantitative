@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "079b7a8a-bd2a-5b33-a1ca-e00e044111ea",
     "name": "HasReactanceValue",
     "label": [
@@ -14,20 +17,24 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "019eeaf1-d0ef-5200-b818-99468c98a6b6",
         "name": "Ω",
-        "main_symbol": "Ω"
+        "main_symbol": "Ω",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
         {
-            "uuid": "af601866-85ba-5975-a30f-01295360e80c",
-            "name": "mΩ",
-            "main_symbol": "mΩ",
-            "conversion_factor_to_main_unit": "1000.0"
+            "uuid": "de4a5d2a-c37d-58f3-b794-5c5a54d31b77",
+            "name": "TΩ",
+            "main_symbol": "TΩ",
+            "conversion_factor_to_main_unit": "1e-12"
+        },
+        {
+            "uuid": "8f63e68d-75d1-52ff-9b6f-fbcc3dd38cad",
+            "name": "GΩ",
+            "main_symbol": "GΩ",
+            "conversion_factor_to_main_unit": "1e-09"
         },
         {
             "uuid": "ae0f3cb7-2894-5c85-87ae-d9442f4882b3",
@@ -42,22 +49,22 @@
             "conversion_factor_to_main_unit": "0.001"
         },
         {
+            "uuid": "af601866-85ba-5975-a30f-01295360e80c",
+            "name": "mΩ",
+            "main_symbol": "mΩ",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
             "uuid": "26136542-9ccc-53d8-845c-f31c6a3baf3d",
             "name": "μΩ",
             "main_symbol": "μΩ",
             "conversion_factor_to_main_unit": "1000000.0"
         },
         {
-            "uuid": "8f63e68d-75d1-52ff-9b6f-fbcc3dd38cad",
-            "name": "GΩ",
-            "main_symbol": "GΩ",
-            "conversion_factor_to_main_unit": "0.0"
-        },
-        {
-            "uuid": "de4a5d2a-c37d-58f3-b794-5c5a54d31b77",
-            "name": "TΩ",
-            "main_symbol": "TΩ",
-            "conversion_factor_to_main_unit": "0.0"
+            "uuid": "21cdffa9-1299-5f29-8d5f-c90612af8692",
+            "name": "nΩ",
+            "main_symbol": "nΩ",
+            "conversion_factor_to_main_unit": "999999999.9999999"
         }
     ]
 }

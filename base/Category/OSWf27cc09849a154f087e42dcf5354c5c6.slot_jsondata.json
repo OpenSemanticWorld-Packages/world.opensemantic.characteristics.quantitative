@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "f27cc098-49a1-54f0-87e4-2dcf5354c5c6",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/NeelTemperature"
     ],
+    "uuid": "f27cc098-49a1-54f0-87e4-2dcf5354c5c6",
     "name": "NeelTemperature",
     "label": [
         {

@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "15a0e40b-150c-598d-b6a5-0b85921bba29",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/NuclearRadius"
     ],
+    "uuid": "15a0e40b-150c-598d-b6a5-0b85921bba29",
     "name": "NuclearRadius",
     "label": [
         {

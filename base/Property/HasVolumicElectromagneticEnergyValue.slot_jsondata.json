@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "cc3d72c5-30b8-5915-ad0e-23d2538f020a",
     "name": "HasVolumicElectromagneticEnergyValue",
     "label": [
@@ -14,13 +17,11 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "0914f4be-da11-5aa4-a4b8-84b8bea9de38",
         "name": "J/m³",
-        "main_symbol": "J/m³"
+        "main_symbol": "J/m³",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
         {

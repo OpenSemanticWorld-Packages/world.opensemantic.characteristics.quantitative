@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "3ba3f32b-c079-55f3-a522-c8159c29a279",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/CO2Equivalent"
     ],
+    "uuid": "3ba3f32b-c079-55f3-a522-c8159c29a279",
     "name": "CO2Equivalent",
     "label": [
         {
@@ -20,7 +20,7 @@
         }
     ],
     "subclass_of": [
-        "Category:OSWea12214400965c818daf0b53062ccf4a"
+        "Category:OSW2f43065573625d76b8e242414ee4bedf"
     ],
     "quantity_property": "Property:HasCO2EquivalentValue"
 }

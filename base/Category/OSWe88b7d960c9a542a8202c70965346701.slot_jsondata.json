@@ -1,0 +1,32 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SignalDetectionThreshold"
+    ],
+    "uuid": "e88b7d96-0c9a-542a-8202-c70965346701",
+    "name": "SignalDetectionThreshold",
+    "label": [
+        {
+            "text": "Signal Detection Threshold",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWd93d489558c45a498b3d9702fce9d9a1",
+    "default_unit": "Item:OSW4a571dc190d55a6198e93c8a26657754",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW4a571dc190d55a6198e93c8a26657754",
+            "name": "dBc",
+            "symbol": "dBc"
+        }
+    ],
+    "quantity_property": "Property:HasSignalDetectionThresholdValue"
+}

@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "81dac9cf-52e8-532a-9f26-b71c8463b1d0",
     "name": "HasElectricCurrentPerTemperatureValue",
     "label": [
@@ -14,12 +17,10 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "74d9e0ee-82e7-5201-bb13-7c2a7ded5cf5",
         "name": "A/°C",
-        "main_symbol": "A/°C"
+        "main_symbol": "A/°C",
+        "conversion_factor_to_main_unit": "1.0"
     }
 }

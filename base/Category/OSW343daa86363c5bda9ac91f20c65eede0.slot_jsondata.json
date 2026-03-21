@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "343daa86-363c-5bda-9ac9-1f20c65eede0",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/WetBulbTemperature"
     ],
+    "uuid": "343daa86-363c-5bda-9ac9-1f20c65eede0",
     "name": "WetBulbTemperature",
     "label": [
         {

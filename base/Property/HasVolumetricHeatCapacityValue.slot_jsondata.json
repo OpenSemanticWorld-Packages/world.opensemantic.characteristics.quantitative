@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "aabbec74-1d8d-574c-aa01-73565b4a2b3d",
     "name": "HasVolumetricHeatCapacityValue",
     "label": [
@@ -14,15 +17,19 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "9be12d50-9e56-5046-b380-7453598a19f7",
         "name": "J/(m³·K)",
-        "main_symbol": "J/(m³·K)"
+        "main_symbol": "J/(m³·K)",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
+        {
+            "uuid": "6500f06a-16fa-5657-a555-f7b81a56d5d4",
+            "name": "cal/(cm³·K)",
+            "main_symbol": "cal/(cm³·K)",
+            "conversion_factor_to_main_unit": "2.390057361376673e-07"
+        },
         {
             "uuid": "87b869db-0d9b-52d9-8520-399da180fb69",
             "name": "J/(cm³·K)",

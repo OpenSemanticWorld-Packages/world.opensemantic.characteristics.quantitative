@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "83830804-25d3-579e-ade2-a3ffc9db4d21",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/PressureBurningRateConstant"
     ],
+    "uuid": "83830804-25d3-579e-ade2-a3ffc9db4d21",
     "name": "PressureBurningRateConstant",
     "label": [
         {

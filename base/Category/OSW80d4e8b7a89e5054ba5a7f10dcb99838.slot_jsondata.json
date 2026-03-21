@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "80d4e8b7-a89e-5054-ba5a-7f10dcb99838",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/SphericalIlluminance"
     ],
+    "uuid": "80d4e8b7-a89e-5054-ba5a-7f10dcb99838",
     "name": "Illuminance",
     "label": [
         {

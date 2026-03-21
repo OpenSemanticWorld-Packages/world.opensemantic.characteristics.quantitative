@@ -2,12 +2,12 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "a819b531-01b8-54ad-923f-9f13dfb41794",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/Power",
         "http://dbpedia.org/resource/Power",
-        "https://si-digital-framework.org/SI/quantities/POWR"
+        "http://qudt.org/vocab/quantitykind/Power",
+        "https://si-digital-framework.org/quantities/POWR"
     ],
+    "uuid": "a819b531-01b8-54ad-923f-9f13dfb41794",
     "name": "Power",
     "label": [
         {
@@ -40,19 +40,19 @@
             "symbol": "W"
         },
         {
+            "osw_id": "Item:OSWc8ce01b894b35860b58893ae03d4792d#OSW33eb0aa713bd5ad18f8b64ff5fcbf1b7",
+            "name": "pico_joule_per_second",
+            "symbol": "pJ/s"
+        },
+        {
             "osw_id": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870#OSWff05f4ecc2a4513292fae2aa83798da1",
             "name": "pico_watt",
             "symbol": "pW"
         },
         {
-            "osw_id": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870#OSW5884b063f20a5ee19bef9444d5e10da9",
-            "name": "micro_watt",
-            "symbol": "µW"
-        },
-        {
-            "osw_id": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870#OSW4303ebb8138953509f12c795a591600c",
-            "name": "tera_watt",
-            "symbol": "TW"
+            "osw_id": "Item:OSWc8ce01b894b35860b58893ae03d4792d#OSW1255ac214e16555faefd6a7c294127ab",
+            "name": "nano_joule_per_second",
+            "symbol": "nJ/s"
         },
         {
             "osw_id": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870#OSW3320aea347d45d0ebed5f48f7a5bf787",
@@ -60,14 +60,29 @@
             "symbol": "nW"
         },
         {
-            "osw_id": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870#OSWe5ebcb7476e154cba0bc729b319cafe9",
-            "name": "mega_watt",
-            "symbol": "MW"
+            "osw_id": "Item:OSWc8ce01b894b35860b58893ae03d4792d#OSW3ea79856df7754988e122abf064d83db",
+            "name": "micro_joule_per_second",
+            "symbol": "μJ/s"
         },
         {
-            "osw_id": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870#OSW3cfa1cd0ef6651c3bad40ca56ea6878c",
-            "name": "giga_watt",
-            "symbol": "GW"
+            "osw_id": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870#OSW5884b063f20a5ee19bef9444d5e10da9",
+            "name": "micro_watt",
+            "symbol": "μW"
+        },
+        {
+            "osw_id": "Item:OSWed766f1dce3959e39bb9a8749f99dc34",
+            "name": "joule_per_hour",
+            "symbol": "J/h"
+        },
+        {
+            "osw_id": "Item:OSW073f4c8e772d52b9863e30a637d07628",
+            "name": "liter_pascal_per_second",
+            "symbol": "Pa·L/s"
+        },
+        {
+            "osw_id": "Item:OSWc8ce01b894b35860b58893ae03d4792d#OSW3f269b16b3395880a7c2e8f5c89012ad",
+            "name": "milli_joule_per_second",
+            "symbol": "mJ/s"
         },
         {
             "osw_id": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870#OSW89c2f08b4360565cb2bfe50f5614a0d4",
@@ -75,9 +90,114 @@
             "symbol": "mW"
         },
         {
+            "osw_id": "Item:OSW073f4c8e772d52b9863e30a637d07628#OSW912abcf557a153a99a86b44a1a84e40c",
+            "name": "hecto_pascal_liter_per_second",
+            "symbol": "hPa·L/s"
+        },
+        {
+            "osw_id": "Item:OSWed766f1dce3959e39bb9a8749f99dc34#OSW9a1ec7b2603f53c79bbf32779f0d892d",
+            "name": "kilo_joule_per_hour",
+            "symbol": "kJ/h"
+        },
+        {
+            "osw_id": "Item:OSWc8ce01b894b35860b58893ae03d4792d",
+            "name": "joule_per_second",
+            "symbol": "J/s"
+        },
+        {
+            "osw_id": "Item:OSW8e0cd0440b365870ba04bc7d2bcb6122",
+            "name": "meter_cubed_pascal_per_second",
+            "symbol": "Pa·m³/s"
+        },
+        {
+            "osw_id": "Item:OSW8e0cd0440b365870ba04bc7d2bcb6122#OSW51ef27a468d759f0961297af55bf0f05",
+            "name": "hecto_pascal_meter_cubed_per_second",
+            "symbol": "hPa·m³/s"
+        },
+        {
+            "osw_id": "Item:OSWb3b25b2540cd5acdba07941a513e473b",
+            "name": "mega_joule_per_hour",
+            "symbol": "MJ/h"
+        },
+        {
+            "osw_id": "Item:OSWa7521ddb593e5787b175fbb020f39ac2",
+            "name": "liter_mega_pascal_per_second",
+            "symbol": "MPa·L/s"
+        },
+        {
+            "osw_id": "Item:OSWc8ce01b894b35860b58893ae03d4792d#OSW469cae5bc97e54469a9f717b21a3d659",
+            "name": "kilo_joule_per_second",
+            "symbol": "kJ/s"
+        },
+        {
             "osw_id": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870#OSWea7d8a111eca57499c3fb187d61d3170",
             "name": "kilo_watt",
             "symbol": "kW"
+        },
+        {
+            "osw_id": "Item:OSW9f5126b91d1d545682b17c6685f9268c",
+            "name": "giga_joule_per_hour",
+            "symbol": "GJ/h"
+        },
+        {
+            "osw_id": "Item:OSW1eb3841aea1d5b92899c249b1dbd74ce",
+            "name": "mega_joule_per_second",
+            "symbol": "MJ/s"
+        },
+        {
+            "osw_id": "Item:OSW8e0cd0440b365870ba04bc7d2bcb6122#OSWd9dd4ab1f7db5beb978e2ed4cae595da",
+            "name": "mega_pascal_meter_cubed_per_second",
+            "symbol": "MPa·m³/s"
+        },
+        {
+            "osw_id": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870#OSWe5ebcb7476e154cba0bc729b319cafe9",
+            "name": "mega_watt",
+            "symbol": "MW"
+        },
+        {
+            "osw_id": "Item:OSW3ed191c2271e5fe39628ed74f75e4391",
+            "name": "hour_tera_watt_per_year",
+            "symbol": "TW·h/a"
+        },
+        {
+            "osw_id": "Item:OSWc8ce01b894b35860b58893ae03d4792d#OSWf77cdec28d3b5552a28f4abfdaf97774",
+            "name": "giga_joule_per_second",
+            "symbol": "GJ/s"
+        },
+        {
+            "osw_id": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870#OSW3cfa1cd0ef6651c3bad40ca56ea6878c",
+            "name": "giga_watt",
+            "symbol": "GW"
+        },
+        {
+            "osw_id": "Item:OSWc8ce01b894b35860b58893ae03d4792d#OSW17a88340c9d15bdd83616efe81987c50",
+            "name": "tera_joule_per_second",
+            "symbol": "TJ/s"
+        },
+        {
+            "osw_id": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870#OSW4303ebb8138953509f12c795a591600c",
+            "name": "tera_watt",
+            "symbol": "TW"
+        },
+        {
+            "osw_id": "Item:OSWc8ce01b894b35860b58893ae03d4792d#OSW06aa0b7356415d0e81110185ef639eaf",
+            "name": "peta_joule_per_second",
+            "symbol": "PJ/s"
+        },
+        {
+            "osw_id": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870#OSWe47e34f397715533a51605dcfc5703f1",
+            "name": "peta_watt",
+            "symbol": "PW"
+        },
+        {
+            "osw_id": "Item:OSWc8ce01b894b35860b58893ae03d4792d#OSW0bc8e25f2cda53acb4835061203df843",
+            "name": "exa_joule_per_second",
+            "symbol": "EJ/s"
+        },
+        {
+            "osw_id": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870#OSWde79ce41581a521886841d85e4b41acc",
+            "name": "exa_watt",
+            "symbol": "EW"
         }
     ],
     "quantity_property": "Property:HasPowerValue"

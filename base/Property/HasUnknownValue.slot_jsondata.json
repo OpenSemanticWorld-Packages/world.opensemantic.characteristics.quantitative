@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "09eed736-b8ec-533d-9a65-6c43f406ba57",
     "name": "HasUnknownValue",
     "label": [
@@ -14,12 +17,486 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
-        "uuid": "a4875bfd-74f9-5f8e-abd2-dae162aa00db",
-        "name": "°C²/s",
-        "main_symbol": "°C²/s"
-    }
+        "uuid": "4bcf3749-b0cd-5eb9-932c-ae6b865319ac",
+        "name": "mol/(m²·s·sr)",
+        "main_symbol": "mol/(m²·s·sr)",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "5a1b3aa3-a528-59ad-819b-3e56b7f2b4b2",
+            "name": "/(m·nm·sr)",
+            "main_symbol": "/(m·nm·sr)",
+            "conversion_factor_to_main_unit": "1e-09"
+        },
+        {
+            "uuid": "942495f1-8dcc-57ae-bfee-16e27ac2d904",
+            "name": "/(μmol·L)",
+            "main_symbol": "/(μmol·L)",
+            "conversion_factor_to_main_unit": "1e-09"
+        },
+        {
+            "uuid": "765a61eb-5ee2-57a0-a7f2-13506fd9efcf",
+            "name": "GHz·m",
+            "main_symbol": "GHz·m",
+            "conversion_factor_to_main_unit": "1e-09"
+        },
+        {
+            "uuid": "47cf99fc-896e-5499-84ed-784ca8bc877a",
+            "name": "MHz·km",
+            "main_symbol": "MHz·km",
+            "conversion_factor_to_main_unit": "1e-09"
+        },
+        {
+            "uuid": "c2075ea0-ae5f-54bd-860e-4bdd20c7598f",
+            "name": "W/(m²·nm)",
+            "main_symbol": "W/(m²·nm)",
+            "conversion_factor_to_main_unit": "1e-09"
+        },
+        {
+            "uuid": "95e44003-ca91-58cc-b2ab-6a270b14a8f4",
+            "name": "W/(m²·nm·sr)",
+            "main_symbol": "W/(m²·nm·sr)",
+            "conversion_factor_to_main_unit": "1e-09"
+        },
+        {
+            "uuid": "a8b742e2-eb5c-51d0-89f6-e334ce4e2a62",
+            "name": "mW/(cm²·μm·sr)",
+            "main_symbol": "mW/(cm²·μm·sr)",
+            "conversion_factor_to_main_unit": "1e-07"
+        },
+        {
+            "uuid": "183ac31c-8ccf-52e2-ab35-a4f86a143f6a",
+            "name": "MHz·m",
+            "main_symbol": "MHz·m",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "eb8c9f02-7a58-58f1-9861-01677fefbe72",
+            "name": "W/(m²·μm)",
+            "main_symbol": "W/(m²·μm)",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "522594b8-19c1-5224-b96a-481412c4d987",
+            "name": "W/(m²·μm·sr)",
+            "main_symbol": "W/(m²·μm·sr)",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "3942c587-4a4c-5880-81c8-c1600b1651c8",
+            "name": "mW/(m²·nm)",
+            "main_symbol": "mW/(m²·nm)",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "c367b7e4-6750-547c-9a89-dd81dc1438f4",
+            "name": "mW/(m²·nm·sr)",
+            "main_symbol": "mW/(m²·nm·sr)",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "441d1ddb-2e2d-5162-9904-49a343cb255b",
+            "name": "μW/(cm²·μm·sr)",
+            "main_symbol": "μW/(cm²·μm·sr)",
+            "conversion_factor_to_main_unit": "0.0001"
+        },
+        {
+            "uuid": "0cb9c4ad-d11d-5493-adad-2cdb9df24786",
+            "name": "kHz·m",
+            "main_symbol": "kHz·m",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "597683d7-2028-553a-9c6e-7afbb3a0b4ec",
+            "name": "cm²/cm³",
+            "main_symbol": "cm²/cm³",
+            "conversion_factor_to_main_unit": "0.01"
+        },
+        {
+            "uuid": "8f61e972-498f-51b6-9c88-bc54fee65fed",
+            "name": "#",
+            "main_symbol": "#",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "a9b9d4fb-f977-558b-8b7b-7ba8bd4756d6",
+            "name": "/(Pa·s)",
+            "main_symbol": "/(Pa·s)",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "f67e6f76-87d2-5269-a7d5-1552215a1a40",
+            "name": "/(m·s)",
+            "main_symbol": "/(m·s)",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "2a8f5fab-8e33-5c92-847b-986af875353a",
+            "name": "/(m·sr)",
+            "main_symbol": "/(m·sr)",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "af42f8ec-d534-5d86-8041-acf1270a8771",
+            "name": "/sr",
+            "main_symbol": "/sr",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "699c3b62-98c2-57b5-828f-b5a50a635f1b",
+            "name": "Hz·m",
+            "main_symbol": "Hz·m",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "0f32da6c-c578-5790-a54f-f1588597ab29",
+            "name": "K²",
+            "main_symbol": "K²",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "cc2651e3-6c79-596e-9317-c127418671d5",
+            "name": "K·Pa/s",
+            "main_symbol": "K·Pa/s",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "619daad1-f4e5-545e-b137-74f749028db7",
+            "name": "K·m/s",
+            "main_symbol": "K·m/s",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "dfe95a72-728a-5e2d-bb22-a1a0189c2b04",
+            "name": "K·m²/(kg·s)",
+            "main_symbol": "K·m²/(kg·s)",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "a95b2a75-cdf8-5a5c-8624-c6adbbcf972c",
+            "name": "N·m²/kg²",
+            "main_symbol": "N·m²/kg²",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "617bbc30-75c9-5aa4-bf14-fd6d13f3df08",
+            "name": "Pa²/s²",
+            "main_symbol": "Pa²/s²",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "94351237-115c-527e-919d-59d24c434572",
+            "name": "Pa·m",
+            "main_symbol": "Pa·m",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "709642af-4300-5cfd-9e81-02a0ba0eac7c",
+            "name": "Pa·m/s",
+            "main_symbol": "Pa·m/s",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "07dd9352-81fa-59bc-9235-63363f415454",
+            "name": "Pa·m/s²",
+            "main_symbol": "Pa·m/s²",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "d02abdaa-bad8-5ed2-b440-993226d28e64",
+            "name": "W/(m²·m)",
+            "main_symbol": "W/(m²·m)",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "62831cca-7848-52a2-988b-4da35693802d",
+            "name": "W/(m²·m·sr)",
+            "main_symbol": "W/(m²·m·sr)",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "60fff353-e6ed-5f52-93b2-ff92009ccb9a",
+            "name": "W·m/(m²·sr)",
+            "main_symbol": "W·m/(m²·sr)",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "21338405-8ffd-5a8b-91a0-6b222a90dace",
+            "name": "kg/(m³·s)",
+            "main_symbol": "kg/(m³·s)",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "444cc8fb-0bd4-5357-a100-74abf03e451c",
+            "name": "kg²/s²",
+            "main_symbol": "kg²/s²",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "e8e34f61-002a-581b-92c1-fae9a038b722",
+            "name": "kg·s²",
+            "main_symbol": "kg·s²",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "f9d8f764-1924-579d-bc8f-ec6af49e9fc3",
+            "name": "m/m²",
+            "main_symbol": "m/m²",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "a2626aaa-acbe-52fd-99af-41d6c5ebfc54",
+            "name": "mol/(m²·s·m·sr)",
+            "main_symbol": "mol/(m²·s·m·sr)",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "dc4cbe40-a0f0-51f0-85fa-1d8cfd88607e",
+            "name": "mol/mol",
+            "main_symbol": "mol/mol",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "ed7cb0c8-8c0b-5227-bec7-d7489e46de52",
+            "name": "mol/m²",
+            "main_symbol": "mol/m²",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "9fb7513b-756e-55fd-86b5-464fedbabd5e",
+            "name": "m²/Hz",
+            "main_symbol": "m²/Hz",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "ab5ecb28-1e10-5399-9dd4-4e28a88befed",
+            "name": "m²/Hz²",
+            "main_symbol": "m²/Hz²",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "cce5e4cc-13c5-57cd-adc2-95d7ddfcb187",
+            "name": "m²·Hz²",
+            "main_symbol": "m²·Hz²",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "4a335c09-bb03-589c-a155-48921380d7a9",
+            "name": "m²·Hz³",
+            "main_symbol": "m²·Hz³",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "03501bba-fffc-5300-8af2-831b205b4f1e",
+            "name": "m²·Hz⁴",
+            "main_symbol": "m²·Hz⁴",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "7f89d83d-13be-5a11-86f7-73665a7be453",
+            "name": "m²·s/rad",
+            "main_symbol": "m²·s/rad",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "fe4bdd68-c5a4-52df-8977-3e5eecbdabba",
+            "name": "m³/(kg·s²)",
+            "main_symbol": "m³/(kg·s²)",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "f9f455c1-f7eb-548d-845a-05cbd8f15915",
+            "name": "m⁴/s",
+            "main_symbol": "m⁴/s",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "fa3e416e-9b86-5c08-8243-39bbcf7a16f2",
+            "name": "s/m",
+            "main_symbol": "s/m",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "a4875bfd-74f9-5f8e-abd2-dae162aa00db",
+            "name": "°C²/s",
+            "main_symbol": "°C²/s",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "c5275e40-f1c4-53fd-8868-bfe64589c91f",
+            "name": "°C·kg/m²",
+            "main_symbol": "°C·kg/m²",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "d59399dc-ece6-54f5-a879-f1b8b035cb8d",
+            "name": "μm/mL",
+            "main_symbol": "μm/mL",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "7a50c1a0-c38d-548e-8772-1f2cf8dc13e8",
+            "name": "mol/(g·h)",
+            "main_symbol": "mol/(g·h)",
+            "conversion_factor_to_main_unit": "3.5999999999999996"
+        },
+        {
+            "uuid": "68b65aa1-b288-579b-b77a-221e62f2d84f",
+            "name": "g/°C",
+            "main_symbol": "g/°C",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "21f9a13d-9c59-57c5-8f3c-2290641a31ff",
+            "name": "mm/m²",
+            "main_symbol": "mm/m²",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "205a9ec7-0b5f-54dd-a0a4-b76af7987c1e",
+            "name": "mmol/mol",
+            "main_symbol": "mmol/mol",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "eff80a7a-bf3b-508a-a71d-0a7839748852",
+            "name": "mmol/m²",
+            "main_symbol": "mmol/m²",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "d718f224-9583-556e-acc3-b22ea538672a",
+            "name": "nmol/μmol",
+            "main_symbol": "nmol/μmol",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "65340b76-de54-5d3a-8ef1-301bded109b6",
+            "name": "pA/(μmol·L)",
+            "main_symbol": "pA/(μmol·L)",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "87f9898d-1d6f-5d7c-8fbb-71d96a3e4d43",
+            "name": "μmol/(g·s)",
+            "main_symbol": "μmol/(g·s)",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "5125e135-e88e-5d6e-9f39-87ce4fa5eaa2",
+            "name": "nmol/(μg·h)",
+            "main_symbol": "nmol/(μg·h)",
+            "conversion_factor_to_main_unit": "3600.0"
+        },
+        {
+            "uuid": "70a1b11a-c332-596a-bec0-a68cef37b923",
+            "name": "μmol/(μmol·d)",
+            "main_symbol": "μmol/(μmol·d)",
+            "conversion_factor_to_main_unit": "86400.0"
+        },
+        {
+            "uuid": "75995647-f8f3-5589-b6b5-21cb7fb04413",
+            "name": "pW/(cm²·L)",
+            "main_symbol": "pW/(cm²·L)",
+            "conversion_factor_to_main_unit": "99999.99999999999"
+        },
+        {
+            "uuid": "ab68efce-a241-5090-ad55-2b1052c334b4",
+            "name": "mg/(m³·s)",
+            "main_symbol": "mg/(m³·s)",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "42aaa381-582d-5a23-9c99-5b27af8b912a",
+            "name": "nmol/(g·s)",
+            "main_symbol": "nmol/(g·s)",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "28527b81-9eac-5a53-b83b-0b0c38351743",
+            "name": "μmol/(m²·s²)",
+            "main_symbol": "μmol/(m²·s²)",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "c6cc831e-fd00-5660-953a-385dfa2c47d0",
+            "name": "μmol/mol",
+            "main_symbol": "μmol/mol",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "abd52c08-f289-5a4c-84ac-eee6dbc51747",
+            "name": "μmol/m²",
+            "main_symbol": "μmol/m²",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "56ac0f7c-0c55-518d-a018-1a4c854fb712",
+            "name": "μmol/(g·h)",
+            "main_symbol": "μmol/(g·h)",
+            "conversion_factor_to_main_unit": "3600000.0000000005"
+        },
+        {
+            "uuid": "42ffd6be-c42f-5a08-b9dd-ebe876f5e90f",
+            "name": "mBq/(m²·d)",
+            "main_symbol": "mBq/(m²·d)",
+            "conversion_factor_to_main_unit": "86400000.0"
+        },
+        {
+            "uuid": "ba55d237-e6c6-5f08-b7a8-2af37a3bfa83",
+            "name": "nmol/(μmol·d)",
+            "main_symbol": "nmol/(μmol·d)",
+            "conversion_factor_to_main_unit": "86400000.0"
+        },
+        {
+            "uuid": "469999b5-d812-53be-9ffc-6e3de982c2dc",
+            "name": "mg/(m³·h)",
+            "main_symbol": "mg/(m³·h)",
+            "conversion_factor_to_main_unit": "3600000000.0"
+        },
+        {
+            "uuid": "ca9199ff-94d0-5879-9e80-90fe9fe985cd",
+            "name": "nmol/(g·h)",
+            "main_symbol": "nmol/(g·h)",
+            "conversion_factor_to_main_unit": "3600000000.0"
+        },
+        {
+            "uuid": "bb7a212c-0685-5de8-b119-f2eefb9f8363",
+            "name": "μg/(L·h)",
+            "main_symbol": "μg/(L·h)",
+            "conversion_factor_to_main_unit": "3600000000.0"
+        },
+        {
+            "uuid": "7831b1ac-0383-538a-9cb3-15f8befda8ce",
+            "name": "mL/(m²·d)",
+            "main_symbol": "mL/(m²·d)",
+            "conversion_factor_to_main_unit": "86400000000.0"
+        },
+        {
+            "uuid": "c17bd196-a4d5-51ec-b8cd-ccd64da94bea",
+            "name": "mg/(m³·d)",
+            "main_symbol": "mg/(m³·d)",
+            "conversion_factor_to_main_unit": "86400000000.0"
+        },
+        {
+            "uuid": "2087ff2b-5e8f-5878-b4f0-301d385aedd1",
+            "name": "pmol/(m·W·s)",
+            "main_symbol": "pmol/(m·W·s)",
+            "conversion_factor_to_main_unit": "1000000000000.0"
+        },
+        {
+            "uuid": "639c9c6e-b2f0-59d0-a217-169b369b5c06",
+            "name": "ppt (volume)",
+            "main_symbol": "ppt (volume)",
+            "conversion_factor_to_main_unit": "1000000000000.0"
+        },
+        {
+            "uuid": "07b3762c-55ff-5193-9583-c884a05973ad",
+            "name": "μg/(m³·h)",
+            "main_symbol": "μg/(m³·h)",
+            "conversion_factor_to_main_unit": "3600000000000.0"
+        }
+    ]
 }

@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "2a1c80f8-e8fb-5867-b9e1-38bbaf83d105",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ConductionSpeed"
     ],
+    "uuid": "2a1c80f8-e8fb-5867-b9e1-38bbaf83d105",
     "name": "ConductionSpeed",
     "label": [
         {

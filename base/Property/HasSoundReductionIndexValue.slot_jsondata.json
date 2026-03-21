@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "d1a1e98e-584b-5f67-bac0-4f2773672ba6",
     "name": "HasSoundReductionIndexValue",
     "label": [
@@ -14,12 +17,10 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
-        "uuid": "a098482f-dada-5694-88d7-d6e436bf55dd",
-        "name": "B",
-        "main_symbol": "B"
+        "uuid": "8ba72afd-f017-5384-b832-937af3d593b5",
+        "name": "dB",
+        "main_symbol": "dB",
+        "conversion_factor_to_main_unit": "1.0"
     }
 }

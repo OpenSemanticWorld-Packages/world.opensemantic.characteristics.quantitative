@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "uuid": "f278dae4-9031-5b2e-90af-7ad2f4c37411",
+    "name": "HasPowerFactorValue",
+    "label": [
+        {
+            "text": "Power factor",
+            "lang": "en"
+        },
+        {
+            "text": "Leistungsfaktor",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Power Factor\", under periodic conditions, is the ratio of the absolute value of the active power $P$ to the apparent power $S$.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "main_unit": {
+        "uuid": "4411f5ca-371f-5a11-91c7-0ca80634c8f5",
+        "name": "一",
+        "main_symbol": "一",
+        "conversion_factor_to_main_unit": "1.0"
+    }
+}

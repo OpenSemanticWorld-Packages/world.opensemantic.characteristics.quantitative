@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "c74bc7a7-558c-5c9a-a7aa-0282ab29e3cd",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/StageStructuralMass"
     ],
+    "uuid": "c74bc7a7-558c-5c9a-a7aa-0282ab29e3cd",
     "name": "StageStructureMass",
     "label": [
         {

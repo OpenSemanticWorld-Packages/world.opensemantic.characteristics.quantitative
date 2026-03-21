@@ -2,12 +2,12 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "aee74c2e-34ed-5893-9c1a-b03d0f115a0f",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/LuminousFlux",
         "http://dbpedia.org/resource/Luminous_flux",
-        "https://si-digital-framework.org/SI/quantities/LUFL"
+        "http://qudt.org/vocab/quantitykind/LuminousFlux",
+        "https://si-digital-framework.org/quantities/LUFL"
     ],
+    "uuid": "aee74c2e-34ed-5893-9c1a-b03d0f115a0f",
     "name": "LuminousFlux",
     "label": [
         {

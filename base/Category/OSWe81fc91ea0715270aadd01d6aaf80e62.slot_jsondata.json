@@ -1,0 +1,38 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/PackingFraction"
+    ],
+    "uuid": "e81fc91e-a071-5270-aadd-01d6aaf80e62",
+    "name": "PackingFraction",
+    "label": [
+        {
+            "text": "Packing Fraction",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Packing Fraction\" is the fraction of volume in a crystal structure that is occupied by atoms.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWc6755cfe52515f7c973f0c43cdb6c74b",
+    "default_unit": "Item:OSWc72c8e13779050d1a5512740a9a12112",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWc72c8e13779050d1a5512740a9a12112",
+            "name": "unitless",
+            "symbol": "一"
+        }
+    ],
+    "quantity_property": "Property:HasPackingFractionValue"
+}

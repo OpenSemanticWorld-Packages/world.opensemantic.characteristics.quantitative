@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "713e8c96-687f-5714-a306-4fc857b33456",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/OpeningRatio"
     ],
+    "uuid": "713e8c96-687f-5714-a306-4fc857b33456",
     "name": "OpeningRatio",
     "label": [
         {

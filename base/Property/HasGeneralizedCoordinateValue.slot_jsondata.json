@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "uuid": "5b66b2b4-daad-584c-a9bf-d72266d8408f",
+    "name": "HasGeneralizedCoordinateValue",
+    "label": [
+        {
+            "text": "Generalized Coordinate",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Generalized Coordinates refers to the parameters that describe the configuration of the system relative to some reference configuration. These parameters must uniquely define the configuration of the system relative to the reference configuration.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "main_unit": {
+        "uuid": "4411f5ca-371f-5a11-91c7-0ca80634c8f5",
+        "name": "一",
+        "main_symbol": "一",
+        "conversion_factor_to_main_unit": "1.0"
+    }
+}

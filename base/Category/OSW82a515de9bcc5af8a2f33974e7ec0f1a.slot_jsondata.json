@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "82a515de-9bcc-5af8-a2f3-3974e7ec0f1a",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/MagneticFlux",
-        "http://dbpedia.org/resource/Magnetic_flux"
+        "http://dbpedia.org/resource/Magnetic_flux",
+        "http://qudt.org/vocab/quantitykind/MagneticFlux"
     ],
+    "uuid": "82a515de-9bcc-5af8-a2f3-3974e7ec0f1a",
     "name": "MagneticFlux",
     "label": [
         {
@@ -42,6 +42,16 @@
             "osw_id": "Item:OSW7f1fb9d6ddeb5fb7a8a39067553a6dc1#OSWa09dcefcc2be5cb1ae116d0189c300e3",
             "name": "milli_weber",
             "symbol": "mWb"
+        },
+        {
+            "osw_id": "Item:OSWd51afbc627605b1b8555182c2249721e",
+            "name": "meter_newton_per_ampere",
+            "symbol": "N·m/A"
+        },
+        {
+            "osw_id": "Item:OSW7f1fb9d6ddeb5fb7a8a39067553a6dc1#OSW5facf48c76775240885773a2fcb6c4bf",
+            "name": "kilo_weber",
+            "symbol": "kWb"
         }
     ],
     "quantity_property": "Property:HasMagneticFluxValue"

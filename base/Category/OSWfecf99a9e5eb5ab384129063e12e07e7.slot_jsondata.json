@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "fecf99a9-e5eb-5ab3-8412-9063e12e07e7",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ChemicalConsumptionPerMass"
     ],
+    "uuid": "fecf99a9-e5eb-5ab3-8412-9063e12e07e7",
     "name": "ChemicalConsumptionPerMass",
     "label": [
         {

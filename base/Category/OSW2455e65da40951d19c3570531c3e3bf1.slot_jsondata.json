@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "2455e65d-a409-51d1-9c35-70531c3e3bf1",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/PowerPerAreaQuarticTemperature"
     ],
+    "uuid": "2455e65d-a409-51d1-9c35-70531c3e3bf1",
     "name": "PowerPerAreaQuarticTemperature",
     "label": [
         {
@@ -24,7 +24,7 @@
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW88f406fb6a1250eab2d89590d6488f19",
-            "name": "4_per_meter_squared",
+            "name": "watt_per_kelvin_to_the_fourth_per_meter_squared",
             "symbol": "W/(m²·K⁴)"
         }
     ],

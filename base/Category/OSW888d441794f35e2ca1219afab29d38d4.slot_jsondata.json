@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "888d4417-94f3-5e2c-a121-9afab29d38d4",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ElectricalPowerToMassRatio"
     ],
+    "uuid": "888d4417-94f3-5e2c-a121-9afab29d38d4",
     "name": "ElectricalPowerToMassRatio",
     "label": [
         {

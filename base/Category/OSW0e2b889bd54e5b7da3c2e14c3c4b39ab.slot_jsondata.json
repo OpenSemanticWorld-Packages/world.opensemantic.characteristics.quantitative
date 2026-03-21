@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "0e2b889b-d54e-5b7d-a3c2-e14c3c4b39ab",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ElectromagneticWavePhaseSpeed"
     ],
+    "uuid": "0e2b889b-d54e-5b7d-a3c2-e14c3c4b39ab",
     "name": "ElectromagneticWavePhaseSpeed",
     "label": [
         {
@@ -34,24 +34,39 @@
             "symbol": "m/s"
         },
         {
-            "osw_id": "Item:OSW78331234e1a15aeebd8b0caa71201939#OSW9f12ce12bc725cd59791265e2e480fd2",
-            "name": "kilo_meter_per_second",
-            "symbol": "km/s"
+            "osw_id": "Item:OSW27a4e0b5004250da9a51b70aca7a8f57",
+            "name": "micro_meter_per_minute",
+            "symbol": "μm/min"
         },
         {
-            "osw_id": "Item:OSW78331234e1a15aeebd8b0caa71201939#OSWfc9fca27ba5b543c8780521b4af39189",
+            "osw_id": "Item:OSWfc9fca27ba5b543c8780521b4af39189",
             "name": "micro_meter_per_second",
             "symbol": "μm/s"
         },
         {
-            "osw_id": "Item:OSW78331234e1a15aeebd8b0caa71201939#OSWd094e4cfd62c52248aad5ef87c19fb7d",
+            "osw_id": "Item:OSW95923e286a94571f91483bdfff227a94",
+            "name": "milli_meter_per_minute",
+            "symbol": "mm/min"
+        },
+        {
+            "osw_id": "Item:OSW4937ac85021f506cb7ba3958f2216bd1",
+            "name": "milli_meter_per_second",
+            "symbol": "mm/s"
+        },
+        {
+            "osw_id": "Item:OSWd094e4cfd62c52248aad5ef87c19fb7d",
             "name": "centi_meter_per_second",
             "symbol": "cm/s"
         },
         {
-            "osw_id": "Item:OSW78331234e1a15aeebd8b0caa71201939#OSW4937ac85021f506cb7ba3958f2216bd1",
-            "name": "milli_meter_per_second",
-            "symbol": "mm/s"
+            "osw_id": "Item:OSWc3381dee2eac5b17b7a8cfe282fa0930",
+            "name": "meter_per_minute",
+            "symbol": "m/min"
+        },
+        {
+            "osw_id": "Item:OSW9f12ce12bc725cd59791265e2e480fd2",
+            "name": "kilo_meter_per_second",
+            "symbol": "km/s"
         }
     ],
     "quantity_property": "Property:HasElectromagneticWavePhaseSpeedValue"

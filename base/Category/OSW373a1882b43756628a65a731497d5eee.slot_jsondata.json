@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "373a1882-b437-5662-8a65-a731497d5eee",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ElectricChargeSurfaceDensity"
     ],
+    "uuid": "373a1882-b437-5662-8a65-a731497d5eee",
     "name": "ElectricChargeSurfaceDensity",
     "label": [
         {

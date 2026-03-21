@@ -1,0 +1,38 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/InternalConversionFactor"
+    ],
+    "uuid": "aa15cc29-d89d-51b0-89b7-4915a1b7d332",
+    "name": "InternalConversionFactor",
+    "label": [
+        {
+            "text": "InternalConversionFactor",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"InternalConversionFactor\" describes the rate of internal conversion. It is the ratio of the number of internal conversion electrons to the number of gamma quanta emitted by the radioactive atom in a given transition.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW37526b83c50d573fbc037acecfac80ed",
+    "default_unit": "Item:OSWc72c8e13779050d1a5512740a9a12112",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWc72c8e13779050d1a5512740a9a12112",
+            "name": "unitless",
+            "symbol": "一"
+        }
+    ],
+    "quantity_property": "Property:HasInternalConversionFactorValue"
+}

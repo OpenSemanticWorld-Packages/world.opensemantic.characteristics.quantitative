@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "4fe6cc8e-0eb6-5db8-89f4-b790342383cb",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MigrationLength"
     ],
+    "uuid": "4fe6cc8e-0eb6-5db8-89f4-b790342383cb",
     "name": "MigrationLength",
     "label": [
         {

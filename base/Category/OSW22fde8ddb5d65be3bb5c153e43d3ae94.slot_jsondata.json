@@ -1,0 +1,38 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/BurstFactor"
+    ],
+    "uuid": "22fde8dd-b5d6-5be3-bb5c-153e43d3ae94",
+    "name": "BurstFactor",
+    "label": [
+        {
+            "text": "Burst factor",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Quotient Berstdruck dividiert durch die flächenbezogene Masse",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW5e620693780a5b6887d598c0ef1824e3",
+    "default_unit": "Item:OSW2ff95fa06aa15090a73b82c969626568",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW2ff95fa06aa15090a73b82c969626568",
+            "name": "kilo_pascal_meter_squared_per_gram",
+            "symbol": "kPa·m²/g"
+        }
+    ],
+    "quantity_property": "Property:HasBurstFactorValue"
+}

@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "6bd60a9a-d518-5c0d-b70d-e4eb4b727073",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/TemperatureGradient"
     ],
+    "uuid": "6bd60a9a-d518-5c0d-b70d-e4eb4b727073",
     "name": "TemperatureGradient",
     "label": [
         {
@@ -26,8 +26,13 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSWf766b6c3f2e65edc9566ef54ad605289",
-    "default_unit": "Item:OSWee60f0c86f6051bb9e1c60b77a607ba2",
+    "default_unit": "Item:OSWc4a15c2af83e5067b2c6104f12ce0265",
     "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWc4a15c2af83e5067b2c6104f12ce0265",
+            "name": "kelvin_per_meter",
+            "symbol": "K/m"
+        },
         {
             "osw_id": "Item:OSWee60f0c86f6051bb9e1c60b77a607ba2",
             "name": "Celsius_per_meter",

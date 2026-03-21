@@ -1,0 +1,38 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/TotalIonization"
+    ],
+    "uuid": "3d95b4b9-ccf1-558c-909b-4e1ef2baf020",
+    "name": "TotalIonization",
+    "label": [
+        {
+            "text": "Total Ionization",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Total Ionization\" by a particle, total mean charge, divided by the elementary charge, $e$, of all positive ions produced by an ionizing charged particle along its entire path and along the paths of any secondary charged particles.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWb3b4221111ae5dc694df37aced0c7d29",
+    "default_unit": "Item:OSWc72c8e13779050d1a5512740a9a12112",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWc72c8e13779050d1a5512740a9a12112",
+            "name": "unitless",
+            "symbol": "一"
+        }
+    ],
+    "quantity_property": "Property:HasTotalIonizationValue"
+}

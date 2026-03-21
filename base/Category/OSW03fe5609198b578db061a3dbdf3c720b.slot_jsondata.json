@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "03fe5609-198b-578d-b061-a3dbdf3c720b",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/IonCurrent"
     ],
+    "uuid": "03fe5609-198b-578d-b061-a3dbdf3c720b",
     "name": "IonCurrent",
     "label": [
         {

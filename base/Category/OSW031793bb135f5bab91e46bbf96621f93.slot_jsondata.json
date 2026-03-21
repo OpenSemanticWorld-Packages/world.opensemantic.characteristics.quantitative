@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "031793bb-135f-5bab-91e4-6bbf96621f93",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/LengthRatio"
     ],
+    "uuid": "031793bb-135f-5bab-91e4-6bbf96621f93",
     "name": "LengthRatio",
     "label": [
         {

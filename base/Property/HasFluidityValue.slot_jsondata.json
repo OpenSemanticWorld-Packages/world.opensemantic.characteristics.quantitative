@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "uuid": "62554370-2da1-5848-8bbc-1410646aacd1",
+    "name": "HasFluidityValue",
+    "label": [
+        {
+            "text": "Fluidity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Fließvermögen eines Stoffes als Kehrwert der dynamischen Viskosität",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "main_unit": {
+        "uuid": "a9b9d4fb-f977-558b-8b7b-7ba8bd4756d6",
+        "name": "/(Pa·s)",
+        "main_symbol": "/(Pa·s)",
+        "conversion_factor_to_main_unit": "1.0"
+    }
+}

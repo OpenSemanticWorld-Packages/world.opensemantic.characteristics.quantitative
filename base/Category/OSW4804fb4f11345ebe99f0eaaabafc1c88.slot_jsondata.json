@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "4804fb4f-1134-5ebe-99f0-eaaabafc1c88",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ModulusOfImpedance"
     ],
+    "uuid": "4804fb4f-1134-5ebe-99f0-eaaabafc1c88",
     "name": "ModulusOfImpedance",
     "label": [
         {
@@ -34,14 +34,19 @@
             "symbol": "Ω"
         },
         {
+            "osw_id": "Item:OSWf9a174b6598a52fe8b9ac50ee48bf7a1#OSWd5baa3a9c73550c69a9c6ee769068975",
+            "name": "nano_ohm",
+            "symbol": "nΩ"
+        },
+        {
+            "osw_id": "Item:OSWf9a174b6598a52fe8b9ac50ee48bf7a1#OSWacd4090bd8335717b6eea6b8c1151b29",
+            "name": "micro_ohm",
+            "symbol": "μΩ"
+        },
+        {
             "osw_id": "Item:OSWf9a174b6598a52fe8b9ac50ee48bf7a1#OSWa8d17cb3f4255320af6052cbd471d716",
             "name": "milli_ohm",
             "symbol": "mΩ"
-        },
-        {
-            "osw_id": "Item:OSWf9a174b6598a52fe8b9ac50ee48bf7a1#OSW14b14dd3c32d5ee199a67e3796734a4a",
-            "name": "mega_ohm",
-            "symbol": "MΩ"
         },
         {
             "osw_id": "Item:OSWf9a174b6598a52fe8b9ac50ee48bf7a1#OSW5e05beabf6935ae2b559c1cffc788110",
@@ -49,9 +54,9 @@
             "symbol": "kΩ"
         },
         {
-            "osw_id": "Item:OSWf9a174b6598a52fe8b9ac50ee48bf7a1#OSWacd4090bd8335717b6eea6b8c1151b29",
-            "name": "micro_ohm",
-            "symbol": "μΩ"
+            "osw_id": "Item:OSWf9a174b6598a52fe8b9ac50ee48bf7a1#OSW14b14dd3c32d5ee199a67e3796734a4a",
+            "name": "mega_ohm",
+            "symbol": "MΩ"
         },
         {
             "osw_id": "Item:OSWf9a174b6598a52fe8b9ac50ee48bf7a1#OSW66dbbd77c6ca5d5684b223fdfcc7b773",

@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "7e3ff478-81b0-54f1-b3cf-d7bc64f28620",
     "name": "HasMassConcentrationOfWaterVapourValue",
     "label": [
@@ -14,12 +17,66 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "74197984-f7ae-538c-82f5-4d037aadb850",
         "name": "g/dm³",
-        "main_symbol": "g/dm³"
-    }
+        "main_symbol": "g/dm³",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "7393588a-45e7-54b8-9aa9-598ba492560e",
+            "name": "kg/cm³",
+            "main_symbol": "kg/cm³",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "3f4408b6-d459-57fe-b983-87960ca38ede",
+            "name": "Mg/m³",
+            "main_symbol": "Mg/m³",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "060e6d81-059d-515e-9e65-ec04c46cf7ec",
+            "name": "g/cm³",
+            "main_symbol": "g/cm³",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "35860a4e-aa4b-529c-a531-a05b4a7bf380",
+            "name": "kg/dm³",
+            "main_symbol": "kg/dm³",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "00ccc829-6835-5ef2-9367-eeaf40f31544",
+            "name": "kg/m³",
+            "main_symbol": "kg/m³",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "ea484589-db3c-5e55-860c-6c60594d29ff",
+            "name": "g/m³",
+            "main_symbol": "g/m³",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "f164ce04-d09e-5ea3-b868-04bd0cff844a",
+            "name": "mg/m³",
+            "main_symbol": "mg/m³",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "da857bdc-5544-53c2-952b-f55ad4f0a52a",
+            "name": "μg/m³",
+            "main_symbol": "μg/m³",
+            "conversion_factor_to_main_unit": "999999999.9999999"
+        },
+        {
+            "uuid": "2e9979ff-fbee-54de-8bb1-2aafdf1d0224",
+            "name": "ng/m³",
+            "main_symbol": "ng/m³",
+            "conversion_factor_to_main_unit": "1000000000000.0"
+        }
+    ]
 }

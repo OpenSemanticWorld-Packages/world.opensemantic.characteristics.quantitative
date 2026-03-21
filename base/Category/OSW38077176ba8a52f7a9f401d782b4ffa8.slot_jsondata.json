@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "38077176-ba8a-52f7-a9f4-01d782b4ffa8",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/TorquePerAngle"
     ],
+    "uuid": "38077176-ba8a-52f7-a9f4-01d782b4ffa8",
     "name": "TorquePerAngle",
     "label": [
         {
@@ -26,6 +26,11 @@
             "osw_id": "Item:OSWcf35571886b95c2c889f076d7dab41dd",
             "name": "meter_newton_per_radian",
             "symbol": "N·m/rad"
+        },
+        {
+            "osw_id": "Item:OSW594d046f9dd75e6babafafcc00da5467",
+            "name": "kilo_newton_meter_per_degree",
+            "symbol": "kN·m/°"
         }
     ],
     "quantity_property": "Property:HasTorquePerAngleValue"

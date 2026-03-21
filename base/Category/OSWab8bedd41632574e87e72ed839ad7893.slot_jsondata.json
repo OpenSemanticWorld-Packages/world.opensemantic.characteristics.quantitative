@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "ab8bedd4-1632-574e-87e7-2ed839ad7893",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MASS-MARGIN"
     ],
+    "uuid": "ab8bedd4-1632-574e-87e7-2ed839ad7893",
     "name": "MassMargin",
     "label": [
         {

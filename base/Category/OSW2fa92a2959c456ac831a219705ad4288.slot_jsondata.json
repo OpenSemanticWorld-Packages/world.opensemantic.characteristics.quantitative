@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "2fa92a29-59c4-56ac-831a-219705ad4288",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/SpeedOfSound",
-        "http://dbpedia.org/resource/Speed_of_sound"
+        "http://dbpedia.org/resource/Speed_of_sound",
+        "http://qudt.org/vocab/quantitykind/SpeedOfSound"
     ],
+    "uuid": "2fa92a29-59c4-56ac-831a-219705ad4288",
     "name": "SpeedOfSound",
     "label": [
         {

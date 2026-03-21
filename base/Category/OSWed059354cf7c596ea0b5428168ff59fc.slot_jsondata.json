@@ -1,0 +1,38 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ThermalDiffusionFactor"
+    ],
+    "uuid": "ed059354-cf7c-596e-a0b5-428168ff59fc",
+    "name": "ThermalDiffusionFactor",
+    "label": [
+        {
+            "text": "Thermal Diffusion Factor",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Thermal diffusion is a phenomenon in which a temperature gradient in a mixture of fluids gives rise to a flow of one constituent relative to the mixture as a whole. in the context of the equation that describes thermal diffusion, the \"Thermal Diffusion Factor\" is .",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW9879fc1287c55923ac73720166ef9fd7",
+    "default_unit": "Item:OSWc72c8e13779050d1a5512740a9a12112",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWc72c8e13779050d1a5512740a9a12112",
+            "name": "unitless",
+            "symbol": "一"
+        }
+    ],
+    "quantity_property": "Property:HasThermalDiffusionFactorValue"
+}

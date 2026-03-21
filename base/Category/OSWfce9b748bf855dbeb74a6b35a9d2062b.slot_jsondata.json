@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "fce9b748-bf85-5dbe-b74a-6b35a9d2062b",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ResonanceEscapeProbabilityForFission"
     ],
+    "uuid": "fce9b748-bf85-5dbe-b74a-6b35a9d2062b",
     "name": "ResonanceEscapeProbabilityForFission",
     "label": [
         {

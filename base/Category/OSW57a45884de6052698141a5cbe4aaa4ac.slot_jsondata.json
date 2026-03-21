@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "57a45884-de60-5269-8141-a5cbe4aaa4ac",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/Radius",
-        "http://dbpedia.org/resource/Radius"
+        "http://dbpedia.org/resource/Radius",
+        "http://qudt.org/vocab/quantitykind/Radius"
     ],
+    "uuid": "57a45884-de60-5269-8141-a5cbe4aaa4ac",
     "name": "Radius",
     "label": [
         {

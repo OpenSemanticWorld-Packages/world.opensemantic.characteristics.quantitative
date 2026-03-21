@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "fde09f3b-6e9b-5c2f-947f-1e1bdb12f20e",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/DryBulbTemperature"
     ],
+    "uuid": "fde09f3b-6e9b-5c2f-947f-1e1bdb12f20e",
     "name": "DryBulbTemperature",
     "label": [
         {

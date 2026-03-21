@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "064063da-7251-5522-948c-f03fca30ebbc",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/Gain",
-        "http://dbpedia.org/resource/Gain"
+        "http://dbpedia.org/resource/Gain",
+        "http://qudt.org/vocab/quantitykind/Gain"
     ],
+    "uuid": "064063da-7251-5522-948c-f03fca30ebbc",
     "name": "Gain",
     "label": [
         {

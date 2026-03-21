@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "uuid": "c867c11e-9008-5e08-8538-4c51efc03369",
+    "name": "HasRefractiveIndexValue",
+    "label": [
+        {
+            "text": "Refractive index",
+            "lang": "en"
+        },
+        {
+            "text": "Brechzahl",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"refractive index\" or index of refraction n of a substance (optical medium) is a dimensionless number that describes how light, or any other radiation, propagates through that medium.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "main_unit": {
+        "uuid": "4411f5ca-371f-5a11-91c7-0ca80634c8f5",
+        "name": "一",
+        "main_symbol": "一",
+        "conversion_factor_to_main_unit": "1.0"
+    }
+}

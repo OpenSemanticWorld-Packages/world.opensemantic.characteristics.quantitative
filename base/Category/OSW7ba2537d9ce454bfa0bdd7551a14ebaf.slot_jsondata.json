@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/InfiniteMultiplicationFactor"
+    ],
+    "uuid": "7ba2537d-9ce4-54bf-a0bd-d7551a14ebaf",
+    "name": "InfiniteMultiplicationFactor",
+    "label": [
+        {
+            "text": "Infinite Multiplication Factor",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Infinite Multiplication Factor\" is the multiplication factor for an infinite medium or for an infinite repeating lattice.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4384c6d9e96657c0b4e77f665495be59"
+    ],
+    "quantity_property": "Property:HasInfiniteMultiplicationFactorValue"
+}

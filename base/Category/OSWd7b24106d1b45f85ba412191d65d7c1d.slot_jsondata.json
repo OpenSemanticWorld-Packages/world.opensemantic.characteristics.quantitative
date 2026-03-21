@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "d7b24106-d1b4-5f85-ba41-2191d65d7c1d",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/SourceVoltageBetweenSubstances"
     ],
+    "uuid": "d7b24106-d1b4-5f85-ba41-2191d65d7c1d",
     "name": "SourceVoltageBetweenSubstances",
     "label": [
         {

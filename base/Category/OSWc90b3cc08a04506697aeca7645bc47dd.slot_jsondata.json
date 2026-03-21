@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "c90b3cc0-8a04-5066-97ae-ca7645bc47dd",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/LuminousEmittance"
     ],
+    "uuid": "c90b3cc0-8a04-5066-97ae-ca7645bc47dd",
     "name": "LuminousEmmitance",
     "label": [
         {

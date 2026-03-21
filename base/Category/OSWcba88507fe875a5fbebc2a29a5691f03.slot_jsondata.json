@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "cba88507-fe87-5a5f-bebc-2a29a5691f03",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/Heat",
-        "http://dbpedia.org/resource/Heat"
+        "http://dbpedia.org/resource/Heat",
+        "http://qudt.org/vocab/quantitykind/Heat"
     ],
+    "uuid": "cba88507-fe87-5a5f-bebc-2a29a5691f03",
     "name": "Heat",
     "label": [
         {

@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "3b186dbd-80f7-5c3a-82cd-7418d4d3ea53",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/SpecificWeight"
     ],
+    "uuid": "3b186dbd-80f7-5c3a-82cd-7418d4d3ea53",
     "name": "SpecificWeight",
     "label": [
         {

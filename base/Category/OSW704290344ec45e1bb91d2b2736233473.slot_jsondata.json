@@ -2,12 +2,12 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "70429034-4ec4-5e1b-b91d-2b2736233473",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/Inductance",
         "http://dbpedia.org/resource/Inductance",
-        "https://si-digital-framework.org/SI/quantities/ELIN"
+        "http://qudt.org/vocab/quantitykind/Inductance",
+        "https://si-digital-framework.org/quantities/ELIN"
     ],
+    "uuid": "70429034-4ec4-5e1b-b91d-2b2736233473",
     "name": "Inductance",
     "label": [
         {
@@ -40,14 +40,19 @@
             "symbol": "H"
         },
         {
+            "osw_id": "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2#OSWc916910c94335ef4bfd4956fdb64d445",
+            "name": "pH_value",
+            "symbol": "pH"
+        },
+        {
             "osw_id": "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2#OSW466788b3b91054088792f8efcf881b73",
             "name": "nano_henry",
             "symbol": "nH"
         },
         {
-            "osw_id": "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2#OSWc916910c94335ef4bfd4956fdb64d445",
-            "name": "pico_henry",
-            "symbol": "pH"
+            "osw_id": "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2#OSW0b6f22fdf4505cd1a14ced6ce63fd1c3",
+            "name": "micro_henry",
+            "symbol": "μH"
         },
         {
             "osw_id": "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2#OSWf936212f93685b0a81e881b7b4cd691c",
@@ -55,9 +60,9 @@
             "symbol": "mH"
         },
         {
-            "osw_id": "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2#OSW0b6f22fdf4505cd1a14ced6ce63fd1c3",
-            "name": "micro_henry",
-            "symbol": "μH"
+            "osw_id": "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2#OSW10259e9c4c745962b608025d4209a593",
+            "name": "kilo_henry",
+            "symbol": "kH"
         }
     ],
     "quantity_property": "Property:HasInductanceValue"

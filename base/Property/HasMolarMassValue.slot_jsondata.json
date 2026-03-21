@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "5ba60f94-bcb9-5b0d-8a2d-17d752c34a17",
     "name": "HasMolarMassValue",
     "label": [
@@ -18,12 +21,24 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "4b97bf05-06f5-5d4f-8a2e-b4ce9ea1c8e1",
         "name": "kg/mol",
-        "main_symbol": "kg/mol"
-    }
+        "main_symbol": "kg/mol",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "574eeb26-143f-5fe5-849f-e5b039b7743a",
+            "name": "g/mol",
+            "main_symbol": "g/mol",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "a5dac62b-2f66-57b4-aa48-fe47c7bc8c55",
+            "name": "kg/kmol",
+            "main_symbol": "kg/kmol",
+            "conversion_factor_to_main_unit": "1000.0"
+        }
+    ]
 }

@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "uuid": "ed59fce8-a5b3-500a-ae66-7b182cb9e68e",
+    "name": "HasDistanceValue",
+    "label": [
+        {
+            "text": "Distance",
+            "lang": "en"
+        },
+        {
+            "text": "Entfernung",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Distance\" is a numerical description of how far apart objects are.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasLengthValue",
+    "base_property": "Property:HasLengthValue"
+}

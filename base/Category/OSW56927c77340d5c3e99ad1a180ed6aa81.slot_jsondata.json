@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "56927c77-340d-5c3e-99ad-1a180ed6aa81",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ElectronAffinity"
     ],
+    "uuid": "56927c77-340d-5c3e-99ad-1a180ed6aa81",
     "name": "ElectronAffinity",
     "label": [
         {

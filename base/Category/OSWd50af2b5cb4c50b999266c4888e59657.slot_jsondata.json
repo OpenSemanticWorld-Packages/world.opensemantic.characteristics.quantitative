@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "d50af2b5-cb4c-50b9-9926-6c4888e59657",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Radiance",
-        "https://si-digital-framework.org/SI/quantities/RADI"
+        "https://si-digital-framework.org/quantities/RADI"
     ],
+    "uuid": "d50af2b5-cb4c-50b9-9926-6c4888e59657",
     "name": "Radiance",
     "label": [
         {

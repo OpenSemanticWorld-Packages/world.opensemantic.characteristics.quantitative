@@ -1,0 +1,22 @@
+{
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "uuid": "bec380ab-00fd-5b78-9185-d27ae7d88bd5",
+    "name": "HasMicroCanonicalPartitionFunctionValue",
+    "label": [
+        {
+            "text": "Micro Canonical Partition Function",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A \"Micro Canonical Partition Function\" applies to a micro canonical ensemble, in which the system is allowed to exchange heat with the environment at fixed temperature, volume, and a fixed number of particles.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasCanonicalPartitionFunctionValue",
+    "base_property": "Property:HasCanonicalPartitionFunctionValue"
+}

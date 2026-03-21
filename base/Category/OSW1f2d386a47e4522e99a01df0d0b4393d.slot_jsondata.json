@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "1f2d386a-47e4-522e-99a0-1df0d0b4393d",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ThermodynamicCriticalMagneticFluxDensity"
     ],
+    "uuid": "1f2d386a-47e4-522e-99a0-1df0d0b4393d",
     "name": "ThermodynamicCriticalMagneticFluxDensity",
     "label": [
         {

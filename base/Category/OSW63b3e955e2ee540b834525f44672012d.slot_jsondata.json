@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "63b3e955-e2ee-540b-8345-25f44672012d",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Wavelength"
     ],
+    "uuid": "63b3e955-e2ee-540b-8345-25f44672012d",
     "name": "Wavelength",
     "label": [
         {

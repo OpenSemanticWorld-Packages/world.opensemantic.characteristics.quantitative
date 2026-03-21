@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
     "uuid": "cdae8c9f-5b98-5805-9de7-6579a67fc09c",
     "name": "HasCurvatureValue",
     "label": [
@@ -9,55 +12,11 @@
     ],
     "description": [
         {
-            "text": "In mathematics \"Curvature\" is the amount by which a geometric object deviates from being flat, or straight in the case of a line, but this is defined in different ways depending on the context.",
+            "text": "The canonical example of extrinsic curvature is that of a circle, which has curvature equal to the inverse of its radius everywhere. Smaller circles bend more sharply, and hence have higher curvature. The curvature of a smooth curve is defined as the curvature of its osculating circle at each point. The osculating circle of a sufficiently smooth plane curve at a given point on the curve is the circle whose center lies on the inner normal line and whose curvature is the same as that of the given curve at that point. This circle is tangent to the curve at the given point.\nThat is, given a point P on a smooth curve C, the curvature of C at P is defined to be 1/R where R is the radius of the osculating circle of C at P. The magnitude of curvature at points on physical curves can be measured in diopters (also spelled dioptre) — this is the convention in optics. [Wikipedia],",
             "lang": "en"
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
-    "main_unit": {
-        "uuid": "63c2721c-8399-58c2-8d64-60ddc34d964a",
-        "name": "1/m",
-        "main_symbol": "1/m"
-    },
-    "additional_units": [
-        {
-            "uuid": "920418d3-0c27-5885-88c2-05b09fdee6ab",
-            "name": "1/cm",
-            "main_symbol": "1/cm",
-            "conversion_factor_to_main_unit": "0.01"
-        },
-        {
-            "uuid": "903aa99a-8cfb-57a2-bdd0-e52a576b75cc",
-            "name": "1/nm",
-            "main_symbol": "1/nm",
-            "conversion_factor_to_main_unit": "0.0"
-        },
-        {
-            "uuid": "bbe0a6ff-9011-52fd-9216-a66260b21e1f",
-            "name": "1/mm",
-            "main_symbol": "1/mm",
-            "conversion_factor_to_main_unit": "0.001"
-        },
-        {
-            "uuid": "3d306379-9409-5dd9-a51e-33e2701193ec",
-            "name": "1/pm",
-            "main_symbol": "1/pm",
-            "conversion_factor_to_main_unit": "0.0"
-        },
-        {
-            "uuid": "e8d2b422-488b-572b-9847-f7d18f4cc69b",
-            "name": "1/μm",
-            "main_symbol": "1/μm",
-            "conversion_factor_to_main_unit": "1e-06"
-        },
-        {
-            "uuid": "f69b3b81-deac-5e76-ae8d-60cf7c8f099f",
-            "name": "1/km",
-            "main_symbol": "1/km",
-            "conversion_factor_to_main_unit": "1000.0"
-        }
-    ]
+    "subproperty_of": "Property:HasInverseLengthValue",
+    "base_property": "Property:HasInverseLengthValue"
 }

@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "463ab2ae-4248-5ddc-a80f-31dca59d3113",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MeanLifetime"
     ],
+    "uuid": "463ab2ae-4248-5ddc-a80f-31dca59d3113",
     "name": "MeanLifetime",
     "label": [
         {

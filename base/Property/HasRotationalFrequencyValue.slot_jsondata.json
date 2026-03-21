@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "e789d465-71f4-5917-8464-917e470b6b8b",
     "name": "HasRotationalFrequencyValue",
     "label": [
@@ -14,20 +17,42 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "b887ca2f-1646-5b46-9c10-5ee1ed5fa313",
         "name": "Hz",
-        "main_symbol": "Hz"
+        "main_symbol": "Hz",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
+        {
+            "uuid": "c89815eb-515a-5e5c-9ef6-e10df8fd4095",
+            "name": "PHz",
+            "main_symbol": "PHz",
+            "conversion_factor_to_main_unit": "1e-15"
+        },
+        {
+            "uuid": "0f69e61c-07d7-530f-b5dd-0372788d95d6",
+            "name": "THz",
+            "main_symbol": "THz",
+            "conversion_factor_to_main_unit": "1e-12"
+        },
+        {
+            "uuid": "238da487-5cb2-5e23-b05e-bbc479c3908e",
+            "name": "GHz",
+            "main_symbol": "GHz",
+            "conversion_factor_to_main_unit": "1e-09"
+        },
         {
             "uuid": "798c6805-95d8-50f5-8a6c-0b8f6689616e",
             "name": "MHz",
             "main_symbol": "MHz",
             "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "7f77389a-6f35-5c28-b57b-fdbe87f944e9",
+            "name": "/ms",
+            "main_symbol": "/ms",
+            "conversion_factor_to_main_unit": "0.001"
         },
         {
             "uuid": "54908209-3ebe-523f-97bf-d6f9afa2a764",
@@ -36,16 +61,28 @@
             "conversion_factor_to_main_unit": "0.001"
         },
         {
-            "uuid": "238da487-5cb2-5e23-b05e-bbc479c3908e",
-            "name": "GHz",
-            "main_symbol": "GHz",
-            "conversion_factor_to_main_unit": "0.0"
+            "uuid": "9593f96d-f58b-5e0c-afc0-d73f4d9a545c",
+            "name": "/s",
+            "main_symbol": "/s",
+            "conversion_factor_to_main_unit": "1.0"
         },
         {
-            "uuid": "0f69e61c-07d7-530f-b5dd-0372788d95d6",
-            "name": "THz",
-            "main_symbol": "THz",
-            "conversion_factor_to_main_unit": "0.0"
+            "uuid": "9a346802-bdbd-5fd2-858a-429b6fc319a3",
+            "name": "c/s",
+            "main_symbol": "c/s",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "789055f3-5458-5c7e-9421-d9a98d371766",
+            "name": "rev/min",
+            "main_symbol": "rev/min",
+            "conversion_factor_to_main_unit": "9.549296581227205"
+        },
+        {
+            "uuid": "a7032c05-237d-58cf-acec-505a5c5c4689",
+            "name": "mHz",
+            "main_symbol": "mHz",
+            "conversion_factor_to_main_unit": "1000.0"
         }
     ]
 }

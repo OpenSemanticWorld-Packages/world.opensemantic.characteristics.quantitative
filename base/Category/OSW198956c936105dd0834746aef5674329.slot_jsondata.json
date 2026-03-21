@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "198956c9-3610-5dd0-8347-46aef5674329",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/TotalCrossSection"
     ],
+    "uuid": "198956c9-3610-5dd0-8347-46aef5674329",
     "name": "TotalCrossSection",
     "label": [
         {

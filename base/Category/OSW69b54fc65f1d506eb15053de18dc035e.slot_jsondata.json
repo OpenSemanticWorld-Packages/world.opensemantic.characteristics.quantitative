@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "69b54fc6-5f1d-506e-b150-53de18dc035e",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MaximumBeta-ParticleEnergy"
     ],
+    "uuid": "69b54fc6-5f1d-506e-b150-53de18dc035e",
     "name": "MaximumBetaParticleEnergy",
     "label": [
         {

@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "b250ea47-42a3-5a81-b710-d43df474fe28",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/AtmosphericPressure",
-        "http://dbpedia.org/resource/Atmospheric_pressure"
+        "http://dbpedia.org/resource/Atmospheric_pressure",
+        "http://qudt.org/vocab/quantitykind/AtmosphericPressure"
     ],
+    "uuid": "b250ea47-42a3-5a81-b710-d43df474fe28",
     "name": "AtmosphericPressure",
     "label": [
         {

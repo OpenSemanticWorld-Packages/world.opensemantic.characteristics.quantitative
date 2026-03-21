@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "1c1be013-4d4e-55e2-917c-5ee4c4adaa39",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/RankineTemperature"
     ],
+    "uuid": "1c1be013-4d4e-55e2-917c-5ee4c4adaa39",
     "name": "RankineTemperature",
     "label": [
         {

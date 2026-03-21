@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "5df3876a-5923-5801-acdf-9ee4970f8324",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/VolumetricFlux"
     ],
+    "uuid": "5df3876a-5923-5801-acdf-9ee4970f8324",
     "name": "VolumetricFlux",
     "label": [
         {
@@ -32,6 +32,11 @@
             "osw_id": "Item:OSW832931cbeded5692a611f7752ee6cf4c",
             "name": "milli_liter_per_centi_meter_squared_per_minute",
             "symbol": "mL/(cm²·min)"
+        },
+        {
+            "osw_id": "Item:OSWce6dfcc14ebe5512909267b6fbe8831d",
+            "name": "milli_liter_per_centi_meter_squared_per_second",
+            "symbol": "mL/(cm²·s)"
         }
     ],
     "quantity_property": "Property:HasVolumetricFluxValue"

@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "bb7902b2-0906-5fa5-8581-83c383ed4254",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/DebyeTemperature"
     ],
+    "uuid": "bb7902b2-0906-5fa5-8581-83c383ed4254",
     "name": "DebyeTemperature",
     "label": [
         {

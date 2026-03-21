@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "4fc1ceaa-b4d6-5dbb-87ec-856aa202b526",
     "name": "HasEnergyPerTemperatureValue",
     "label": [
@@ -8,13 +11,11 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "9ee66572-78de-55f7-91f2-c7171329426d",
         "name": "J/K",
-        "main_symbol": "J/K"
+        "main_symbol": "J/K",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
         {

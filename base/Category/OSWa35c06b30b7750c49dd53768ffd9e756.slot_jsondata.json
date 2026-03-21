@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "a35c06b3-0b77-50c4-9dd5-3768ffd9e756",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/QuantumNumber"
     ],
+    "uuid": "a35c06b3-0b77-50c4-9dd5-3768ffd9e756",
     "name": "QuantumNumber",
     "label": [
         {

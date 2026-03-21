@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "c6e4b85a-cce1-53fd-85a0-b7babd166131",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/DELTA-V"
     ],
+    "uuid": "c6e4b85a-cce1-53fd-85a0-b7babd166131",
     "name": "DeltaV",
     "label": [
         {

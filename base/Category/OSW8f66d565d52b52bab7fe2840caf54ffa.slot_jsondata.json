@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "8f66d565-d52b-52ba-b7fe-2840caf54ffa",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/FrictionCoefficient",
-        "http://dbpedia.org/resource/Friction"
+        "http://dbpedia.org/resource/Friction",
+        "http://qudt.org/vocab/quantitykind/FrictionCoefficient"
     ],
+    "uuid": "8f66d565-d52b-52ba-b7fe-2840caf54ffa",
     "name": "FrictionCoefficient",
     "label": [
         {

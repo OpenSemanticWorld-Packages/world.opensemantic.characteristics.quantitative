@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "809975f9-70ac-5bb7-98bd-97804233445e",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/ThermalEfficiency",
-        "http://dbpedia.org/resource/Thermal_efficiency"
+        "http://dbpedia.org/resource/Thermal_efficiency",
+        "http://qudt.org/vocab/quantitykind/ThermalEfficiency"
     ],
+    "uuid": "809975f9-70ac-5bb7-98bd-97804233445e",
     "name": "ThermalEfficiency",
     "label": [
         {

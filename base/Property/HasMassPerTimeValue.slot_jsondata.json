@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "b7ca02c9-04a9-51d1-bbe3-d1ee475fe2f0",
     "name": "HasMassPerTimeValue",
     "label": [
@@ -8,12 +11,90 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "720b9632-82bf-55b7-b00b-887424160aca",
         "name": "N·s/m",
-        "main_symbol": "N·s/m"
-    }
+        "main_symbol": "N·s/m",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "651956d8-304a-5c3c-ba7d-f65545920a97",
+            "name": "Mt/a",
+            "main_symbol": "Mt/a",
+            "conversion_factor_to_main_unit": "0.0315576"
+        },
+        {
+            "uuid": "d4315cae-884d-572c-8220-2cfa2d72e7e5",
+            "name": "kg/s",
+            "main_symbol": "kg/s",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "d3753feb-bd30-5702-a61a-e139e41a59db",
+            "name": "kt/a",
+            "main_symbol": "kt/a",
+            "conversion_factor_to_main_unit": "31.557599999999997"
+        },
+        {
+            "uuid": "fb3ed9f3-fe0b-5b58-828a-ee97cb8f0739",
+            "name": "g/s",
+            "main_symbol": "g/s",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "3608aced-b96c-5bfa-b187-38a2e2e9ee37",
+            "name": "kg/h",
+            "main_symbol": "kg/h",
+            "conversion_factor_to_main_unit": "3600.0"
+        },
+        {
+            "uuid": "be840d9a-24b3-5d56-959b-230415e66064",
+            "name": "t/a",
+            "main_symbol": "t/a",
+            "conversion_factor_to_main_unit": "31557.600000000002"
+        },
+        {
+            "uuid": "6340cc51-e3a2-5227-97dc-29c1bf60fb84",
+            "name": "kg/d",
+            "main_symbol": "kg/d",
+            "conversion_factor_to_main_unit": "86400.0"
+        },
+        {
+            "uuid": "ce2b22fa-4c13-53b0-be77-0c7ef344c3e5",
+            "name": "mg/s",
+            "main_symbol": "mg/s",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "b34a217c-8dcf-5384-8358-fd4be0f36f62",
+            "name": "g/h",
+            "main_symbol": "g/h",
+            "conversion_factor_to_main_unit": "3600000.0000000005"
+        },
+        {
+            "uuid": "c9bab9e4-17d8-5e9f-a05e-1a0c0fccf193",
+            "name": "g/d",
+            "main_symbol": "g/d",
+            "conversion_factor_to_main_unit": "86400000.0"
+        },
+        {
+            "uuid": "f1ec7256-907e-52ac-affa-322932f4507b",
+            "name": "mg/h",
+            "main_symbol": "mg/h",
+            "conversion_factor_to_main_unit": "3600000000.0"
+        },
+        {
+            "uuid": "86ec6689-1bf6-58f6-828a-ed72899ec484",
+            "name": "mg/d",
+            "main_symbol": "mg/d",
+            "conversion_factor_to_main_unit": "86400000000.0"
+        },
+        {
+            "uuid": "d4910504-a327-56da-b087-4b92f8758321",
+            "name": "ng/d",
+            "main_symbol": "ng/d",
+            "conversion_factor_to_main_unit": "8.64e+16"
+        }
+    ]
 }

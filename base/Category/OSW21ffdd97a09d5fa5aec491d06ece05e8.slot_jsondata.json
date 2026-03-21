@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "21ffdd97-a09d-5fa5-aec4-91d06ece05e8",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/EllipticalOrbitApogeeVelocity"
     ],
+    "uuid": "21ffdd97-a09d-5fa5-aec4-91d06ece05e8",
     "name": "EllipticalOrbitApogeeVelocity",
     "label": [
         {

@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "f9c536c2-ed28-5ff4-8276-52539e5e0152",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Equivalent_Molar"
     ],
+    "uuid": "f9c536c2-ed28-5ff4-8276-52539e5e0152",
     "name": "MolarEquivalent",
     "label": [
         {

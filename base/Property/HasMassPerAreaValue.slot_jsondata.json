@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "e15667fd-2ad8-5b84-8c60-9106f536ac18",
     "name": "HasMassPerAreaValue",
     "label": [
@@ -14,12 +17,114 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "9234c420-52ef-5301-8547-f5e63b094573",
         "name": "kg/m²",
-        "main_symbol": "kg/m²"
-    }
+        "main_symbol": "kg/m²",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "96d4a1c7-8c69-53f2-94b3-5264dca589ac",
+            "name": "kg/cm²",
+            "main_symbol": "kg/cm²",
+            "conversion_factor_to_main_unit": "0.0001"
+        },
+        {
+            "uuid": "941118a8-eaa1-5275-b6fd-92aa46047d9e",
+            "name": "g/mm²",
+            "main_symbol": "g/mm²",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "f93b73da-1b3a-50cf-b118-e2709e146230",
+            "name": "kg/ft²",
+            "main_symbol": "kg/ft²",
+            "conversion_factor_to_main_unit": "0.09290304"
+        },
+        {
+            "uuid": "8f33b0e2-71d6-57d2-8e77-73c8a214ac80",
+            "name": "g/cm²",
+            "main_symbol": "g/cm²",
+            "conversion_factor_to_main_unit": "0.1"
+        },
+        {
+            "uuid": "7385cf96-d702-54e6-87a4-75e35112518b",
+            "name": "Mg/ha",
+            "main_symbol": "Mg/ha",
+            "conversion_factor_to_main_unit": "10.0"
+        },
+        {
+            "uuid": "8884f93f-21c5-5f0f-a911-7322235c9ede",
+            "name": "t/ha",
+            "main_symbol": "t/ha",
+            "conversion_factor_to_main_unit": "10.0"
+        },
+        {
+            "uuid": "6ed6b96d-8e6f-58a9-9631-638ebe3137de",
+            "name": "mg/cm²",
+            "main_symbol": "mg/cm²",
+            "conversion_factor_to_main_unit": "100.0"
+        },
+        {
+            "uuid": "9037740e-294a-549c-9738-70de432c8c24",
+            "name": "g/m²",
+            "main_symbol": "g/m²",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "0e543a21-953b-5ee4-970d-f521462dc004",
+            "name": "kg/ha",
+            "main_symbol": "kg/ha",
+            "conversion_factor_to_main_unit": "10000.0"
+        },
+        {
+            "uuid": "8141d37f-856c-5ee3-9baa-70ec6a6ac041",
+            "name": "mg/dm²",
+            "main_symbol": "mg/dm²",
+            "conversion_factor_to_main_unit": "10000.0"
+        },
+        {
+            "uuid": "663fc8b7-e273-59ee-ab0f-3892b929328e",
+            "name": "μg/cm²",
+            "main_symbol": "μg/cm²",
+            "conversion_factor_to_main_unit": "99999.99999999999"
+        },
+        {
+            "uuid": "4909f7a2-1049-51fd-a52f-128bdfff08af",
+            "name": "μg/in²",
+            "main_symbol": "μg/in²",
+            "conversion_factor_to_main_unit": "645160.0"
+        },
+        {
+            "uuid": "07751ac6-158e-5cc7-96c8-f97dcdf5808c",
+            "name": "kg/km²",
+            "main_symbol": "kg/km²",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "78a8db0d-8575-539b-93af-8d5b12626cd7",
+            "name": "mg/m²",
+            "main_symbol": "mg/m²",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "db522b9f-68cb-558d-bb26-3a29b68048ef",
+            "name": "g/ha",
+            "main_symbol": "g/ha",
+            "conversion_factor_to_main_unit": "10000000.0"
+        },
+        {
+            "uuid": "c50aac62-0606-5dfe-a3c5-80a4e3c69639",
+            "name": "ng/cm²",
+            "main_symbol": "ng/cm²",
+            "conversion_factor_to_main_unit": "100000000.0"
+        },
+        {
+            "uuid": "3f832fd7-f127-5505-9421-183e3b78200c",
+            "name": "mg/ha",
+            "main_symbol": "mg/ha",
+            "conversion_factor_to_main_unit": "10000000000.0"
+        }
+    ]
 }

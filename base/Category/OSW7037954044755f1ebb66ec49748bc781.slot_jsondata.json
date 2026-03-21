@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "70379540-4475-5f1e-bb66-ec49748bc781",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/LatticePlaneSpacing"
     ],
+    "uuid": "70379540-4475-5f1e-bb66-ec49748bc781",
     "name": "LatticePlaneSpacing",
     "label": [
         {

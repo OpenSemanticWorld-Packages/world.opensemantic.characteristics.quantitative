@@ -1,0 +1,38 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/AverageLogarithmicEnergyDecrement"
+    ],
+    "uuid": "3d511591-b978-510a-89d7-4daf2e709393",
+    "name": "AverageLogarithmicEnergyDecrement",
+    "label": [
+        {
+            "text": "Average Logarithmic Energy Decrement",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Average Logarithmic Energy Decrement\" is a measure of the amount of energy a neutron loses upon colliding with various nuclei. It is the average value of the increase in lethargy in elastic collisions between neutrons and nuclei whose kinetic energy is negligible compared with that of the neutrons.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW3d60d3750ea75ea7a3ab916b4028e4cd",
+    "default_unit": "Item:OSWc72c8e13779050d1a5512740a9a12112",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWc72c8e13779050d1a5512740a9a12112",
+            "name": "unitless",
+            "symbol": "一"
+        }
+    ],
+    "quantity_property": "Property:HasAverageLogarithmicEnergyDecrementValue"
+}

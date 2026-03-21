@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "0dbd1a69-0ea0-550c-b83b-ac795f460fa6",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/PotentialEnergy",
-        "http://dbpedia.org/resource/Potential_energy"
+        "http://dbpedia.org/resource/Potential_energy",
+        "http://qudt.org/vocab/quantitykind/PotentialEnergy"
     ],
+    "uuid": "0dbd1a69-0ea0-550c-b83b-ac795f460fa6",
     "name": "PotentialEnergy",
     "label": [
         {

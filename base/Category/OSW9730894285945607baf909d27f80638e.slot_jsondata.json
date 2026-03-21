@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "97308942-8594-5607-baf9-09d27f80638e",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/StaticPressure"
     ],
+    "uuid": "97308942-8594-5607-baf9-09d27f80638e",
     "name": "StaticPressure",
     "label": [
         {

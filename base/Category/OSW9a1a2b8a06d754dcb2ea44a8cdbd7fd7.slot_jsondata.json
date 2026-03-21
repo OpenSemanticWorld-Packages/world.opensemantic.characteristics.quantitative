@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "9a1a2b8a-06d7-54dc-b2ea-44a8cdbd7fd7",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/StandardGravitationalParameter",
-        "http://dbpedia.org/resource/Standard_gravitational_parameter"
+        "http://dbpedia.org/resource/Standard_gravitational_parameter",
+        "http://qudt.org/vocab/quantitykind/StandardGravitationalParameter"
     ],
+    "uuid": "9a1a2b8a-06d7-54dc-b2ea-44a8cdbd7fd7",
     "name": "StandardGravitationalParameter",
     "label": [
         {
@@ -35,7 +35,7 @@
             "symbol": "m³/s²"
         },
         {
-            "osw_id": "Item:OSW70d2cca5a9c75bec807d755997acbf8c#OSW111bef40f18158099e03d15fcd4af1fe",
+            "osw_id": "Item:OSW111bef40f18158099e03d15fcd4af1fe",
             "name": "kilo_meter_cubed_per_second_squared",
             "symbol": "km³/s²"
         }

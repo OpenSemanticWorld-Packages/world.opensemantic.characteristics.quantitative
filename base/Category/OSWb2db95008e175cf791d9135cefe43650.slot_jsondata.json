@@ -1,0 +1,47 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/CostPerPower"
+    ],
+    "uuid": "b2db9500-8e17-5cf7-91d9-135cefe43650",
+    "name": "CostPerPower",
+    "label": [
+        {
+            "text": "Cost per power",
+            "lang": "en"
+        },
+        {
+            "text": "Anschaffungskosten pro Watt",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "In photovoltaics, cost per power of electricity produced measures the cost of installing the hardware relative to the power produced.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW876f7e15d7585ef98482f38a345ca70e",
+    "default_unit": "Item:OSW25f15974fe095c2d8f2469a96915102c",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW25f15974fe095c2d8f2469a96915102c",
+            "name": "euro_per_W",
+            "symbol": "€/W"
+        },
+        {
+            "osw_id": "Item:OSWc747a38c7cb854b9835305d554c85020",
+            "name": "euro_per_kW",
+            "symbol": "€/kW"
+        }
+    ],
+    "quantity_property": "Property:HasCostPerPowerValue"
+}

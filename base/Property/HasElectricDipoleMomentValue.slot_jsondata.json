@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "b9d84d0a-1e5e-543c-93ba-92ea530e9b2e",
     "name": "HasElectricDipoleMomentValue",
     "label": [
@@ -18,12 +21,10 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "8d5cde07-cdd1-5642-ba71-8cda9b2a4821",
         "name": "C·m",
-        "main_symbol": "C·m"
+        "main_symbol": "C·m",
+        "conversion_factor_to_main_unit": "1.0"
     }
 }

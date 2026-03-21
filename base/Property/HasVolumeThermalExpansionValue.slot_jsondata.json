@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "dd582172-beb4-5b7d-92b8-6f6d279711aa",
     "name": "HasVolumeThermalExpansionValue",
     "label": [
@@ -14,19 +17,29 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "179a3390-1ac4-5c41-a812-7ee963a7efc8",
         "name": "m³/K",
-        "main_symbol": "m³/K"
+        "main_symbol": "m³/K",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
+        {
+            "uuid": "3b6e75ac-79c6-5911-a66e-e10a33e475b5",
+            "name": "L/K",
+            "main_symbol": "L/K",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
         {
             "uuid": "e12ce40a-8ecf-51a7-842b-6b468807d261",
             "name": "cm³/K",
             "main_symbol": "cm³/K",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "f94c1308-d241-5a88-8057-7d4a68ae7300",
+            "name": "mL/K",
+            "main_symbol": "mL/K",
             "conversion_factor_to_main_unit": "1000000.0"
         }
     ]

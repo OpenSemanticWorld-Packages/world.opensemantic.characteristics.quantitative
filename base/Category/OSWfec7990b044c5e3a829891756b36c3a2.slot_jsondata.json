@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "fec7990b-044c-5e3a-8298-91756b36c3a2",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/VisibleRadiantEnergy"
     ],
+    "uuid": "fec7990b-044c-5e3a-8298-91756b36c3a2",
     "name": "VisibleRadiantEnergy",
     "label": [
         {

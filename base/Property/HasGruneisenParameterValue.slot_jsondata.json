@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "uuid": "272332dd-48f1-5104-b8ce-8eba38337bd3",
+    "name": "HasGruneisenParameterValue",
+    "label": [
+        {
+            "text": "Gruneisen Parameter",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Gruneisen Parameter\" named after Eduard Grüneisen, describes the effect that changing the volume of a crystal lattice has on its vibrational properties, and, as a consequence, the effect that changing temperature has on the size or dynamics of the lattice.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "main_unit": {
+        "uuid": "4411f5ca-371f-5a11-91c7-0ca80634c8f5",
+        "name": "一",
+        "main_symbol": "一",
+        "conversion_factor_to_main_unit": "1.0"
+    }
+}

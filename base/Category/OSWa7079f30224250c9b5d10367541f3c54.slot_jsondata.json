@@ -2,12 +2,12 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "a7079f30-2242-50c9-b5d1-0367541f3c54",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/EnergyDensity",
         "http://dbpedia.org/resource/Energy_density",
-        "https://si-digital-framework.org/SI/quantities/ENGD"
+        "http://qudt.org/vocab/quantitykind/EnergyDensity",
+        "https://si-digital-framework.org/quantities/ENGD"
     ],
+    "uuid": "a7079f30-2242-50c9-b5d1-0367541f3c54",
     "name": "EnergyDensity",
     "label": [
         {
@@ -36,7 +36,12 @@
             "symbol": "J/m³"
         },
         {
-            "osw_id": "Item:OSW9ea4bf89c42b56728392f1c55639ac18#OSW7044da5ba4b45554b3acc6c6f3fc3624",
+            "osw_id": "Item:OSW1e33151f9c565cfaaf13d0ea13bd8667",
+            "name": "hour_watt_per_meter_cubed",
+            "symbol": "W·h/m³"
+        },
+        {
+            "osw_id": "Item:OSW7044da5ba4b45554b3acc6c6f3fc3624",
             "name": "mega_joule_per_meter_cubed",
             "symbol": "MJ/m³"
         }

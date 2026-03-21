@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "877bfc2b-db1c-5e19-b67c-4fede37fdb56",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/IncidenceRate"
     ],
+    "uuid": "877bfc2b-db1c-5e19-b67c-4fede37fdb56",
     "name": "IncidenceRate",
     "label": [
         {

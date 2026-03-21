@@ -1,0 +1,39 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "close_ontology_match": [
+        "http://dbpedia.org/resource/Faraday_constant",
+        "http://qudt.org/vocab/quantitykind/DegreeOfDissociation"
+    ],
+    "uuid": "5da8fef3-4073-5438-a00b-7c7c454f9018",
+    "name": "DegreeOfDissociation",
+    "label": [
+        {
+            "text": "Degree of Dissociation",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Degree of Dissociation\" is the fraction of original solute molecules that have dissociated.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWd58d9d3414cf55818c1cece87f69a134",
+    "default_unit": "Item:OSWc72c8e13779050d1a5512740a9a12112",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWc72c8e13779050d1a5512740a9a12112",
+            "name": "unitless",
+            "symbol": "一"
+        }
+    ],
+    "quantity_property": "Property:HasDegreeOfDissociationValue"
+}

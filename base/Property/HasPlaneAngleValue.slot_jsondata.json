@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "cbf64b22-6de2-5435-bcd4-f6b960d052d0",
     "name": "HasPlaneAngleValue",
     "label": [
@@ -18,26 +21,60 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "18ab85eb-26e2-5d9e-858f-29529b979c78",
         "name": "rad",
-        "main_symbol": "rad"
+        "main_symbol": "rad",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
         {
-            "uuid": "63a0cc81-77f0-5640-a43f-95515620dade",
-            "name": "µrad",
-            "main_symbol": "µrad",
-            "conversion_factor_to_main_unit": "1000000.0"
+            "uuid": "31fc29f1-dc59-5b98-b9e6-0e106fae01c3",
+            "name": "rev",
+            "main_symbol": "rev",
+            "conversion_factor_to_main_unit": "0.1591549430204534"
+        },
+        {
+            "uuid": "c4722ae5-d02f-529a-8506-cd9cb3c72b68",
+            "name": "°",
+            "main_symbol": "°",
+            "conversion_factor_to_main_unit": "57.295779578552306"
+        },
+        {
+            "uuid": "22d1e18a-1e09-5f91-8157-339f6e5956b2",
+            "name": "gon",
+            "main_symbol": "gon",
+            "conversion_factor_to_main_unit": "63.66197723675799"
+        },
+        {
+            "uuid": "ad542d38-4d8a-5a43-ac93-4a6dcbf7207a",
+            "name": "grad",
+            "main_symbol": "grad",
+            "conversion_factor_to_main_unit": "63.66197723675799"
         },
         {
             "uuid": "0e909ad8-175c-5425-b6f2-62aebca16346",
             "name": "mrad",
             "main_symbol": "mrad",
             "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "813e8c85-4131-55d9-9dba-a01fb15113d4",
+            "name": "mil{NATO}",
+            "main_symbol": "mil{NATO}",
+            "conversion_factor_to_main_unit": "1018.5916357881301"
+        },
+        {
+            "uuid": "68acba18-7e04-5888-85bd-a87f7dce96e0",
+            "name": "'",
+            "main_symbol": "'",
+            "conversion_factor_to_main_unit": "3437.746766834403"
+        },
+        {
+            "uuid": "63a0cc81-77f0-5640-a43f-95515620dade",
+            "name": "μrad",
+            "main_symbol": "μrad",
+            "conversion_factor_to_main_unit": "1000000.0"
         }
     ]
 }

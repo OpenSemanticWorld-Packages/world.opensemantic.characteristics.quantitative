@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "4e658af1-bb26-5ba7-8eb7-2669e48708e2",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MagneticVectorPotential"
     ],
+    "uuid": "4e658af1-bb26-5ba7-8eb7-2669e48708e2",
     "name": "MagneticVectorPotential",
     "label": [
         {
@@ -30,12 +30,27 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW85786212488f538ba6d3b7a4acd8bcf0",
-    "default_unit": "Item:OSWf63c15f03855534fabdc39bb5403d1ff",
+    "default_unit": "Item:OSWc7298c96b3c359e0b48811238a535a07",
     "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWc7298c96b3c359e0b48811238a535a07",
+            "name": "weber_per_meter",
+            "symbol": "Wb/m"
+        },
         {
             "osw_id": "Item:OSWf63c15f03855534fabdc39bb5403d1ff",
             "name": "second_volt_per_meter",
             "symbol": "V·s/m"
+        },
+        {
+            "osw_id": "Item:OSWc7298c96b3c359e0b48811238a535a07#OSWeb17891a3f4a57f791ae5364603ffba0",
+            "name": "weber_per_milli_meter",
+            "symbol": "Wb/mm"
+        },
+        {
+            "osw_id": "Item:OSWc7298c96b3c359e0b48811238a535a07#OSW339ab51b85d05caba7127804832e4b42",
+            "name": "kilo_weber_per_meter",
+            "symbol": "kWb/m"
         }
     ],
     "quantity_property": "Property:HasMagneticVectorPotentialValue"

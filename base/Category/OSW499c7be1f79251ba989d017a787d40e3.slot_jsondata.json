@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "499c7be1-f792-51ba-989d-017a787d40e3",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/SoundPower"
     ],
+    "uuid": "499c7be1-f792-51ba-989d-017a787d40e3",
     "name": "SoundPower",
     "label": [
         {

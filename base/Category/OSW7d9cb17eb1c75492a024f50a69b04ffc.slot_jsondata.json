@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "7d9cb17e-b1c7-5492-a024-f50a69b04ffc",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ElectricPropulsionPropellantMass"
     ],
+    "uuid": "7d9cb17e-b1c7-5492-a024-f50a69b04ffc",
     "name": "ElectricPropulsionPropellantMass",
     "label": [
         {

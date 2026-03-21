@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
     "uuid": "92433354-f936-581c-b3f7-c501d8bc280c",
     "name": "HasAverageVacuumThrustValue",
     "label": [
@@ -9,8 +12,5 @@
     ],
     "property_type": "Quantity",
     "subproperty_of": "Property:HasVacuumThrustValue",
-    "type": [
-        "Category:OSW69f251a900944602a08d1cca830249b5"
-    ],
-    "base_property": "Property:HasForceValue"
+    "base_property": "Property:HasVacuumThrustValue"
 }

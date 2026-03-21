@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "83d957cf-054d-539c-9ed2-a830d7563441",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Adaptation"
     ],
+    "uuid": "83d957cf-054d-539c-9ed2-a830d7563441",
     "name": "Adaptation",
     "label": [
         {

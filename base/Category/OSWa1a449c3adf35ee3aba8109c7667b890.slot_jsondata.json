@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "a1a449c3-adf3-5ee3-aba8-109c7667b890",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/AngularCrossSection"
     ],
+    "uuid": "a1a449c3-adf3-5ee3-aba8-109c7667b890",
     "name": "AngularCrossSection",
     "label": [
         {

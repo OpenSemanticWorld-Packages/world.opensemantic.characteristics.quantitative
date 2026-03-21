@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
     "uuid": "b592b8ce-2f7d-50a6-a041-0d7f1de18bf8",
     "name": "HasThermalAdmittanceValue",
     "label": [
@@ -15,8 +18,5 @@
     ],
     "property_type": "Quantity",
     "subproperty_of": "Property:HasCoefficientOfHeatTransferValue",
-    "type": [
-        "Category:OSW69f251a900944602a08d1cca830249b5"
-    ],
     "base_property": "Property:HasCoefficientOfHeatTransferValue"
 }

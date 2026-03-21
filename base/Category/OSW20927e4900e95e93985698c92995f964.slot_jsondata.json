@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "20927e49-00e9-5e93-9856-98c92995f964",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/Temperature",
-        "http://dbpedia.org/resource/Temperature"
+        "http://dbpedia.org/resource/Temperature",
+        "http://qudt.org/vocab/quantitykind/Temperature"
     ],
+    "uuid": "20927e49-00e9-5e93-9856-98c92995f964",
     "name": "Temperature",
     "label": [
         {
@@ -27,17 +27,37 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW04312c9196a4543d9c827a28f37878d9",
-    "default_unit": "Item:OSWad04992cecb75af4be6f2205e791b42e",
+    "default_unit": "Item:OSWe728730c00ea5cf9af66a550e51b9717",
     "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWe728730c00ea5cf9af66a550e51b9717",
+            "name": "kelvin",
+            "symbol": "K"
+        },
+        {
+            "osw_id": "Item:OSWe728730c00ea5cf9af66a550e51b9717#OSW1c1f6dfede085433b00f28c4732a1aac",
+            "name": "milli_kelvin",
+            "symbol": "mK"
+        },
+        {
+            "osw_id": "Item:OSWad04992cecb75af4be6f2205e791b42e#OSW883731d442e852778ae00df071dd0719",
+            "name": "milli_Celsius",
+            "symbol": "m°C"
+        },
         {
             "osw_id": "Item:OSWad04992cecb75af4be6f2205e791b42e",
             "name": "Celsius",
             "symbol": "°C"
         },
         {
-            "osw_id": "Item:OSWad04992cecb75af4be6f2205e791b42e#OSW883731d442e852778ae00df071dd0719",
-            "name": "milli_Celsius",
-            "symbol": "m°C"
+            "osw_id": "Item:OSWe728730c00ea5cf9af66a550e51b9717#OSW85b3c104421153629814b3e80bfa074d",
+            "name": "deca_kelvin",
+            "symbol": "daK"
+        },
+        {
+            "osw_id": "Item:OSWe728730c00ea5cf9af66a550e51b9717#OSWaa5d744ffc475e0798b1dfd92b9bd176",
+            "name": "mega_kelvin",
+            "symbol": "MK"
         }
     ],
     "quantity_property": "Property:HasTemperatureValue"

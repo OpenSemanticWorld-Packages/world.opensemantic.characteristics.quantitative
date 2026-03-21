@@ -1,0 +1,68 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/AmountOfSubstanceFraction"
+    ],
+    "uuid": "8db802bc-96bb-5e84-b745-867483f6accb",
+    "name": "FractionalAmountOfSubstance",
+    "label": [
+        {
+            "text": "Fractional Amount of Substance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Fractional Amount of Substance\" is defined as tthe amount of a constituent divided by the total amount of all constituents in a mixture.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW326f7aacca3e5392a347036864b7baea",
+    "default_unit": "Item:OSW5d3fe58ebbac5483bad8904ff8811366",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW5d3fe58ebbac5483bad8904ff8811366",
+            "name": "number",
+            "symbol": "#"
+        },
+        {
+            "osw_id": "Item:OSW321f737a4c785e4e8d9cb025341d049c",
+            "name": "ppq",
+            "symbol": "ppq"
+        },
+        {
+            "osw_id": "Item:OSW4c06f33fc30f5ba3af993440b9a15c0b",
+            "name": "parts_per_trillion",
+            "symbol": "ppt"
+        },
+        {
+            "osw_id": "Item:OSW9f9bee3d72225991bfca8c6dd3f273d8",
+            "name": "ppb",
+            "symbol": "PPB"
+        },
+        {
+            "osw_id": "Item:OSW36b5094b7e5654ac9d6200d59ebe8aa4",
+            "name": "PPTM",
+            "symbol": "PPTM"
+        },
+        {
+            "osw_id": "Item:OSW216f440f98d55af992c3922232717874",
+            "name": "ppm",
+            "symbol": "PPM"
+        },
+        {
+            "osw_id": "Item:OSWce05bcf9ee7d5ba5aef48ae97a22540d",
+            "name": "permille",
+            "symbol": "‰"
+        }
+    ],
+    "quantity_property": "Property:HasFractionalAmountOfSubstanceValue"
+}

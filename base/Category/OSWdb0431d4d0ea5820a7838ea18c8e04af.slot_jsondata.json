@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "db0431d4-d0ea-5820-a783-8ea18c8e04af",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/FundamentalReciprocalLatticeVector"
     ],
+    "uuid": "db0431d4-d0ea-5820-a783-8ea18c8e04af",
     "name": "FundamentalReciprocalLatticeVector",
     "label": [
         {

@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "428688cf-d142-56ef-9997-65241fd57f9e",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/Polarizability",
-        "http://dbpedia.org/resource/Polarizability"
+        "http://dbpedia.org/resource/Polarizability",
+        "http://qudt.org/vocab/quantitykind/Polarizability"
     ],
+    "uuid": "428688cf-d142-56ef-9997-65241fd57f9e",
     "name": "Polarisability",
     "label": [
         {
@@ -27,8 +27,13 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSWd86694cd89e6560a9651789b50ef3448",
-    "default_unit": "Item:OSWd5e480234d635c7e8c93bbd6c99e521a",
+    "default_unit": "Item:OSW9ed3650077ea5a42931687ccd72f11ba",
     "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW9ed3650077ea5a42931687ccd72f11ba",
+            "name": "coulomb_squared_meter_squared_per_joule",
+            "symbol": "C²·m²/J"
+        },
         {
             "osw_id": "Item:OSWd5e480234d635c7e8c93bbd6c99e521a",
             "name": "coulomb_meter_squared_per_volt",

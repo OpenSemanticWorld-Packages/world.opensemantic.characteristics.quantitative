@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "0bca40ca-00e0-5ec4-aab8-e33e1a4acf8f",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Wavenumber",
-        "https://si-digital-framework.org/SI/quantities/WANU"
+        "https://si-digital-framework.org/quantities/WANU"
     ],
+    "uuid": "0bca40ca-00e0-5ec4-aab8-e33e1a4acf8f",
     "name": "Wavenumber",
     "label": [
         {

@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "0b66e7b2-fbe6-5484-8e79-cef4a363b3ed",
     "name": "HasLuminousFluxValue",
     "label": [
@@ -18,13 +21,11 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "a36456a1-4f70-5c7f-96b2-a23a19e4c9b2",
         "name": "lm",
-        "main_symbol": "lm"
+        "main_symbol": "lm",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
         {

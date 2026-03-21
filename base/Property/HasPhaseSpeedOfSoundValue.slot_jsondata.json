@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
     "uuid": "e364b0a6-200a-502f-aa8c-42766b518038",
     "name": "HasPhaseSpeedOfSoundValue",
     "label": [
@@ -15,8 +18,5 @@
     ],
     "property_type": "Quantity",
     "subproperty_of": "Property:HasSpeedOfSoundValue",
-    "type": [
-        "Category:OSW69f251a900944602a08d1cca830249b5"
-    ],
-    "base_property": "Property:HasSpeedValue"
+    "base_property": "Property:HasSpeedOfSoundValue"
 }

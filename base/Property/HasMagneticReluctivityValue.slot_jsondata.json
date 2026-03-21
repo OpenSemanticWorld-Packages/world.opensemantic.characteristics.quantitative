@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "85d001a9-cb43-5b95-9e95-e8dce31791e2",
     "name": "HasMagneticReluctivityValue",
     "label": [
@@ -14,12 +17,10 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "6f53b54b-3d90-5b9a-8056-718e318f603a",
-        "name": "1/(T·m)",
-        "main_symbol": "1/(T·m)"
+        "name": "/(T·m)",
+        "main_symbol": "/(T·m)",
+        "conversion_factor_to_main_unit": "1.0"
     }
 }

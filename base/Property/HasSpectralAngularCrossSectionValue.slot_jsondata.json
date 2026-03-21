@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "855b228e-e99e-541d-b3c7-0a2f57e9399a",
     "name": "HasSpectralAngularCrossSectionValue",
     "label": [
@@ -14,12 +17,10 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "1a414a3a-ed9d-5ed6-a22a-b5ef8e399679",
         "name": "m²/(sr·J)",
-        "main_symbol": "m²/(sr·J)"
+        "main_symbol": "m²/(sr·J)",
+        "conversion_factor_to_main_unit": "1.0"
     }
 }

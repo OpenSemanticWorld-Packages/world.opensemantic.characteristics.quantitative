@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
     "uuid": "5731677e-924e-5f55-a69d-763bd355c9f1",
     "name": "HasApparentPowerValue",
     "label": [
@@ -19,8 +22,5 @@
     ],
     "property_type": "Quantity",
     "subproperty_of": "Property:HasElectricPowerValue",
-    "type": [
-        "Category:OSW69f251a900944602a08d1cca830249b5"
-    ],
-    "base_property": "Property:HasPowerValue"
+    "base_property": "Property:HasElectricPowerValue"
 }

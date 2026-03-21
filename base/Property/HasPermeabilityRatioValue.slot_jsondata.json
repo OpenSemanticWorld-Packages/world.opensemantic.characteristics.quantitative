@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "uuid": "2514b7bb-4202-57b1-b3f6-14c77c723ea4",
+    "name": "HasPermeabilityRatioValue",
+    "label": [
+        {
+            "text": "Permeability Ratio",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The ratio of the effective permeability of a porous phase to the absolute permeability.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "main_unit": {
+        "uuid": "8f61e972-498f-51b6-9c88-bc54fee65fed",
+        "name": "#",
+        "main_symbol": "#",
+        "conversion_factor_to_main_unit": "1.0"
+    }
+}

@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "6d3afdeb-7207-5dae-90db-b01171c2d1db",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/CatalyticActivityConcentration",
-        "https://si-digital-framework.org/SI/quantities/CTAC"
+        "https://si-digital-framework.org/quantities/CTAC"
     ],
+    "uuid": "6d3afdeb-7207-5dae-90db-b01171c2d1db",
     "name": "CatalyticActivityConcentration",
     "label": [
         {
@@ -27,12 +27,87 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSWe82d247dea8154569a6be9e457b3095e",
-    "default_unit": "Item:OSW030b700cf26d53fe804f2dcd9cbc44ca",
+    "default_unit": "Item:OSW2563bbedb00157be9da5f07785b473ae",
     "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW2563bbedb00157be9da5f07785b473ae",
+            "name": "milli_katal_per_liter",
+            "symbol": "mkat/L"
+        },
+        {
+            "osw_id": "Item:OSWd15a7a4c22905fc9974241e162821451",
+            "name": "pico_mole_per_day_per_liter",
+            "symbol": "pmol/(L·d)"
+        },
+        {
+            "osw_id": "Item:OSW11c33ee202f9528897c915dabc4976eb",
+            "name": "pico_mole_per_hour_per_liter",
+            "symbol": "pmol/(L·h)"
+        },
+        {
+            "osw_id": "Item:OSWaa47d610749c51138f2f38aef0411cdc#OSWb91a963494eb5fd68fdd26833e054276",
+            "name": "pico_mole_per_meter_cubed_per_second",
+            "symbol": "pmol/(m³·s)"
+        },
+        {
+            "osw_id": "Item:OSW07a18df4a3b45386b0c1ceb630021989",
+            "name": "nano_mole_per_day_per_liter",
+            "symbol": "nmol/(L·d)"
+        },
+        {
+            "osw_id": "Item:OSWdfe49536204d51258b3182ce954d4b25",
+            "name": "nano_mole_per_hour_per_liter",
+            "symbol": "nmol/(L·h)"
+        },
+        {
+            "osw_id": "Item:OSWfab9cdc7da3e5a26b5e312fec00e7297#OSW30338003c36a506b88ac1aa82533c6ad",
+            "name": "pico_katal_per_liter",
+            "symbol": "pkat/L"
+        },
+        {
+            "osw_id": "Item:OSW0f0d0412f8e35ed7baec5fbb3b1f9821",
+            "name": "milli_mole_per_day_per_meter_cubed",
+            "symbol": "mmol/(m³·d)"
+        },
+        {
+            "osw_id": "Item:OSW176563fc03925029962016edf5075426",
+            "name": "nano_mole_per_centi_meter_cubed_per_hour",
+            "symbol": "nmol/(cm³·h)"
+        },
+        {
+            "osw_id": "Item:OSWdd0918a92be75e108349ec5f186beb29",
+            "name": "micro_mole_per_hour_per_liter",
+            "symbol": "μmol/(L·h)"
+        },
+        {
+            "osw_id": "Item:OSW4e11cd7e8e4e5926858a05d39b03c454",
+            "name": "nano_katal_per_liter",
+            "symbol": "nkat/L"
+        },
+        {
+            "osw_id": "Item:OSWfab9cdc7da3e5a26b5e312fec00e7297#OSW7c158d913660561db200e5011b7a810f",
+            "name": "micro_katal_per_liter",
+            "symbol": "μkat/L"
+        },
         {
             "osw_id": "Item:OSW030b700cf26d53fe804f2dcd9cbc44ca",
             "name": "mole_per_meter_cubed_per_second",
-            "symbol": "mol/(m²·m·s)"
+            "symbol": "mol/(m²·s·m)"
+        },
+        {
+            "osw_id": "Item:OSWaa47d610749c51138f2f38aef0411cdc",
+            "name": "mole_per_meter_cubed_per_second",
+            "symbol": "mol/(m³·s)"
+        },
+        {
+            "osw_id": "Item:OSWfab9cdc7da3e5a26b5e312fec00e7297",
+            "name": "katal_per_liter",
+            "symbol": "kat/L"
+        },
+        {
+            "osw_id": "Item:OSWc641377c3136583bbb07b35b8de829af",
+            "name": "katal_per_micro_liter",
+            "symbol": "kat/μL"
         }
     ],
     "quantity_property": "Property:HasCatalyticActivityConcentrationValue"

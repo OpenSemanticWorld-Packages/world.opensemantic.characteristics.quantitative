@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "83c66986-8aad-5ac5-a74c-c377907c78d3",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/PrincipalQuantumNumber"
     ],
+    "uuid": "83c66986-8aad-5ac5-a74c-c377907c78d3",
     "name": "PrincipalQuantumNumber",
     "label": [
         {

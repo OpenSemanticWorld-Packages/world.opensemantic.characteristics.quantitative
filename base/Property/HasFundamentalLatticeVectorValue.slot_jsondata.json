@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
     "uuid": "ac6375f6-6bf6-50ab-9a36-5fad9a9d2b41",
     "name": "HasFundamentalLatticeVectorValue",
     "label": [
@@ -15,8 +18,5 @@
     ],
     "property_type": "Quantity",
     "subproperty_of": "Property:HasLatticeVectorValue",
-    "type": [
-        "Category:OSW69f251a900944602a08d1cca830249b5"
-    ],
-    "base_property": "Property:HasLengthValue"
+    "base_property": "Property:HasLatticeVectorValue"
 }

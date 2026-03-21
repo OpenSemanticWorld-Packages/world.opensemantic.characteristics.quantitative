@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "159c2d66-d135-52c4-94a9-4a5e544de0a6",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/PayloadMass"
     ],
+    "uuid": "159c2d66-d135-52c4-94a9-4a5e544de0a6",
     "name": "PayloadMass",
     "label": [
         {

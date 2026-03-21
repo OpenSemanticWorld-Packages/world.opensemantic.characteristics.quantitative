@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "26847431-43f3-5e8a-91fe-c356065b593e",
     "name": "HasTemperatureValue",
     "label": [
@@ -14,15 +17,37 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "03b5183d-0403-5f91-aff2-8269f9e68692",
         "name": "°C",
-        "main_symbol": "°C"
+        "main_symbol": "°C",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
+        {
+            "uuid": "6ae6557e-3fc0-5c3e-83f6-9bdeed016037",
+            "name": "MK",
+            "main_symbol": "MK",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "5f12ee3b-3973-5f2d-8f37-962d25309fba",
+            "name": "daK",
+            "main_symbol": "daK",
+            "conversion_factor_to_main_unit": "0.1"
+        },
+        {
+            "uuid": "7c7c6b5f-d76a-5abe-92e1-006bc49ce7e4",
+            "name": "K",
+            "main_symbol": "K",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "d8e305e5-b15a-58bd-9f39-9188f79604eb",
+            "name": "mK",
+            "main_symbol": "mK",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
         {
             "uuid": "dca23854-8300-51b7-b580-0dfc101b79db",
             "name": "m°C",

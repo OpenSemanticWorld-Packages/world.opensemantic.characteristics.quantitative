@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "fd24274b-97b5-57eb-ad5f-bc98060ffcf6",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ParticleSourceDensity"
     ],
+    "uuid": "fd24274b-97b5-57eb-ad5f-bc98060ffcf6",
     "name": "ParticleSourceDensity",
     "label": [
         {
@@ -31,7 +31,7 @@
         {
             "osw_id": "Item:OSW804e40f82f4955ab8f1bd0c1e9e77d28",
             "name": "per_meter_cubed_per_second",
-            "symbol": "1/(m³·s)"
+            "symbol": "/(m³·s)"
         }
     ],
     "quantity_property": "Property:HasParticleSourceDensityValue"

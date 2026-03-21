@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "06164d3f-ebb9-5a42-add7-826696cc5387",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ElectricPower"
     ],
+    "uuid": "06164d3f-ebb9-5a42-add7-826696cc5387",
     "name": "ElectricPower",
     "label": [
         {

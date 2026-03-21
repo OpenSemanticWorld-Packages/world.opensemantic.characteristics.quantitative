@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "7f7a15bf-6ea8-5852-a16a-840a3f2887e8",
     "name": "HasSecondAxialMomentOfAreaValue",
     "label": [
@@ -14,26 +17,24 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "9ba67696-aba3-58f1-b204-2c8c313dbff7",
         "name": "m⁴",
-        "main_symbol": "m⁴"
+        "main_symbol": "m⁴",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
-        {
-            "uuid": "312f7cb7-8f3e-5239-82d4-459661880419",
-            "name": "mm⁴",
-            "main_symbol": "mm⁴",
-            "conversion_factor_to_main_unit": "1000000000000.0"
-        },
         {
             "uuid": "14acaee8-699d-56ac-aade-3417d9e8fa72",
             "name": "cm⁴",
             "main_symbol": "cm⁴",
             "conversion_factor_to_main_unit": "100000000.0"
+        },
+        {
+            "uuid": "312f7cb7-8f3e-5239-82d4-459661880419",
+            "name": "mm⁴",
+            "main_symbol": "mm⁴",
+            "conversion_factor_to_main_unit": "1000000000000.0"
         }
     ]
 }

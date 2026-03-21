@@ -1,0 +1,22 @@
+{
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "uuid": "f7f304d4-e05e-5c6d-a284-757ca94371aa",
+    "name": "HasGrowingDegreeDaysCerealsValue",
+    "label": [
+        {
+            "text": "Growing Degree Days (Cereals)",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The sum of excess temperature over 5.5°C, where the temperature is the mean of the minimum and maximum atmospheric temperature in a day. This measure is appropriate for most cereal crops.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasTimeTemperatureValue",
+    "base_property": "Property:HasTimeTemperatureValue"
+}

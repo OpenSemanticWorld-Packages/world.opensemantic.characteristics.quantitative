@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "3c3443b8-e139-5c6f-9867-93f1d9f7d27a",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/IsothermalCompressibility"
     ],
+    "uuid": "3c3443b8-e139-5c6f-9867-93f1d9f7d27a",
     "name": "IsothermalCompressibility",
     "label": [
         {
@@ -35,7 +35,12 @@
         {
             "osw_id": "Item:OSWf030abd4441d52a7a8c5f84950985ea4",
             "name": "per_pascal",
-            "symbol": "1/Pa"
+            "symbol": "/Pa"
+        },
+        {
+            "osw_id": "Item:OSWf030abd4441d52a7a8c5f84950985ea4#OSW76c7de3066ca5349bd8e252ca3e3ee95",
+            "name": "per_mega_pascal",
+            "symbol": "/MPa"
         }
     ],
     "quantity_property": "Property:HasIsothermalCompressibilityValue"

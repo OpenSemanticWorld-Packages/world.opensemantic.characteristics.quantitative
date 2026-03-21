@@ -2,12 +2,12 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "b6892111-1fae-5bca-a1d6-128bc8be6615",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/AbsorbedDose",
         "http://dbpedia.org/resource/Absorbed_dose",
-        "https://si-digital-framework.org/SI/quantities/ABDO"
+        "http://qudt.org/vocab/quantitykind/AbsorbedDose",
+        "https://si-digital-framework.org/quantities/ABDO"
     ],
+    "uuid": "b6892111-1fae-5bca-a1d6-128bc8be6615",
     "name": "AbsorbedDose",
     "label": [
         {

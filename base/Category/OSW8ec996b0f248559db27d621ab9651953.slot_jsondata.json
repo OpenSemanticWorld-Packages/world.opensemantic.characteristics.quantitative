@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "8ec996b0-f248-559d-b27d-621ab9651953",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/SpectralRadiantEnergyDensity"
     ],
+    "uuid": "8ec996b0-f248-559d-b27d-621ab9651953",
     "name": "SpectralRadiantEnergyDensity",
     "label": [
         {
@@ -30,8 +30,38 @@
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW9660b61081145dbcb6d4ebb5ab9244ff",
-            "name": "4",
+            "name": "joule_per_meter_to_the_fourth",
             "symbol": "J/m⁴"
+        },
+        {
+            "osw_id": "Item:OSW99601f470fd45cfdb1212116828089a1",
+            "name": "pico_pascal_per_kilo_meter",
+            "symbol": "pPa/km"
+        },
+        {
+            "osw_id": "Item:OSW0003c1109b645575b70f007360b49fa2#OSWd4588382274f5562bb8ae501d79a9a7b",
+            "name": "milli_pascal_per_meter",
+            "symbol": "mPa/m"
+        },
+        {
+            "osw_id": "Item:OSW0003c1109b645575b70f007360b49fa2",
+            "name": "pascal_per_meter",
+            "symbol": "Pa/m"
+        },
+        {
+            "osw_id": "Item:OSW0003c1109b645575b70f007360b49fa2#OSWdbc16d304ae05714ba10f091cf23016f",
+            "name": "hecto_pascal_per_meter",
+            "symbol": "hPa/m"
+        },
+        {
+            "osw_id": "Item:OSW0003c1109b645575b70f007360b49fa2#OSWde57b565a8ad5f508b6f7c24f3f98db6",
+            "name": "kilo_pascal_per_meter",
+            "symbol": "kPa/m"
+        },
+        {
+            "osw_id": "Item:OSWa1f0f30cdd0c5e6a898e05fc76e109ad",
+            "name": "kilo_pascal_per_milli_meter",
+            "symbol": "kPa/mm"
         }
     ],
     "quantity_property": "Property:HasSpectralRadiantEnergyDensityValue"

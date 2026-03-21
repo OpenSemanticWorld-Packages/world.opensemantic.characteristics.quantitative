@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "869c9ca2-3865-5776-b81a-4d9a9576ffa9",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/FermiTemperature"
     ],
+    "uuid": "869c9ca2-3865-5776-b81a-4d9a9576ffa9",
     "name": "FermiTemperature",
     "label": [
         {

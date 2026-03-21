@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "586b905d-cd82-5d0c-a94f-e79a97b6f229",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ComplexFrequency_Real"
     ],
+    "uuid": "586b905d-cd82-5d0c-a94f-e79a97b6f229",
     "name": "RealPartOfComplexFrequency",
     "label": [
         {

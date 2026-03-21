@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "c11d565a-6b49-50c9-be08-c3ba7b9a106c",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/FissionFuelUtilizationFactor"
     ],
+    "uuid": "c11d565a-6b49-50c9-be08-c3ba7b9a106c",
     "name": "FissionFuelUtilizationFactor",
     "label": [
         {

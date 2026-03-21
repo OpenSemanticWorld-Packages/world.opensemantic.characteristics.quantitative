@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "9756d434-8537-51d8-aea8-8dfddd696a49",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/CoefficientOfPerformance"
     ],
+    "uuid": "9756d434-8537-51d8-aea8-8dfddd696a49",
     "name": "CoefficientOfPerformance",
     "label": [
         {

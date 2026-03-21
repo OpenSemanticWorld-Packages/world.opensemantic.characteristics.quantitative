@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "878ac43a-f7e0-5aa7-8650-88cb0b79caeb",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ServiceFactor"
     ],
+    "uuid": "878ac43a-f7e0-5aa7-8650-88cb0b79caeb",
     "name": "ServiceFactor",
     "label": [
         {

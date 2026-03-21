@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "58c3637b-7e51-5ed8-b51f-7e9dc4ea424f",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MassOfTheEarth"
     ],
+    "uuid": "58c3637b-7e51-5ed8-b51f-7e9dc4ea424f",
     "name": "MassOfTheEarth",
     "label": [
         {

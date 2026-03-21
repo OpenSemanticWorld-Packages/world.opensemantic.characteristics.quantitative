@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "22acaaf9-b83e-5160-b8a2-9b1a4147e848",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ThermalResistivity"
     ],
+    "uuid": "22acaaf9-b83e-5160-b8a2-9b1a4147e848",
     "name": "ThermalResistivity",
     "label": [
         {
@@ -26,8 +26,13 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW2812fbfc4a4b5bda8f3092fc94f98be7",
-    "default_unit": "Item:OSWc51652fc56f1518ebabb2c7f7701436e",
+    "default_unit": "Item:OSW564da763f4395835aaec45131f48b5a7",
     "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW564da763f4395835aaec45131f48b5a7",
+            "name": "kelvin_meter_per_watt",
+            "symbol": "m·K/W"
+        },
         {
             "osw_id": "Item:OSWc51652fc56f1518ebabb2c7f7701436e",
             "name": "kelvin_meter_per_watt",

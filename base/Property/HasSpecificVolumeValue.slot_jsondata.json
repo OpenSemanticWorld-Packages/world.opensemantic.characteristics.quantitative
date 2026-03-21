@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "241f6289-ae7d-5b71-bd49-f39e78357d61",
     "name": "HasSpecificVolumeValue",
     "label": [
@@ -14,20 +17,54 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "0b544209-f7fa-5775-b2f3-8b079cd98c2c",
         "name": "m³/kg",
-        "main_symbol": "m³/kg"
+        "main_symbol": "m³/kg",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
+        {
+            "uuid": "3a6ec82a-c886-5da2-8a8d-b81827a9b8ca",
+            "name": "dL/g",
+            "main_symbol": "dL/g",
+            "conversion_factor_to_main_unit": "10.0"
+        },
+        {
+            "uuid": "7f076fd0-0190-5e82-9511-9ce6910978ba",
+            "name": "L/kg",
+            "main_symbol": "L/kg",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "4428ae5b-abf3-5e12-aafa-8d1dfeb59382",
+            "name": "cm³/g",
+            "main_symbol": "cm³/g",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "32c0ad52-c633-55f2-a53b-6c9c3b7c15fb",
+            "name": "mL/g",
+            "main_symbol": "mL/g",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "83cb2d19-5f08-5fe5-b5da-77d42b78c64f",
+            "name": "mL/kg",
+            "main_symbol": "mL/kg",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "d6249685-3bee-5b45-aae4-5635d29daed9",
+            "name": "mm³/g",
+            "main_symbol": "mm³/g",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
         {
             "uuid": "a67cbf2e-d517-5ba8-b541-e9b7979d814d",
             "name": "mm³/kg",
             "main_symbol": "mm³/kg",
-            "conversion_factor_to_main_unit": "1000000000.0"
+            "conversion_factor_to_main_unit": "999999999.9999999"
         }
     ]
 }

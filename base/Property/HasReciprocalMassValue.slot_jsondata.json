@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "6921f310-0ac6-59c8-a716-82988937258f",
     "name": "HasReciprocalMassValue",
     "label": [
@@ -8,12 +11,24 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
-        "uuid": "ee1354bb-6cd5-5858-b4f2-3926eec90d30",
-        "name": "1/g",
-        "main_symbol": "1/g"
-    }
+        "uuid": "0672bbb7-0643-5a7e-ad68-1b95613de00f",
+        "name": "/kg",
+        "main_symbol": "/kg",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "801952a3-267f-5eb6-a638-2ed0b078bcab",
+            "name": "/mg",
+            "main_symbol": "/mg",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "ee1354bb-6cd5-5858-b4f2-3926eec90d30",
+            "name": "/g",
+            "main_symbol": "/g",
+            "conversion_factor_to_main_unit": "0.001"
+        }
+    ]
 }

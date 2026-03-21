@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "78bb22c1-7107-5ca7-81ec-3c9fff9991ea",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MolarEntropy",
-        "https://si-digital-framework.org/SI/quantities/MOEN"
+        "https://si-digital-framework.org/quantities/MOEN"
     ],
+    "uuid": "78bb22c1-7107-5ca7-81ec-3c9fff9991ea",
     "name": "MolarEntropy",
     "label": [
         {

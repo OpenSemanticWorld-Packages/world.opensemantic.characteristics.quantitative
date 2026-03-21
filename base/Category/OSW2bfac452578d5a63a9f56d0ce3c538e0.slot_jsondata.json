@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "2bfac452-578d-5a63-a9f5-6d0ce3c538e0",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/OverRangeDistance"
     ],
+    "uuid": "2bfac452-578d-5a63-a9f5-6d0ce3c538e0",
     "name": "OverRangeDistance",
     "label": [
         {

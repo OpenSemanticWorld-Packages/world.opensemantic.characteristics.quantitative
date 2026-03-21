@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "1e5c0bad-db35-5cd5-91ec-727ff16e88d9",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/RelativeAtomicMass"
     ],
+    "uuid": "1e5c0bad-db35-5cd5-91ec-727ff16e88d9",
     "name": "RelativeAtomicMass",
     "label": [
         {

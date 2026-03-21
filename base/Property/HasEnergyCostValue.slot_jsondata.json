@@ -1,0 +1,92 @@
+{
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "uuid": "632ac0d3-ad0b-5d66-bac8-3ebb411cf02d",
+    "name": "HasEnergyCostValue",
+    "label": [
+        {
+            "text": "Energy cost",
+            "lang": "en"
+        },
+        {
+            "text": "Energiekosten",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The monetary cost of a unit of energy",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "main_unit": {
+        "uuid": "d9d6934b-e83f-5ebf-b128-a9eef2a9b1f6",
+        "name": "€/(W·s)",
+        "main_symbol": "€/(W·s)",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "c83187ef-09c6-52c8-85ce-7e74fc66aeb2",
+            "name": "€/(W·h)",
+            "main_symbol": "€/(W·h)",
+            "conversion_factor_to_main_unit": "3600.0"
+        },
+        {
+            "uuid": "f60339ed-69c7-58aa-8f66-7d2adf507598",
+            "name": "CHF/(kW·h)",
+            "main_symbol": "CHF/(kW·h)",
+            "conversion_factor_to_main_unit": "3600000.0000000005"
+        },
+        {
+            "uuid": "6fd65634-5acb-502a-a017-daacbebe7186",
+            "name": "Ft/(kW·h)",
+            "main_symbol": "Ft/(kW·h)",
+            "conversion_factor_to_main_unit": "3600000.0000000005"
+        },
+        {
+            "uuid": "c7b13be1-5271-5e43-b6c4-9d23d8341be8",
+            "name": "Kč/(kW·h)",
+            "main_symbol": "Kč/(kW·h)",
+            "conversion_factor_to_main_unit": "3600000.0000000005"
+        },
+        {
+            "uuid": "8f95595e-ef77-59dd-92dd-b6c09fb1613c",
+            "name": "L/(kW·h)",
+            "main_symbol": "L/(kW·h)",
+            "conversion_factor_to_main_unit": "3600000.0000000005"
+        },
+        {
+            "uuid": "e0d98306-b074-5286-a76a-5b5e36224de7",
+            "name": "kr/(kW·h)",
+            "main_symbol": "kr/(kW·h)",
+            "conversion_factor_to_main_unit": "3600000.0000000005"
+        },
+        {
+            "uuid": "def55b1b-b653-5337-a8b6-ba11a6a98a2c",
+            "name": "zł/(kW·h)",
+            "main_symbol": "zł/(kW·h)",
+            "conversion_factor_to_main_unit": "3600000.0000000005"
+        },
+        {
+            "uuid": "6acda9f2-c271-5881-b63c-d047ba8a9dbf",
+            "name": "£/(kW·h)",
+            "main_symbol": "£/(kW·h)",
+            "conversion_factor_to_main_unit": "3600000.0000000005"
+        },
+        {
+            "uuid": "bf88852d-a38f-5cd6-8be1-d45f3ca7a1e5",
+            "name": "лв./(kW·h)",
+            "main_symbol": "лв./(kW·h)",
+            "conversion_factor_to_main_unit": "3600000.0000000005"
+        },
+        {
+            "uuid": "02543af8-7084-5203-8752-adede3c4acd8",
+            "name": "€/(kW·h)",
+            "main_symbol": "€/(kW·h)",
+            "conversion_factor_to_main_unit": "3600000.0000000005"
+        }
+    ]
+}

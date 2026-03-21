@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "1ccf7d20-cba9-5e54-a9c0-b3f6c9ca2c6b",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MolarFlowRate"
     ],
+    "uuid": "1ccf7d20-cba9-5e54-a9c0-b3f6c9ca2c6b",
     "name": "MolarFlowRate",
     "label": [
         {
@@ -34,14 +34,34 @@
             "symbol": "mol/s"
         },
         {
-            "osw_id": "Item:OSW6b764c5799c45b62bb947ed93f8b99eb#OSWb3ad32c2d89057e08a13a3562b52bd17",
-            "name": "kilo_mole_per_second",
-            "symbol": "kmol/s"
-        },
-        {
             "osw_id": "Item:OSW6b764c5799c45b62bb947ed93f8b99eb#OSW10e98cb9b70150158fc1544d9f094ad2",
             "name": "micro_mole_per_second",
             "symbol": "μmol/s"
+        },
+        {
+            "osw_id": "Item:OSWe363854a9dae564599c5f2b186d2f248",
+            "name": "mole_per_hour",
+            "symbol": "mol/h"
+        },
+        {
+            "osw_id": "Item:OSW467e2e80ae48546cb31355254d2f4fd7",
+            "name": "mole_per_minute",
+            "symbol": "mol/min"
+        },
+        {
+            "osw_id": "Item:OSWe363854a9dae564599c5f2b186d2f248#OSWd95d2efc01ef530e8082c420db9bb287",
+            "name": "kilo_mole_per_hour",
+            "symbol": "kmol/h"
+        },
+        {
+            "osw_id": "Item:OSW467e2e80ae48546cb31355254d2f4fd7#OSW1e93621164085cd58893663c44d43e70",
+            "name": "kilo_mole_per_minute",
+            "symbol": "kmol/min"
+        },
+        {
+            "osw_id": "Item:OSW6b764c5799c45b62bb947ed93f8b99eb#OSWb3ad32c2d89057e08a13a3562b52bd17",
+            "name": "kilo_mole_per_second",
+            "symbol": "kmol/s"
         }
     ],
     "quantity_property": "Property:HasMolarFlowRateValue"

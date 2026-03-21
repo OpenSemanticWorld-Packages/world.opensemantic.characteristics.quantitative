@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "d60aaf9b-746a-594a-8380-5f0f0ae921ff",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/PositionVector"
     ],
+    "uuid": "d60aaf9b-746a-594a-8380-5f0f0ae921ff",
     "name": "PositionVector",
     "label": [
         {

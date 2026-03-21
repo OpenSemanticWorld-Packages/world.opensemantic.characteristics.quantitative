@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "bade8d0a-825f-5900-be44-268cec649801",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/SeebeckCoefficient"
     ],
+    "uuid": "bade8d0a-825f-5900-be44-268cec649801",
     "name": "SeebeckCoefficient",
     "label": [
         {

@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "8139b637-34d3-516c-827b-33f08ced96fb",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ThermalInsulance"
     ],
+    "uuid": "8139b637-34d3-516c-827b-33f08ced96fb",
     "name": "ThermalInsulance",
     "label": [
         {

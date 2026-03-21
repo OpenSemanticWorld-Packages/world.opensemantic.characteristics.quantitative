@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "uuid": "9206faca-643c-51bb-8ad8-333213b584a4",
+    "name": "HasLandeGFactorValue",
+    "label": [
+        {
+            "text": "Lande g-Factor",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Lande g-Factor\" is a particular example of a g-factor, namely for an electron with both spin and orbital angular momenta. It is named after Alfred Landé, who first described it in 1921.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "main_unit": {
+        "uuid": "4411f5ca-371f-5a11-91c7-0ca80634c8f5",
+        "name": "一",
+        "main_symbol": "一",
+        "conversion_factor_to_main_unit": "1.0"
+    }
+}

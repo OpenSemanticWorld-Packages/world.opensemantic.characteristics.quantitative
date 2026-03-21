@@ -2,12 +2,12 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "69b648b4-fe1a-5607-b167-a699f899be87",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/ThermodynamicTemperature",
         "http://dbpedia.org/page/Thermodynamic_temperature",
-        "https://si-digital-framework.org/SI/quantities/TEMT"
+        "http://qudt.org/vocab/quantitykind/ThermodynamicTemperature",
+        "https://si-digital-framework.org/quantities/TEMT"
     ],
+    "uuid": "69b648b4-fe1a-5607-b167-a699f899be87",
     "name": "ThermodynamicTemperature",
     "label": [
         {

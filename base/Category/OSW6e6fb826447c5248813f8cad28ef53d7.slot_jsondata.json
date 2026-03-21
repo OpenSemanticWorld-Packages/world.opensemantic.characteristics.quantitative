@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "6e6fb826-447c-5248-813f-8cad28ef53d7",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/StrainEnergyDensity"
     ],
+    "uuid": "6e6fb826-447c-5248-813f-8cad28ef53d7",
     "name": "StrainEnergyDensity",
     "label": [
         {

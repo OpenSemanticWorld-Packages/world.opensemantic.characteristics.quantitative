@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "feea4244-1eab-5f65-98b3-6cda1157f75f",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MassRatio"
     ],
+    "uuid": "feea4244-1eab-5f65-98b3-6cda1157f75f",
     "name": "MassRatio",
     "label": [
         {
@@ -30,14 +30,51 @@
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW36c3b3d668515d6ba8fd68089a3a0371",
+            "name": "g_per_g",
             "symbol": "g/g"
         },
         {
-            "osw_id": "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSWae508fcfb7fb56c78ae5250e13758161",
-            "symbol": "kg/kg"
+            "osw_id": "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSW2f5b867d773d5268b17309fab65db209",
+            "name": "femto_gram_per_kilo_gram",
+            "symbol": "fg/kg"
         },
         {
-            "osw_id": "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSW8b2109351a6e507492cbce6f37661a92",
+            "osw_id": "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSW3bed6d44ed615a748a7595d801c245b8",
+            "name": "pico_gram_per_kilo_gram",
+            "symbol": "pg/kg"
+        },
+        {
+            "osw_id": "Item:OSWc8e31fab4f67570ea38e00fd9c82be94",
+            "name": "nano_gram_per_kilo_gram",
+            "symbol": "ng/kg"
+        },
+        {
+            "osw_id": "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSW0e151b869b4358e09c5be62ba332b9e2",
+            "name": "pico_gram_per_gram",
+            "symbol": "pg/g"
+        },
+        {
+            "osw_id": "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSW7e7e05279aa4577fb0eb1d647fecf484",
+            "name": "pico_gram_per_milli_gram",
+            "symbol": "pg/mg"
+        },
+        {
+            "osw_id": "Item:OSW489e9a9e15db5cdb8c5e19af8453080d",
+            "name": "micro_gram_per_kilo_gram",
+            "symbol": "μg/kg"
+        },
+        {
+            "osw_id": "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSW4918ceb8bfb355b79ae255d1ca1eb021",
+            "name": "milli_gram_per_kilo_gram",
+            "symbol": "mg/kg"
+        },
+        {
+            "osw_id": "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSW03aa8b0245fe546db8368809b8a752e1",
+            "name": "nano_gram_per_milli_gram",
+            "symbol": "ng/mg"
+        },
+        {
+            "osw_id": "Item:OSW8b2109351a6e507492cbce6f37661a92",
             "name": "micro_gram_per_gram",
             "symbol": "μg/g"
         },
@@ -47,14 +84,24 @@
             "symbol": "g/kg"
         },
         {
-            "osw_id": "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSW31fbfb51bd3f59f8ad0721cb4d285ad3",
+            "osw_id": "Item:OSW31fbfb51bd3f59f8ad0721cb4d285ad3",
             "name": "milli_gram_per_gram",
             "symbol": "mg/g"
         },
         {
-            "osw_id": "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSW0e151b869b4358e09c5be62ba332b9e2",
-            "name": "pico_gram_per_gram",
-            "symbol": "pg/g"
+            "osw_id": "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSW32934a441d325fe4ab16a8654fb65867",
+            "name": "micro_gram_per_milli_gram",
+            "symbol": "μg/mg"
+        },
+        {
+            "osw_id": "Item:OSW067aa295c56952f7b7d7e0149308cee8",
+            "name": "gram_per_hecto_gram",
+            "symbol": "g/hg"
+        },
+        {
+            "osw_id": "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSWae508fcfb7fb56c78ae5250e13758161",
+            "name": "kg_per_kg",
+            "symbol": "kg/kg"
         }
     ],
     "quantity_property": "Property:HasMassRatioValue"

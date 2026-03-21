@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "7aedd564-24d6-5960-9a3a-6395491f7ede",
     "name": "HasMagneticDipoleMomentValue",
     "label": [
@@ -14,12 +17,18 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "e725fc98-83da-57d2-aa3d-4fe08c0aa650",
         "name": "N·m²/A",
-        "main_symbol": "N·m²/A"
-    }
+        "main_symbol": "N·m²/A",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "1867f7be-3369-54bd-a5e5-f61365d2145e",
+            "name": "Wb·m",
+            "main_symbol": "Wb·m",
+            "conversion_factor_to_main_unit": "1.0"
+        }
+    ]
 }

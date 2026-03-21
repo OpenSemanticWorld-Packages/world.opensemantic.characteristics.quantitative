@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "uuid": "5b27a852-b35f-581e-aaf2-35b96a9881c1",
+    "name": "HasIsentropicExponentValue",
+    "label": [
+        {
+            "text": "Isentropic exponent",
+            "lang": "en"
+        },
+        {
+            "text": "Isentropenexponent",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Isentropic Exponent}$ is a variant of $\\textit{Specific Heat Ratio Capacities}$. \n  For an ideal gas $\\textit{Isentropic Exponent}$, $\\varkappa$. is equal to $\\gamma$,\n   the ratio of its specific heat capacities $c_p$ and $c_v$ under steady pressure and volume.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "main_unit": {
+        "uuid": "4411f5ca-371f-5a11-91c7-0ca80634c8f5",
+        "name": "一",
+        "main_symbol": "一",
+        "conversion_factor_to_main_unit": "1.0"
+    }
+}

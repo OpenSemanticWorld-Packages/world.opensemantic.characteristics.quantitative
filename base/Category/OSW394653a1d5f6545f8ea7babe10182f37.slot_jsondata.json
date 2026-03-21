@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "394653a1-d5f6-545f-8ea7-babe10182f37",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/FissionMultiplicationFactor"
     ],
+    "uuid": "394653a1-d5f6-545f-8ea7-babe10182f37",
     "name": "FissionMultiplicationFactor",
     "label": [
         {

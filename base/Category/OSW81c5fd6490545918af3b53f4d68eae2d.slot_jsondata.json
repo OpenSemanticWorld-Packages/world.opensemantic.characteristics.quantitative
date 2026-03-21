@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "81c5fd64-9054-5918-af3b-53f4d68eae2d",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/AtomicAttenuationCoefficient"
     ],
+    "uuid": "81c5fd64-9054-5918-af3b-53f4d68eae2d",
     "name": "AtomicAttenuationCoefficient",
     "label": [
         {

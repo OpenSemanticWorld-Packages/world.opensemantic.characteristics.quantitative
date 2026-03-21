@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "63d076aa-990f-55ac-bc4b-36a07dbd99e9",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/AngleOfOpticalRotation"
     ],
+    "uuid": "63d076aa-990f-55ac-bc4b-36a07dbd99e9",
     "name": "AngleOfOpticalRotation",
     "label": [
         {

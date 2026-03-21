@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "21be91e0-703b-56c6-a6d9-96756c8e23a8",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/ReynoldsNumber",
-        "http://dbpedia.org/resource/Reynolds_number"
+        "http://dbpedia.org/resource/Reynolds_number",
+        "http://qudt.org/vocab/quantitykind/ReynoldsNumber"
     ],
+    "uuid": "21be91e0-703b-56c6-a6d9-96756c8e23a8",
     "name": "ReynoldsNumber",
     "label": [
         {

@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "uuid": "60172cdd-ca1e-5e92-82bf-b3b11d01db0d",
+    "name": "HasMassRatioOfWaterVapourToDryGasValue",
+    "label": [
+        {
+            "text": "Mass Ratio of Water Vapour to Dry Gas",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Mass Ratio of Water Vapour to Dry Gas is one of a number of Concentration Ratio quantities defined by ISO 80000.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "main_unit": {
+        "uuid": "4411f5ca-371f-5a11-91c7-0ca80634c8f5",
+        "name": "一",
+        "main_symbol": "一",
+        "conversion_factor_to_main_unit": "1.0"
+    }
+}

@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "0b80c1b7-5624-573d-acff-39addc27fd98",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/DiffusionArea"
     ],
+    "uuid": "0b80c1b7-5624-573d-acff-39addc27fd98",
     "name": "DiffusionArea",
     "label": [
         {

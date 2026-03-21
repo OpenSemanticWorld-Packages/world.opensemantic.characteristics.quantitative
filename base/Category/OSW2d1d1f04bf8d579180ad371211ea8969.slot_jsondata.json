@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "2d1d1f04-bf8d-5791-80ad-371211ea8969",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Population"
     ],
+    "uuid": "2d1d1f04-bf8d-5791-80ad-371211ea8969",
     "name": "Population",
     "label": [
         {

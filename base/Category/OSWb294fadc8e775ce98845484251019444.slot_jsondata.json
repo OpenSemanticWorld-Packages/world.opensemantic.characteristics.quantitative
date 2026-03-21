@@ -1,0 +1,38 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Impulse"
+    ],
+    "uuid": "b294fadc-8e77-5ce9-8845-484251019444",
+    "name": "Impulse",
+    "label": [
+        {
+            "text": "Impulse",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Produkt aus Kraft und Zeit",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWf2c850dc74a3585cb05fd44cf2db19d0",
+    "default_unit": "Item:OSW7f0ae94c96ac5c02bedacdedcfcbdff1",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW7f0ae94c96ac5c02bedacdedcfcbdff1",
+            "name": "kilo_gram_meter_per_second",
+            "symbol": "kg·m/s"
+        }
+    ],
+    "quantity_property": "Property:HasImpulseValue"
+}

@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "61e1f096-ca89-5a01-b3f5-40bd78a0c78c",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MASS-GROWTH-ALLOWANCE"
     ],
+    "uuid": "61e1f096-ca89-5a01-b3f5-40bd78a0c78c",
     "name": "MassGrowthAllowance",
     "label": [
         {

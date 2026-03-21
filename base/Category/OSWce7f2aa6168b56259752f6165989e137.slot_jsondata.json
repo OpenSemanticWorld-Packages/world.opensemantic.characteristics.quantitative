@@ -1,0 +1,20 @@
+{
+    "type": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SerumOrPlasmaLevel"
+    ],
+    "uuid": "ce7f2aa6-168b-5625-9752-f6165989e137",
+    "name": "SerumOrPlasmaLevel",
+    "label": [
+        {
+            "text": "Serum or Plasma Level",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW98493d0d7b8b528fa42a2332c8cf502f"
+    ],
+    "quantity_property": "Property:HasSerumOrPlasmaLevelValue"
+}

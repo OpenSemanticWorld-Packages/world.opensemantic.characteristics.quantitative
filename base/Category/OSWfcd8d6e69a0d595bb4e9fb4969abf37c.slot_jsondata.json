@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "fcd8d6e6-9a0d-595b-b4e9-fb4969abf37c",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/Momentum",
-        "http://dbpedia.org/resource/Momentum"
+        "http://dbpedia.org/resource/Momentum",
+        "http://qudt.org/vocab/quantitykind/Momentum"
     ],
+    "uuid": "fcd8d6e6-9a0d-595b-b4e9-fb4969abf37c",
     "name": "Momentum",
     "label": [
         {
@@ -31,12 +31,22 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSWd9d306d537225473a3f2d7ad0493ee80",
-    "default_unit": "Item:OSWb05df920a96b5987aeb46a9b4f7ca333",
+    "default_unit": "Item:OSWab237a935cd25b2883c489a51ddc71d2",
     "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWab237a935cd25b2883c489a51ddc71d2",
+            "name": "newton_second",
+            "symbol": "N·s"
+        },
         {
             "osw_id": "Item:OSWb05df920a96b5987aeb46a9b4f7ca333",
             "name": "newton_second",
             "symbol": "N·m·s/m"
+        },
+        {
+            "osw_id": "Item:OSW7f0ae94c96ac5c02bedacdedcfcbdff1",
+            "name": "kilo_gram_meter_per_second",
+            "symbol": "kg·m/s"
         }
     ],
     "quantity_property": "Property:HasMomentumValue"

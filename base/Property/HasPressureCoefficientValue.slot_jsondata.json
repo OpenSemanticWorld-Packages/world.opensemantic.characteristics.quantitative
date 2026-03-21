@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "4f5c0738-1528-53b0-93d2-97819d20e4ac",
     "name": "HasPressureCoefficientValue",
     "label": [
@@ -8,13 +11,11 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "0afebda1-6714-514f-bf37-d5ca06f4d3a0",
         "name": "Pa/K",
-        "main_symbol": "Pa/K"
+        "main_symbol": "Pa/K",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
         {
@@ -24,16 +25,16 @@
             "conversion_factor_to_main_unit": "1e-06"
         },
         {
-            "uuid": "d6460ba1-66d1-585a-8d52-c9d10d8333d6",
-            "name": "hPa/K",
-            "main_symbol": "hPa/K",
-            "conversion_factor_to_main_unit": "0.01"
-        },
-        {
             "uuid": "f2344ba7-4691-5d4f-a1c5-df4ca985b250",
             "name": "kPa/K",
             "main_symbol": "kPa/K",
             "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "d6460ba1-66d1-585a-8d52-c9d10d8333d6",
+            "name": "hPa/K",
+            "main_symbol": "hPa/K",
+            "conversion_factor_to_main_unit": "0.01"
         }
     ]
 }

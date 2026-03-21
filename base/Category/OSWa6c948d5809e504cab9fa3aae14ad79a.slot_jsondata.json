@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "a6c948d5-809e-504c-ab9f-a3aae14ad79a",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/FinalOrCurrentVehicleMass"
     ],
+    "uuid": "a6c948d5-809e-504c-ab9f-a3aae14ad79a",
     "name": "FinalOrCurrentVehicleMass",
     "label": [
         {

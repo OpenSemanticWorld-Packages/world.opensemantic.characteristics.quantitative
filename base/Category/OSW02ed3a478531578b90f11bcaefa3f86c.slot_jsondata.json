@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "02ed3a47-8531-578b-90f1-1bcaefa3f86c",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/WebTime"
     ],
+    "uuid": "02ed3a47-8531-578b-90f1-1bcaefa3f86c",
     "name": "WebTime",
     "label": [
         {

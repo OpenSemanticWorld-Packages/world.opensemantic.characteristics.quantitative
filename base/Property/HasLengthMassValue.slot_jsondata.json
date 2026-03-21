@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "9539da10-1b99-557e-bb67-7d42cbc9e8e1",
     "name": "HasLengthMassValue",
     "label": [
@@ -8,12 +11,18 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "3b811606-7bf5-5b45-a725-ee887d00380d",
         "name": "m·kg",
-        "main_symbol": "m·kg"
-    }
+        "main_symbol": "m·kg",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "0e973c96-915c-576f-948d-ad0c26d99657",
+            "name": "g·mm",
+            "main_symbol": "g·mm",
+            "conversion_factor_to_main_unit": "1000000.0"
+        }
+    ]
 }

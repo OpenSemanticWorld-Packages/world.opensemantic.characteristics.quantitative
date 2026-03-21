@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "674cc997-6cb7-5a02-ad5c-78a671459acd",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ParticleFluenceRate"
     ],
+    "uuid": "674cc997-6cb7-5a02-ad5c-78a671459acd",
     "name": "ParticleFluenceRate",
     "label": [
         {
@@ -31,7 +31,12 @@
         {
             "osw_id": "Item:OSW580b455ce69e57418303f409d43f373a",
             "name": "per_meter_squared_per_second",
-            "symbol": "1/(m²·s)"
+            "symbol": "/(m²·s)"
+        },
+        {
+            "osw_id": "Item:OSW86063c1ed298526d9fca457fe605f00e",
+            "name": "micro_meter_per_day_per_liter",
+            "symbol": "μm/(L·d)"
         }
     ],
     "quantity_property": "Property:HasParticleFluenceRateValue"

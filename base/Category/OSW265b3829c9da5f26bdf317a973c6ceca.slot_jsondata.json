@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "265b3829-c9da-5f26-bdf3-17a973c6ceca",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/PREDICTED-MASS"
     ],
+    "uuid": "265b3829-c9da-5f26-bdf3-17a973c6ceca",
     "name": "PredictedMass",
     "label": [
         {

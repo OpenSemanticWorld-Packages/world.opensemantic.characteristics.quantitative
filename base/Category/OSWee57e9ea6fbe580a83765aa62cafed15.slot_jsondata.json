@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "ee57e9ea-6fbe-580a-8376-5aa62cafed15",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/DisplacementVectorOfIon"
     ],
+    "uuid": "ee57e9ea-6fbe-580a-8376-5aa62cafed15",
     "name": "DisplacementVectorOfIon",
     "label": [
         {

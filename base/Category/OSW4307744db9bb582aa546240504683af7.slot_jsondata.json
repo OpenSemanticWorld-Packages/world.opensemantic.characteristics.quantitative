@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "4307744d-b9bb-582a-a546-240504683af7",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/InversePermittivity"
     ],
+    "uuid": "4307744d-b9bb-582a-a546-240504683af7",
     "name": "InversePermittivity",
     "label": [
         {

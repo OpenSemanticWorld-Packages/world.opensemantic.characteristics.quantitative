@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "99368549-565a-5844-b921-0bc2acf27631",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/SpecificEnergyImparted"
     ],
+    "uuid": "99368549-565a-5844-b921-0bc2acf27631",
     "name": "SpecificEnergyImparted",
     "label": [
         {

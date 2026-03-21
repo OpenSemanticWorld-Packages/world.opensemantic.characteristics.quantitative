@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "ca710662-e2c3-5883-810a-8192a8113f0c",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/LinkedFlux",
-        "http://dbpedia.org/resource/Magnetic_flux"
+        "http://dbpedia.org/resource/Magnetic_flux",
+        "http://qudt.org/vocab/quantitykind/LinkedFlux"
     ],
+    "uuid": "ca710662-e2c3-5883-810a-8192a8113f0c",
     "name": "LinkedFlux",
     "label": [
         {

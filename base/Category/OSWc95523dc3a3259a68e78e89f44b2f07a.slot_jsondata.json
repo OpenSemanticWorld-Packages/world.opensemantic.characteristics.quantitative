@@ -1,0 +1,48 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/VapourPermeance"
+    ],
+    "uuid": "c95523dc-3a32-59a6-8e78-e89f44b2f07a",
+    "name": "VapourPermeance",
+    "label": [
+        {
+            "text": "Vapour Permeance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A material's \"permeance\", is dependent on thickness much like the R-value in heat transmission. Dividing the permeability of a material by its thickness gives the material's permeance. Permeance is the number that should be used to compare various products in regard to moisture transmission resistance.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW84acbc06409e5b5582f6e454b672cb49",
+    "default_unit": "Item:OSWddb99e1fbfeb55cf82ce663a9bf91d8b",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWddb99e1fbfeb55cf82ce663a9bf91d8b",
+            "name": "second_per_meter",
+            "symbol": "s/m"
+        },
+        {
+            "osw_id": "Item:OSWa32463095825512eb308feef8a23afd8",
+            "name": "nano_gram_per_meter_squared_per_pascal_per_second",
+            "symbol": "ng/(m²·Pa·s)"
+        },
+        {
+            "osw_id": "Item:OSW60bdefc5b50c502095c7e1f8f8a7d03e",
+            "name": "kilo_gram_per_meter_squared_per_pascal_per_second",
+            "symbol": "kg/(m²·Pa·s)"
+        }
+    ],
+    "quantity_property": "Property:HasVapourPermeanceValue"
+}

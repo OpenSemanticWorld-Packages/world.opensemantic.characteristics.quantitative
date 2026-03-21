@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "bec11680-5837-5097-b615-7eb8ac35eab4",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/StochasticProcess",
-        "http://dbpedia.org/resource/Stochastic_process"
+        "http://dbpedia.org/resource/Stochastic_process",
+        "http://qudt.org/vocab/quantitykind/StochasticProcess"
     ],
+    "uuid": "bec11680-5837-5097-b615-7eb8ac35eab4",
     "name": "StochasticProcess",
     "label": [
         {

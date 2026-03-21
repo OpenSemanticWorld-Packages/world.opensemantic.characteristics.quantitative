@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "002321ca-8636-588f-ba47-4a49dd12fefd",
     "name": "HasMassTemperatureValue",
     "label": [
@@ -8,12 +11,10 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "df456bca-a16f-5b22-ac12-47c5ade7d140",
-        "name": "K·kg",
-        "main_symbol": "K·kg"
+        "name": "kg·K",
+        "main_symbol": "kg·K",
+        "conversion_factor_to_main_unit": "1.0"
     }
 }

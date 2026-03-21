@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "6713dc0c-e346-5125-95f2-d28e8f6bd8bb",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/HorizontalVelocity"
     ],
+    "uuid": "6713dc0c-e346-5125-95f2-d28e8f6bd8bb",
     "name": "HorizontalVelocity",
     "label": [
         {

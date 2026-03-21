@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "9f658cc2-5f6b-5121-957b-bcc537814b30",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/ThermalDiffusivity",
-        "http://dbpedia.org/resource/Thermal_diffusivity"
+        "http://dbpedia.org/resource/Thermal_diffusivity",
+        "http://qudt.org/vocab/quantitykind/ThermalDiffusivity"
     ],
+    "uuid": "9f658cc2-5f6b-5121-957b-bcc537814b30",
     "name": "ThermalDiffusivity",
     "label": [
         {

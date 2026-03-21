@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "uuid": "fdb7a2c9-1904-564f-a4cd-e0c177073fac",
+    "name": "HasMassFractionOfDryMatterValue",
+    "label": [
+        {
+            "text": "Mass Fraction of Dry Matter",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Mass Fraction of Dry Matter\" is one of a number of Concentration quantities defined by ISO 80000.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "main_unit": {
+        "uuid": "4411f5ca-371f-5a11-91c7-0ca80634c8f5",
+        "name": "一",
+        "main_symbol": "一",
+        "conversion_factor_to_main_unit": "1.0"
+    }
+}

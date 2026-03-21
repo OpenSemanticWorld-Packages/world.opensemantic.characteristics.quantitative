@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "59496df8-27ce-515f-830e-2416cb3aca7b",
     "name": "HasPermittivityValue",
     "label": [
@@ -14,21 +17,13 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "5b49d40d-2ac2-54a3-8c08-5dc79b103e6e",
         "name": "F/m",
-        "main_symbol": "F/m"
+        "main_symbol": "F/m",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
-        {
-            "uuid": "8b027915-5c41-53d2-80bf-e951bf83c4d0",
-            "name": "pF/m",
-            "main_symbol": "pF/m",
-            "conversion_factor_to_main_unit": "1000000000000.0"
-        },
         {
             "uuid": "a8b18eff-a2e1-5608-91e7-86f8ed50f8ff",
             "name": "F/km",
@@ -36,16 +31,28 @@
             "conversion_factor_to_main_unit": "1000.0"
         },
         {
-            "uuid": "bb1e1eae-0b10-5a6d-b215-01d0061c1b1d",
-            "name": "nF/m",
-            "main_symbol": "nF/m",
-            "conversion_factor_to_main_unit": "1000000000.0"
-        },
-        {
             "uuid": "ee949e60-37a5-54bb-8166-b54fe8826f7d",
             "name": "μF/m",
             "main_symbol": "μF/m",
             "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "bb1e1eae-0b10-5a6d-b215-01d0061c1b1d",
+            "name": "nF/m",
+            "main_symbol": "nF/m",
+            "conversion_factor_to_main_unit": "999999999.9999999"
+        },
+        {
+            "uuid": "2c4f58bc-1ef2-5aa5-ba41-c331898b909f",
+            "name": "μF/km",
+            "main_symbol": "μF/km",
+            "conversion_factor_to_main_unit": "999999999.9999999"
+        },
+        {
+            "uuid": "8b027915-5c41-53d2-80bf-e951bf83c4d0",
+            "name": "pF/m",
+            "main_symbol": "pF/m",
+            "conversion_factor_to_main_unit": "1000000000000.0"
         }
     ]
 }

@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "7f4e4ae7-033a-51d2-903c-951e9efd306b",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/MechanicalEnergy",
-        "http://dbpedia.org/resource/Mechanical_energy"
+        "http://dbpedia.org/resource/Mechanical_energy",
+        "http://qudt.org/vocab/quantitykind/MechanicalEnergy"
     ],
+    "uuid": "7f4e4ae7-033a-51d2-903c-951e9efd306b",
     "name": "MechanicalEnergy",
     "label": [
         {

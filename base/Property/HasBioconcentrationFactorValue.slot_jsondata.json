@@ -1,0 +1,22 @@
+{
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "uuid": "ec631511-709e-54d3-a36f-87f328a8fcf1",
+    "name": "HasBioconcentrationFactorValue",
+    "label": [
+        {
+            "text": "Bioconcentration Factor",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The bioconcentration factor is the ratio of the concentration of a chemical substance in biota over the concentration of the same chemical substance in water. It is related to the octanol-water partition coefficient.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessRatioValue",
+    "base_property": "Property:HasDimensionlessRatioValue"
+}

@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "71dc7977-cd3a-5398-89a4-af664c2e02da",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MagneticField"
     ],
+    "uuid": "71dc7977-cd3a-5398-89a4-af664c2e02da",
     "name": "MagneticField",
     "label": [
         {
@@ -34,19 +34,24 @@
             "symbol": "T"
         },
         {
+            "osw_id": "Item:OSW1d9ac7ec48cc5b7da90e8c2d529d6df0#OSW7b67d49640c75e54b4906f4bd72b494b",
+            "name": "nano_tesla",
+            "symbol": "nT"
+        },
+        {
+            "osw_id": "Item:OSW1d9ac7ec48cc5b7da90e8c2d529d6df0#OSW30a0158af5445fbc8b08c843d0a84d5a",
+            "name": "micro_tesla",
+            "symbol": "μT"
+        },
+        {
             "osw_id": "Item:OSW1d9ac7ec48cc5b7da90e8c2d529d6df0#OSW490afd74306a568c858e46dd393110fe",
             "name": "milli_tesla",
             "symbol": "mT"
         },
         {
-            "osw_id": "Item:OSW1d9ac7ec48cc5b7da90e8c2d529d6df0#OSW30a0158af5445fbc8b08c843d0a84d5a",
-            "name": "micro_tesla",
-            "symbol": "µT"
-        },
-        {
-            "osw_id": "Item:OSW1d9ac7ec48cc5b7da90e8c2d529d6df0#OSW7b67d49640c75e54b4906f4bd72b494b",
-            "name": "nano_tesla",
-            "symbol": "nT"
+            "osw_id": "Item:OSW1d9ac7ec48cc5b7da90e8c2d529d6df0#OSW895257ecb53a5cbd914f286afb05f9b2",
+            "name": "kilo_tesla",
+            "symbol": "kT"
         }
     ],
     "quantity_property": "Property:HasMagneticFieldValue"

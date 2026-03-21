@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "bc45768e-b166-5c18-975f-ae4c802c6e63",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/OrbitalRadialDistance"
     ],
+    "uuid": "bc45768e-b166-5c18-975f-ae4c802c6e63",
     "name": "OrbitalRadialDistance",
     "label": [
         {

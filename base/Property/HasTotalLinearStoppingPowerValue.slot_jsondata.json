@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "e08cb028-e038-5bd7-9d87-51bf25e70904",
     "name": "HasTotalLinearStoppingPowerValue",
     "label": [
@@ -14,12 +17,30 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "63b230e8-78d2-5777-b374-f74a4761f754",
         "name": "J/m",
-        "main_symbol": "J/m"
-    }
+        "main_symbol": "J/m",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "1be73094-7d29-5875-86c1-7921d05f8290",
+            "name": "keV/μm",
+            "main_symbol": "keV/μm",
+            "conversion_factor_to_main_unit": "6241509074.460762"
+        },
+        {
+            "uuid": "a5b64eae-abaa-573d-a6d8-a666ff17c0ef",
+            "name": "MeV/cm",
+            "main_symbol": "MeV/cm",
+            "conversion_factor_to_main_unit": "62415090744.60762"
+        },
+        {
+            "uuid": "b2b59279-874e-5f07-a7df-740f0ddbdaf7",
+            "name": "eV/m",
+            "main_symbol": "eV/m",
+            "conversion_factor_to_main_unit": "6.241509074460763e+18"
+        }
+    ]
 }

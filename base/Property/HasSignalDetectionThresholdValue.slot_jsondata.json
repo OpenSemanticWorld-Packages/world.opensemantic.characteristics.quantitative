@@ -1,0 +1,20 @@
+{
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "uuid": "6b354ff4-d414-51d5-927b-79cde780d92b",
+    "name": "HasSignalDetectionThresholdValue",
+    "label": [
+        {
+            "text": "Signal Detection Threshold",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "main_unit": {
+        "uuid": "a84e0498-bb86-5160-8c01-d775fed1d080",
+        "name": "dBc",
+        "main_symbol": "dBc",
+        "conversion_factor_to_main_unit": "1.0"
+    }
+}

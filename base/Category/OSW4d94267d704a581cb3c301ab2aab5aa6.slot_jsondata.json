@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "4d94267d-704a-581c-b3c3-01ab2aab5aa6",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/PhaseDifference"
     ],
+    "uuid": "4d94267d-704a-581c-b3c3-01ab2aab5aa6",
     "name": "PhaseDifference",
     "label": [
         {

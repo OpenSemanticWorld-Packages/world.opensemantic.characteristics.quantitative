@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "0ed75cfa-55dc-55ad-bbbe-cbf4e22744c0",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/Weight",
-        "http://dbpedia.org/resource/Weight"
+        "http://dbpedia.org/resource/Weight",
+        "http://qudt.org/vocab/quantitykind/Weight"
     ],
+    "uuid": "0ed75cfa-55dc-55ad-bbbe-cbf4e22744c0",
     "name": "Weight",
     "label": [
         {

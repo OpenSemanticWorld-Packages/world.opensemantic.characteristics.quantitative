@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "c8457fe4-bcf1-5a08-8818-28cd270ddfa1",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/CartesianCoordinates"
     ],
+    "uuid": "c8457fe4-bcf1-5a08-8818-28cd270ddfa1",
     "name": "CartesianCoordinates",
     "label": [
         {

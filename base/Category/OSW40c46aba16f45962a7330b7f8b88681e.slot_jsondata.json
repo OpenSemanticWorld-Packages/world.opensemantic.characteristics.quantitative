@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "40c46aba-16f4-5962-a733-0b7f8b88681e",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/PowerPerArea"
     ],
+    "uuid": "40c46aba-16f4-5962-a733-0b7f8b88681e",
     "name": "PowerPerArea",
     "label": [
         {
@@ -28,14 +28,19 @@
             "symbol": "W/m²"
         },
         {
-            "osw_id": "Item:OSW7f2c167c5a39550d91c1f95cc01a9a11#OSWa735be7b016c510f98dd404ee42c6722",
-            "name": "watt_per_centi_meter_squared",
-            "symbol": "W/cm²"
-        },
-        {
             "osw_id": "Item:OSW7f2c167c5a39550d91c1f95cc01a9a11#OSWf194c328c8ef587c823773008774afc8",
             "name": "pico_watt_per_meter_squared",
             "symbol": "pW/m²"
+        },
+        {
+            "osw_id": "Item:OSW7f2c167c5a39550d91c1f95cc01a9a11#OSW0688e8a35b7755d5ac704c4f05682e9e",
+            "name": "nano_watt_per_meter_squared",
+            "symbol": "nW/m²"
+        },
+        {
+            "osw_id": "Item:OSW7f2c167c5a39550d91c1f95cc01a9a11#OSWbec47ab085945564b8bc080ab7934395",
+            "name": "micro_watt_per_meter_squared",
+            "symbol": "μW/m²"
         },
         {
             "osw_id": "Item:OSW7f2c167c5a39550d91c1f95cc01a9a11#OSWf33a1a99c6055b178a0b973e57e1aacb",
@@ -43,9 +48,24 @@
             "symbol": "mW/m²"
         },
         {
-            "osw_id": "Item:OSW7f2c167c5a39550d91c1f95cc01a9a11#OSWbec47ab085945564b8bc080ab7934395",
-            "name": "micro_watt_per_meter_squared",
-            "symbol": "µW/m²"
+            "osw_id": "Item:OSW8c198dbb96df555aac744013a50dce1f",
+            "name": "joule_per_centi_meter_squared_per_day",
+            "symbol": "J/(cm²·d)"
+        },
+        {
+            "osw_id": "Item:OSWc06ae09422e958369a4dd7e6f19e6e8b",
+            "name": "mega_joule_per_day_per_meter_squared",
+            "symbol": "MJ/(m²·d)"
+        },
+        {
+            "osw_id": "Item:OSW7f2c167c5a39550d91c1f95cc01a9a11#OSW00c052459081509183393ab52f223233",
+            "name": "kilo_watt_per_meter_squared",
+            "symbol": "kW/m²"
+        },
+        {
+            "osw_id": "Item:OSW7f2c167c5a39550d91c1f95cc01a9a11#OSWa735be7b016c510f98dd404ee42c6722",
+            "name": "watt_per_centi_meter_squared",
+            "symbol": "W/cm²"
         }
     ],
     "quantity_property": "Property:HasPowerPerAreaValue"

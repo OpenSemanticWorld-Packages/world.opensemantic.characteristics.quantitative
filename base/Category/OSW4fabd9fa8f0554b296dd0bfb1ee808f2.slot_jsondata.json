@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ConductiveHeatTransferRate"
+    ],
+    "uuid": "4fabd9fa-8f05-54b2-96dd-0bfb1ee808f2",
+    "name": "ConductiveHeatTransferRate",
+    "label": [
+        {
+            "text": "Conductive Heat Transfer Rate",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Conductive Heat Transfer Rate\" is proportional to temperature gradient and area of contact.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW2cae7f47264e5a25abee5713c593bc56"
+    ],
+    "quantity_property": "Property:HasConductiveHeatTransferRateValue"
+}

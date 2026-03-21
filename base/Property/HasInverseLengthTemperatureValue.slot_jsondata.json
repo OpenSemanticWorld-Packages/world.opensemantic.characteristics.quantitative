@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "a7f5e22c-8054-5a4e-8fce-a7a31808da50",
     "name": "HasInverseLengthTemperatureValue",
     "label": [
@@ -8,12 +11,10 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "79d3dec3-e057-5833-a4db-ffa38c143bdd",
-        "name": "1/(m·K)",
-        "main_symbol": "1/(m·K)"
+        "name": "/(m·K)",
+        "main_symbol": "/(m·K)",
+        "conversion_factor_to_main_unit": "1.0"
     }
 }

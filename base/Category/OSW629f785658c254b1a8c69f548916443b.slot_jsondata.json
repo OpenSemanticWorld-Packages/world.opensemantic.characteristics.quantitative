@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "629f7856-58c2-54b1-a8c6-9f548916443b",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/RadiantFluenceRate"
     ],
+    "uuid": "629f7856-58c2-54b1-a8c6-9f548916443b",
     "name": "RadiantFluenceRate",
     "label": [
         {

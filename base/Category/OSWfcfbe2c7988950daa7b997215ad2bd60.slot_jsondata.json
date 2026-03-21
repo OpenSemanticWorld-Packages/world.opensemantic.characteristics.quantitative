@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "fcfbe2c7-9889-50da-a7b9-97215ad2bd60",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/CrossSectionalArea"
     ],
+    "uuid": "fcfbe2c7-9889-50da-a7b9-97215ad2bd60",
     "name": "CrossSectionalArea",
     "label": [
         {

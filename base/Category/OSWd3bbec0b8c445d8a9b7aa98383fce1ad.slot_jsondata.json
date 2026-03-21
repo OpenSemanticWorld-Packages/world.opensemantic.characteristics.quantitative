@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "d3bbec0b-8c44-5d8a-9b7a-a98383fce1ad",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MolarHeatCapacity"
     ],
+    "uuid": "d3bbec0b-8c44-5d8a-9b7a-a98383fce1ad",
     "name": "MolarHeatCapacity",
     "label": [
         {

@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
     "uuid": "2e95197a-9b15-590b-b25d-43a9a559f28c",
     "name": "HasFundamentalReciprocalLatticeVectorValue",
     "label": [
@@ -15,8 +18,5 @@
     ],
     "property_type": "Quantity",
     "subproperty_of": "Property:HasAngularReciprocalLatticeVectorValue",
-    "type": [
-        "Category:OSW69f251a900944602a08d1cca830249b5"
-    ],
     "base_property": "Property:HasAngularReciprocalLatticeVectorValue"
 }

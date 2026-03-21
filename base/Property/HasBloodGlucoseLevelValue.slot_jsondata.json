@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "0147dcd9-6025-509e-8631-a845d27563f3",
     "name": "HasBloodGlucoseLevelValue",
     "label": [
@@ -14,12 +17,48 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "8410aea5-dc15-5624-9712-7a8ff1a39ce1",
         "name": "mmol/L",
-        "main_symbol": "mmol/L"
-    }
+        "main_symbol": "mmol/L",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "ef431d8a-58d8-5a79-b5ce-b5d12fd9a4f2",
+            "name": "mol/L",
+            "main_symbol": "mol/L",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "51d82e70-3675-5d30-b0b7-bced13c27b17",
+            "name": "cmol/L",
+            "main_symbol": "cmol/L",
+            "conversion_factor_to_main_unit": "0.1"
+        },
+        {
+            "uuid": "527ec4ed-30a6-5d4e-bab6-2982c7c92e93",
+            "name": "μmol/L",
+            "main_symbol": "μmol/L",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "9b6c6f52-5d1b-5004-a26f-24203aa7509f",
+            "name": "nmol/L",
+            "main_symbol": "nmol/L",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "a48d0704-94b8-5eaa-8ea4-c53cbf00e930",
+            "name": "pmol/L",
+            "main_symbol": "pmol/L",
+            "conversion_factor_to_main_unit": "999999999.9999999"
+        },
+        {
+            "uuid": "c120835d-f631-5f61-a075-5e6c76286d57",
+            "name": "fmol/L",
+            "main_symbol": "fmol/L",
+            "conversion_factor_to_main_unit": "1000000000000.0"
+        }
+    ]
 }

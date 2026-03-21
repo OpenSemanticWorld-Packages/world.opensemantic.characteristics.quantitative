@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "uuid": "b0a6bc7c-9b97-5f2c-be59-37e83d0f63e7",
+    "name": "HasLogarithmicFrequencyIntervalValue",
+    "label": [
+        {
+            "text": "Logarithmic frequency interval",
+            "lang": "en"
+        },
+        {
+            "text": "Frequenzmaßintervall",
+            "lang": "de"
+        }
+    ],
+    "property_type": "Quantity",
+    "main_unit": {
+        "uuid": "4411f5ca-371f-5a11-91c7-0ca80634c8f5",
+        "name": "一",
+        "main_symbol": "一",
+        "conversion_factor_to_main_unit": "1.0"
+    }
+}

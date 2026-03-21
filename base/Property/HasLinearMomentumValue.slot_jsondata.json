@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "4d2aeedf-9013-5f45-a551-19071f49b56f",
     "name": "HasLinearMomentumValue",
     "label": [
@@ -14,12 +17,24 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
-        "uuid": "534c0c56-78c5-510a-9730-e0a2ac026d41",
-        "name": "N·m·s/m",
-        "main_symbol": "N·m·s/m"
-    }
+        "uuid": "ab318d41-6687-5b34-9f7c-0f6f8922bcc9",
+        "name": "kg·m/s",
+        "main_symbol": "kg·m/s",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "534c0c56-78c5-510a-9730-e0a2ac026d41",
+            "name": "N·m·s/m",
+            "main_symbol": "N·m·s/m",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "1ee32ea5-520a-501e-b105-d50fd7c37363",
+            "name": "N·s",
+            "main_symbol": "N·s",
+            "conversion_factor_to_main_unit": "1.0"
+        }
+    ]
 }

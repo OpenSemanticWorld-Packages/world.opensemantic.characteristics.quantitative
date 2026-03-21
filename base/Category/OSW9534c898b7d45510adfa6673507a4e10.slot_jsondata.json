@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "9534c898-b7d4-5510-adfa-6673507a4e10",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/AngularFrequency",
-        "http://dbpedia.org/resource/Angular_frequency"
+        "http://dbpedia.org/resource/Angular_frequency",
+        "http://qudt.org/vocab/quantitykind/AngularFrequency"
     ],
+    "uuid": "9534c898-b7d4-5510-adfa-6673507a4e10",
     "name": "AngularFrequency",
     "label": [
         {
@@ -37,6 +37,16 @@
             "osw_id": "Item:OSWb0010d0f4c7a52e18edbfdc34e4c0653",
             "name": "radian_per_second",
             "symbol": "rad/s"
+        },
+        {
+            "osw_id": "Item:OSWd528ce45d4565b60b62ab5ad9ebcb98b",
+            "name": "radian_per_hour",
+            "symbol": "rad/h"
+        },
+        {
+            "osw_id": "Item:OSW2b1bf544bf1d5403abbb836a8c388a68",
+            "name": "radian_per_minute",
+            "symbol": "rad/min"
         }
     ],
     "quantity_property": "Property:HasAngularFrequencyValue"

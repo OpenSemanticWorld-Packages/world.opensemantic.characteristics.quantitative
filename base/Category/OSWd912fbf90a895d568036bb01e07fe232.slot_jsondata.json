@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "d912fbf9-0a89-5d56-8036-bb01e07fe232",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Azimuth"
     ],
+    "uuid": "d912fbf9-0a89-5d56-8036-bb01e07fe232",
     "name": "Azimuth",
     "label": [
         {

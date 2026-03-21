@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "6dd896b0-8fd5-5c6a-9ea1-a7270bb59d48",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Admittance"
     ],
+    "uuid": "6dd896b0-8fd5-5c6a-9ea1-a7270bb59d48",
     "name": "Admittance",
     "label": [
         {
@@ -34,9 +34,29 @@
             "symbol": "S"
         },
         {
+            "osw_id": "Item:OSW46249e4c237d546198d98bff0b9d5e93#OSWd41a264449b852b4807e7e08ab790cc7",
+            "name": "pico_siemens",
+            "symbol": "pS"
+        },
+        {
+            "osw_id": "Item:OSW46249e4c237d546198d98bff0b9d5e93#OSWf52320000c645b64a4e9dcb8dd131254",
+            "name": "nano_siemens",
+            "symbol": "nS"
+        },
+        {
+            "osw_id": "Item:OSW46249e4c237d546198d98bff0b9d5e93#OSWfd5a12b202d2534c9cb0844fb6c4f15e",
+            "name": "micro_siemens",
+            "symbol": "μS"
+        },
+        {
             "osw_id": "Item:OSW46249e4c237d546198d98bff0b9d5e93#OSW8253047fc4835d79b0f31baf3b96182d",
             "name": "milli_siemens",
             "symbol": "mS"
+        },
+        {
+            "osw_id": "Item:OSW46249e4c237d546198d98bff0b9d5e93#OSW00d5ab4581fb51bebe243be341733c51",
+            "name": "deci_siemens",
+            "symbol": "dS"
         },
         {
             "osw_id": "Item:OSW46249e4c237d546198d98bff0b9d5e93#OSW35746906e9d051c39bdeebdf5736c2ba",
@@ -44,9 +64,9 @@
             "symbol": "kS"
         },
         {
-            "osw_id": "Item:OSW46249e4c237d546198d98bff0b9d5e93#OSWfd5a12b202d2534c9cb0844fb6c4f15e",
-            "name": "micro_siemens",
-            "symbol": "μS"
+            "osw_id": "Item:OSW46249e4c237d546198d98bff0b9d5e93#OSW335afa8f1aa25135b30b1691b7ebfa4a",
+            "name": "mega_siemens",
+            "symbol": "MS"
         }
     ],
     "quantity_property": "Property:HasAdmittanceValue"

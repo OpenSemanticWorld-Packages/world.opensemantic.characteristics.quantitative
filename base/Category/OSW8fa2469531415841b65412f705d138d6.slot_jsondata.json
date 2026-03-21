@@ -2,12 +2,12 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "8fa24695-3141-5841-b654-12f705d138d6",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/SpecificHeatCapacity",
         "http://dbpedia.org/resource/Specific_heat_capacity",
-        "https://si-digital-framework.org/SI/quantities/SHEC"
+        "http://qudt.org/vocab/quantitykind/SpecificHeatCapacity",
+        "https://si-digital-framework.org/quantities/SHEC"
     ],
+    "uuid": "8fa24695-3141-5841-b654-12f705d138d6",
     "name": "SpecificHeatCapacity",
     "label": [
         {
@@ -28,12 +28,37 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW4683511b386659fb870a7a60bd4c968e",
-    "default_unit": "Item:OSW3b1e36710511523da37025a70b6a305d",
+    "default_unit": "Item:OSW2dab15bbb20c59a681c5ffecfdcb9e59",
     "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW2dab15bbb20c59a681c5ffecfdcb9e59",
+            "name": "joule_per_kelvin_per_kilo_gram",
+            "symbol": "J/(kg·K)"
+        },
+        {
+            "osw_id": "Item:OSWa0cd208ccfa759388597f5f9ff5c69fc",
+            "name": "joule_per_Celsius_per_kilo_gram",
+            "symbol": "J/(kg·°C)"
+        },
         {
             "osw_id": "Item:OSW3b1e36710511523da37025a70b6a305d",
             "name": "meter_squared_per_kelvin_per_second_squared",
             "symbol": "m²/(s²·K)"
+        },
+        {
+            "osw_id": "Item:OSWbe6c8545fd585776ad877e91f1c72b16",
+            "name": "joule_per_gram_per_kelvin",
+            "symbol": "J/(g·K)"
+        },
+        {
+            "osw_id": "Item:OSW93d8b6e516fd54f09d483dee1278e3a8",
+            "name": "joule_per_Celsius_per_gram",
+            "symbol": "J/(g·°C)"
+        },
+        {
+            "osw_id": "Item:OSWbe6c8545fd585776ad877e91f1c72b16#OSW75171ce175aa5004b4f550375d9b33f6",
+            "name": "kilo_joule_per_kelvin_per_kilo_gram",
+            "symbol": "kJ/(kg·K)"
         }
     ],
     "quantity_property": "Property:HasSpecificHeatCapacityValue"

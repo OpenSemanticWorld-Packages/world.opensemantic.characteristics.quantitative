@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "5dcedce0-6ec9-5c15-af45-85d9c96fa3e7",
     "name": "HasPermeabilityValue",
     "label": [
@@ -14,13 +17,11 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "5e3c4804-a8d1-57bf-9d3f-bc9d6e1f0372",
         "name": "H/m",
-        "main_symbol": "H/m"
+        "main_symbol": "H/m",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
         {
@@ -33,7 +34,7 @@
             "uuid": "afef2bc6-70b5-51cd-be02-073ef2c684c4",
             "name": "nH/m",
             "main_symbol": "nH/m",
-            "conversion_factor_to_main_unit": "1000000000.0"
+            "conversion_factor_to_main_unit": "999999999.9999999"
         }
     ]
 }

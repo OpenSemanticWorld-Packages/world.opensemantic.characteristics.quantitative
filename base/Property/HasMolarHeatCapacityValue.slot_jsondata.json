@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "d6260604-0ef7-58df-9844-a05785662022",
     "name": "HasMolarHeatCapacityValue",
     "label": [
@@ -14,12 +17,10 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "90583b47-6d34-54ad-a977-5bd386a4693b",
         "name": "J/(mol·K)",
-        "main_symbol": "J/(mol·K)"
+        "main_symbol": "J/(mol·K)",
+        "conversion_factor_to_main_unit": "1.0"
     }
 }

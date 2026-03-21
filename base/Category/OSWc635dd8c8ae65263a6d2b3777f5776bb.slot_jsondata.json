@@ -2,12 +2,12 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "c635dd8c-8ae6-5263-a6d2-b3777f5776bb",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/AngularAcceleration",
         "http://dbpedia.org/resource/Angular_acceleration",
-        "https://si-digital-framework.org/SI/quantities/ACCA"
+        "http://qudt.org/vocab/quantitykind/AngularAcceleration",
+        "https://si-digital-framework.org/quantities/ACCA"
     ],
+    "uuid": "c635dd8c-8ae6-5263-a6d2-b3777f5776bb",
     "name": "AngularAcceleration",
     "label": [
         {
@@ -26,7 +26,7 @@
         }
     ],
     "subclass_of": [
-        "Category:OSW3484a41e5b0e57f7998a5033177ab080"
+        "Category:OSWd33f5020bd93583b807f360af0e833ca"
     ],
     "quantity_property": "Property:HasAngularAccelerationValue"
 }

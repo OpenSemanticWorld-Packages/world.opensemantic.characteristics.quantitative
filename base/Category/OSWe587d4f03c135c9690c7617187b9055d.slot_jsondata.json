@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "e587d4f0-3c13-5c96-90c7-617187b9055d",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/BevelGearPitchAngle"
     ],
+    "uuid": "e587d4f0-3c13-5c96-90c7-617187b9055d",
     "name": "BevelGearPitchAngle",
     "label": [
         {

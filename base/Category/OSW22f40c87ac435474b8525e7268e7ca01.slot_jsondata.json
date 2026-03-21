@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "22f40c87-ac43-5474-b852-5e7268e7ca01",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/LinearMomentum",
-        "http://dbpedia.org/resource/Momentum"
+        "http://dbpedia.org/resource/Momentum",
+        "http://qudt.org/vocab/quantitykind/LinearMomentum"
     ],
+    "uuid": "22f40c87-ac43-5474-b852-5e7268e7ca01",
     "name": "LinearMomentum",
     "label": [
         {
@@ -27,12 +27,22 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW832e385ed75950648f608776411be17c",
-    "default_unit": "Item:OSWb05df920a96b5987aeb46a9b4f7ca333",
+    "default_unit": "Item:OSWab237a935cd25b2883c489a51ddc71d2",
     "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWab237a935cd25b2883c489a51ddc71d2",
+            "name": "newton_second",
+            "symbol": "N·s"
+        },
         {
             "osw_id": "Item:OSWb05df920a96b5987aeb46a9b4f7ca333",
             "name": "newton_second",
             "symbol": "N·m·s/m"
+        },
+        {
+            "osw_id": "Item:OSW7f0ae94c96ac5c02bedacdedcfcbdff1",
+            "name": "kilo_gram_meter_per_second",
+            "symbol": "kg·m/s"
         }
     ],
     "quantity_property": "Property:HasLinearMomentumValue"

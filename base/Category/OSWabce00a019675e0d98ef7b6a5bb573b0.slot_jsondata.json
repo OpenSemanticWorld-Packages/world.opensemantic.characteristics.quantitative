@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "abce00a0-1967-5e0d-98ef-7b6a5bb573b0",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ApogeeRadius"
     ],
+    "uuid": "abce00a0-1967-5e0d-98ef-7b6a5bb573b0",
     "name": "ApogeeRadius",
     "label": [
         {

@@ -1,0 +1,22 @@
+{
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "uuid": "770daf46-374a-57f6-8393-d42b9fc07974",
+    "name": "HasConductiveHeatTransferRateValue",
+    "label": [
+        {
+            "text": "Conductive Heat Transfer Rate",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Conductive Heat Transfer Rate\" is proportional to temperature gradient and area of contact.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasHeatFlowRateValue",
+    "base_property": "Property:HasHeatFlowRateValue"
+}

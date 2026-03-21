@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "89d1a9df-9ae2-56df-9c0f-df46b74cb96b",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/CENTER-OF-GRAVITY_X"
     ],
+    "uuid": "89d1a9df-9ae2-56df-9c0f-df46b74cb96b",
     "name": "CenterOfGravityInTheXAxis",
     "label": [
         {

@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "8ae4971b-bbb1-5913-a90c-0f6a1075e2ae",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Prevalence"
     ],
+    "uuid": "8ae4971b-bbb1-5913-a90c-0f6a1075e2ae",
     "name": "Prevalence",
     "label": [
         {

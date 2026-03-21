@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "cef8c92a-98b1-5f3a-b49b-e706ef200090",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ClosestApproachRadius"
     ],
+    "uuid": "cef8c92a-98b1-5f3a-b49b-e706ef200090",
     "name": "ClosestApproachRadius",
     "label": [
         {

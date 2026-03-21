@@ -2,12 +2,12 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "e9be062d-e2d1-5d10-8913-97a18212f920",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/Mass",
         "http://dbpedia.org/resource/Mass",
-        "https://si-digital-framework.org/SI/quantities/MASS"
+        "http://qudt.org/vocab/quantitykind/Mass",
+        "https://si-digital-framework.org/quantities/MASS"
     ],
+    "uuid": "e9be062d-e2d1-5d10-8913-97a18212f920",
     "name": "Mass",
     "label": [
         {
@@ -38,6 +38,86 @@
             "osw_id": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWda255533fa615a42b08ddb7aaa8236f0",
             "name": "kilo_gram",
             "symbol": "kg"
+        },
+        {
+            "osw_id": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSW94feade03c695735a9f42bfa58913427",
+            "name": "femto_gram",
+            "symbol": "fg"
+        },
+        {
+            "osw_id": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSW9f45555655d054a18cfc956f56720b4a",
+            "name": "pico_gram",
+            "symbol": "pg"
+        },
+        {
+            "osw_id": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWc82356a0512e545fa594c0454498cd0a",
+            "name": "nano_gram",
+            "symbol": "ng"
+        },
+        {
+            "osw_id": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWc9a377f2fa5d5e16bcf2404f8a7a3645",
+            "name": "micro_gram",
+            "symbol": "μg"
+        },
+        {
+            "osw_id": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSW203cd6c3e616540cb3c6dad0ff389725",
+            "name": "milli_gram",
+            "symbol": "mg"
+        },
+        {
+            "osw_id": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSW669f0616140d59fc987c6e5be8b70715",
+            "name": "centi_gram",
+            "symbol": "cg"
+        },
+        {
+            "osw_id": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSW74be15fb3c2550a89b30c9f978c4a96d",
+            "name": "deci_gram",
+            "symbol": "dg"
+        },
+        {
+            "osw_id": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903",
+            "name": "gram",
+            "symbol": "g"
+        },
+        {
+            "osw_id": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSW9b69b8d24e745d38a5bfff237c0f075d",
+            "name": "deca_gram",
+            "symbol": "dag"
+        },
+        {
+            "osw_id": "Item:OSW54afa4358b8655338e8e82e2ea7fac65",
+            "name": "ampere_turn",
+            "symbol": "AT"
+        },
+        {
+            "osw_id": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSW88dc7f02bedd5111a34ed02756f37892",
+            "name": "hecto_gram",
+            "symbol": "hg"
+        },
+        {
+            "osw_id": "Item:OSW12c412031b9556848d70154dca0e1d13#OSW12ce0e9d7fda5bb3934f109d4d332d68",
+            "name": "deci_metric_ton",
+            "symbol": "dt"
+        },
+        {
+            "osw_id": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSW046adde698335d9daded9fe04946e8fb",
+            "name": "mega_gram",
+            "symbol": "Mg"
+        },
+        {
+            "osw_id": "Item:OSW12c412031b9556848d70154dca0e1d13",
+            "name": "metric_ton",
+            "symbol": "t"
+        },
+        {
+            "osw_id": "Item:OSW12c412031b9556848d70154dca0e1d13#OSW91cff6030e175ccc8d30cd02e0354fa9",
+            "name": "knot",
+            "symbol": "kt"
+        },
+        {
+            "osw_id": "Item:OSW12c412031b9556848d70154dca0e1d13#OSW3c968aef59905569bee1a089ac35fe04",
+            "name": "mega_metric_ton",
+            "symbol": "Mt"
         }
     ],
     "quantity_property": "Property:HasMassValue"

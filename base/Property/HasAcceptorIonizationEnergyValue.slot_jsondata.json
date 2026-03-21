@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
     "uuid": "5e539f2a-4e44-5825-9e76-872e27ae92d8",
     "name": "HasAcceptorIonizationEnergyValue",
     "label": [
@@ -15,8 +18,5 @@
     ],
     "property_type": "Quantity",
     "subproperty_of": "Property:HasIonizationEnergyValue",
-    "type": [
-        "Category:OSW69f251a900944602a08d1cca830249b5"
-    ],
-    "base_property": "Property:HasEnergyValue"
+    "base_property": "Property:HasIonizationEnergyValue"
 }

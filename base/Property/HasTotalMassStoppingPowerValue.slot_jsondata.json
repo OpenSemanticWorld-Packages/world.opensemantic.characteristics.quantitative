@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "f542bac3-831e-5e63-8385-44344ceacc68",
     "name": "HasTotalMassStoppingPowerValue",
     "label": [
@@ -14,12 +17,10 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "1edfacd0-1c03-582e-9faf-5777958562e9",
         "name": "J·m²/kg",
-        "main_symbol": "J·m²/kg"
+        "main_symbol": "J·m²/kg",
+        "conversion_factor_to_main_unit": "1.0"
     }
 }

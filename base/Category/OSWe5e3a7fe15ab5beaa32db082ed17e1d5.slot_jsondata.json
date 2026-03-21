@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "e5e3a7fe-15ab-5bea-a32d-b082ed17e1d5",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Reflectance"
     ],
+    "uuid": "e5e3a7fe-15ab-5bea-a32d-b082ed17e1d5",
     "name": "Reflectance",
     "label": [
         {

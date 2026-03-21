@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "8d34f0cc-11e7-58bf-a887-aa0be724fe4e",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/DewPointTemperature"
     ],
+    "uuid": "8d34f0cc-11e7-58bf-a887-aa0be724fe4e",
     "name": "DewPointTemperature",
     "label": [
         {

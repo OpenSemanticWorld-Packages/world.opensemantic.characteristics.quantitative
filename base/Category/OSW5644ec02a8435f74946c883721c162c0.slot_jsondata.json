@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "5644ec02-a843-5f74-946c-883721c162c0",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/NucleonNumber"
     ],
+    "uuid": "5644ec02-a843-5f74-946c-883721c162c0",
     "name": "NucleonNumber",
     "label": [
         {

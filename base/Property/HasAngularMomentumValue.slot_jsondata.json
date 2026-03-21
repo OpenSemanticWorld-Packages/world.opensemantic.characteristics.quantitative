@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "a82c61cf-2da8-551a-b0af-01d557e18bb5",
     "name": "HasAngularMomentumValue",
     "label": [
@@ -14,20 +17,36 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
-        "uuid": "8c8b9274-ae33-5997-9299-0bf4a6424e71",
-        "name": "J·s",
-        "main_symbol": "J·s"
+        "uuid": "6876d2f3-043b-57d6-adc6-568d1c58500a",
+        "name": "N·m·s",
+        "main_symbol": "N·m·s",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
+        {
+            "uuid": "8c8b9274-ae33-5997-9299-0bf4a6424e71",
+            "name": "J·s",
+            "main_symbol": "J·s",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "f781156e-a7ff-590b-9e05-30bae9c012fa",
+            "name": "kg·m²/s",
+            "main_symbol": "kg·m²/s",
+            "conversion_factor_to_main_unit": "1.0"
+        },
         {
             "uuid": "50c74f59-7251-5b17-85f8-b4f38ba6ecd5",
             "name": "aJ·s",
             "main_symbol": "aJ·s",
             "conversion_factor_to_main_unit": "9.999999999999999e+17"
+        },
+        {
+            "uuid": "ba46387a-f760-5ba2-b0fa-346c1349fec8",
+            "name": "eV·s",
+            "main_symbol": "eV·s",
+            "conversion_factor_to_main_unit": "6.241509074460763e+18"
         }
     ]
 }

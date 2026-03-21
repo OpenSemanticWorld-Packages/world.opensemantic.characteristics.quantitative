@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "0b702b54-cee3-5f8b-bbbd-ee377a89299e",
     "name": "HasAreaValue",
     "label": [
@@ -18,32 +21,42 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "f35d3d56-9232-51d4-aad0-a44695925443",
         "name": "m²",
-        "main_symbol": "m²"
+        "main_symbol": "m²",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
+        {
+            "uuid": "c9319b19-e2d5-569d-89e1-2acd040d237b",
+            "name": "km²",
+            "main_symbol": "km²",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "6b485bb9-e687-5d8e-afec-3246914973ce",
+            "name": "ha",
+            "main_symbol": "ha",
+            "conversion_factor_to_main_unit": "0.0001"
+        },
+        {
+            "uuid": "d1c2c698-c6c7-5c30-a122-fa5c40bd30e6",
+            "name": "daa",
+            "main_symbol": "daa",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "bd57f619-9bfa-5dc8-9b92-b911efb48281",
+            "name": "a",
+            "main_symbol": "a",
+            "conversion_factor_to_main_unit": "0.01"
+        },
         {
             "uuid": "f269bae3-74a6-5c76-b366-0c75f31af463",
             "name": "dm²",
             "main_symbol": "dm²",
             "conversion_factor_to_main_unit": "100.0"
-        },
-        {
-            "uuid": "fe4cf51f-c459-508b-b7b1-8dff7ff984ea",
-            "name": "mm²",
-            "main_symbol": "mm²",
-            "conversion_factor_to_main_unit": "1000000.0"
-        },
-        {
-            "uuid": "bd5165e3-4cfb-5a33-9a51-d4376138e781",
-            "name": "nm²",
-            "main_symbol": "nm²",
-            "conversion_factor_to_main_unit": "9.999999999999999e+17"
         },
         {
             "uuid": "469bab4b-49b0-514e-a219-4e9a4a1b517b",
@@ -52,10 +65,22 @@
             "conversion_factor_to_main_unit": "10000.0"
         },
         {
+            "uuid": "fe4cf51f-c459-508b-b7b1-8dff7ff984ea",
+            "name": "mm²",
+            "main_symbol": "mm²",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
             "uuid": "cef5e91f-4952-5d90-9137-7a6ad46f3842",
             "name": "μm²",
             "main_symbol": "μm²",
             "conversion_factor_to_main_unit": "1000000000000.0"
+        },
+        {
+            "uuid": "bd5165e3-4cfb-5a33-9a51-d4376138e781",
+            "name": "nm²",
+            "main_symbol": "nm²",
+            "conversion_factor_to_main_unit": "9.999999999999999e+17"
         }
     ]
 }

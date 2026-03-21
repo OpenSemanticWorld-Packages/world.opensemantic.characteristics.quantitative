@@ -1,0 +1,22 @@
+{
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "uuid": "b47ef35d-f7d6-5b54-807b-7d803d9d44fb",
+    "name": "HasLogarithmOfOctanolWaterPartitionCoefficientValue",
+    "label": [
+        {
+            "text": "Logarithm of Octanol Water Partition Coefficient",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A dimensionless ratio that is the logarithm of the ratio of a compound's concentration within a two phase mixture of octanol and water at equilibrium.  More simply, it is a comparison of the solubilities of the compound solute in these two immiscible liquids.  This property is used to measure the lipophilicity and the hydrophilicity of a substance.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessRatioValue",
+    "base_property": "Property:HasDimensionlessRatioValue"
+}

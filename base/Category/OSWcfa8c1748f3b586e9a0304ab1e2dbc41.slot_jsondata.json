@@ -2,12 +2,12 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "cfa8c174-8f3b-586e-9a03-04ab1e2dbc41",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/PlaneAngle",
         "http://dbpedia.org/resource/Plane_angle",
-        "https://si-digital-framework.org/SI/quantities/ANGP"
+        "http://qudt.org/vocab/quantitykind/PlaneAngle",
+        "https://si-digital-framework.org/quantities/ANGP"
     ],
+    "uuid": "cfa8c174-8f3b-586e-9a03-04ab1e2dbc41",
     "name": "PlaneAngle",
     "label": [
         {
@@ -42,12 +42,42 @@
         {
             "osw_id": "Item:OSW6b270053305955a89f37c50637fc7aeb#OSW80a423e717c3546f8085fa732b37409e",
             "name": "micro_radian",
-            "symbol": "µrad"
+            "symbol": "μrad"
+        },
+        {
+            "osw_id": "Item:OSW078721f38fa85e39ad6922059a25b826",
+            "name": "minute",
+            "symbol": "'"
+        },
+        {
+            "osw_id": "Item:OSW1874dba95c265fe6a72a8f5cc601ae05",
+            "name": "mil_NATO",
+            "symbol": "mil{NATO}"
         },
         {
             "osw_id": "Item:OSW6b270053305955a89f37c50637fc7aeb#OSW8fb3bf64b8f751498553ead8995be20c",
             "name": "milli_radian",
             "symbol": "mrad"
+        },
+        {
+            "osw_id": "Item:OSWe2b466afb5dc5846b22155cd2201b7df",
+            "name": "grade",
+            "symbol": "gon"
+        },
+        {
+            "osw_id": "Item:OSW73898f0657e85cea96a99e532433dc9a",
+            "name": "grade",
+            "symbol": "grad"
+        },
+        {
+            "osw_id": "Item:OSW308ac27be52b5fbe85d647c7429f32f1",
+            "name": "degree",
+            "symbol": "°"
+        },
+        {
+            "osw_id": "Item:OSWe2a244d736ac50c38407935fa6571e3d",
+            "name": "rev",
+            "symbol": "rev"
         }
     ],
     "quantity_property": "Property:HasPlaneAngleValue"

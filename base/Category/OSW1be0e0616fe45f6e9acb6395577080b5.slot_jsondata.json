@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "1be0e061-6fe4-5f6e-9acb-6395577080b5",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Work"
     ],
+    "uuid": "1be0e061-6fe4-5f6e-9acb-6395577080b5",
     "name": "Work",
     "label": [
         {

@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "7423002c-2fd4-5809-bfc0-c4879b7d6f9c",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/SurfaceCoefficientOfHeatTransfer"
     ],
+    "uuid": "7423002c-2fd4-5809-bfc0-c4879b7d6f9c",
     "name": "SurfaceCoefficientOfHeatTransfer",
     "label": [
         {
@@ -26,6 +26,11 @@
             "osw_id": "Item:OSWdc31cad7e9225defbc08f6f79bf5c4ea",
             "name": "watt_per_kelvin_per_meter_squared",
             "symbol": "W/(m²·K)"
+        },
+        {
+            "osw_id": "Item:OSWdc31cad7e9225defbc08f6f79bf5c4ea#OSWaf1a4c61c7a55cec98c763cb39935ed3",
+            "name": "kilo_watt_per_kelvin_per_meter_squared",
+            "symbol": "kW/(m²·K)"
         }
     ],
     "quantity_property": "Property:HasSurfaceCoefficientOfHeatTransferValue"

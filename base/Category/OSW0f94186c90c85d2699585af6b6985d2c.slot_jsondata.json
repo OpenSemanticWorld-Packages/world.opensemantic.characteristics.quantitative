@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "0f94186c-90c8-5d26-9958-5af6b6985d2c",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/InverseLengthTemperature"
     ],
+    "uuid": "0f94186c-90c8-5d26-9958-5af6b6985d2c",
     "name": "InverseLengthTemperature",
     "label": [
         {
@@ -25,7 +25,7 @@
         {
             "osw_id": "Item:OSWf56de776e1935d7da1fc50db7cd12490",
             "name": "per_kelvin_per_meter",
-            "symbol": "1/(m·K)"
+            "symbol": "/(m·K)"
         }
     ],
     "quantity_property": "Property:HasInverseLengthTemperatureValue"

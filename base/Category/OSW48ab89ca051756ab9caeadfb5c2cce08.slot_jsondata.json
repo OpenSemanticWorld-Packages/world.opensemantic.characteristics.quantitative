@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "48ab89ca-0517-56ab-9cae-adfb5c2cce08",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/DragCoefficient"
     ],
+    "uuid": "48ab89ca-0517-56ab-9cae-adfb5c2cce08",
     "name": "DragCoefficient",
     "label": [
         {

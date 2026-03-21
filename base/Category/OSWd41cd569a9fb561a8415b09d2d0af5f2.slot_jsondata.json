@@ -2,12 +2,12 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "d41cd569-a9fb-561a-8415-b09d2d0af5f2",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/Exposure",
         "http://dbpedia.org/resource/Exposure",
-        "https://si-digital-framework.org/SI/quantities/XPOS"
+        "http://qudt.org/vocab/quantitykind/Exposure",
+        "https://si-digital-framework.org/quantities/XPOS"
     ],
+    "uuid": "d41cd569-a9fb-561a-8415-b09d2d0af5f2",
     "name": "Exposure",
     "label": [
         {

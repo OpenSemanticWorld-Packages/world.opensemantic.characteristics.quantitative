@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "532bab2a-81f4-51fb-9dc3-4122da50dca6",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/BetaDisintegrationEnergy"
     ],
+    "uuid": "532bab2a-81f4-51fb-9dc3-4122da50dca6",
     "name": "BetaDisintegrationEnergy",
     "label": [
         {

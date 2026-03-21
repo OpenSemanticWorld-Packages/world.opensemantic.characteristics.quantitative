@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "ec3279eb-a6a0-57f4-9cd2-b5b384701930",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/Circulation",
-        "http://dbpedia.org/resource/Circulation_%28fluid_dynamics%29"
+        "http://dbpedia.org/resource/Circulation_%28fluid_dynamics%29",
+        "http://qudt.org/vocab/quantitykind/Circulation"
     ],
+    "uuid": "ec3279eb-a6a0-57f4-9cd2-b5b384701930",
     "name": "Circulation",
     "label": [
         {

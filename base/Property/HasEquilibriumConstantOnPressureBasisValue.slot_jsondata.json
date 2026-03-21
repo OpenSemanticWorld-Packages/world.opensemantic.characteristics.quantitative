@@ -1,0 +1,22 @@
+{
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "uuid": "ae2c9446-59ce-50a1-9269-5777f6b17abf",
+    "name": "HasEquilibriumConstantOnPressureBasisValue",
+    "label": [
+        {
+            "text": "Equilibrium Constant on Pressure Basis",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Equlilbrium Constant\", also known as the thermodynamic equilibrium constant, is an expression that gives us a ratio of the products and reactants of a reaction at equilibrium with respect to a specific unit.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasEquilibriumConstantValue",
+    "base_property": "Property:HasEquilibriumConstantValue"
+}

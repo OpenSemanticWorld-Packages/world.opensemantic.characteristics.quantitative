@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "da38a6d5-1c38-5b42-8998-b15f68bd787e",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ThermalConductance"
     ],
+    "uuid": "da38a6d5-1c38-5b42-8998-b15f68bd787e",
     "name": "ThermalConductance",
     "label": [
         {

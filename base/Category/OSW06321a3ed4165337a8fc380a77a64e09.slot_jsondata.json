@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "06321a3e-d416-5337-a8fc-380a77a64e09",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/CharacteristicVelocity"
     ],
+    "uuid": "06321a3e-d416-5337-a8fc-380a77a64e09",
     "name": "CharacteristicVelocity",
     "label": [
         {

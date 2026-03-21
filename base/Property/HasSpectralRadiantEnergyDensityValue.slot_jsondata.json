@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "5db4b191-bf2f-59db-a3ba-422e1929dbd3",
     "name": "HasSpectralRadiantEnergyDensityValue",
     "label": [
@@ -14,12 +17,48 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
-        "uuid": "2c8daf12-299e-5c7b-99ba-5173eabfd706",
-        "name": "J/m⁴",
-        "main_symbol": "J/m⁴"
-    }
+        "uuid": "2d257354-4b5d-50b4-b717-f061cce60efc",
+        "name": "Pa/m",
+        "main_symbol": "Pa/m",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "2141e902-b421-5fcf-b39e-16e366e91438",
+            "name": "kPa/mm",
+            "main_symbol": "kPa/mm",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "ff6f3459-d465-5cfa-a19b-7b3c9a8ce07f",
+            "name": "kPa/m",
+            "main_symbol": "kPa/m",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "20464dd7-aa85-5aeb-9b3b-7e809a90d2ee",
+            "name": "hPa/m",
+            "main_symbol": "hPa/m",
+            "conversion_factor_to_main_unit": "0.01"
+        },
+        {
+            "uuid": "2c8daf12-299e-5c7b-99ba-5173eabfd706",
+            "name": "J/m⁴",
+            "main_symbol": "J/m⁴",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "6fe45cc9-be42-5193-a7f4-cf083d6a4e10",
+            "name": "mPa/m",
+            "main_symbol": "mPa/m",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "c64c09ce-c9a9-567e-a9bc-2ae320c11278",
+            "name": "pPa/km",
+            "main_symbol": "pPa/km",
+            "conversion_factor_to_main_unit": "999999999999999.9"
+        }
+    ]
 }

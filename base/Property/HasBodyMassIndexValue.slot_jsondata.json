@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "5e1e13ee-fe2e-5e12-827b-d99aac603d40",
     "name": "HasBodyMassIndexValue",
     "label": [
@@ -14,12 +17,72 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "9234c420-52ef-5301-8547-f5e63b094573",
         "name": "kg/m²",
-        "main_symbol": "kg/m²"
-    }
+        "main_symbol": "kg/m²",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "96d4a1c7-8c69-53f2-94b3-5264dca589ac",
+            "name": "kg/cm²",
+            "main_symbol": "kg/cm²",
+            "conversion_factor_to_main_unit": "0.0001"
+        },
+        {
+            "uuid": "941118a8-eaa1-5275-b6fd-92aa46047d9e",
+            "name": "g/mm²",
+            "main_symbol": "g/mm²",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "8f33b0e2-71d6-57d2-8e77-73c8a214ac80",
+            "name": "g/cm²",
+            "main_symbol": "g/cm²",
+            "conversion_factor_to_main_unit": "0.1"
+        },
+        {
+            "uuid": "6ed6b96d-8e6f-58a9-9631-638ebe3137de",
+            "name": "mg/cm²",
+            "main_symbol": "mg/cm²",
+            "conversion_factor_to_main_unit": "100.0"
+        },
+        {
+            "uuid": "9037740e-294a-549c-9738-70de432c8c24",
+            "name": "g/m²",
+            "main_symbol": "g/m²",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "8141d37f-856c-5ee3-9baa-70ec6a6ac041",
+            "name": "mg/dm²",
+            "main_symbol": "mg/dm²",
+            "conversion_factor_to_main_unit": "10000.0"
+        },
+        {
+            "uuid": "663fc8b7-e273-59ee-ab0f-3892b929328e",
+            "name": "μg/cm²",
+            "main_symbol": "μg/cm²",
+            "conversion_factor_to_main_unit": "99999.99999999999"
+        },
+        {
+            "uuid": "07751ac6-158e-5cc7-96c8-f97dcdf5808c",
+            "name": "kg/km²",
+            "main_symbol": "kg/km²",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "78a8db0d-8575-539b-93af-8d5b12626cd7",
+            "name": "mg/m²",
+            "main_symbol": "mg/m²",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "c50aac62-0606-5dfe-a3c5-80a4e3c69639",
+            "name": "ng/cm²",
+            "main_symbol": "ng/cm²",
+            "conversion_factor_to_main_unit": "100000000.0"
+        }
+    ]
 }

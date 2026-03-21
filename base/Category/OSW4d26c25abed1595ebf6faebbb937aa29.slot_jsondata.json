@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "4d26c25a-bed1-595e-bf6f-aebbb937aa29",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/AreaPerPower"
     ],
+    "uuid": "4d26c25a-bed1-595e-bf6f-aebbb937aa29",
     "name": "AreaPerHeatingLoad",
     "label": [
         {

@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "fde2a071-8a7c-5aec-a158-2631aec8f5e1",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MassSpecificBiogeochemicalRate"
     ],
+    "uuid": "fde2a071-8a7c-5aec-a158-2631aec8f5e1",
     "name": "MassSpecificBiogeochemicalRate",
     "label": [
         {
@@ -32,6 +32,21 @@
             "osw_id": "Item:OSWe362097950ff5522865e835757765c17",
             "name": "micro_gram_per_day_per_gram",
             "symbol": "μg/(g·d)"
+        },
+        {
+            "osw_id": "Item:OSW128913a7d8a95078b7bb1a26bbb1da62",
+            "name": "milli_gram_per_day_per_kilo_gram",
+            "symbol": "mg/(kg·d)"
+        },
+        {
+            "osw_id": "Item:OSWddfe4ba2180f538292f5d0548877e2f6",
+            "name": "micro_gram_per_gram_per_hour",
+            "symbol": "μg/(g·h)"
+        },
+        {
+            "osw_id": "Item:OSW213e1d82da275c808d8f8fd7e6c13628",
+            "name": "milli_gram_per_gram_per_hour",
+            "symbol": "mg/(g·h)"
         }
     ],
     "quantity_property": "Property:HasMassSpecificBiogeochemicalRateValue"

@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "ff37da0b-ab1b-57c2-8a80-296cbecefbe7",
     "name": "HasElectricQuadrupoleMomentValue",
     "label": [
@@ -18,12 +21,10 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "b5829844-9ef6-5e71-a223-986c30d81f98",
         "name": "C·m²",
-        "main_symbol": "C·m²"
+        "main_symbol": "C·m²",
+        "conversion_factor_to_main_unit": "1.0"
     }
 }

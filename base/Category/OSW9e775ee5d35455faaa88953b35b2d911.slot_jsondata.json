@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "9e775ee5-d354-55fa-aa88-953b35b2d911",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MassPerAreaTime"
     ],
+    "uuid": "9e775ee5-d354-55fa-aa88-953b35b2d911",
     "name": "MassPerAreaTime",
     "label": [
         {
@@ -26,12 +26,27 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW355991130bb05ab39e068c0cc8028094",
-    "default_unit": "Item:OSWb2902ae1df0b561682bfc174af5ff039",
+    "default_unit": "Item:OSWebfdb321c4215ee6b0e498a101b191c9",
     "unit_enumeration": [
         {
-            "osw_id": "Item:OSWb2902ae1df0b561682bfc174af5ff039",
-            "name": "gram_per_day_per_meter_squared",
-            "symbol": "g/(m²·d)"
+            "osw_id": "Item:OSWebfdb321c4215ee6b0e498a101b191c9",
+            "name": "kilo_gram_per_meter_squared_per_second",
+            "symbol": "kg/(m²·s)"
+        },
+        {
+            "osw_id": "Item:OSWb2902ae1df0b561682bfc174af5ff039#OSWae40efaa247650f38362d522eabf49ca",
+            "name": "micro_gram_per_day_per_meter_squared",
+            "symbol": "μg/(m²·d)"
+        },
+        {
+            "osw_id": "Item:OSWb2902ae1df0b561682bfc174af5ff039#OSWb4fb60e190df572681fbd988fd44a5c4",
+            "name": "nano_gram_per_centi_meter_squared_per_day",
+            "symbol": "ng/(cm²·d)"
+        },
+        {
+            "osw_id": "Item:OSW30a67aad820254b4acb11bb3d87263bc",
+            "name": "kilo_gram_per_hectare_per_year",
+            "symbol": "kg/(ha·a)"
         },
         {
             "osw_id": "Item:OSWb2902ae1df0b561682bfc174af5ff039#OSW93a70588ce305c56aa1c3d6417632649",
@@ -39,9 +54,59 @@
             "symbol": "mg/(m²·d)"
         },
         {
-            "osw_id": "Item:OSWb2902ae1df0b561682bfc174af5ff039#OSWae40efaa247650f38362d522eabf49ca",
-            "name": "micro_gram_per_day_per_meter_squared",
-            "symbol": "μg/(m²·d)"
+            "osw_id": "Item:OSW24ab271633805b9b846c7138d3eab529",
+            "name": "micro_g_per_cm_squared_wk",
+            "symbol": "μg/(cm²·wk)"
+        },
+        {
+            "osw_id": "Item:OSW38d1c14d70b85eb9b65075561994a7da",
+            "name": "gram_per_meter_squared_per_year",
+            "symbol": "g/(m²·a)"
+        },
+        {
+            "osw_id": "Item:OSW0536dcf4d56e5b228c51533178756899#OSW98dcd3c0529b5e08b67484196a3486bc",
+            "name": "milli_gram_per_hour_per_meter_squared",
+            "symbol": "mg/(m²·h)"
+        },
+        {
+            "osw_id": "Item:OSWb7f81e58135c59989447d860ec206d17",
+            "name": "mega_gram_per_hectare_per_year",
+            "symbol": "Mg/(ha·a)"
+        },
+        {
+            "osw_id": "Item:OSWb85ce16515e45cd0883f2e4cdb50c4f2",
+            "name": "metric_ton_per_hectare_per_year",
+            "symbol": "t/(ha·a)"
+        },
+        {
+            "osw_id": "Item:OSWb2902ae1df0b561682bfc174af5ff039",
+            "name": "gram_per_day_per_meter_squared",
+            "symbol": "g/(m²·d)"
+        },
+        {
+            "osw_id": "Item:OSW0536dcf4d56e5b228c51533178756899",
+            "name": "gram_per_hour_per_meter_squared",
+            "symbol": "g/(m²·h)"
+        },
+        {
+            "osw_id": "Item:OSWf29a6175a21e58c496fd82b912c8610c",
+            "name": "gram_per_centi_meter_squared_per_year",
+            "symbol": "g/(cm²·a)"
+        },
+        {
+            "osw_id": "Item:OSWd6359a8a93a25bd48e5c2e745bfb9d43",
+            "name": "milli_gram_per_meter_squared_per_second",
+            "symbol": "mg/(m²·s)"
+        },
+        {
+            "osw_id": "Item:OSWb2902ae1df0b561682bfc174af5ff039#OSW41b282c4f40a53d1b288be6610a9133d",
+            "name": "kilo_gram_per_day_per_meter_squared",
+            "symbol": "kg/(m²·d)"
+        },
+        {
+            "osw_id": "Item:OSW392e53059570581b8b98decafc31a919",
+            "name": "kilo_gram_per_meter_squared_per_second",
+            "symbol": "kg/(s·m²)"
         }
     ],
     "quantity_property": "Property:HasMassPerAreaTimeValue"

@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "880b8c68-df48-58bc-a185-3d9686b0d4e0",
     "name": "HasSpecificPowerValue",
     "label": [
@@ -14,12 +17,54 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "0dcdcfb4-6b3d-5b94-8aaf-8b830f380f9e",
         "name": "Gy/s",
-        "main_symbol": "Gy/s"
-    }
+        "main_symbol": "Gy/s",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "2e3286da-423f-5374-95da-8860c5d33353",
+            "name": "W/g",
+            "main_symbol": "W/g",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "7b91b458-cb17-56a7-9694-dbcf573d7bdd",
+            "name": "mW/mg",
+            "main_symbol": "mW/mg",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "59102d93-189d-54a1-a43e-d81c50f069fc",
+            "name": "W/kg",
+            "main_symbol": "W/kg",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "3f6da630-7a9c-539b-8aaf-8feb99071c65",
+            "name": "mGy/s",
+            "main_symbol": "mGy/s",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "06714aa2-c903-548c-ae49-48bc75302997",
+            "name": "μGy/s",
+            "main_symbol": "μGy/s",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "86cf29c3-821a-5588-b0e2-a1fcd0b20d58",
+            "name": "nGy/s",
+            "main_symbol": "nGy/s",
+            "conversion_factor_to_main_unit": "999999999.9999999"
+        },
+        {
+            "uuid": "d54ccc3f-58b0-5d1f-b967-09efe11c95fe",
+            "name": "μSv/h",
+            "main_symbol": "μSv/h",
+            "conversion_factor_to_main_unit": "3600000000.0"
+        }
+    ]
 }

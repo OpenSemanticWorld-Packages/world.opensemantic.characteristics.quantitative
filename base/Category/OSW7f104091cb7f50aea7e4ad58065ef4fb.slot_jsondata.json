@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "7f104091-cb7f-50ae-a7e4-ad58065ef4fb",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/TemperatureRatio"
     ],
+    "uuid": "7f104091-cb7f-50ae-a7e4-ad58065ef4fb",
     "name": "TemperatureRatio",
     "label": [
         {

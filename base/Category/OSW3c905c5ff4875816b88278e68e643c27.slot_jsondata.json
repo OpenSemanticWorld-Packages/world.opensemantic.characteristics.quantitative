@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "3c905c5f-f487-5816-b882-78e68e643c27",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Half-ValueThickness"
     ],
+    "uuid": "3c905c5f-f487-5816-b882-78e68e643c27",
     "name": "HalfValueThickness",
     "label": [
         {

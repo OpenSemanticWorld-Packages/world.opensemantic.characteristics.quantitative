@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "cb71f0cf-941a-5870-9eac-e6b2c98ebeda",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/Entropy",
-        "http://dbpedia.org/resource/Entropy"
+        "http://dbpedia.org/resource/Entropy",
+        "http://qudt.org/vocab/quantitykind/Entropy"
     ],
+    "uuid": "cb71f0cf-941a-5870-9eac-e6b2c98ebeda",
     "name": "Entropy",
     "label": [
         {
@@ -39,14 +39,14 @@
             "symbol": "J/K"
         },
         {
+            "osw_id": "Item:OSW7b31ddba89fc5359972c09eda7f30683",
+            "name": "kilo_joule_per_kelvin",
+            "symbol": "kJ/K"
+        },
+        {
             "osw_id": "Item:OSW501738b1f645568c9c4fb6da844439c7#OSWf8925d2e60865f589809095c9e172dbe",
             "name": "mega_joule_per_kelvin",
             "symbol": "MJ/K"
-        },
-        {
-            "osw_id": "Item:OSW501738b1f645568c9c4fb6da844439c7#OSW7b31ddba89fc5359972c09eda7f30683",
-            "name": "kilo_joule_per_kelvin",
-            "symbol": "kJ/K"
         }
     ],
     "quantity_property": "Property:HasEntropyValue"

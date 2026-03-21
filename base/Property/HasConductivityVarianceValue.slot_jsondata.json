@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "uuid": "41a3a1bd-794a-5491-acb2-83e889ed69a8",
+    "name": "HasConductivityVarianceValue",
+    "label": [
+        {
+            "text": "Conductivity Variance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Variance for conductivity data.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "main_unit": {
+        "uuid": "b936c7e6-d05f-5047-ad52-dd821de298b5",
+        "name": "μS²/cm²",
+        "main_symbol": "μS²/cm²",
+        "conversion_factor_to_main_unit": "1.0"
+    }
+}

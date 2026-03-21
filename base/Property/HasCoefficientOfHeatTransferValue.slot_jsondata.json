@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "b3752163-5b82-55c6-bc38-e848f1421bd2",
     "name": "HasCoefficientOfHeatTransferValue",
     "label": [
@@ -14,12 +17,24 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "6ef8db77-3eef-5c46-9987-f77d43c99c79",
         "name": "W/(m²·K)",
-        "main_symbol": "W/(m²·K)"
-    }
+        "main_symbol": "W/(m²·K)",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "37e83ded-a643-5752-aa3b-ad52c2cf6eb8",
+            "name": "kW/(m²·K)",
+            "main_symbol": "kW/(m²·K)",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "3d84ee73-559f-57c4-9f03-78aea4986569",
+            "name": "kg/(s³·K)",
+            "main_symbol": "kg/(s³·K)",
+            "conversion_factor_to_main_unit": "1.0"
+        }
+    ]
 }

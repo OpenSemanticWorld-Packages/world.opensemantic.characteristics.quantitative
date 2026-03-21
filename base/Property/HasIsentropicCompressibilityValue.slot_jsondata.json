@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "80203f56-1906-5141-b7d8-f10fdbe9101d",
     "name": "HasIsentropicCompressibilityValue",
     "label": [
@@ -14,12 +17,18 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "00d5d31d-b5a3-5261-9338-29702ae10082",
-        "name": "1/Pa",
-        "main_symbol": "1/Pa"
-    }
+        "name": "/Pa",
+        "main_symbol": "/Pa",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "a3e3e7bd-e5da-5157-8c5d-406b6120b5fd",
+            "name": "/MPa",
+            "main_symbol": "/MPa",
+            "conversion_factor_to_main_unit": "1000000.0"
+        }
+    ]
 }

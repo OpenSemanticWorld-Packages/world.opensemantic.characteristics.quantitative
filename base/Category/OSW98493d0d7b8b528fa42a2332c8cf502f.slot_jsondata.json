@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "98493d0d-7b8b-528f-a42a-2332c8cf502f",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/AmountOfSubstancePerVolume"
     ],
+    "uuid": "98493d0d-7b8b-528f-a42a-2332c8cf502f",
     "name": "AmountOfSubstancePerVolume",
     "label": [
         {

@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "d443875d-fab1-594b-91b2-07cd59e9e0fa",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/StateOfCharge"
     ],
+    "uuid": "d443875d-fab1-594b-91b2-07cd59e9e0fa",
     "name": "StateOfCharge",
     "label": [
         {

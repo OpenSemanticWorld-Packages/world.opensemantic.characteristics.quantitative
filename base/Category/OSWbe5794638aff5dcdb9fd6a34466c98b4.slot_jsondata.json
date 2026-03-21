@@ -2,12 +2,12 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "be579463-8aff-5dcd-b9fd-6a34466c98b4",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/CatalyticActivity",
         "http://dbpedia.org/resource/Catalysis",
-        "https://si-digital-framework.org/SI/quantities/CATA"
+        "http://qudt.org/vocab/quantitykind/CatalyticActivity",
+        "https://si-digital-framework.org/quantities/CATA"
     ],
+    "uuid": "be579463-8aff-5dcd-b9fd-6a34466c98b4",
     "name": "CatalyticActivity",
     "label": [
         {
@@ -34,6 +34,36 @@
             "osw_id": "Item:OSW73fc60d9e1dd5337a5f4befdc3646012",
             "name": "katal",
             "symbol": "kat"
+        },
+        {
+            "osw_id": "Item:OSW73fc60d9e1dd5337a5f4befdc3646012#OSW04d4b8bf4352570e91c67ca0183549c3",
+            "name": "pico_katal",
+            "symbol": "pkat"
+        },
+        {
+            "osw_id": "Item:OSW73fc60d9e1dd5337a5f4befdc3646012#OSWa7286c9b76935cb0974066b843882f91",
+            "name": "nano_katal",
+            "symbol": "nkat"
+        },
+        {
+            "osw_id": "Item:OSW73fc60d9e1dd5337a5f4befdc3646012#OSW68b0210c657c5820aa6863c86452bef7",
+            "name": "micro_katal",
+            "symbol": "μkat"
+        },
+        {
+            "osw_id": "Item:OSWe363854a9dae564599c5f2b186d2f248",
+            "name": "mole_per_hour",
+            "symbol": "mol/h"
+        },
+        {
+            "osw_id": "Item:OSW73fc60d9e1dd5337a5f4befdc3646012#OSWb8cdfc20a6a855a29fd8efb58c127e77",
+            "name": "milli_katal",
+            "symbol": "mkat"
+        },
+        {
+            "osw_id": "Item:OSWe363854a9dae564599c5f2b186d2f248#OSWd95d2efc01ef530e8082c420db9bb287",
+            "name": "kilo_mole_per_hour",
+            "symbol": "kmol/h"
         }
     ],
     "quantity_property": "Property:HasCatalyticActivityValue"

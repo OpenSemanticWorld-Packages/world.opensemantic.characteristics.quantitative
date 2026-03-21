@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "2360d68f-0082-5747-8577-b2fa9b8facba",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MacroscopicTotalCrossSection"
     ],
+    "uuid": "2360d68f-0082-5747-8577-b2fa9b8facba",
     "name": "MacroscopicTotalCrossSection",
     "label": [
         {

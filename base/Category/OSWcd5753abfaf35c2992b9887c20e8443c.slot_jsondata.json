@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "cd5753ab-faf3-5c29-92b9-887c20e8443c",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ShearStrain"
     ],
+    "uuid": "cd5753ab-faf3-5c29-92b9-887c20e8443c",
     "name": "ShearStrain",
     "label": [
         {

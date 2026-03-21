@@ -2,12 +2,12 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "fad28497-6682-566c-ab9e-bd9d6bd15711",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/Luminance",
         "http://dbpedia.org/resource/Luminance",
-        "https://si-digital-framework.org/SI/quantities/LUMA"
+        "http://qudt.org/vocab/quantitykind/Luminance",
+        "https://si-digital-framework.org/quantities/LUMA"
     ],
+    "uuid": "fad28497-6682-566c-ab9e-bd9d6bd15711",
     "name": "Luminance",
     "label": [
         {

@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "24c77d94-b665-5532-8ab0-28390ba47024",
     "name": "HasSoundPressureLevelValue",
     "label": [
@@ -18,12 +21,10 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
-        "uuid": "a098482f-dada-5694-88d7-d6e436bf55dd",
-        "name": "B",
-        "main_symbol": "B"
+        "uuid": "8ba72afd-f017-5384-b832-937af3d593b5",
+        "name": "dB",
+        "main_symbol": "dB",
+        "conversion_factor_to_main_unit": "1.0"
     }
 }

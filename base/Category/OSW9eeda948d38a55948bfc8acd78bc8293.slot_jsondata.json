@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "9eeda948-d38a-5594-8bfc-8acd78bc8293",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Reluctance"
     ],
+    "uuid": "9eeda948-d38a-5594-8bfc-8acd78bc8293",
     "name": "Reluctance",
     "label": [
         {
@@ -31,7 +31,7 @@
         {
             "osw_id": "Item:OSW8a3b2c786aeb55f7a8a6be1fe96329a1",
             "name": "per_henry",
-            "symbol": "1/H"
+            "symbol": "/H"
         }
     ],
     "quantity_property": "Property:HasReluctanceValue"

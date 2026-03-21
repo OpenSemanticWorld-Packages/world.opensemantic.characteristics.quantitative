@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "fb812934-8093-5fe7-954a-0a6c341d8b9f",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ReactionEnergy"
     ],
+    "uuid": "fb812934-8093-5fe7-954a-0a6c341d8b9f",
     "name": "ReactionEnergy",
     "label": [
         {

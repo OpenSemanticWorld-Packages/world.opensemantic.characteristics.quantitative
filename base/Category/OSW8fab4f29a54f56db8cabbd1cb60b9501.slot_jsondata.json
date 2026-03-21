@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "8fab4f29-a54f-56db-8cab-bd1cb60b9501",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/CharacteristicAcousticImpedance"
     ],
+    "uuid": "8fab4f29-a54f-56db-8cab-bd1cb60b9501",
     "name": "CharacteristicAcousticImpedance",
     "label": [
         {

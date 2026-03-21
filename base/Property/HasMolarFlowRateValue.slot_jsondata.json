@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "b32315a0-0c56-509a-8149-a447bc5da106",
     "name": "HasMolarFlowRateValue",
     "label": [
@@ -14,13 +17,11 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "30bcc3be-dcc2-54e7-90cb-558ebcc6ad7e",
         "name": "mol/s",
-        "main_symbol": "mol/s"
+        "main_symbol": "mol/s",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
         {
@@ -28,6 +29,30 @@
             "name": "kmol/s",
             "main_symbol": "kmol/s",
             "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "1b5f97b6-706a-5ced-a746-6069d5952d04",
+            "name": "kmol/min",
+            "main_symbol": "kmol/min",
+            "conversion_factor_to_main_unit": "0.06"
+        },
+        {
+            "uuid": "dcb19b2a-6490-5ca6-8b07-d0352eecdf6d",
+            "name": "kmol/h",
+            "main_symbol": "kmol/h",
+            "conversion_factor_to_main_unit": "3.5999999999999996"
+        },
+        {
+            "uuid": "6f0610b1-e08c-5fd4-8792-332f818371f0",
+            "name": "mol/min",
+            "main_symbol": "mol/min",
+            "conversion_factor_to_main_unit": "60.0"
+        },
+        {
+            "uuid": "b22fa54c-ee7f-5dd5-b9d0-e512c1c6c0c4",
+            "name": "mol/h",
+            "main_symbol": "mol/h",
+            "conversion_factor_to_main_unit": "3600.0"
         },
         {
             "uuid": "ea745027-5fdd-501a-976c-560e24ef4db4",

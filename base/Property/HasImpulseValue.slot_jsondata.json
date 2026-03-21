@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "uuid": "9c53bcfe-7bac-5ffb-91aa-2c1108d73d3b",
+    "name": "HasImpulseValue",
+    "label": [
+        {
+            "text": "Impulse",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Produkt aus Kraft und Zeit",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "main_unit": {
+        "uuid": "ab318d41-6687-5b34-9f7c-0f6f8922bcc9",
+        "name": "kg·m/s",
+        "main_symbol": "kg·m/s",
+        "conversion_factor_to_main_unit": "1.0"
+    }
+}

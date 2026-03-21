@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "3805347e-a7cc-5372-812c-240ee9c72d57",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MassOfSolidBooster"
     ],
+    "uuid": "3805347e-a7cc-5372-812c-240ee9c72d57",
     "name": "MassOfSolidBooster",
     "label": [
         {

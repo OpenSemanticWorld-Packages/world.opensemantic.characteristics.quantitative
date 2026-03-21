@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "a78b60b5-e433-540b-ba1f-2970c4a21f07",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/RichardsonConstant"
     ],
+    "uuid": "a78b60b5-e433-540b-ba1f-2970c4a21f07",
     "name": "RichardsonConstant",
     "label": [
         {

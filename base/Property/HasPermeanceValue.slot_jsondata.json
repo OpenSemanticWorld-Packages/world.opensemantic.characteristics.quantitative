@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "eb2e8160-c7d3-5584-94d9-1dd123c52399",
     "name": "HasPermeanceValue",
     "label": [
@@ -14,26 +17,18 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "01976281-458d-5bc4-8a7d-33c423bc586c",
         "name": "H",
-        "main_symbol": "H"
+        "main_symbol": "H",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
         {
-            "uuid": "787bb004-8a01-591e-9088-4acdeb148cc6",
-            "name": "nH",
-            "main_symbol": "nH",
-            "conversion_factor_to_main_unit": "1000000000.0"
-        },
-        {
-            "uuid": "ec47beb0-8da3-5b24-a58e-be69dd5219c2",
-            "name": "pH",
-            "main_symbol": "pH",
-            "conversion_factor_to_main_unit": "1000000000000.0"
+            "uuid": "a12e9ae5-18cc-5ed4-9cae-8d5c02cf9c41",
+            "name": "kH",
+            "main_symbol": "kH",
+            "conversion_factor_to_main_unit": "0.001"
         },
         {
             "uuid": "128f4c1a-619c-5148-9178-55519bc7ffd6",
@@ -46,6 +41,18 @@
             "name": "μH",
             "main_symbol": "μH",
             "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "787bb004-8a01-591e-9088-4acdeb148cc6",
+            "name": "nH",
+            "main_symbol": "nH",
+            "conversion_factor_to_main_unit": "999999999.9999999"
+        },
+        {
+            "uuid": "ec47beb0-8da3-5b24-a58e-be69dd5219c2",
+            "name": "pH",
+            "main_symbol": "pH",
+            "conversion_factor_to_main_unit": "1000000000000.0"
         }
     ]
 }

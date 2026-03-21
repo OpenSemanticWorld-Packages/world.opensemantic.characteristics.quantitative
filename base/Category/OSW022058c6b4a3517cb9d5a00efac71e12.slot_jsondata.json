@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "022058c6-b4a3-517c-b9d5-a00efac71e12",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/CartesianArea"
     ],
+    "uuid": "022058c6-b4a3-517c-b9d5-a00efac71e12",
     "name": "CartesianArea",
     "label": [
         {

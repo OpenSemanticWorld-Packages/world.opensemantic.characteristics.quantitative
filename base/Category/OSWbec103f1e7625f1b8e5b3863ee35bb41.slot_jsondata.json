@@ -1,0 +1,20 @@
+{
+    "type": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/CurrencyPerFlight"
+    ],
+    "uuid": "bec103f1-e762-5f1b-8e5b-3863ee35bb41",
+    "name": "CurrencyPerFlight",
+    "label": [
+        {
+            "text": "Currency Per Flight",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW67faac860ed758758aa4484387e5d5c9"
+    ],
+    "quantity_property": "Property:HasCurrencyPerFlightValue"
+}

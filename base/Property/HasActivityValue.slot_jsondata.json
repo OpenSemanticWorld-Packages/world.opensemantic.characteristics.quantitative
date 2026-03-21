@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
     "uuid": "a50207bc-1b68-5f76-bede-2eb0197cd3c3",
     "name": "HasActivityValue",
     "label": [
@@ -15,8 +18,5 @@
     ],
     "property_type": "Quantity",
     "subproperty_of": "Property:HasStochasticProcessValue",
-    "type": [
-        "Category:OSW69f251a900944602a08d1cca830249b5"
-    ],
-    "base_property": "Property:HasFrequencyValue"
+    "base_property": "Property:HasStochasticProcessValue"
 }

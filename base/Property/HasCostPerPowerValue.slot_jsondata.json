@@ -1,0 +1,38 @@
+{
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "uuid": "f1c67c61-7de6-50dd-86bd-65393a89a933",
+    "name": "HasCostPerPowerValue",
+    "label": [
+        {
+            "text": "Cost per power",
+            "lang": "en"
+        },
+        {
+            "text": "Anschaffungskosten pro Watt",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "In photovoltaics, cost per power of electricity produced measures the cost of installing the hardware relative to the power produced.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "main_unit": {
+        "uuid": "2cecc093-d45e-5dcb-8d57-aa5400fa0780",
+        "name": "€/W",
+        "main_symbol": "€/W",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "96dc9793-1284-57e6-9374-b0131ce0acda",
+            "name": "€/kW",
+            "main_symbol": "€/kW",
+            "conversion_factor_to_main_unit": "1000.0"
+        }
+    ]
+}

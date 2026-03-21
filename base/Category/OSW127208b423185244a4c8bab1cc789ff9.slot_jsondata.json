@@ -1,0 +1,38 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ConductivityVariance"
+    ],
+    "uuid": "127208b4-2318-5244-a4c8-bab1cc789ff9",
+    "name": "ConductivityVariance",
+    "label": [
+        {
+            "text": "Conductivity Variance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Variance for conductivity data.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW13fc03e790a452ad8e9423aa9cef3d05",
+    "default_unit": "Item:OSW89e525be6d675802a9d695d2d6655505",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW89e525be6d675802a9d695d2d6655505",
+            "name": "micro_siemens_squared_per_centi_meter_squared",
+            "symbol": "μS²/cm²"
+        }
+    ],
+    "quantity_property": "Property:HasConductivityVarianceValue"
+}

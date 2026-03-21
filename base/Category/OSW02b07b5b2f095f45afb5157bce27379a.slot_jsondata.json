@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "02b07b5b-2f09-5f45-afb5-157bce27379a",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/NozzleThroatDiameter"
     ],
+    "uuid": "02b07b5b-2f09-5f45-afb5-157bce27379a",
     "name": "NozzleThroatDiameter",
     "label": [
         {

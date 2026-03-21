@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "348021c4-973f-535b-b790-ea16d282eee4",
     "name": "HasActivityConcentrationValue",
     "label": [
@@ -14,12 +17,36 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
-        "uuid": "712b6021-48fb-5422-89b2-9a4fc9644f36",
-        "name": "Bq/m³",
-        "main_symbol": "Bq/m³"
-    }
+        "uuid": "07c6c66d-fa50-5ffc-b241-db7c89a2b378",
+        "name": "mBq/L",
+        "main_symbol": "mBq/L",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "51402cfc-61cc-56a9-a104-ebf2f26803e4",
+            "name": "Bq/L",
+            "main_symbol": "Bq/L",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "712b6021-48fb-5422-89b2-9a4fc9644f36",
+            "name": "Bq/m³",
+            "main_symbol": "Bq/m³",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "1c74557c-718d-5021-a960-bee82193d26b",
+            "name": "μBq/L",
+            "main_symbol": "μBq/L",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "fdc04959-40bb-584e-b2a7-65dbc589424a",
+            "name": "nBq/L",
+            "main_symbol": "nBq/L",
+            "conversion_factor_to_main_unit": "1000000.0"
+        }
+    ]
 }

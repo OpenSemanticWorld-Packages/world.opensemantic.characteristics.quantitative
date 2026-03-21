@@ -2,12 +2,12 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "fe1ff8f4-4b16-5f1f-985b-575117e59d3b",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/DoseEquivalent",
         "http://dbpedia.org/resource/Equivalent_dose",
-        "https://si-digital-framework.org/SI/quantities/DOEQ"
+        "http://qudt.org/vocab/quantitykind/DoseEquivalent",
+        "https://si-digital-framework.org/quantities/DOEQ"
     ],
+    "uuid": "fe1ff8f4-4b16-5f1f-985b-575117e59d3b",
     "name": "DoseEquivalent",
     "label": [
         {

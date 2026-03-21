@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "fd2fa699-f8fe-5080-b19a-149bee5d9025",
     "name": "HasInverseSquareEnergyValue",
     "label": [
@@ -8,12 +11,24 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "0debdd1a-1225-5138-945b-1bc8408fa06c",
-        "name": "1/J²",
-        "main_symbol": "1/J²"
-    }
+        "name": "/J²",
+        "main_symbol": "/J²",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "7ebf51e2-da82-51d6-9dcd-60f849028e2c",
+            "name": "/eV²",
+            "main_symbol": "/eV²",
+            "conversion_factor_to_main_unit": "2.56696996653557e-38"
+        },
+        {
+            "uuid": "cca24090-061c-59d2-b79a-f3b9e49586c7",
+            "name": "/GeV²",
+            "main_symbol": "/GeV²",
+            "conversion_factor_to_main_unit": "2.5669699665355698e-20"
+        }
+    ]
 }

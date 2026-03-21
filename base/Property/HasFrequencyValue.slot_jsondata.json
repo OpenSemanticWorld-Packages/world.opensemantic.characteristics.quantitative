@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "85b67bed-463e-5580-b322-155df712f352",
     "name": "HasFrequencyValue",
     "label": [
@@ -18,20 +21,72 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
-        "uuid": "b887ca2f-1646-5b46-9c10-5ee1ed5fa313",
-        "name": "Hz",
-        "main_symbol": "Hz"
+        "uuid": "ba96c477-fbee-5bdb-9534-101da129c20f",
+        "name": "Bq",
+        "main_symbol": "Bq",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
+        {
+            "uuid": "0d4cc051-f1cc-5b90-ae6a-18a3d81f330a",
+            "name": "PBq",
+            "main_symbol": "PBq",
+            "conversion_factor_to_main_unit": "1e-15"
+        },
+        {
+            "uuid": "c89815eb-515a-5e5c-9ef6-e10df8fd4095",
+            "name": "PHz",
+            "main_symbol": "PHz",
+            "conversion_factor_to_main_unit": "1e-15"
+        },
+        {
+            "uuid": "596f2ca1-2cf2-5c39-a016-7ab476060fe7",
+            "name": "TBq",
+            "main_symbol": "TBq",
+            "conversion_factor_to_main_unit": "1e-12"
+        },
+        {
+            "uuid": "0f69e61c-07d7-530f-b5dd-0372788d95d6",
+            "name": "THz",
+            "main_symbol": "THz",
+            "conversion_factor_to_main_unit": "1e-12"
+        },
+        {
+            "uuid": "ff1a6c17-bd55-5ff9-9104-f6e145fa492d",
+            "name": "GBq",
+            "main_symbol": "GBq",
+            "conversion_factor_to_main_unit": "1e-09"
+        },
+        {
+            "uuid": "238da487-5cb2-5e23-b05e-bbc479c3908e",
+            "name": "GHz",
+            "main_symbol": "GHz",
+            "conversion_factor_to_main_unit": "1e-09"
+        },
+        {
+            "uuid": "b397e2a1-f753-5582-b669-5bc360decebd",
+            "name": "MBq",
+            "main_symbol": "MBq",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
         {
             "uuid": "798c6805-95d8-50f5-8a6c-0b8f6689616e",
             "name": "MHz",
             "main_symbol": "MHz",
             "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "7f77389a-6f35-5c28-b57b-fdbe87f944e9",
+            "name": "/ms",
+            "main_symbol": "/ms",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "54cc5288-49b6-5282-b7db-bb73ab6b6fbf",
+            "name": "kBq",
+            "main_symbol": "kBq",
+            "conversion_factor_to_main_unit": "0.001"
         },
         {
             "uuid": "54908209-3ebe-523f-97bf-d6f9afa2a764",
@@ -40,16 +95,76 @@
             "conversion_factor_to_main_unit": "0.001"
         },
         {
-            "uuid": "238da487-5cb2-5e23-b05e-bbc479c3908e",
-            "name": "GHz",
-            "main_symbol": "GHz",
-            "conversion_factor_to_main_unit": "0.0"
+            "uuid": "9593f96d-f58b-5e0c-afc0-d73f4d9a545c",
+            "name": "/s",
+            "main_symbol": "/s",
+            "conversion_factor_to_main_unit": "1.0"
         },
         {
-            "uuid": "0f69e61c-07d7-530f-b5dd-0372788d95d6",
-            "name": "THz",
-            "main_symbol": "THz",
-            "conversion_factor_to_main_unit": "0.0"
+            "uuid": "b887ca2f-1646-5b46-9c10-5ee1ed5fa313",
+            "name": "Hz",
+            "main_symbol": "Hz",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "ed029f7b-5249-5dcf-b99e-d81c5bfee7a7",
+            "name": "/min",
+            "main_symbol": "/min",
+            "conversion_factor_to_main_unit": "60.0"
+        },
+        {
+            "uuid": "1422dcbc-48a8-5917-884d-adb2ffc2153e",
+            "name": "mBq",
+            "main_symbol": "mBq",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "a7032c05-237d-58cf-acec-505a5c5c4689",
+            "name": "mHz",
+            "main_symbol": "mHz",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "6ab641bf-544e-5e09-b9f9-ad4cf5f1a245",
+            "name": "/h",
+            "main_symbol": "/h",
+            "conversion_factor_to_main_unit": "3600.0"
+        },
+        {
+            "uuid": "94425fe8-c0a5-5196-bf2c-8f1a96776e50",
+            "name": "/d",
+            "main_symbol": "/d",
+            "conversion_factor_to_main_unit": "86400.0"
+        },
+        {
+            "uuid": "4b6ce965-0b2b-5e59-af4a-57314b9e2d95",
+            "name": "/wk",
+            "main_symbol": "/wk",
+            "conversion_factor_to_main_unit": "604800.0"
+        },
+        {
+            "uuid": "559c7ca4-fb14-50d0-8f89-9ceeca21a18a",
+            "name": "μBq",
+            "main_symbol": "μBq",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "2ee16722-9d1c-5662-9c6c-9ccf8618c0fd",
+            "name": "/mo",
+            "main_symbol": "/mo",
+            "conversion_factor_to_main_unit": "2551442.976"
+        },
+        {
+            "uuid": "17bcc40e-aea7-52d5-9be8-99ea1833d000",
+            "name": "/a",
+            "main_symbol": "/a",
+            "conversion_factor_to_main_unit": "31557600.000000004"
+        },
+        {
+            "uuid": "d14c3339-9f61-594a-b761-a83c5be386c2",
+            "name": "nBq",
+            "main_symbol": "nBq",
+            "conversion_factor_to_main_unit": "999999999.9999999"
         }
     ]
 }

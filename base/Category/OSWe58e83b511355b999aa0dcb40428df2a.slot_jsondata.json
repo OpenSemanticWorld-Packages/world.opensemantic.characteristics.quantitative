@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "e58e83b5-1135-5b99-9aa0-dcb40428df2a",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ThermodynamicEnergy"
     ],
+    "uuid": "e58e83b5-1135-5b99-9aa0-dcb40428df2a",
     "name": "ThermodynamicEnergy",
     "label": [
         {

@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "9b6dead1-d473-58a0-99b7-3ba6b309597e",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/InformationEntropy"
     ],
+    "uuid": "9b6dead1-d473-58a0-99b7-3ba6b309597e",
     "name": "InformationEntropy",
     "label": [
         {

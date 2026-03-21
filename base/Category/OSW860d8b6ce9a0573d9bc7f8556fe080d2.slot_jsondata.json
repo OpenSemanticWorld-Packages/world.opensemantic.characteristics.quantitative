@@ -1,0 +1,20 @@
+{
+    "type": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ComplexFrequency_Imaginary"
+    ],
+    "uuid": "860d8b6c-e9a0-573d-9bc7-f8556fe080d2",
+    "name": "ImaginaryPartOfComplexFrequency",
+    "label": [
+        {
+            "text": "Imaginary part of complex frequency",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWc543ebb853385a1a9382f57faad6170d"
+    ],
+    "quantity_property": "Property:HasImaginaryPartOfComplexFrequencyValue"
+}

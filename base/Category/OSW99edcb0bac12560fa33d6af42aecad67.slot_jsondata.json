@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "99edcb0b-ac12-560f-a33d-6af42aecad67",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/RelativePartialPressure"
     ],
+    "uuid": "99edcb0b-ac12-560f-a33d-6af42aecad67",
     "name": "RelativePartialPressure",
     "label": [
         {

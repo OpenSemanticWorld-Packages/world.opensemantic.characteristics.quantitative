@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "4f0b3f4a-40ad-5ffb-b492-a000abe2b30d",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/ElectricField",
-        "http://dbpedia.org/resource/Electric_field"
+        "http://dbpedia.org/resource/Electric_field",
+        "http://qudt.org/vocab/quantitykind/ElectricField"
     ],
+    "uuid": "4f0b3f4a-40ad-5ffb-b492-a000abe2b30d",
     "name": "ElectricField",
     "label": [
         {
@@ -35,9 +35,9 @@
             "symbol": "V/m"
         },
         {
-            "osw_id": "Item:OSWd855ce693a6d5d3d8bdf5846093ae4fb#OSW9315a6f234fa567497c5344f4360ac89",
-            "name": "kilo_volt_per_meter",
-            "symbol": "kV/m"
+            "osw_id": "Item:OSWd855ce693a6d5d3d8bdf5846093ae4fb#OSWe9e5b5d155c95fc9b3bc6f1ef6a63fa0",
+            "name": "micro_volt_per_meter",
+            "symbol": "μV/m"
         },
         {
             "osw_id": "Item:OSWd855ce693a6d5d3d8bdf5846093ae4fb#OSWed56aa34d47a55a5bb40bc28cd4b1533",
@@ -45,24 +45,24 @@
             "symbol": "mV/m"
         },
         {
+            "osw_id": "Item:OSW68aa46316f8b5bfc83102870e2c9c5b4",
+            "name": "volt_per_centi_meter",
+            "symbol": "V/cm"
+        },
+        {
             "osw_id": "Item:OSWd855ce693a6d5d3d8bdf5846093ae4fb#OSW5503cb893f635d3a955c6be99f588596",
             "name": "volt_per_milli_meter",
             "symbol": "V/mm"
         },
         {
-            "osw_id": "Item:OSWd855ce693a6d5d3d8bdf5846093ae4fb#OSWe9e5b5d155c95fc9b3bc6f1ef6a63fa0",
-            "name": "micro_volt_per_meter",
-            "symbol": "µV/m"
+            "osw_id": "Item:OSWd855ce693a6d5d3d8bdf5846093ae4fb#OSW9315a6f234fa567497c5344f4360ac89",
+            "name": "kilo_volt_per_meter",
+            "symbol": "kV/m"
         },
         {
             "osw_id": "Item:OSWd855ce693a6d5d3d8bdf5846093ae4fb#OSWac4536de9cb25c1db8f0eb9f66e3fa25",
             "name": "mega_volt_per_meter",
             "symbol": "MV/m"
-        },
-        {
-            "osw_id": "Item:OSWd855ce693a6d5d3d8bdf5846093ae4fb#OSW68aa46316f8b5bfc83102870e2c9c5b4",
-            "name": "volt_per_centi_meter",
-            "symbol": "V/cm"
         }
     ],
     "quantity_property": "Property:HasElectricFieldValue"

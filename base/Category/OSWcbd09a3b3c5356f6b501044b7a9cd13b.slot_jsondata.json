@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "cbd09a3b-3c53-56f6-b501-044b7a9cd13b",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/LinearThermalExpansion"
     ],
+    "uuid": "cbd09a3b-3c53-56f6-b501-044b7a9cd13b",
     "name": "LinearThermalExpansion",
     "label": [
         {
@@ -34,11 +34,6 @@
             "symbol": "m/K"
         },
         {
-            "osw_id": "Item:OSWb2550b7d752e505bb62ecc632d6c20f9#OSW3585b69d1b325a36918e362b36dcd2b9",
-            "name": "centi_meter_per_kelvin",
-            "symbol": "cm/K"
-        },
-        {
             "osw_id": "Item:OSWb2550b7d752e505bb62ecc632d6c20f9#OSW8aabb581b81c50b688909bbc187a92d1",
             "name": "micro_meter_per_kelvin",
             "symbol": "μm/K"
@@ -47,6 +42,11 @@
             "osw_id": "Item:OSWb2550b7d752e505bb62ecc632d6c20f9#OSW023c203283725c8b814a69dd13cfcb92",
             "name": "milli_meter_per_kelvin",
             "symbol": "mm/K"
+        },
+        {
+            "osw_id": "Item:OSWb2550b7d752e505bb62ecc632d6c20f9#OSW3585b69d1b325a36918e362b36dcd2b9",
+            "name": "centi_meter_per_kelvin",
+            "symbol": "cm/K"
         }
     ],
     "quantity_property": "Property:HasLinearThermalExpansionValue"

@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "a76d2144-0d01-543a-aa63-a7e8d97c0438",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/NormalizedDimensionlessRatio"
     ],
+    "uuid": "a76d2144-0d01-543a-aa63-a7e8d97c0438",
     "name": "PositiveDimensionlessRatio",
     "label": [
         {

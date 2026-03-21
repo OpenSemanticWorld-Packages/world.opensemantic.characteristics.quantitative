@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "f8e46376-1065-56cf-bbf2-7ebe2af14849",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MolarRefractivity"
     ],
+    "uuid": "f8e46376-1065-56cf-bbf2-7ebe2af14849",
     "name": "MolarRefractivity",
     "label": [
         {
@@ -34,14 +34,24 @@
             "symbol": "m³/mol"
         },
         {
-            "osw_id": "Item:OSW94bba2ee2f9a573eb5fa99c9331f1626#OSW90c99a00002b5483a1ac0638fdbe9078",
+            "osw_id": "Item:OSW90c99a00002b5483a1ac0638fdbe9078",
             "name": "centi_meter_cubed_per_mole",
             "symbol": "cm³/mol"
+        },
+        {
+            "osw_id": "Item:OSW7c8ab09f16b45f3f97f9a94ec65e99c8",
+            "name": "liter_per_mole",
+            "symbol": "L/mol"
         },
         {
             "osw_id": "Item:OSW94bba2ee2f9a573eb5fa99c9331f1626#OSW6eaa02f1d5ad581f97e7e017fab31412",
             "name": "deci_meter_cubed_per_mole",
             "symbol": "dm³/mol"
+        },
+        {
+            "osw_id": "Item:OSW7c8ab09f16b45f3f97f9a94ec65e99c8#OSW7c9edfad7fb251bc924f04d7074466e5",
+            "name": "liter_per_micro_mole",
+            "symbol": "L/μmol"
         }
     ],
     "quantity_property": "Property:HasMolarRefractivityValue"

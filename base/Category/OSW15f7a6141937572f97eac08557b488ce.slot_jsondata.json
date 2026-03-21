@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "15f7a614-1937-572f-97ea-c08557b488ce",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/SurfaceTension",
-        "https://si-digital-framework.org/SI/quantities/SUTE"
+        "https://si-digital-framework.org/quantities/SUTE"
     ],
+    "uuid": "15f7a614-1937-572f-97ea-c08557b488ce",
     "name": "SurfaceTension",
     "label": [
         {

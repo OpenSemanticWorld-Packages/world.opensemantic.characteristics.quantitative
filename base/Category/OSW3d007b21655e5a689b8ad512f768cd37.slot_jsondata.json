@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "3d007b21-655e-5a68-9b8a-d512f768cd37",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/BendingMomentOfForce",
-        "http://dbpedia.org/resource/Torque"
+        "http://dbpedia.org/resource/Torque",
+        "http://qudt.org/vocab/quantitykind/BendingMomentOfForce"
     ],
+    "uuid": "3d007b21-655e-5a68-9b8a-d512f768cd37",
     "name": "BendingMomentOfForce",
     "label": [
         {

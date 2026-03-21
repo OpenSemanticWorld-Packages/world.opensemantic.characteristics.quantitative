@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "cb348455-e271-512e-9daf-d64590f71d78",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/IsentropicCompressibility"
     ],
+    "uuid": "cb348455-e271-512e-9daf-d64590f71d78",
     "name": "IsentropicCompressibility",
     "label": [
         {
@@ -31,7 +31,12 @@
         {
             "osw_id": "Item:OSWf030abd4441d52a7a8c5f84950985ea4",
             "name": "per_pascal",
-            "symbol": "1/Pa"
+            "symbol": "/Pa"
+        },
+        {
+            "osw_id": "Item:OSWf030abd4441d52a7a8c5f84950985ea4#OSW76c7de3066ca5349bd8e252ca3e3ee95",
+            "name": "per_mega_pascal",
+            "symbol": "/MPa"
         }
     ],
     "quantity_property": "Property:HasIsentropicCompressibilityValue"

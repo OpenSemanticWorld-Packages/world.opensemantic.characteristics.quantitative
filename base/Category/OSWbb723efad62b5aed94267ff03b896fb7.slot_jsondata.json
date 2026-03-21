@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "bb723efa-d62b-5aed-9426-7ff03b896fb7",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/LuminousFluxRatio"
     ],
+    "uuid": "bb723efa-d62b-5aed-9426-7ff03b896fb7",
     "name": "LuminousFluxRatio",
     "label": [
         {

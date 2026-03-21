@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "67faac86-0ed7-5875-8aa4-484387e5d5c9",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/DimensionlessRatio"
     ],
+    "uuid": "67faac86-0ed7-5875-8aa4-484387e5d5c9",
     "name": "DimensionlessRatio",
     "label": [
         {

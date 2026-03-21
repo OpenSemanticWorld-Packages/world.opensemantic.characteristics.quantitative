@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "b9fc44a8-68dd-5936-9128-bda6e511507d",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/RadiusOfCurvature"
     ],
+    "uuid": "b9fc44a8-68dd-5936-9128-bda6e511507d",
     "name": "RadiusOfCurvature",
     "label": [
         {

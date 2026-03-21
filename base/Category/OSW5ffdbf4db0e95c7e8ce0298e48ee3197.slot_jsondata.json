@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "5ffdbf4d-b0e9-5c7e-8ce0-298e48ee3197",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ForcePerAreaTime"
     ],
+    "uuid": "5ffdbf4d-b0e9-5c7e-8ce0-298e48ee3197",
     "name": "ForcePerAreaTime",
     "label": [
         {
@@ -26,6 +26,21 @@
             "osw_id": "Item:OSWda81752da4a7532fb7d5790cd2e41a1c",
             "name": "pascal_per_second",
             "symbol": "Pa/s"
+        },
+        {
+            "osw_id": "Item:OSW1e6dd22fb3e050989adb41d7b5d18290",
+            "name": "pascal_per_hour",
+            "symbol": "Pa/h"
+        },
+        {
+            "osw_id": "Item:OSWf4452162e5755f7c97126a47cf4761f9",
+            "name": "pascal_per_minute",
+            "symbol": "Pa/min"
+        },
+        {
+            "osw_id": "Item:OSWa20659300e43557db5c37f3b8e8532b5",
+            "name": "hecto_pascal_per_hour",
+            "symbol": "hPa/h"
         }
     ],
     "quantity_property": "Property:HasForcePerAreaTimeValue"

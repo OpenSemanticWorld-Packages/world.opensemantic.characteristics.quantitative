@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "cb024afe-b31e-5a9a-bdb9-f48b2ccb6983",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/InitialNozzleThroatDiameter"
     ],
+    "uuid": "cb024afe-b31e-5a9a-bdb9-f48b2ccb6983",
     "name": "InitialNozzleThroatDiameter",
     "label": [
         {

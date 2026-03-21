@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "86c3f68d-7ec7-5c2d-b43f-202e9764eb8a",
     "name": "HasTemperatureAmountOfSubstanceValue",
     "label": [
@@ -8,12 +11,18 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
-        "uuid": "1b9bf4a8-458c-575f-b18c-6eb913963ebe",
-        "name": "mol·°C",
-        "main_symbol": "mol·°C"
-    }
+        "uuid": "554514e1-286d-5dc8-bf08-7aa39a9d9ca3",
+        "name": "mol·K",
+        "main_symbol": "mol·K",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "1b9bf4a8-458c-575f-b18c-6eb913963ebe",
+            "name": "mol·°C",
+            "main_symbol": "mol·°C",
+            "conversion_factor_to_main_unit": "1.0"
+        }
+    ]
 }

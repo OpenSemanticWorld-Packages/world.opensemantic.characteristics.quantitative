@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "364dc304-7ad8-52c2-bbee-26d77fb270ab",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ColdReceptorThreshold"
     ],
+    "uuid": "364dc304-7ad8-52c2-bbee-26d77fb270ab",
     "name": "ColdReceptorThreshold",
     "label": [
         {

@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "2272bdc4-15e0-5bbb-9b02-fa671720897e",
     "name": "HasAreaPerHeatingLoadValue",
     "label": [
@@ -18,13 +21,11 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "a3a1394f-7311-5469-ae9f-4cd5fd259b3b",
         "name": "m²/W",
-        "main_symbol": "m²/W"
+        "main_symbol": "m²/W",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
         {

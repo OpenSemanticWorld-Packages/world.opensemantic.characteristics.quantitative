@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "40c53544-9288-505c-b9bd-50a76307e6fb",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/DRY-MASS"
     ],
+    "uuid": "40c53544-9288-505c-b9bd-50a76307e6fb",
     "name": "DryMass",
     "label": [
         {

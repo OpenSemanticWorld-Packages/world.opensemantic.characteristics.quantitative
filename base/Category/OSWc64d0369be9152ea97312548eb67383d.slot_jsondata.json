@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "c64d0369-be91-52ea-9731-2548eb67383d",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/VolumePerArea"
     ],
+    "uuid": "c64d0369-be91-52ea-9731-2548eb67383d",
     "name": "VolumePerUnitArea",
     "label": [
         {
@@ -26,6 +26,11 @@
             "osw_id": "Item:OSWa2c814499650570090ea4ac058c81e3b",
             "name": "meter",
             "symbol": "m³/m²"
+        },
+        {
+            "osw_id": "Item:OSW4e5bc87db9e65426a3fa4b62dc22dcb4",
+            "name": "meter_cubed_per_hectare",
+            "symbol": "m³/ha"
         }
     ],
     "quantity_property": "Property:HasVolumePerUnitAreaValue"

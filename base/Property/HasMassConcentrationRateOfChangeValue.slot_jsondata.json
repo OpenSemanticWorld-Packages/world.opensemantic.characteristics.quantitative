@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "ee02dda5-4c5f-566e-bddd-e37f219c9c27",
     "name": "HasMassConcentrationRateOfChangeValue",
     "label": [
@@ -14,12 +17,10 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "6a4fa9ba-3afc-5049-bfe9-26eda63cf878",
         "name": "μg/(L·d)",
-        "main_symbol": "μg/(L·d)"
+        "main_symbol": "μg/(L·d)",
+        "conversion_factor_to_main_unit": "1.0"
     }
 }

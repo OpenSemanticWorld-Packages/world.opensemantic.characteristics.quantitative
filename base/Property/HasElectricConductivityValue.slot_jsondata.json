@@ -1,0 +1,104 @@
+{
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "uuid": "e4b29c14-19f0-533d-a304-89fc827112dd",
+    "name": "HasElectricConductivityValue",
+    "label": [
+        {
+            "text": "Electric conductivity",
+            "lang": "en"
+        },
+        {
+            "text": "Elektrische Leitfähigkeit",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The quantity kind $\\textit{Electric Conductivity}$ or $\\textit{Specific Conductance}$ is a measure of a material's ability to conduct an electric current. \n  When an electrical potential difference is placed across a conductor, its movable charges flow, giving rise to an electric current. \n  The conductivity $\\sigma$ is defined as the ratio of the electric current density $J$ to the electric field, $E$: $J = \\sigma E$. \n  In isotropic materials, conductivity is scalar-valued, however in general, conductivity is a tensor-valued quantity.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "main_unit": {
+        "uuid": "5e024994-a121-5292-bd54-e5315657b959",
+        "name": "S/m",
+        "main_symbol": "S/m",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "45836c06-3e69-5c1c-bfb8-c2c5efa6f933",
+            "name": "MS/m",
+            "main_symbol": "MS/m",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "a2356955-a178-5509-9151-62a20b3d70bd",
+            "name": "kS/m",
+            "main_symbol": "kS/m",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "150f571b-3ed7-5d0f-9355-9d74c80424cb",
+            "name": "S/cm",
+            "main_symbol": "S/cm",
+            "conversion_factor_to_main_unit": "0.01"
+        },
+        {
+            "uuid": "aeb8f7e2-f861-55f3-aa39-2a76d181cb49",
+            "name": "dS/m",
+            "main_symbol": "dS/m",
+            "conversion_factor_to_main_unit": "10.0"
+        },
+        {
+            "uuid": "03e008ef-d5cb-51a0-9e74-5012e63687b3",
+            "name": "mS/cm",
+            "main_symbol": "mS/cm",
+            "conversion_factor_to_main_unit": "10.0"
+        },
+        {
+            "uuid": "8e877e4e-cd77-591e-881a-d32287232464",
+            "name": "mS/m",
+            "main_symbol": "mS/m",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "5c925b67-8c2c-573b-99c2-04ccd894e2be",
+            "name": "μS/cm",
+            "main_symbol": "μS/cm",
+            "conversion_factor_to_main_unit": "10000.0"
+        },
+        {
+            "uuid": "bea8fef6-5cf8-59f8-9787-57561bd740df",
+            "name": "μS/m",
+            "main_symbol": "μS/m",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "a3191ac6-1576-53aa-b411-661e3b6d97dc",
+            "name": "nS/cm",
+            "main_symbol": "nS/cm",
+            "conversion_factor_to_main_unit": "10000000.0"
+        },
+        {
+            "uuid": "7732d14c-0f9c-56d2-a084-00a57096c388",
+            "name": "nS/m",
+            "main_symbol": "nS/m",
+            "conversion_factor_to_main_unit": "999999999.9999999"
+        },
+        {
+            "uuid": "b426be6e-7217-5d1d-a9de-b3ca1896443e",
+            "name": "stat℧",
+            "main_symbol": "stat℧",
+            "conversion_factor_to_main_unit": "898755178699.3524"
+        },
+        {
+            "uuid": "d022f8f2-7f3d-545a-a349-adab87e237a5",
+            "name": "pS/m",
+            "main_symbol": "pS/m",
+            "conversion_factor_to_main_unit": "1000000000000.0"
+        }
+    ]
+}

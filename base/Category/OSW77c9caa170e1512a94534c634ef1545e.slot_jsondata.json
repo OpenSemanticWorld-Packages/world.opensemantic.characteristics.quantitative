@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "77c9caa1-70e1-512a-9453-4c634ef1545e",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/DynamicFriction",
-        "http://dbpedia.org/resource/Friction"
+        "http://dbpedia.org/resource/Friction",
+        "http://qudt.org/vocab/quantitykind/DynamicFriction"
     ],
+    "uuid": "77c9caa1-70e1-512a-9453-4c634ef1545e",
     "name": "DynamicFriction",
     "label": [
         {

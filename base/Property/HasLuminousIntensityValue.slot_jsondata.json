@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "b04b7ed3-0f32-596e-938b-dd3a8e324af9",
     "name": "HasLuminousIntensityValue",
     "label": [
@@ -18,12 +21,24 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "b2b784e4-8f04-5c8c-864f-2a7bcdd56db2",
         "name": "cd",
-        "main_symbol": "cd"
-    }
+        "main_symbol": "cd",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "87d8a9ff-3a08-54da-b943-5f287db94daf",
+            "name": "kcd",
+            "main_symbol": "kcd",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "87cca355-e213-5869-8a3f-5211c110cc90",
+            "name": "mcd",
+            "main_symbol": "mcd",
+            "conversion_factor_to_main_unit": "1000.0"
+        }
+    ]
 }

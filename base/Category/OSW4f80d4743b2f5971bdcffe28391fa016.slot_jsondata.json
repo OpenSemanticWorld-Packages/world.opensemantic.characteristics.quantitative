@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "4f80d474-3b2f-5971-bdcf-fe28391fa016",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ForceMagnitude"
     ],
+    "uuid": "4f80d474-3b2f-5971-bdcf-fe28391fa016",
     "name": "ForceMagnitude",
     "label": [
         {

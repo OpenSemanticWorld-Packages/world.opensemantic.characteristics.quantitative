@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "1397ec65-62ae-5659-b527-a5d3738756c7",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/TrueExhaustVelocity"
     ],
+    "uuid": "1397ec65-62ae-5659-b527-a5d3738756c7",
     "name": "TrueExhaustVelocity",
     "label": [
         {

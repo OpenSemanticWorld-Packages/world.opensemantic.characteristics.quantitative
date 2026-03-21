@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
     "uuid": "3f10e1a3-34f3-57b0-beda-229991ecb0af",
     "name": "HasMagnetizationValue",
     "label": [
@@ -19,8 +22,5 @@
     ],
     "property_type": "Quantity",
     "subproperty_of": "Property:HasLinearElectricCurrentValue",
-    "type": [
-        "Category:OSW69f251a900944602a08d1cca830249b5"
-    ],
-    "base_property": "Property:HasLinearElectricCurrentDensityValue"
+    "base_property": "Property:HasLinearElectricCurrentValue"
 }

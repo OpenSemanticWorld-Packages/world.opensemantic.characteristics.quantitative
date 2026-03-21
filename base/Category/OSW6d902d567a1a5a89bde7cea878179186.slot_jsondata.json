@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "6d902d56-7a1a-5a89-bde7-cea878179186",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MagneticDipoleMoment"
     ],
+    "uuid": "6d902d56-7a1a-5a89-bde7-cea878179186",
     "name": "MagneticDipoleMoment",
     "label": [
         {
@@ -26,8 +26,13 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW19a5a65be8795055953dfaddf46a281d",
-    "default_unit": "Item:OSW164f2a6f077a564c914320ff303d09e8",
+    "default_unit": "Item:OSW1dc20a37e0825e1bb5b5067ab54a4943",
     "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW1dc20a37e0825e1bb5b5067ab54a4943",
+            "name": "meter_weber",
+            "symbol": "Wb·m"
+        },
         {
             "osw_id": "Item:OSW164f2a6f077a564c914320ff303d09e8",
             "name": "meter_squared_newton_per_ampere",

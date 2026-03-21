@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "b089f9b2-eb21-5b62-bdaf-c428e1c463d6",
     "name": "HasLuminousEfficacyValue",
     "label": [
@@ -14,12 +17,10 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "3c49dd3f-cd5d-55e3-b148-f95cab9bc72a",
         "name": "lm/W",
-        "main_symbol": "lm/W"
+        "main_symbol": "lm/W",
+        "conversion_factor_to_main_unit": "1.0"
     }
 }

@@ -1,0 +1,41 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LogarithmicFrequencyInterval"
+    ],
+    "uuid": "ebd21870-684d-59d8-9565-9eef19e04241",
+    "name": "LogarithmicFrequencyInterval",
+    "label": [
+        {
+            "text": "Logarithmic frequency interval",
+            "lang": "en"
+        },
+        {
+            "text": "Frequenzmaßintervall",
+            "lang": "de"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW06a8244fb6d754ba8b4951ffec3219df",
+    "default_unit": "Item:OSWc72c8e13779050d1a5512740a9a12112",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWc72c8e13779050d1a5512740a9a12112",
+            "name": "unitless",
+            "symbol": "一"
+        },
+        {
+            "osw_id": "Item:OSWcaa6954009345f4b9678045af4538006",
+            "name": "octave",
+            "symbol": "octave"
+        }
+    ],
+    "quantity_property": "Property:HasLogarithmicFrequencyIntervalValue"
+}

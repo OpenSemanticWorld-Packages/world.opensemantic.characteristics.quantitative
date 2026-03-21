@@ -1,0 +1,22 @@
+{
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "uuid": "18c32c32-b14d-531c-9ef6-ae7da6b78da8",
+    "name": "HasOctanolAirPartitionCoefficientValue",
+    "label": [
+        {
+            "text": "Octanol Air Partition Coefficient",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A dimensionless ratio that is the logarithm of the ratio of a compound's concentration within a two phase mixture of liquid octanol and gaseous air at equilibrium.  More simply, it is a comparison of the solubilities of the compound solute in these two immiscible substances.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasDimensionlessRatioValue",
+    "base_property": "Property:HasDimensionlessRatioValue"
+}

@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "815fd908-9afe-56a9-9cdf-0e0ca0c04543",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ActivityConcentration"
     ],
+    "uuid": "815fd908-9afe-56a9-9cdf-0e0ca0c04543",
     "name": "ActivityConcentration",
     "label": [
         {
@@ -32,6 +32,26 @@
             "osw_id": "Item:OSWd3720cbbb37c5c1698a8570b837b5af9",
             "name": "becquerel_per_meter_cubed",
             "symbol": "Bq/m³"
+        },
+        {
+            "osw_id": "Item:OSW0ac5a24d69075e4580b88126796660ea",
+            "name": "nano_becquerel_per_liter",
+            "symbol": "nBq/L"
+        },
+        {
+            "osw_id": "Item:OSWea37c5022a28551089380a9351fb06a6",
+            "name": "micro_becquerel_per_liter",
+            "symbol": "μBq/L"
+        },
+        {
+            "osw_id": "Item:OSW5ca6e9dcc49f53d6921db368597bdc2a",
+            "name": "milli_becquerel_per_liter",
+            "symbol": "mBq/L"
+        },
+        {
+            "osw_id": "Item:OSWbb252cb7b9505d5c9369be8da21e274d",
+            "name": "becquerel_per_liter",
+            "symbol": "Bq/L"
         }
     ],
     "quantity_property": "Property:HasActivityConcentrationValue"

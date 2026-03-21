@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "88618e52-ad3d-52b2-9691-e922a39a0e63",
     "name": "HasMassPerEnergyValue",
     "label": [
@@ -14,12 +17,18 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "96514e46-e0b6-5a3c-ac24-6d6966a4f58d",
         "name": "kg/J",
-        "main_symbol": "kg/J"
-    }
+        "main_symbol": "kg/J",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "a7d46776-09b2-5066-a245-fb48b2c4db0f",
+            "name": "kg/GJ",
+            "main_symbol": "kg/GJ",
+            "conversion_factor_to_main_unit": "999999999.9999999"
+        }
+    ]
 }

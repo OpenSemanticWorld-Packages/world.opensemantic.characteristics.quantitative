@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "15c4097e-d256-572c-97e7-a1dbbfb154dd",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ForcePerAngle"
     ],
+    "uuid": "15c4097e-d256-572c-97e7-a1dbbfb154dd",
     "name": "ForcePerAngle",
     "label": [
         {

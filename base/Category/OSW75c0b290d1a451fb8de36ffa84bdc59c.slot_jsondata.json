@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "75c0b290-d1a4-51fb-8de3-6ffa84bdc59c",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/MoleFraction",
-        "http://dbpedia.org/resource/Mole_fraction"
+        "http://dbpedia.org/resource/Mole_fraction",
+        "http://qudt.org/vocab/quantitykind/MoleFraction"
     ],
+    "uuid": "75c0b290-d1a4-51fb-8de3-6ffa84bdc59c",
     "name": "MoleFraction",
     "label": [
         {

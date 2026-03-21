@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "1b09e424-8a12-5246-8c82-13a883656ffa",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/NeutronDiffusionLength"
     ],
+    "uuid": "1b09e424-8a12-5246-8c82-13a883656ffa",
     "name": "NeutronDiffusionLength",
     "label": [
         {

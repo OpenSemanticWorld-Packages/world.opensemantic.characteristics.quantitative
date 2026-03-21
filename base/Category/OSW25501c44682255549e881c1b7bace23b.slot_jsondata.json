@@ -1,0 +1,27 @@
+{
+    "type": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "close_ontology_match": [
+        "http://dbpedia.org/resource/Molecular_mass",
+        "http://qudt.org/vocab/quantitykind/MolecularMass"
+    ],
+    "uuid": "25501c44-6822-5554-9e88-1c1b7bace23b",
+    "name": "MolecularMass",
+    "label": [
+        {
+            "text": "Molecular Mass",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The molecular mass, or molecular weight of a chemical compound is the mass of one molecule of that compound, relative to the unified atomic mass unit, u. Molecular mass should not be confused with molar mass, which is the mass of one mole of a substance.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWe9be062de2d15d10891397a18212f920"
+    ],
+    "quantity_property": "Property:HasMolecularMassValue"
+}

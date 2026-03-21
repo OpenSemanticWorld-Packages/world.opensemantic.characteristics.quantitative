@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "24835ab7-a21e-5b5e-a041-a2839691c147",
     "name": "HasLinearThermalExpansionValue",
     "label": [
@@ -14,13 +17,11 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "d972a69d-5234-548b-ac97-a3a03f7d2507",
         "name": "m/K",
-        "main_symbol": "m/K"
+        "main_symbol": "m/K",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
         {
@@ -30,16 +31,16 @@
             "conversion_factor_to_main_unit": "100.0"
         },
         {
-            "uuid": "243414ad-7234-5d06-a37f-bc2f57bf33c5",
-            "name": "μm/K",
-            "main_symbol": "μm/K",
-            "conversion_factor_to_main_unit": "1000000.0"
-        },
-        {
             "uuid": "dff0d74e-8910-5d9e-bb7b-57f0bd7343b0",
             "name": "mm/K",
             "main_symbol": "mm/K",
             "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "243414ad-7234-5d06-a37f-bc2f57bf33c5",
+            "name": "μm/K",
+            "main_symbol": "μm/K",
+            "conversion_factor_to_main_unit": "1000000.0"
         }
     ]
 }

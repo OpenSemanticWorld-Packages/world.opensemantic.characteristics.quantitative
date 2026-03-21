@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "f8e82967-34a7-59de-b817-315f69a78fb9",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Width"
     ],
+    "uuid": "f8e82967-34a7-59de-b817-315f69a78fb9",
     "name": "Width",
     "label": [
         {

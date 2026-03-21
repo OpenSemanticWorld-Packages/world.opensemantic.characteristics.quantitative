@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "bcaa33bd-770e-53e0-9d5e-6087d141648b",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/Dimensionless",
-        "http://dbpedia.org/resource/Dimensionless_quantity"
+        "http://dbpedia.org/resource/Dimensionless_quantity",
+        "http://qudt.org/vocab/quantitykind/Dimensionless"
     ],
+    "uuid": "bcaa33bd-770e-53e0-9d5e-6087d141648b",
     "name": "Dimensionless",
     "label": [
         {
@@ -31,7 +31,58 @@
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW5d3fe58ebbac5483bad8904ff8811366",
+            "name": "number",
             "symbol": "#"
+        },
+        {
+            "osw_id": "Item:OSW913bed1faa625f229f4db01de7ffb322",
+            "name": "neper",
+            "symbol": "Np"
+        },
+        {
+            "osw_id": "Item:OSW06f8af4e54ad53928a97bbea7c1ad93f",
+            "name": "dec",
+            "symbol": "dec"
+        },
+        {
+            "osw_id": "Item:OSWcaa6954009345f4b9678045af4538006",
+            "name": "octave",
+            "symbol": "octave"
+        },
+        {
+            "osw_id": "Item:OSWf35642a6684951daac8610e582c9c3e3",
+            "name": "COUNT",
+            "symbol": "COUNT"
+        },
+        {
+            "osw_id": "Item:OSW9ba16cb7f86552fea157915b5edc38e0",
+            "name": "point",
+            "symbol": "bp"
+        },
+        {
+            "osw_id": "Item:OSW9d5bb5f52f115671bbb3d915950b1798",
+            "name": "flight",
+            "symbol": "flight"
+        },
+        {
+            "osw_id": "Item:OSW0be74caefba456f59dd6a5dd26d5b71d",
+            "name": "heartbeat",
+            "symbol": "heartbeat"
+        },
+        {
+            "osw_id": "Item:OSWeaf4fef0eec25f09b6d851cd90f571a3",
+            "name": "unknown",
+            "symbol": "χ"
+        },
+        {
+            "osw_id": "Item:OSWc72c8e13779050d1a5512740a9a12112",
+            "name": "unitless",
+            "symbol": "一"
+        },
+        {
+            "osw_id": "Item:OSW9ba16cb7f86552fea157915b5edc38e0#OSWceaad9b0ddf75bf49abc5335b3b688c5",
+            "name": "giga_point",
+            "symbol": "Gbp"
         }
     ],
     "quantity_property": "Property:HasDimensionlessValue"

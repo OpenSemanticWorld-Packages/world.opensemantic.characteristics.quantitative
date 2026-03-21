@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "877daca6-abe5-5171-adc9-c6f0ae1ac011",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/Enthalpy",
-        "http://dbpedia.org/resource/Enthalpy"
+        "http://dbpedia.org/resource/Enthalpy",
+        "http://qudt.org/vocab/quantitykind/Enthalpy"
     ],
+    "uuid": "877daca6-abe5-5171-adc9-c6f0ae1ac011",
     "name": "Enthalpy",
     "label": [
         {

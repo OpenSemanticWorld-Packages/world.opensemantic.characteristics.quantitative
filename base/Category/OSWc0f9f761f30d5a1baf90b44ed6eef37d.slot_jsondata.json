@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "c0f9f761-f30d-5a1b-af90-b44ed6eef37d",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/AmountOfSubstanceIonConcentration"
     ],
+    "uuid": "c0f9f761-f30d-5a1b-af90-b44ed6eef37d",
     "name": "IonConcentration",
     "label": [
         {

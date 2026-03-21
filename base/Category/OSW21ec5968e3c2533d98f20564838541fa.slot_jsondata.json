@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "21ec5968-e3c2-533d-98f2-0564838541fa",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MolarEnergy",
-        "https://si-digital-framework.org/SI/quantities/MOEG"
+        "https://si-digital-framework.org/quantities/MOEG"
     ],
+    "uuid": "21ec5968-e3c2-533d-98f2-0564838541fa",
     "name": "MolarEnergy",
     "label": [
         {

@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "5122a55a-f3b8-5b71-ade8-12a0b7e8c1c4",
     "name": "HasMolarFluxDensityValue",
     "label": [
@@ -14,13 +17,11 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "08d840f8-1838-5e2d-bcb9-c7e84869f0f4",
         "name": "mol/(m²·s)",
-        "main_symbol": "mol/(m²·s)"
+        "main_symbol": "mol/(m²·s)",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
         {
@@ -34,6 +35,24 @@
             "name": "μmol/(m²·s)",
             "main_symbol": "μmol/(m²·s)",
             "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "b0864921-62c9-56c0-84a2-3bd6ee640d58",
+            "name": "mmol/(m²·h)",
+            "main_symbol": "mmol/(m²·h)",
+            "conversion_factor_to_main_unit": "3600000.0000000005"
+        },
+        {
+            "uuid": "493dde2e-f9c3-5164-a837-ec406389f934",
+            "name": "nmol/(m²·s)",
+            "main_symbol": "nmol/(m²·s)",
+            "conversion_factor_to_main_unit": "999999999.9999999"
+        },
+        {
+            "uuid": "cbec4c6f-9bb7-5ba3-b8e6-76651b418f4b",
+            "name": "μmol/(m²·h)",
+            "main_symbol": "μmol/(m²·h)",
+            "conversion_factor_to_main_unit": "3600000000.0"
         }
     ]
 }

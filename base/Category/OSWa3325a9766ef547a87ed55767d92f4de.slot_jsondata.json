@@ -1,0 +1,38 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/CouplingFactor"
+    ],
+    "uuid": "a3325a97-66ef-547a-87ed-55767d92f4de",
+    "name": "CouplingFactor",
+    "label": [
+        {
+            "text": "Coupling factor",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Coupling Factor\" is the ratio of an electromagnetic quantity, usually voltage or current, appearing at a specified location of a given circuit to the corresponding quantity at a specified location in the circuit from which energy is transferred by coupling.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW51852f1016475cb3998ca4f6f5f5cb5b",
+    "default_unit": "Item:OSWc72c8e13779050d1a5512740a9a12112",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWc72c8e13779050d1a5512740a9a12112",
+            "name": "unitless",
+            "symbol": "一"
+        }
+    ],
+    "quantity_property": "Property:HasCouplingFactorValue"
+}

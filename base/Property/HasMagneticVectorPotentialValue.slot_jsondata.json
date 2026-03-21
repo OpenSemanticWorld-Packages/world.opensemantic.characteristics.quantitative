@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "c9b2c5de-2b89-5750-8efa-540996fd9344",
     "name": "HasMagneticVectorPotentialValue",
     "label": [
@@ -18,12 +21,30 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
-        "uuid": "662ccac8-2551-5bc0-9025-cf04fda117d6",
-        "name": "V·s/m",
-        "main_symbol": "V·s/m"
-    }
+        "uuid": "4f3b23c2-7986-5ad7-83a7-97061f3c0aec",
+        "name": "Wb/m",
+        "main_symbol": "Wb/m",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "ce3a2fe5-a307-5044-83f4-3ef9acc682a0",
+            "name": "Wb/mm",
+            "main_symbol": "Wb/mm",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "ed305a4c-ec3b-5853-8333-47ec1b3025a6",
+            "name": "kWb/m",
+            "main_symbol": "kWb/m",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "662ccac8-2551-5bc0-9025-cf04fda117d6",
+            "name": "V·s/m",
+            "main_symbol": "V·s/m",
+            "conversion_factor_to_main_unit": "1.0"
+        }
+    ]
 }

@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "00c10a25-00cf-59fd-bfaf-48764629b35d",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/FlightPathAngle"
     ],
+    "uuid": "00c10a25-00cf-59fd-bfaf-48764629b35d",
     "name": "FlightPathAngle",
     "label": [
         {

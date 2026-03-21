@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "4d874af9-9365-59b7-8d83-ee715d4a0c78",
     "name": "HasSpecificModulusValue",
     "label": [
@@ -14,15 +17,19 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "aed1d8d6-9321-5acc-858c-151846ba249b",
         "name": "m²/s²",
-        "main_symbol": "m²/s²"
+        "main_symbol": "m²/s²",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
+        {
+            "uuid": "c7010257-3d3c-5b34-90ea-75bf0472f8c4",
+            "name": "GPa·cm³/g",
+            "main_symbol": "GPa·cm³/g",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
         {
             "uuid": "2adfd339-e7d7-5546-b825-d18ce155a586",
             "name": "km²/s²",

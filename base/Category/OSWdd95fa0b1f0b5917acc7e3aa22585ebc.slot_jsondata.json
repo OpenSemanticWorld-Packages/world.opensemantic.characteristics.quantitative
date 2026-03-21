@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "dd95fa0b-1f0b-5917-acc7-e3aa22585ebc",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/InversePressure"
     ],
+    "uuid": "dd95fa0b-1f0b-5917-acc7-e3aa22585ebc",
     "name": "InversePressure",
     "label": [
         {
@@ -25,7 +25,12 @@
         {
             "osw_id": "Item:OSWf030abd4441d52a7a8c5f84950985ea4",
             "name": "per_pascal",
-            "symbol": "1/Pa"
+            "symbol": "/Pa"
+        },
+        {
+            "osw_id": "Item:OSWf030abd4441d52a7a8c5f84950985ea4#OSW76c7de3066ca5349bd8e252ca3e3ee95",
+            "name": "per_mega_pascal",
+            "symbol": "/MPa"
         }
     ],
     "quantity_property": "Property:HasInversePressureValue"

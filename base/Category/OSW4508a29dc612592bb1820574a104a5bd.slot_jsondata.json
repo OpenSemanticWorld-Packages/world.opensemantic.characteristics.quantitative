@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/GrandCanonicalPartitionFunction"
+    ],
+    "uuid": "4508a29d-c612-592b-b182-0574a104a5bd",
+    "name": "GrandCanonicalPartitionFunction",
+    "label": [
+        {
+            "text": "Grand Canonical Partition Function",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "An \"Grand Canonical Partition Function\" for a grand canonical ensemble, a system that can exchange both heat and particles with the environment, which has a constant temperature and a chemical potential.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWbb31e94e7ec453588382368a9a40c134"
+    ],
+    "quantity_property": "Property:HasGrandCanonicalPartitionFunctionValue"
+}

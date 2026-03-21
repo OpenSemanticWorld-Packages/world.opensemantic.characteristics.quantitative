@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "65e17bde-2f03-5ec6-9048-475919803551",
     "name": "HasWarpingMomentValue",
     "label": [
@@ -14,13 +17,11 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "bf2a944e-911c-5725-a233-d663982ab325",
         "name": "N·m²",
-        "main_symbol": "N·m²"
+        "main_symbol": "N·m²",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
         {

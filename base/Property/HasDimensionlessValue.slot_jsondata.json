@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "e98c4201-fd17-5acc-a7d1-946b5323fe13",
     "name": "HasDimensionlessValue",
     "label": [
@@ -14,12 +17,54 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
-        "uuid": "8f61e972-498f-51b6-9c88-bc54fee65fed",
-        "name": "#",
-        "main_symbol": "#"
-    }
+        "uuid": "909d22ac-d9ea-52ef-93a7-a1fffbae3b69",
+        "name": "heartbeat",
+        "main_symbol": "heartbeat",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "e40d94e5-4eb0-53a4-be3b-0b472a614053",
+            "name": "Gbp",
+            "main_symbol": "Gbp",
+            "conversion_factor_to_main_unit": "1e-09"
+        },
+        {
+            "uuid": "8f61e972-498f-51b6-9c88-bc54fee65fed",
+            "name": "#",
+            "main_symbol": "#",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "d963b32f-1dbe-5b82-ba0e-ade82ffceb73",
+            "name": "COUNT",
+            "main_symbol": "COUNT",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "85fbf0a1-12d2-55c0-9a79-046a70683317",
+            "name": "bp",
+            "main_symbol": "bp",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "ff5fe340-1ed5-589f-a6d9-0089b5c607eb",
+            "name": "flight",
+            "main_symbol": "flight",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "bd836ca7-a38d-56b8-872e-83157ca05d3d",
+            "name": "χ",
+            "main_symbol": "χ",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "4411f5ca-371f-5a11-91c7-0ca80634c8f5",
+            "name": "一",
+            "main_symbol": "一",
+            "conversion_factor_to_main_unit": "1.0"
+        }
+    ]
 }

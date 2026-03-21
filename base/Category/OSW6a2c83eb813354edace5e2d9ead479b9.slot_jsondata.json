@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "6a2c83eb-8133-54ed-ace5-e2d9ead479b9",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Action"
     ],
+    "uuid": "6a2c83eb-8133-54ed-ace5-e2d9ead479b9",
     "name": "Action",
     "label": [
         {
@@ -34,7 +34,7 @@
             "symbol": "J·s"
         },
         {
-            "osw_id": "Item:OSWf045a04750e15ea2b152fb3bfebf162a#OSW3eaa66dd20f856fe9a5c4199bc0a1ea4",
+            "osw_id": "Item:OSW3eaa66dd20f856fe9a5c4199bc0a1ea4",
             "name": "atto_joule_second",
             "symbol": "aJ·s"
         }

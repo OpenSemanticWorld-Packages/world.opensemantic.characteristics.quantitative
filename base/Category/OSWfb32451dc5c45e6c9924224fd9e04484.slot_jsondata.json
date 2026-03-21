@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/GrowingDegreeDay_Cereal"
+    ],
+    "uuid": "fb32451d-c5c4-5e6c-9924-224fd9e04484",
+    "name": "GrowingDegreeDaysCereals",
+    "label": [
+        {
+            "text": "Growing Degree Days (Cereals)",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The sum of excess temperature over 5.5°C, where the temperature is the mean of the minimum and maximum atmospheric temperature in a day. This measure is appropriate for most cereal crops.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW6f81fb79192f50e280ee1ff5dd724f01"
+    ],
+    "quantity_property": "Property:HasGrowingDegreeDaysCerealsValue"
+}

@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "9cb88f0c-3394-51c5-9ecf-9587128ee4b5",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MassicActivity"
     ],
+    "uuid": "9cb88f0c-3394-51c5-9ecf-9587128ee4b5",
     "name": "MassicActivity",
     "label": [
         {
@@ -34,14 +34,19 @@
             "symbol": "Bq/kg"
         },
         {
-            "osw_id": "Item:OSW03b25e9a7cef5adeb7f3d5f82115dfc3#OSWc896c96c6de8521181daee0118de2c5b",
+            "osw_id": "Item:OSW23b3668ed7d3501da40aaa0a4e9f765e",
+            "name": "micro_becquerel_per_kilo_gram",
+            "symbol": "μBq/kg"
+        },
+        {
+            "osw_id": "Item:OSWc896c96c6de8521181daee0118de2c5b",
             "name": "milli_becquerel_per_kilo_gram",
             "symbol": "mBq/kg"
         },
         {
-            "osw_id": "Item:OSW03b25e9a7cef5adeb7f3d5f82115dfc3#OSW23b3668ed7d3501da40aaa0a4e9f765e",
-            "name": "micro_becquerel_per_kilo_gram",
-            "symbol": "μBq/kg"
+            "osw_id": "Item:OSW61b56e415cbf5e3a8db61be70c246153",
+            "name": "milli_becquerel_per_gram",
+            "symbol": "mBq/g"
         }
     ],
     "quantity_property": "Property:HasMassicActivityValue"

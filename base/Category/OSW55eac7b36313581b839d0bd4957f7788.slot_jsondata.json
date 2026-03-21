@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "55eac7b3-6313-581b-839d-0bd4957f7788",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Vorticity"
     ],
+    "uuid": "55eac7b3-6313-581b-839d-0bd4957f7788",
     "name": "Vorticity",
     "label": [
         {

@@ -1,0 +1,42 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/CostPerMass"
+    ],
+    "uuid": "d5e8eafc-bbde-58b8-bedf-83cd39c4a0d5",
+    "name": "CostPerMass",
+    "label": [
+        {
+            "text": "Cost per mass",
+            "lang": "en"
+        },
+        {
+            "text": "Kosten pro Masse",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Represents the cost associated with a unit mass of a substance or material. It is typically used in economic and engineering contexts to evaluate the expense incurred per kilogram, gram, or other units of mass. This measure helps in comparing the economic efficiency of different materials or substances based on their mass.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWd654d81408d65191a77eb48c1c3e115c",
+    "default_unit": "Item:OSWf10448747b8c5e55b9978254a88240a0",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWf10448747b8c5e55b9978254a88240a0",
+            "name": "chf_per_kg",
+            "symbol": "CHF/kg"
+        }
+    ],
+    "quantity_property": "Property:HasCostPerMassValue"
+}

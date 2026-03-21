@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "4874b6ee-8d7b-5f65-a7fe-5868c48fa956",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/Tension",
-        "http://dbpedia.org/resource/Tension"
+        "http://dbpedia.org/resource/Tension",
+        "http://qudt.org/vocab/quantitykind/Tension"
     ],
+    "uuid": "4874b6ee-8d7b-5f65-a7fe-5868c48fa956",
     "name": "Tension",
     "label": [
         {

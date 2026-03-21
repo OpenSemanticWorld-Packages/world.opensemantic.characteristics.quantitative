@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "98b06c55-0c59-5e78-a13f-f79969b21e2e",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MassDefect"
     ],
+    "uuid": "98b06c55-0c59-5e78-a13f-f79969b21e2e",
     "name": "MassDefect",
     "label": [
         {

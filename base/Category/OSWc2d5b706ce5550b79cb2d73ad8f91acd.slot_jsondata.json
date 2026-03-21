@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "c2d5b706-ce55-50b7-9cb2-d73ad8f91acd",
     "close_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/Breadth",
-        "http://dbpedia.org/resource/Length"
+        "http://dbpedia.org/resource/Length",
+        "http://qudt.org/vocab/quantitykind/Breadth"
     ],
+    "uuid": "c2d5b706-ce55-50b7-9cb2-d73ad8f91acd",
     "name": "Breadth",
     "label": [
         {

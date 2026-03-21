@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "4e21f4a2-c906-5a73-aebb-426c037f5362",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/SoundExposureLevel"
     ],
+    "uuid": "4e21f4a2-c906-5a73-aebb-426c037f5362",
     "name": "SoundExposureLevel",
     "label": [
         {
@@ -30,8 +30,18 @@
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW20ac6724f1a05ee884222d546955e78f",
-            "name": "byte",
+            "name": "bel",
             "symbol": "B"
+        },
+        {
+            "osw_id": "Item:OSW07ca63bf7dc757298a3f4e0d372dfe73",
+            "name": "decibel",
+            "symbol": "dB"
+        },
+        {
+            "osw_id": "Item:OSW8ab36cb872275d14ac24784b4b0405a0",
+            "name": "dBmW",
+            "symbol": "dBmW"
         }
     ],
     "quantity_property": "Property:HasSoundExposureLevelValue"

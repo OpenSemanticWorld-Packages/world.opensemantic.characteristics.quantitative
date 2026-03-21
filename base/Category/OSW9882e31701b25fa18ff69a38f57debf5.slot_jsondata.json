@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "9882e317-01b2-5fa1-8ff6-9a38f57debf5",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/LuminousIntensityDistribution"
     ],
+    "uuid": "9882e317-01b2-5fa1-8ff6-9a38f57debf5",
     "name": "IonConcentration",
     "label": [
         {

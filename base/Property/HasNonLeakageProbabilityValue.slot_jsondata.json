@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "uuid": "1ec6b43b-8a34-5ed1-80be-1c2cabe6c064",
+    "name": "HasNonLeakageProbabilityValue",
+    "label": [
+        {
+            "text": "Non-Leakage Probability",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Non-Leakage Probability\" is the probability that a neutron will not escape from the reactor during the slowing-down process or while it diffuses as a thermal neutron",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "main_unit": {
+        "uuid": "4411f5ca-371f-5a11-91c7-0ca80634c8f5",
+        "name": "一",
+        "main_symbol": "一",
+        "conversion_factor_to_main_unit": "1.0"
+    }
+}

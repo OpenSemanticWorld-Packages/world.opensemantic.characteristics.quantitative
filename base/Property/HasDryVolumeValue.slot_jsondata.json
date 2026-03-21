@@ -1,0 +1,22 @@
+{
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "uuid": "5bd1b332-01a4-59b3-971b-10916583988a",
+    "name": "HasDryVolumeValue",
+    "label": [
+        {
+            "text": "Dry Volume",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Dry measures are units of volume used to measure bulk commodities which are not gas or liquid. They are typically used in agriculture, agronomy, and commodity markets to measure grain, dried beans, and dried and fresh fruit; formerly also salt pork and fish. They are also used in fishing for clams, crabs, etc. and formerly for many other substances (for example coal, cement, lime) which were typically shipped and delivered in a standardized container such as a barrel.  In the original metric system, the unit of dry volume was the stere, but this is not part of the modern metric system; the liter and the cubic meter ($m^{3}$) are now used. However, the stere is still widely used for firewood.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasVolumeValue",
+    "base_property": "Property:HasVolumeValue"
+}

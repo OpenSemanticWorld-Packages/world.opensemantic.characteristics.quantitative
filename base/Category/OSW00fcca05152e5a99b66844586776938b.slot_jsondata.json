@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "00fcca05-152e-5a99-b668-44586776938b",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/NuclearEnergy"
     ],
+    "uuid": "00fcca05-152e-5a99-b668-44586776938b",
     "name": "NuclearEnergy",
     "label": [
         {

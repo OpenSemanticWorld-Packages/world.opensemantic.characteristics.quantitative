@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "21ccd415-85d4-5a7f-97e6-8ffe96373f47",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/AbsoluteActivity"
     ],
+    "uuid": "21ccd415-85d4-5a7f-97e6-8ffe96373f47",
     "name": "AbsoluteActivity",
     "label": [
         {

@@ -1,0 +1,74 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ElectricalConductance",
+        "https://si-digital-framework.org/quantities/ELCO"
+    ],
+    "uuid": "c33c63c6-3b20-5b29-aa15-38ce8a8a3195",
+    "name": "ElectricalConductance",
+    "label": [
+        {
+            "text": "Electrical conductance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Maß für die Fähigkeit eines Stoffes, den elektrischen Strom zu leiten, das wertmäßig definiert ist als Kehrwert des elektrischen Widerstandes",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW620fc35b34745191b8c88f683ae36c1d",
+    "default_unit": "Item:OSW46249e4c237d546198d98bff0b9d5e93",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW46249e4c237d546198d98bff0b9d5e93",
+            "name": "siemens",
+            "symbol": "S"
+        },
+        {
+            "osw_id": "Item:OSW46249e4c237d546198d98bff0b9d5e93#OSWd41a264449b852b4807e7e08ab790cc7",
+            "name": "pico_siemens",
+            "symbol": "pS"
+        },
+        {
+            "osw_id": "Item:OSW46249e4c237d546198d98bff0b9d5e93#OSWf52320000c645b64a4e9dcb8dd131254",
+            "name": "nano_siemens",
+            "symbol": "nS"
+        },
+        {
+            "osw_id": "Item:OSW46249e4c237d546198d98bff0b9d5e93#OSWfd5a12b202d2534c9cb0844fb6c4f15e",
+            "name": "micro_siemens",
+            "symbol": "μS"
+        },
+        {
+            "osw_id": "Item:OSW46249e4c237d546198d98bff0b9d5e93#OSW8253047fc4835d79b0f31baf3b96182d",
+            "name": "milli_siemens",
+            "symbol": "mS"
+        },
+        {
+            "osw_id": "Item:OSW46249e4c237d546198d98bff0b9d5e93#OSW00d5ab4581fb51bebe243be341733c51",
+            "name": "deci_siemens",
+            "symbol": "dS"
+        },
+        {
+            "osw_id": "Item:OSW46249e4c237d546198d98bff0b9d5e93#OSW35746906e9d051c39bdeebdf5736c2ba",
+            "name": "kilo_siemens",
+            "symbol": "kS"
+        },
+        {
+            "osw_id": "Item:OSW46249e4c237d546198d98bff0b9d5e93#OSW335afa8f1aa25135b30b1691b7ebfa4a",
+            "name": "mega_siemens",
+            "symbol": "MS"
+        }
+    ],
+    "quantity_property": "Property:HasElectricalConductanceValue"
+}

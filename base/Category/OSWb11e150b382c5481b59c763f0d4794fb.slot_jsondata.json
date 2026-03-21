@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "b11e150b-382c-5481-b59c-763f0d4794fb",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Mobility"
     ],
+    "uuid": "b11e150b-382c-5481-b59c-763f0d4794fb",
     "name": "Mobility",
     "label": [
         {
@@ -38,7 +38,7 @@
             "symbol": "m²/(V·s)"
         },
         {
-            "osw_id": "Item:OSWb2b78d963e4e54d7b5e64db90eb5fad2#OSW5912aba53a8b5951ae88d643b40ff33d",
+            "osw_id": "Item:OSW5912aba53a8b5951ae88d643b40ff33d",
             "name": "centi_meter_squared_per_second_per_volt",
             "symbol": "cm²/(V·s)"
         }

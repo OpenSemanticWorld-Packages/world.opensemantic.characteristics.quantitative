@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Turns"
+    ],
+    "uuid": "6db1146c-61d3-5070-8ae1-5f54e56df7d4",
+    "name": "Turns",
+    "label": [
+        {
+            "text": "Turns",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Turns\" is the number of turns in a winding.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSWb0250d3677f6592f9d4329c8b9d5f8d1"
+    ],
+    "quantity_property": "Property:HasTurnsValue"
+}

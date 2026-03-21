@@ -2,10 +2,10 @@
     "type": [
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
-    "uuid": "b5335e62-cf01-5a14-b489-876b4e6accec",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/IonicCharge"
     ],
+    "uuid": "b5335e62-cf01-5a14-b489-876b4e6accec",
     "name": "IonicCharge",
     "label": [
         {

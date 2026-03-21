@@ -2,20 +2,14 @@
     "type": [
         "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
     ],
-    "uuid": "a4e5b512-56a6-5c60-be79-3f4224e41487",
     "close_ontology_match": [
         "http://qudt.org/vocab/quantitykind/CombinedNonEvaporativeHeatTransferCoefficient"
     ],
+    "uuid": "a4e5b512-56a6-5c60-be79-3f4224e41487",
     "name": "CombinedNonEvaporativeHeatTransferCoefficient",
     "label": [
         {
             "text": "Combined Non Evaporative Heat Transfer Coefficient",
-            "lang": "en"
-        }
-    ],
-    "description": [
-        {
-            "text": "\"Combined Non Evaporative Heat Transfer Coefficient\" is the",
             "lang": "en"
         }
     ],
@@ -32,6 +26,11 @@
             "osw_id": "Item:OSWdc31cad7e9225defbc08f6f79bf5c4ea",
             "name": "watt_per_kelvin_per_meter_squared",
             "symbol": "W/(m²·K)"
+        },
+        {
+            "osw_id": "Item:OSWdc31cad7e9225defbc08f6f79bf5c4ea#OSWaf1a4c61c7a55cec98c763cb39935ed3",
+            "name": "kilo_watt_per_kelvin_per_meter_squared",
+            "symbol": "kW/(m²·K)"
         }
     ],
     "quantity_property": "Property:HasCombinedNonEvaporativeHeatTransferCoefficientValue"

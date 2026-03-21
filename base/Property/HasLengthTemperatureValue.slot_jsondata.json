@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "a862deae-5828-5008-bd37-c817b1f30466",
     "name": "HasLengthTemperatureValue",
     "label": [
@@ -8,12 +11,24 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
         "uuid": "df0de217-c8c6-5e54-bb41-09beef04aef6",
         "name": "K·m",
-        "main_symbol": "K·m"
-    }
+        "main_symbol": "K·m",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "04ce1030-e08e-5aa2-86e7-d26e0003f2d3",
+            "name": "m·K",
+            "main_symbol": "m·K",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "13ab1720-5f21-59df-bc56-7251167c89ea",
+            "name": "°C·cm",
+            "main_symbol": "°C·cm",
+            "conversion_factor_to_main_unit": "100.0"
+        }
+    ]
 }

@@ -1,4 +1,7 @@
 {
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
     "uuid": "38434835-9bba-53a5-acf6-b268d36ac0e0",
     "name": "HasDynamicViscosityValue",
     "label": [
@@ -18,20 +21,30 @@
         }
     ],
     "property_type": "Quantity",
-    "type": [
-        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
-    ],
     "main_unit": {
-        "uuid": "ea71202a-8942-5d59-8318-ee1d6c902930",
-        "name": "Pa·s",
-        "main_symbol": "Pa·s"
+        "uuid": "92da9e36-0612-5b14-bc07-59d1b0df0896",
+        "name": "kg/(m·s)",
+        "main_symbol": "kg/(m·s)",
+        "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
+        {
+            "uuid": "ea71202a-8942-5d59-8318-ee1d6c902930",
+            "name": "Pa·s",
+            "main_symbol": "Pa·s",
+            "conversion_factor_to_main_unit": "1.0"
+        },
         {
             "uuid": "90812c3e-b2ca-5ef0-9a94-9daa29faffb0",
             "name": "mPa·s",
             "main_symbol": "mPa·s",
             "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "ee5c0f25-9953-5fe8-8a38-1ee69dc7594d",
+            "name": "kg/(m·h)",
+            "main_symbol": "kg/(m·h)",
+            "conversion_factor_to_main_unit": "3600.0"
         }
     ]
 }
