@@ -34,12 +34,17 @@
             "symbol": "s/m"
         },
         {
-            "osw_id": "Item:OSWa32463095825512eb308feef8a23afd8",
+            "osw_id": "Item:OSW672562b79f8b5fc69dfa5c57f764f325#OSWa32463095825512eb308feef8a23afd8",
             "name": "nano_gram_per_meter_squared_per_pascal_per_second",
             "symbol": "ng/(m²·Pa·s)"
         },
         {
-            "osw_id": "Item:OSW60bdefc5b50c502095c7e1f8f8a7d03e",
+            "osw_id": "Item:OSW672562b79f8b5fc69dfa5c57f764f325",
+            "name": "gram_per_meter_squared_per_pascal_per_second",
+            "symbol": "g/(m^2·Pa·s)"
+        },
+        {
+            "osw_id": "Item:OSW672562b79f8b5fc69dfa5c57f764f325#OSW60bdefc5b50c502095c7e1f8f8a7d03e",
             "name": "kilo_gram_per_meter_squared_per_pascal_per_second",
             "symbol": "kg/(m²·Pa·s)"
         }

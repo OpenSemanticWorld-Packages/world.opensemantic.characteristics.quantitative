@@ -35,19 +35,22 @@
                     "title": "LengthTemperatureUnit",
                     "enum": [
                         "Item:OSWe5ae11f7ed995d13bdf12af6c0a8a444",
-                        "Item:OSWee2edc75cdc359d48283148ca38c583d",
-                        "Item:OSWb87aaf787d285ba88225897edbebc154"
+                        "Item:OSWbce601b25ce952adb01dd12d4ae15c2d#OSWee2edc75cdc359d48283148ca38c583d",
+                        "Item:OSWb87aaf787d285ba88225897edbebc154",
+                        "Item:OSWbce601b25ce952adb01dd12d4ae15c2d"
                     ],
                     "x-enum-varnames": [
                         "kelvin_meter",
                         "centi_meter_Celsius",
-                        "kelvin_meter"
+                        "kelvin_meter",
+                        "Celsius_meter"
                     ],
                     "options": {
                         "enum_titles": [
                             "m·K",
                             "°C·cm",
-                            "K·m"
+                            "K·m",
+                            "°C·m"
                         ]
                     },
                     "default": "Item:OSWe5ae11f7ed995d13bdf12af6c0a8a444"

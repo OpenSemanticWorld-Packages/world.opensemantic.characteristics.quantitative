@@ -26,17 +26,22 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW5b68dbcd6d0c56459a31071b9b04db2d",
-    "default_unit": "Item:OSW0ab2af45d05c527d8fe20509629f9ae3",
+    "default_unit": "Item:OSWbbb76668279755aaa01bbc7764dd6937#OSW0ab2af45d05c527d8fe20509629f9ae3",
     "unit_enumeration": [
         {
-            "osw_id": "Item:OSW0ab2af45d05c527d8fe20509629f9ae3",
+            "osw_id": "Item:OSWbbb76668279755aaa01bbc7764dd6937#OSW0ab2af45d05c527d8fe20509629f9ae3",
             "name": "kilo_gram_per_joule",
             "symbol": "kg/J"
         },
         {
-            "osw_id": "Item:OSWed66a7af0af258c1b94a9646a09cda97",
+            "osw_id": "Item:OSWbbb76668279755aaa01bbc7764dd6937#OSWed66a7af0af258c1b94a9646a09cda97",
             "name": "kilo_gram_per_giga_joule",
             "symbol": "kg/GJ"
+        },
+        {
+            "osw_id": "Item:OSWbbb76668279755aaa01bbc7764dd6937",
+            "name": "gram_per_joule",
+            "symbol": "g/J"
         }
     ],
     "quantity_property": "Property:HasMassPerEnergyValue"

@@ -36,15 +36,16 @@
                 "unit": {
                     "title": "MassFlowRateUnit",
                     "enum": [
-                        "Item:OSWfe7b5227d12757e789055c9fd32d15e4",
+                        "Item:OSWf6bfa826fcea5795b76c5756f7ec78fb#OSWfe7b5227d12757e789055c9fd32d15e4",
                         "Item:OSW09596198c0d757358dba075062495dd1#OSWb952071c62fb51ed91cee87301a5266a",
-                        "Item:OSW5b7b73152833524ea13c5a7fd74fe998",
+                        "Item:OSW09596198c0d757358dba075062495dd1#OSW5b7b73152833524ea13c5a7fd74fe998",
+                        "Item:OSWc512618f268157e099b8f936d89d66f3",
                         "Item:OSW7bc2ff12a16455b3921e012268eede5d#OSW0495cb740afb5527ad1532b7b4bec0e2",
                         "Item:OSW09596198c0d757358dba075062495dd1",
                         "Item:OSWe679b9663f575f409d1b5285f46183eb#OSWf560acf39498593cbf7447bfb7f2de24",
-                        "Item:OSW4ece1fb1eec9514db192a479fb617b8a",
+                        "Item:OSWc512618f268157e099b8f936d89d66f3#OSW4ece1fb1eec9514db192a479fb617b8a",
                         "Item:OSW7bc2ff12a16455b3921e012268eede5d",
-                        "Item:OSWbdc0ed1395245ea6ab4e216073c79697",
+                        "Item:OSWf6bfa826fcea5795b76c5756f7ec78fb#OSWbdc0ed1395245ea6ab4e216073c79697",
                         "Item:OSW09596198c0d757358dba075062495dd1#OSWfe7f05b088c55addb7a97e911f007616",
                         "Item:OSWe679b9663f575f409d1b5285f46183eb",
                         "Item:OSW6db7b397b40459e6a976f9f77c568089",
@@ -52,16 +53,17 @@
                         "Item:OSWf6bfa826fcea5795b76c5756f7ec78fb",
                         "Item:OSWdca2b4ec25b6599786cd88de8e1b220f",
                         "Item:OSWe679b9663f575f409d1b5285f46183eb#OSWf21d489442ee596396758812a0446f87",
-                        "Item:OSWca073491ff03557f94054c2212cb8275",
+                        "Item:OSW6db7b397b40459e6a976f9f77c568089#OSWca073491ff03557f94054c2212cb8275",
                         "Item:OSW6d650c88d8c75bee874e7d612c5baf8e",
                         "Item:OSW19835c2f0ed35921a39798e1da0ef04d",
-                        "Item:OSWd3f15570893355cd8d56d0f7b5cc31a5",
+                        "Item:OSW6db7b397b40459e6a976f9f77c568089#OSWd3f15570893355cd8d56d0f7b5cc31a5",
                         "Item:OSWdca432507fd5502ca9e38e09f7e6ef6e"
                     ],
                     "x-enum-varnames": [
                         "kilo_gram_per_second",
                         "nano_gram_per_day",
                         "milli_gram_per_day",
+                        "gram_per_year",
                         "milli_gram_per_hour",
                         "gram_per_day",
                         "milli_gram_per_minute",
@@ -86,6 +88,7 @@
                             "kg/s",
                             "ng/d",
                             "mg/d",
+                            "g/a",
                             "mg/h",
                             "g/d",
                             "mg/min",
@@ -106,7 +109,7 @@
                             "t/s"
                         ]
                     },
-                    "default": "Item:OSWfe7b5227d12757e789055c9fd32d15e4"
+                    "default": "Item:OSWf6bfa826fcea5795b76c5756f7ec78fb#OSWfe7b5227d12757e789055c9fd32d15e4"
                 }
             },
             "x-smw-quantity-property": "Property:HasMassFlowRateValue"

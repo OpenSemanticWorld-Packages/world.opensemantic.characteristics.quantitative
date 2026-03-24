@@ -36,17 +36,20 @@
                 "unit": {
                     "title": "PressureLossPerLengthUnit",
                     "enum": [
-                        "Item:OSW876a1c66fd4c5fda86f129d3b65a1b98"
+                        "Item:OSW26b314f7f1d55902b5aa93d11f15c7de#OSW876a1c66fd4c5fda86f129d3b65a1b98",
+                        "Item:OSW26b314f7f1d55902b5aa93d11f15c7de"
                     ],
                     "x-enum-varnames": [
-                        "kilo_gram_per_meter_squared_per_second_squared"
+                        "kilo_gram_per_meter_squared_per_second_squared",
+                        "gram_per_meter_squared_per_second_squared"
                     ],
                     "options": {
                         "enum_titles": [
-                            "kg/(m²·s²)"
+                            "kg/(m²·s²)",
+                            "g/(m²·s²)"
                         ]
                     },
-                    "default": "Item:OSW876a1c66fd4c5fda86f129d3b65a1b98"
+                    "default": "Item:OSW26b314f7f1d55902b5aa93d11f15c7de#OSW876a1c66fd4c5fda86f129d3b65a1b98"
                 }
             },
             "x-smw-quantity-property": "Property:HasPressureLossPerLengthValue"

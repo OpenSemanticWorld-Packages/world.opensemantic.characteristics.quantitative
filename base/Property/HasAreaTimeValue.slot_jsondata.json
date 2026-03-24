@@ -12,17 +12,29 @@
     ],
     "property_type": "Quantity",
     "main_unit": {
-        "uuid": "9d4b6238-658a-55be-97df-bd77342e898b",
-        "name": "cm²·min",
-        "main_symbol": "cm²·min",
+        "uuid": "c8e9b081-036d-54c8-b3b3-107130bc12f2",
+        "name": "m²·s",
+        "main_symbol": "m²·s",
         "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
         {
+            "uuid": "fc547a51-7904-5ef5-a66c-b6efb8c39c9d",
+            "name": "m²·min",
+            "main_symbol": "m²·min",
+            "conversion_factor_to_main_unit": "0.016666666666666666"
+        },
+        {
+            "uuid": "9d4b6238-658a-55be-97df-bd77342e898b",
+            "name": "cm²·min",
+            "main_symbol": "cm²·min",
+            "conversion_factor_to_main_unit": "166.66666666666666"
+        },
+        {
             "uuid": "c33ea38e-a78a-52fc-89c2-dc213eb05628",
             "name": "cm²·s",
             "main_symbol": "cm²·s",
-            "conversion_factor_to_main_unit": "60.0"
+            "conversion_factor_to_main_unit": "10000.0"
         }
     ]
 }

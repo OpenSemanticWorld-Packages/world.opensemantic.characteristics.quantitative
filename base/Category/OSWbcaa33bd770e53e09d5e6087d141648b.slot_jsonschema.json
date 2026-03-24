@@ -49,7 +49,7 @@
                         "Item:OSW9ba16cb7f86552fea157915b5edc38e0#OSWceaad9b0ddf75bf49abc5335b3b688c5"
                     ],
                     "x-enum-varnames": [
-                        "number",
+                        "dimensionless",
                         "neper",
                         "dec",
                         "octave",

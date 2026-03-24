@@ -43,17 +43,22 @@
             "symbol": "μW/m²"
         },
         {
+            "osw_id": "Item:OSW69b2a8408fda533bbd476f0cc16ddc9c",
+            "name": "joule_per_day_per_meter_squared",
+            "symbol": "J/(m²·d)"
+        },
+        {
             "osw_id": "Item:OSW7f2c167c5a39550d91c1f95cc01a9a11#OSWf33a1a99c6055b178a0b973e57e1aacb",
             "name": "milli_watt_per_meter_squared",
             "symbol": "mW/m²"
         },
         {
-            "osw_id": "Item:OSW8c198dbb96df555aac744013a50dce1f",
+            "osw_id": "Item:OSW69b2a8408fda533bbd476f0cc16ddc9c#OSW8c198dbb96df555aac744013a50dce1f",
             "name": "joule_per_centi_meter_squared_per_day",
             "symbol": "J/(cm²·d)"
         },
         {
-            "osw_id": "Item:OSWc06ae09422e958369a4dd7e6f19e6e8b",
+            "osw_id": "Item:OSW69b2a8408fda533bbd476f0cc16ddc9c#OSWc06ae09422e958369a4dd7e6f19e6e8b",
             "name": "mega_joule_per_day_per_meter_squared",
             "symbol": "MJ/(m²·d)"
         },

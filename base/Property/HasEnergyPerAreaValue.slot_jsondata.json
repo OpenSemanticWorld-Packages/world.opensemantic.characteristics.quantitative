@@ -67,6 +67,12 @@
             "conversion_factor_to_main_unit": "0.0002777777777777778"
         },
         {
+            "uuid": "77725eff-2934-5bd8-a798-0c0d5beb3daf",
+            "name": "g/s²",
+            "main_symbol": "g/s²",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
             "uuid": "c3f97dd8-c1b9-5948-9df6-ee27dc5a1e5c",
             "name": "kN·m/m²",
             "main_symbol": "kN·m/m²",
@@ -119,6 +125,12 @@
             "name": "μN·m/m²",
             "main_symbol": "μN·m/m²",
             "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "84f7d775-20cf-5e9f-9299-930dd4d389d8",
+            "name": "erg/m²",
+            "main_symbol": "erg/m²",
+            "conversion_factor_to_main_unit": "10000000.0"
         },
         {
             "uuid": "0b43d5c7-797f-584b-b3e5-835a86bde307",

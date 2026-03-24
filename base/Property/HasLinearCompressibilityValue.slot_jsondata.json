@@ -18,9 +18,17 @@
     ],
     "property_type": "Quantity",
     "main_unit": {
-        "uuid": "e6d5620d-f90e-5463-b7b5-3446758ce996",
-        "name": "μm/N",
-        "main_symbol": "μm/N",
+        "uuid": "e3748361-cec1-53fa-ac3d-c402ffaecae8",
+        "name": "m/N",
+        "main_symbol": "m/N",
         "conversion_factor_to_main_unit": "1.0"
-    }
+    },
+    "additional_units": [
+        {
+            "uuid": "e6d5620d-f90e-5463-b7b5-3446758ce996",
+            "name": "μm/N",
+            "main_symbol": "μm/N",
+            "conversion_factor_to_main_unit": "1000000.0"
+        }
+    ]
 }

@@ -40,12 +40,12 @@
             "symbol": "eV/m"
         },
         {
-            "osw_id": "Item:OSWc9208b4ec12d50e5a4657a1c18295b3d",
+            "osw_id": "Item:OSW733704eab7325274b2f16fc8e7297c6d#OSWc9208b4ec12d50e5a4657a1c18295b3d",
             "name": "mega_electron_volt_per_centi_meter",
             "symbol": "MeV/cm"
         },
         {
-            "osw_id": "Item:OSWc13242c575bb5a009b61e4efc319effa",
+            "osw_id": "Item:OSW733704eab7325274b2f16fc8e7297c6d#OSWc13242c575bb5a009b61e4efc319effa",
             "name": "kilo_electron_volt_per_micro_meter",
             "symbol": "keV/μm"
         }

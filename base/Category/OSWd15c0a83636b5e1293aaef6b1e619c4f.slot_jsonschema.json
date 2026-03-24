@@ -36,17 +36,20 @@
                 "unit": {
                     "title": "LinearCompressibilityUnit",
                     "enum": [
-                        "Item:OSWdf7665f78da1599c98a13586cec6d866"
+                        "Item:OSWcfd8c2916809594a945a9a4b0a4abe33",
+                        "Item:OSWcfd8c2916809594a945a9a4b0a4abe33#OSWdf7665f78da1599c98a13586cec6d866"
                     ],
                     "x-enum-varnames": [
+                        "meter_per_newton",
                         "micro_meter_per_newton"
                     ],
                     "options": {
                         "enum_titles": [
+                            "m/N",
                             "μm/N"
                         ]
                     },
-                    "default": "Item:OSWdf7665f78da1599c98a13586cec6d866"
+                    "default": "Item:OSWcfd8c2916809594a945a9a4b0a4abe33"
                 }
             },
             "x-smw-quantity-property": "Property:HasLinearCompressibilityValue"

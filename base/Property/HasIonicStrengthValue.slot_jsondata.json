@@ -31,6 +31,12 @@
             "conversion_factor_to_main_unit": "0.001"
         },
         {
+            "uuid": "6c30e49e-125c-561d-b1c0-33a0f9dcfd95",
+            "name": "mol/g",
+            "main_symbol": "mol/g",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
             "uuid": "394f49d1-6bed-58ae-b5d7-83c149344f6e",
             "name": "mol/kg",
             "main_symbol": "mol/kg",

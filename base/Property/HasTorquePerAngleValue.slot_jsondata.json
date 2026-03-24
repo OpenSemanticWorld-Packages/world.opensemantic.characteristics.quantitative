@@ -23,6 +23,12 @@
             "name": "kN·m/°",
             "main_symbol": "kN·m/°",
             "conversion_factor_to_main_unit": "1.74532925e-05"
+        },
+        {
+            "uuid": "3e04f4f5-94ce-52c7-87ed-ce693dd9bbcd",
+            "name": "N·m/°",
+            "main_symbol": "N·m/°",
+            "conversion_factor_to_main_unit": "0.0174532925"
         }
     ]
 }

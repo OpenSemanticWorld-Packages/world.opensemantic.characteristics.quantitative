@@ -37,19 +37,16 @@
                     "title": "SoundExposureLevelUnit",
                     "enum": [
                         "Item:OSW20ac6724f1a05ee884222d546955e78f",
-                        "Item:OSW07ca63bf7dc757298a3f4e0d372dfe73",
-                        "Item:OSW8ab36cb872275d14ac24784b4b0405a0"
+                        "Item:OSW07ca63bf7dc757298a3f4e0d372dfe73"
                     ],
                     "x-enum-varnames": [
                         "bel",
-                        "decibel",
-                        "dBmW"
+                        "decibel"
                     ],
                     "options": {
                         "enum_titles": [
                             "B",
-                            "dB",
-                            "dBmW"
+                            "dB"
                         ]
                     },
                     "default": "Item:OSW20ac6724f1a05ee884222d546955e78f"

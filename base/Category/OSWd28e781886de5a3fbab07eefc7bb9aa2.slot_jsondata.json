@@ -28,7 +28,7 @@
             "symbol": "m·K"
         },
         {
-            "osw_id": "Item:OSWee2edc75cdc359d48283148ca38c583d",
+            "osw_id": "Item:OSWbce601b25ce952adb01dd12d4ae15c2d#OSWee2edc75cdc359d48283148ca38c583d",
             "name": "centi_meter_Celsius",
             "symbol": "°C·cm"
         },
@@ -36,6 +36,11 @@
             "osw_id": "Item:OSWb87aaf787d285ba88225897edbebc154",
             "name": "kelvin_meter",
             "symbol": "K·m"
+        },
+        {
+            "osw_id": "Item:OSWbce601b25ce952adb01dd12d4ae15c2d",
+            "name": "Celsius_meter",
+            "symbol": "°C·m"
         }
     ],
     "quantity_property": "Property:HasLengthTemperatureValue"

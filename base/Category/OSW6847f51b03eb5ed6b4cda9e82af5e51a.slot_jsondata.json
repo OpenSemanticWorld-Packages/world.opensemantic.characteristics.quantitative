@@ -20,12 +20,17 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW16d6aedc16785e00af658016a6d0d060",
-    "default_unit": "Item:OSWfd24f9425d815d66beab746eecaf5926",
+    "default_unit": "Item:OSW7b82dfcbfc22546fa1bd69b1f1d373da#OSWfd24f9425d815d66beab746eecaf5926",
     "unit_enumeration": [
         {
-            "osw_id": "Item:OSWfd24f9425d815d66beab746eecaf5926",
+            "osw_id": "Item:OSW7b82dfcbfc22546fa1bd69b1f1d373da#OSWfd24f9425d815d66beab746eecaf5926",
             "name": "kelvin_kilo_gram",
             "symbol": "kg·K"
+        },
+        {
+            "osw_id": "Item:OSW7b82dfcbfc22546fa1bd69b1f1d373da",
+            "name": "gram_kelvin",
+            "symbol": "g·K"
         }
     ],
     "quantity_property": "Property:HasMassTemperatureValue"

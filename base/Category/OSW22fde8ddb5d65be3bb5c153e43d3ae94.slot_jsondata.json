@@ -26,10 +26,20 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW5e620693780a5b6887d598c0ef1824e3",
-    "default_unit": "Item:OSW2ff95fa06aa15090a73b82c969626568",
+    "default_unit": "Item:OSW09bffc6b706d5b8b86db307ee7503a2a#OSW7dcdf8b144755fb8ac3897d4ba5e3a43",
     "unit_enumeration": [
         {
-            "osw_id": "Item:OSW2ff95fa06aa15090a73b82c969626568",
+            "osw_id": "Item:OSW09bffc6b706d5b8b86db307ee7503a2a#OSW7dcdf8b144755fb8ac3897d4ba5e3a43",
+            "name": "meter_squared_pascal_per_kilo_gram",
+            "symbol": "Pa·m²/kg"
+        },
+        {
+            "osw_id": "Item:OSW09bffc6b706d5b8b86db307ee7503a2a",
+            "name": "meter_squared_pascal_per_gram",
+            "symbol": "Pa·m²/g"
+        },
+        {
+            "osw_id": "Item:OSW09bffc6b706d5b8b86db307ee7503a2a#OSW2ff95fa06aa15090a73b82c969626568",
             "name": "kilo_pascal_meter_squared_per_gram",
             "symbol": "kPa·m²/g"
         }

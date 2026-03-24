@@ -65,12 +65,6 @@
             "conversion_factor_to_main_unit": "10.0"
         },
         {
-            "uuid": "5681ba21-39c0-52c6-bda7-e7eb70d1c681",
-            "name": "AT",
-            "main_symbol": "AT",
-            "conversion_factor_to_main_unit": "34.28571036734739"
-        },
-        {
             "uuid": "4c8f760a-09ba-5847-acb0-9ee7d4073d3d",
             "name": "dag",
             "main_symbol": "dag",

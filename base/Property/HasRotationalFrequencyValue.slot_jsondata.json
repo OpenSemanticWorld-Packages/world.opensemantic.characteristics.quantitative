@@ -67,12 +67,6 @@
             "conversion_factor_to_main_unit": "1.0"
         },
         {
-            "uuid": "9a346802-bdbd-5fd2-858a-429b6fc319a3",
-            "name": "c/s",
-            "main_symbol": "c/s",
-            "conversion_factor_to_main_unit": "1.0"
-        },
-        {
             "uuid": "789055f3-5458-5c7e-9421-d9a98d371766",
             "name": "rev/min",
             "main_symbol": "rev/min",

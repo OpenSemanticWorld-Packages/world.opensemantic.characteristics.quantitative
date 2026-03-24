@@ -18,12 +18,24 @@
     ],
     "property_type": "Quantity",
     "main_unit": {
-        "uuid": "0b544209-f7fa-5775-b2f3-8b079cd98c2c",
-        "name": "m³/kg",
-        "main_symbol": "m³/kg",
+        "uuid": "ec82f0b2-1bcc-54e4-90e1-c2007fd6758c",
+        "name": "L/g",
+        "main_symbol": "L/g",
         "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
+        {
+            "uuid": "241522a3-ef93-5643-b626-2b05f6a86b51",
+            "name": "m³/g",
+            "main_symbol": "m³/g",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "0b544209-f7fa-5775-b2f3-8b079cd98c2c",
+            "name": "m³/kg",
+            "main_symbol": "m³/kg",
+            "conversion_factor_to_main_unit": "1.0"
+        },
         {
             "uuid": "3a6ec82a-c886-5da2-8a8d-b81827a9b8ca",
             "name": "dL/g",
@@ -40,6 +52,12 @@
             "uuid": "4428ae5b-abf3-5e12-aafa-8d1dfeb59382",
             "name": "cm³/g",
             "main_symbol": "cm³/g",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "96a0f140-568e-5798-950d-46f0f7e38553",
+            "name": "dm³/kg",
+            "main_symbol": "dm³/kg",
             "conversion_factor_to_main_unit": "1000.0"
         },
         {

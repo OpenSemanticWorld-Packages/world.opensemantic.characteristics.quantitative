@@ -28,34 +28,9 @@
             "symbol": "N/m"
         },
         {
-            "osw_id": "Item:OSW0d4e5e11d53f5018a0b965373b55510d#OSWd9d22e06814b5888aeb3585fe9c2b8a7",
-            "name": "nano_newton_per_meter",
-            "symbol": "nN·m/m²"
-        },
-        {
-            "osw_id": "Item:OSW0d4e5e11d53f5018a0b965373b55510d#OSW791fa3180a03539890eda05576abf858",
-            "name": "micro_newton_per_meter",
-            "symbol": "μN·m/m²"
-        },
-        {
-            "osw_id": "Item:OSW2787316ac73a5365b863fb379f6a800c",
+            "osw_id": "Item:OSW9137313140045506900306df5eadafcc#OSW2787316ac73a5365b863fb379f6a800c",
             "name": "milli_newton_per_meter",
             "symbol": "mN/m"
-        },
-        {
-            "osw_id": "Item:OSW0d4e5e11d53f5018a0b965373b55510d#OSWf299b56cb8175f83b089a378f9ff4193",
-            "name": "milli_newton_per_meter",
-            "symbol": "mN·m/m²"
-        },
-        {
-            "osw_id": "Item:OSW0d4e5e11d53f5018a0b965373b55510d#OSW909a5e3823da5067844cec023a453416",
-            "name": "centi_newton_per_meter",
-            "symbol": "cN·m/m²"
-        },
-        {
-            "osw_id": "Item:OSW0d4e5e11d53f5018a0b965373b55510d",
-            "name": "newton_per_meter",
-            "symbol": "N·m/m²"
         },
         {
             "osw_id": "Item:OSW9137313140045506900306df5eadafcc#OSW7af1765912d453d495084e069c796538",
@@ -71,21 +46,6 @@
             "osw_id": "Item:OSW9137313140045506900306df5eadafcc#OSW19ad378272375e53b1ce5a4a6c220387",
             "name": "kilo_newton_per_meter",
             "symbol": "kN/m"
-        },
-        {
-            "osw_id": "Item:OSW0d4e5e11d53f5018a0b965373b55510d#OSWca3713c796a850e28929b34bfe347edb",
-            "name": "kilo_newton_per_meter",
-            "symbol": "kN·m/m²"
-        },
-        {
-            "osw_id": "Item:OSW0d4e5e11d53f5018a0b965373b55510d#OSW77ee74a9d0ad52bfa18bbd5b09eaca69",
-            "name": "mega_newton_per_meter",
-            "symbol": "MN·m/m²"
-        },
-        {
-            "osw_id": "Item:OSW0d4e5e11d53f5018a0b965373b55510d#OSWf844aa3c562e5c94894b2f6ccc2dca55",
-            "name": "giga_newton_per_meter",
-            "symbol": "GN·m/m²"
         }
     ],
     "quantity_property": "Property:HasForcePerLengthValue"

@@ -18,9 +18,9 @@
     ],
     "property_type": "Quantity",
     "main_unit": {
-        "uuid": "62f4ae36-72bf-5056-ad51-cef3c76a485e",
-        "name": "mL/(cm²·min)",
-        "main_symbol": "mL/(cm²·min)",
+        "uuid": "e533c1a0-10a8-5a89-bb68-264db0d2e210",
+        "name": "L/(m²·min)",
+        "main_symbol": "L/(m²·min)",
         "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
@@ -28,7 +28,19 @@
             "uuid": "8c12d278-7cca-5b97-a1f3-841afd71f3f1",
             "name": "mL/(cm²·s)",
             "main_symbol": "mL/(cm²·s)",
+            "conversion_factor_to_main_unit": "0.0016666666666666668"
+        },
+        {
+            "uuid": "a27ffc8e-2175-52ee-90c6-d91e6ba10429",
+            "name": "L/(m²·s)",
+            "main_symbol": "L/(m²·s)",
             "conversion_factor_to_main_unit": "0.016666666666666666"
+        },
+        {
+            "uuid": "62f4ae36-72bf-5056-ad51-cef3c76a485e",
+            "name": "mL/(cm²·min)",
+            "main_symbol": "mL/(cm²·min)",
+            "conversion_factor_to_main_unit": "0.1"
         }
     ]
 }

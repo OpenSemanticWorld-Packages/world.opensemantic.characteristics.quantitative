@@ -45,7 +45,7 @@
                         "Item:OSWce05bcf9ee7d5ba5aef48ae97a22540d"
                     ],
                     "x-enum-varnames": [
-                        "number",
+                        "dimensionless",
                         "ppq",
                         "parts_per_trillion",
                         "ppb",

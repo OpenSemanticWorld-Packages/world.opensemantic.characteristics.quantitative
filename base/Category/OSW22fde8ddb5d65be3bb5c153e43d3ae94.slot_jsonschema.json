@@ -36,17 +36,23 @@
                 "unit": {
                     "title": "BurstFactorUnit",
                     "enum": [
-                        "Item:OSW2ff95fa06aa15090a73b82c969626568"
+                        "Item:OSW09bffc6b706d5b8b86db307ee7503a2a#OSW7dcdf8b144755fb8ac3897d4ba5e3a43",
+                        "Item:OSW09bffc6b706d5b8b86db307ee7503a2a",
+                        "Item:OSW09bffc6b706d5b8b86db307ee7503a2a#OSW2ff95fa06aa15090a73b82c969626568"
                     ],
                     "x-enum-varnames": [
+                        "meter_squared_pascal_per_kilo_gram",
+                        "meter_squared_pascal_per_gram",
                         "kilo_pascal_meter_squared_per_gram"
                     ],
                     "options": {
                         "enum_titles": [
+                            "Pa·m²/kg",
+                            "Pa·m²/g",
                             "kPa·m²/g"
                         ]
                     },
-                    "default": "Item:OSW2ff95fa06aa15090a73b82c969626568"
+                    "default": "Item:OSW09bffc6b706d5b8b86db307ee7503a2a#OSW7dcdf8b144755fb8ac3897d4ba5e3a43"
                 }
             },
             "x-smw-quantity-property": "Property:HasBurstFactorValue"

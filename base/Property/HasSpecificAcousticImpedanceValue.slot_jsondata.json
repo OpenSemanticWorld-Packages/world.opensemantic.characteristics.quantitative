@@ -16,13 +16,5 @@
         "name": "N·s/m³",
         "main_symbol": "N·s/m³",
         "conversion_factor_to_main_unit": "1.0"
-    },
-    "additional_units": [
-        {
-            "uuid": "d5adb5da-2e87-515b-bfb7-3e70f76affeb",
-            "name": "kg/(m²·s)",
-            "main_symbol": "kg/(m²·s)",
-            "conversion_factor_to_main_unit": "1.0"
-        }
-    ]
+    }
 }

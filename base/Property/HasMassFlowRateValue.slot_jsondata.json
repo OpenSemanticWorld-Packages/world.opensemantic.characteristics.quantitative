@@ -133,6 +133,12 @@
             "conversion_factor_to_main_unit": "3600000000.0"
         },
         {
+            "uuid": "eccbb2ba-fd17-57fa-a7ee-eacf70791cc8",
+            "name": "g/a",
+            "main_symbol": "g/a",
+            "conversion_factor_to_main_unit": "31557600000.000004"
+        },
+        {
             "uuid": "86ec6689-1bf6-58f6-828a-ed72899ec484",
             "name": "mg/d",
             "main_symbol": "mg/d",

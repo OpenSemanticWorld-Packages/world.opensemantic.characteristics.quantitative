@@ -54,7 +54,7 @@
             "symbol": "N/m²"
         },
         {
-            "osw_id": "Item:OSW79839899c5ca5bbfbe709b943e4786e0",
+            "osw_id": "Item:OSW29e8c4eee58e56608bcd4ae23f02208d#OSW79839899c5ca5bbfbe709b943e4786e0",
             "name": "kilo_gram_per_meter_per_second_squared",
             "symbol": "kg/(m·s²)"
         },
@@ -67,6 +67,11 @@
             "osw_id": "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW482939f123595314beca39ad32d65a15",
             "name": "hecto_pascal",
             "symbol": "hPa"
+        },
+        {
+            "osw_id": "Item:OSW29e8c4eee58e56608bcd4ae23f02208d",
+            "name": "gram_per_meter_per_second_squared",
+            "symbol": "g/(m·s²)"
         },
         {
             "osw_id": "Item:OSW8a5d71b652735726aa47d5d3865b235c#OSWea4655ccdd2c5431867837496520398b",

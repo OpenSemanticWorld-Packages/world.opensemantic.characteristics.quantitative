@@ -49,10 +49,34 @@
             "conversion_factor_to_main_unit": "1.0"
         },
         {
+            "uuid": "8154ba97-5b24-5dad-b09c-76f63a41a792",
+            "name": "mol/(L·h)",
+            "main_symbol": "mol/(L·h)",
+            "conversion_factor_to_main_unit": "3.5999999999999996"
+        },
+        {
+            "uuid": "d281bb76-1ae4-591d-afbe-04b3ac0d16d4",
+            "name": "mol/(L·d)",
+            "main_symbol": "mol/(L·d)",
+            "conversion_factor_to_main_unit": "86.4"
+        },
+        {
             "uuid": "fec916ef-e9de-5659-9c7b-778819582247",
             "name": "μkat/L",
             "main_symbol": "μkat/L",
             "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "0c19e91e-58e0-5088-9b42-5d9b259e12f5",
+            "name": "mol/(m³·h)",
+            "main_symbol": "mol/(m³·h)",
+            "conversion_factor_to_main_unit": "3600.0"
+        },
+        {
+            "uuid": "99d43b5b-0e1b-5233-a39c-0a8f1e09b8b0",
+            "name": "mol/(m³·d)",
+            "main_symbol": "mol/(m³·d)",
+            "conversion_factor_to_main_unit": "86400.0"
         },
         {
             "uuid": "59b0ac81-af46-51e0-9933-41832e04edfc",

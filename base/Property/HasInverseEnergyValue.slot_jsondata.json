@@ -12,9 +12,17 @@
     ],
     "property_type": "Quantity",
     "main_unit": {
-        "uuid": "32eb6690-d6c9-5c91-a565-282255414fe1",
-        "name": "/(kVA·h)",
-        "main_symbol": "/(kVA·h)",
+        "uuid": "a3b0e14f-fc94-5e6a-8656-fdbcf8d4019f",
+        "name": "/(VA·h)",
+        "main_symbol": "/(VA·h)",
         "conversion_factor_to_main_unit": "1.0"
-    }
+    },
+    "additional_units": [
+        {
+            "uuid": "32eb6690-d6c9-5c91-a565-282255414fe1",
+            "name": "/(kVA·h)",
+            "main_symbol": "/(kVA·h)",
+            "conversion_factor_to_main_unit": "1000.0000000000001"
+        }
+    ]
 }

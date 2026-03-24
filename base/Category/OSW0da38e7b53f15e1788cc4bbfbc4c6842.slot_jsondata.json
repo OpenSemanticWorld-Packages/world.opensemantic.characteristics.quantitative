@@ -20,10 +20,15 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW86f40d0f8df55e898a469f9c52e49179",
-    "default_unit": "Item:OSW98c14d48aecc52fdab52023fb924debd",
+    "default_unit": "Item:OSWd5d57d06ab86571ea57ed4e5bedc606d",
     "unit_enumeration": [
         {
-            "osw_id": "Item:OSW98c14d48aecc52fdab52023fb924debd",
+            "osw_id": "Item:OSWd5d57d06ab86571ea57ed4e5bedc606d",
+            "name": "per_hour_per_volt_ampere",
+            "symbol": "/(VA·h)"
+        },
+        {
+            "osw_id": "Item:OSWd5d57d06ab86571ea57ed4e5bedc606d#OSW98c14d48aecc52fdab52023fb924debd",
             "name": "per_hour_per_kilo_volt_ampere",
             "symbol": "/(kVA·h)"
         }

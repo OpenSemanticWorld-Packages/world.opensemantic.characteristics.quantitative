@@ -22,5 +22,13 @@
         "name": "mol/(kg·Pa)",
         "main_symbol": "mol/(kg·Pa)",
         "conversion_factor_to_main_unit": "1.0"
-    }
+    },
+    "additional_units": [
+        {
+            "uuid": "247a66a0-aa44-58c0-b001-1c0bba3e0ee8",
+            "name": "mol/(g·Pa)",
+            "main_symbol": "mol/(g·Pa)",
+            "conversion_factor_to_main_unit": "1000.0"
+        }
+    ]
 }

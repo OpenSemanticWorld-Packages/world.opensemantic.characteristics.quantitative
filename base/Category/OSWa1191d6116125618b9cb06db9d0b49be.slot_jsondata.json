@@ -50,7 +50,7 @@
             "symbol": "mg/m²"
         },
         {
-            "osw_id": "Item:OSW6a81c11daa085e04bbe8555c344c2a95",
+            "osw_id": "Item:OSW0a5e73cf501255db97b4c71f3c964231#OSW6a81c11daa085e04bbe8555c344c2a95",
             "name": "micro_gram_per_inch_squared",
             "symbol": "μg/in²"
         },
@@ -73,6 +73,11 @@
             "osw_id": "Item:OSWb93e608c86fd5480a5de9cd1b3e9ea22#OSWbea4b306b10f575c8ee58aeeeca5b3a5",
             "name": "milli_gram_per_centi_meter_squared",
             "symbol": "mg/cm²"
+        },
+        {
+            "osw_id": "Item:OSW0a5e73cf501255db97b4c71f3c964231",
+            "name": "gram_per_inch_squared",
+            "symbol": "g/in²"
         },
         {
             "osw_id": "Item:OSWb93e608c86fd5480a5de9cd1b3e9ea22#OSW0ac392f5beaf59ab807d2e0de0da85c9",

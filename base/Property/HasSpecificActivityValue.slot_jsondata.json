@@ -25,10 +25,28 @@
     },
     "additional_units": [
         {
+            "uuid": "10fe5f0c-7446-59df-aa9b-3a6ceae2a276",
+            "name": "MBq/kg",
+            "main_symbol": "MBq/kg",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "d95a1f6d-b6ff-55ff-84a4-c27921d74619",
+            "name": "kBq/kg",
+            "main_symbol": "kBq/kg",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
             "uuid": "a3e5d9f0-f11f-5866-89e7-0e54c147e1c1",
             "name": "mBq/g",
             "main_symbol": "mBq/g",
             "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "7a5f246d-51b5-5a58-92e6-e69a002b52d6",
+            "name": "Bq/g",
+            "main_symbol": "Bq/g",
+            "conversion_factor_to_main_unit": "1000.0"
         },
         {
             "uuid": "83353e97-28a9-5373-b3bb-adc2b4d28d49",

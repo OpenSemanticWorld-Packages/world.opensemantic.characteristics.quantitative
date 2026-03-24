@@ -12,9 +12,17 @@
     ],
     "property_type": "Quantity",
     "main_unit": {
-        "uuid": "77a81241-cbe3-5915-91ec-f4239a1991f0",
-        "name": "MeV·fm",
-        "main_symbol": "MeV·fm",
+        "uuid": "d6f44d69-ddff-51d7-82d2-0d778e375683",
+        "name": "eV·m",
+        "main_symbol": "eV·m",
         "conversion_factor_to_main_unit": "1.0"
-    }
+    },
+    "additional_units": [
+        {
+            "uuid": "77a81241-cbe3-5915-91ec-f4239a1991f0",
+            "name": "MeV·fm",
+            "main_symbol": "MeV·fm",
+            "conversion_factor_to_main_unit": "1000000000.0"
+        }
+    ]
 }

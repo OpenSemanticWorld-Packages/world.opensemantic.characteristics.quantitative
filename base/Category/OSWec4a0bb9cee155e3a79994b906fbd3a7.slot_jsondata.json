@@ -34,7 +34,7 @@
             "symbol": "m³/(mol·s)"
         },
         {
-            "osw_id": "Item:OSWe3739db7a148562eb2f29ef963e3c001",
+            "osw_id": "Item:OSW25bef56399fe5f7fa5d119aff09cfb30#OSWe3739db7a148562eb2f29ef963e3c001",
             "name": "centi_meter_cubed_per_mole_per_second",
             "symbol": "cm³/(mol·s)"
         }

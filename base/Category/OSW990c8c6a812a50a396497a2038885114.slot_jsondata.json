@@ -20,17 +20,27 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSWf7148422e50b5448b5ec6bfb6e985441",
-    "default_unit": "Item:OSWa5c77be3eb415d749ce66c39717fb676",
+    "default_unit": "Item:OSWff1a19e45440525d93c634c8050fe5b4",
     "unit_enumeration": [
         {
-            "osw_id": "Item:OSWa5c77be3eb415d749ce66c39717fb676",
+            "osw_id": "Item:OSWff1a19e45440525d93c634c8050fe5b4",
+            "name": "meter_squared_second",
+            "symbol": "m²·s"
+        },
+        {
+            "osw_id": "Item:OSWff1a19e45440525d93c634c8050fe5b4#OSWeb7f01695c965360be41408bae5e1eba",
+            "name": "centi_meter_squared_second",
+            "symbol": "cm²·s"
+        },
+        {
+            "osw_id": "Item:OSW9a366ab657c352ca8a7a22b56dcdb26b#OSWa5c77be3eb415d749ce66c39717fb676",
             "name": "centi_meter_squared_minute",
             "symbol": "cm²·min"
         },
         {
-            "osw_id": "Item:OSWeb7f01695c965360be41408bae5e1eba",
-            "name": "centi_meter_squared_second",
-            "symbol": "cm²·s"
+            "osw_id": "Item:OSW9a366ab657c352ca8a7a22b56dcdb26b",
+            "name": "meter_squared_minute",
+            "symbol": "m²·min"
         }
     ],
     "quantity_property": "Property:HasAreaTimeValue"

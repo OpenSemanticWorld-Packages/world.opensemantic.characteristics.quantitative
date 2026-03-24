@@ -44,12 +44,12 @@
             "symbol": "J/cm²"
         },
         {
-            "osw_id": "Item:OSWf9cdbd6556545d55a9bde1a0915a9545",
+            "osw_id": "Item:OSW0747b5382b955ef2adef0e4c4b1efa81#OSWf9cdbd6556545d55a9bde1a0915a9545",
             "name": "mega_joule_per_meter_squared",
             "symbol": "MJ/m²"
         },
         {
-            "osw_id": "Item:OSW48c62f71ae5a512ca24dcb6059999b8d",
+            "osw_id": "Item:OSW0747b5382b955ef2adef0e4c4b1efa81#OSW48c62f71ae5a512ca24dcb6059999b8d",
             "name": "giga_joule_per_meter_squared",
             "symbol": "GJ/m²"
         }

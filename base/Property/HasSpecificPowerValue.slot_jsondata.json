@@ -49,10 +49,22 @@
             "conversion_factor_to_main_unit": "1000.0"
         },
         {
+            "uuid": "d6583782-71d0-59e1-8fe8-2bc5e8694dbd",
+            "name": "Sv/h",
+            "main_symbol": "Sv/h",
+            "conversion_factor_to_main_unit": "3600.0"
+        },
+        {
             "uuid": "06714aa2-c903-548c-ae49-48bc75302997",
             "name": "μGy/s",
             "main_symbol": "μGy/s",
             "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "113b5677-cf21-54a3-9325-149b24a05deb",
+            "name": "mSv/h",
+            "main_symbol": "mSv/h",
+            "conversion_factor_to_main_unit": "3600000.0000000005"
         },
         {
             "uuid": "86cf29c3-821a-5588-b0e2-a1fcd0b20d58",
@@ -65,6 +77,12 @@
             "name": "μSv/h",
             "main_symbol": "μSv/h",
             "conversion_factor_to_main_unit": "3600000000.0"
+        },
+        {
+            "uuid": "2a521b42-f0b9-58b2-8d43-0e5842d53fcb",
+            "name": "nSv/h",
+            "main_symbol": "nSv/h",
+            "conversion_factor_to_main_unit": "3600000000000.0"
         }
     ]
 }

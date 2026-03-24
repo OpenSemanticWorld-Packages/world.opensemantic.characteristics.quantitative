@@ -30,12 +30,17 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSWd654d81408d65191a77eb48c1c3e115c",
-    "default_unit": "Item:OSWf10448747b8c5e55b9978254a88240a0",
+    "default_unit": "Item:OSW9ab5a7ddbce4562d9b0e08071c93ddc2#OSWf10448747b8c5e55b9978254a88240a0",
     "unit_enumeration": [
         {
-            "osw_id": "Item:OSWf10448747b8c5e55b9978254a88240a0",
+            "osw_id": "Item:OSW9ab5a7ddbce4562d9b0e08071c93ddc2#OSWf10448747b8c5e55b9978254a88240a0",
             "name": "chf_per_kg",
             "symbol": "CHF/kg"
+        },
+        {
+            "osw_id": "Item:OSW9ab5a7ddbce4562d9b0e08071c93ddc2",
+            "name": "chf_per_g",
+            "symbol": "CHF/g"
         }
     ],
     "quantity_property": "Property:HasCostPerMassValue"

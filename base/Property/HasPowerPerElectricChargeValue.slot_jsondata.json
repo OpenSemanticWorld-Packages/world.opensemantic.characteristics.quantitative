@@ -31,6 +31,12 @@
             "conversion_factor_to_main_unit": "1e-06"
         },
         {
+            "uuid": "3fdfe885-c653-50a0-ac05-778b7ed63f85",
+            "name": "V/min",
+            "main_symbol": "V/min",
+            "conversion_factor_to_main_unit": "60.0"
+        },
+        {
             "uuid": "ab240371-7e65-55f2-ba9c-da396b2f30ef",
             "name": "mV/min",
             "main_symbol": "mV/min",

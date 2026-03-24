@@ -59,7 +59,7 @@
             "symbol": "mg/m²"
         },
         {
-            "osw_id": "Item:OSW6a81c11daa085e04bbe8555c344c2a95",
+            "osw_id": "Item:OSW0a5e73cf501255db97b4c71f3c964231#OSW6a81c11daa085e04bbe8555c344c2a95",
             "name": "micro_gram_per_inch_squared",
             "symbol": "μg/in²"
         },
@@ -69,7 +69,7 @@
             "symbol": "μg/cm²"
         },
         {
-            "osw_id": "Item:OSWbc79874a722f5d3f9071bfcf26af8416",
+            "osw_id": "Item:OSW874169f7ee505aefb10684fba0e9d877#OSWbc79874a722f5d3f9071bfcf26af8416",
             "name": "kilo_gram_per_hectare",
             "symbol": "kg/ha"
         },
@@ -89,6 +89,11 @@
             "symbol": "mg/cm²"
         },
         {
+            "osw_id": "Item:OSW66d38f23cbf45078a439c0e7f11b7246",
+            "name": "gram_per_foot_squared",
+            "symbol": "g/ft²"
+        },
+        {
             "osw_id": "Item:OSW874169f7ee505aefb10684fba0e9d877#OSWfad32d352a4d5f8cac5d17636515a9b2",
             "name": "mega_gram_per_hectare",
             "symbol": "Mg/ha"
@@ -99,12 +104,17 @@
             "symbol": "t/ha"
         },
         {
+            "osw_id": "Item:OSW0a5e73cf501255db97b4c71f3c964231",
+            "name": "gram_per_inch_squared",
+            "symbol": "g/in²"
+        },
+        {
             "osw_id": "Item:OSWb93e608c86fd5480a5de9cd1b3e9ea22#OSW0ac392f5beaf59ab807d2e0de0da85c9",
             "name": "gram_per_centi_meter_squared",
             "symbol": "g/cm²"
         },
         {
-            "osw_id": "Item:OSWba3304537cb25382aa00a3ffd5b1c0f0",
+            "osw_id": "Item:OSW66d38f23cbf45078a439c0e7f11b7246#OSWba3304537cb25382aa00a3ffd5b1c0f0",
             "name": "kilo_gram_per_foot_squared",
             "symbol": "kg/ft²"
         },

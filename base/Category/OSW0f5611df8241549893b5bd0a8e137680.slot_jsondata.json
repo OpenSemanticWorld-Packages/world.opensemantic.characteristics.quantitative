@@ -26,15 +26,20 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW5e4e4b31c5bd5b52bcac0b85bbc2e85b",
-    "default_unit": "Item:OSW3adb44b7a27d5ed0b9691b095779cb1f",
+    "default_unit": "Item:OSWd4beae5a185a50d48b79ba555e263510",
     "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWd4beae5a185a50d48b79ba555e263510",
+            "name": "per_meter_squared",
+            "symbol": "m^-2"
+        },
         {
             "osw_id": "Item:OSW3adb44b7a27d5ed0b9691b095779cb1f",
             "name": "per_meter_squared",
             "symbol": "/m²"
         },
         {
-            "osw_id": "Item:OSW9e2974a529375b7ca4133b4f2806739c",
+            "osw_id": "Item:OSWd4beae5a185a50d48b79ba555e263510#OSW9e2974a529375b7ca4133b4f2806739c",
             "name": "per_meter_per_nano_meter",
             "symbol": "/(m·nm)"
         }

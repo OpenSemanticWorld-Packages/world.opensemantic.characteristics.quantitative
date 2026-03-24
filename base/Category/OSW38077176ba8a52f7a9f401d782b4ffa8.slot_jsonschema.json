@@ -35,15 +35,18 @@
                     "title": "TorquePerAngleUnit",
                     "enum": [
                         "Item:OSWcf35571886b95c2c889f076d7dab41dd",
-                        "Item:OSW594d046f9dd75e6babafafcc00da5467"
+                        "Item:OSWc52e27ac442e51e39ea2c81a8b18a1bc",
+                        "Item:OSWc52e27ac442e51e39ea2c81a8b18a1bc#OSW594d046f9dd75e6babafafcc00da5467"
                     ],
                     "x-enum-varnames": [
                         "meter_newton_per_radian",
+                        "meter_newton_per_degree",
                         "kilo_newton_meter_per_degree"
                     ],
                     "options": {
                         "enum_titles": [
                             "N·m/rad",
+                            "N·m/°",
                             "kN·m/°"
                         ]
                     },

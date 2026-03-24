@@ -185,6 +185,12 @@
             "conversion_factor_to_main_unit": "3600.0"
         },
         {
+            "uuid": "dd18159b-54cb-53d1-9777-cb04b7527648",
+            "name": "W·h/a",
+            "main_symbol": "W·h/a",
+            "conversion_factor_to_main_unit": "8766.0"
+        },
+        {
             "uuid": "a3f93ca3-c0f3-578a-87c0-d8425afee7c3",
             "name": "μJ/s",
             "main_symbol": "μJ/s",

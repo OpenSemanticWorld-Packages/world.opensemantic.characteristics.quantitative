@@ -25,6 +25,12 @@
             "conversion_factor_to_main_unit": "1.0"
         },
         {
+            "uuid": "259653f2-6646-5794-8458-9889914b3039",
+            "name": "°C·m",
+            "main_symbol": "°C·m",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
             "uuid": "13ab1720-5f21-59df-bc56-7251167c89ea",
             "name": "°C·cm",
             "main_symbol": "°C·cm",

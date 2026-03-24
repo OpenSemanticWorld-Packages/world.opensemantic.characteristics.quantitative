@@ -39,16 +39,18 @@
                     "enum": [
                         "Item:OSWf045a04750e15ea2b152fb3bfebf162a",
                         "Item:OSW1dd1ded9a5705629b47aa64b3ac3deea",
-                        "Item:OSW3eaa66dd20f856fe9a5c4199bc0a1ea4",
+                        "Item:OSWf045a04750e15ea2b152fb3bfebf162a#OSW3eaa66dd20f856fe9a5c4199bc0a1ea4",
                         "Item:OSW5e6ed82c68555dc2b37925babf728409",
-                        "Item:OSWc5e4d5b0a17f513ca13db454fc844fbc"
+                        "Item:OSW536ad743296e51a6a9f8dc28afc017e4#OSWc5e4d5b0a17f513ca13db454fc844fbc",
+                        "Item:OSW536ad743296e51a6a9f8dc28afc017e4"
                     ],
                     "x-enum-varnames": [
                         "joule_second",
                         "electron_volt_second",
                         "atto_joule_second",
                         "meter_newton_second",
-                        "kilo_gram_meter_squared_per_second"
+                        "kilo_gram_meter_squared_per_second",
+                        "gram_meter_squared_per_second"
                     ],
                     "options": {
                         "enum_titles": [
@@ -56,7 +58,8 @@
                             "eV·s",
                             "aJ·s",
                             "N·m·s",
-                            "kg·m²/s"
+                            "kg·m²/s",
+                            "g·m²/s"
                         ]
                     },
                     "default": "Item:OSWf045a04750e15ea2b152fb3bfebf162a"

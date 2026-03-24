@@ -26,10 +26,15 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW7ed252bb9ca75ffdafb198c9c2ce126e",
-    "default_unit": "Item:OSW9108816e33465625bcd9b4850d64cf9a",
+    "default_unit": "Item:OSW2cd3a64f77985c4fbcf53e38a96f02bb",
     "unit_enumeration": [
         {
-            "osw_id": "Item:OSW9108816e33465625bcd9b4850d64cf9a",
+            "osw_id": "Item:OSW2cd3a64f77985c4fbcf53e38a96f02bb",
+            "name": "gram_per_day_per_liter",
+            "symbol": "g/(L·d)"
+        },
+        {
+            "osw_id": "Item:OSW2cd3a64f77985c4fbcf53e38a96f02bb#OSW9108816e33465625bcd9b4850d64cf9a",
             "name": "micro_gram_per_day_per_liter",
             "symbol": "μg/(L·d)"
         }

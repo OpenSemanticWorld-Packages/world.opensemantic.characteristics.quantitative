@@ -16,5 +16,13 @@
         "name": "kg·K",
         "main_symbol": "kg·K",
         "conversion_factor_to_main_unit": "1.0"
-    }
+    },
+    "additional_units": [
+        {
+            "uuid": "5d64fc88-3d7e-59d9-9d3d-78c33d77222e",
+            "name": "g·K",
+            "main_symbol": "g·K",
+            "conversion_factor_to_main_unit": "1000.0"
+        }
+    ]
 }

@@ -36,17 +36,20 @@
                 "unit": {
                     "title": "SpecificHeatVolumeUnit",
                     "enum": [
-                        "Item:OSWc06da5be651b56d993bef3fc05d91bd6"
+                        "Item:OSWd52262b052425cd89da2c28f885447d1#OSWc06da5be651b56d993bef3fc05d91bd6",
+                        "Item:OSWd52262b052425cd89da2c28f885447d1"
                     ],
                     "x-enum-varnames": [
-                        "joule_per_kelvin_per_kilo_gram_per_meter_cubed"
+                        "joule_per_kelvin_per_kilo_gram_per_meter_cubed",
+                        "joule_per_gram_per_kelvin_per_meter_cubed"
                     ],
                     "options": {
                         "enum_titles": [
-                            "J/(kg·K·m³)"
+                            "J/(kg·K·m³)",
+                            "J/(g·K·m³)"
                         ]
                     },
-                    "default": "Item:OSWc06da5be651b56d993bef3fc05d91bd6"
+                    "default": "Item:OSWd52262b052425cd89da2c28f885447d1#OSWc06da5be651b56d993bef3fc05d91bd6"
                 }
             },
             "x-smw-quantity-property": "Property:HasSpecificHeatVolumeValue"

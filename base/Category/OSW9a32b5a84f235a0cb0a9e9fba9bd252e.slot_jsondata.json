@@ -36,7 +36,7 @@
             "symbol": "J/kg"
         },
         {
-            "osw_id": "Item:OSW5c3bc74f490f59b898441d2863f5e961",
+            "osw_id": "Item:OSW7a9b53330d565b609c1114ae81b36719#OSW5c3bc74f490f59b898441d2863f5e961",
             "name": "meter_newton_per_kilo_gram",
             "symbol": "N·m/kg"
         },
@@ -49,6 +49,11 @@
             "osw_id": "Item:OSW0fb024653eb9557482d93f027840ee33",
             "name": "joule_per_gram",
             "symbol": "J/g"
+        },
+        {
+            "osw_id": "Item:OSW7a9b53330d565b609c1114ae81b36719",
+            "name": "meter_newton_per_gram",
+            "symbol": "N·m/g"
         },
         {
             "osw_id": "Item:OSW0fb024653eb9557482d93f027840ee33#OSW4acc791f0c595c508efa5222cb675287",

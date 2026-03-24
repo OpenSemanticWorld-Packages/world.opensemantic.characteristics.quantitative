@@ -19,6 +19,24 @@
     },
     "additional_units": [
         {
+            "uuid": "a69d00f6-62eb-53cd-9d22-15931052b418",
+            "name": "m·g",
+            "main_symbol": "m·g",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "1b66ab6e-7d3a-5a25-88a5-d410e8f9d2fb",
+            "name": "kg·m",
+            "main_symbol": "kg·m",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "ca5ee8bd-c846-5620-91fb-b7de15a2331d",
+            "name": "g·m",
+            "main_symbol": "g·m",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
             "uuid": "0e973c96-915c-576f-948d-ad0c26d99657",
             "name": "g·mm",
             "main_symbol": "g·mm",

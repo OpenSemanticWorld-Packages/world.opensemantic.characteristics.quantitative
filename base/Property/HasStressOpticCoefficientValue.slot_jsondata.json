@@ -18,12 +18,18 @@
     ],
     "property_type": "Quantity",
     "main_unit": {
-        "uuid": "00d5d31d-b5a3-5261-9338-29702ae10082",
-        "name": "/Pa",
-        "main_symbol": "/Pa",
+        "uuid": "f46de1df-7218-506d-80b7-d44f155d511b",
+        "name": "m/(m·Pa)",
+        "main_symbol": "m/(m·Pa)",
         "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
+        {
+            "uuid": "00d5d31d-b5a3-5261-9338-29702ae10082",
+            "name": "/Pa",
+            "main_symbol": "/Pa",
+            "conversion_factor_to_main_unit": "1.0"
+        },
         {
             "uuid": "46a83f33-0f79-55d1-a0b0-9199b950a282",
             "name": "m²/N",

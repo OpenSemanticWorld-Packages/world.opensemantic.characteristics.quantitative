@@ -31,6 +31,12 @@
             "conversion_factor_to_main_unit": "1.0"
         },
         {
+            "uuid": "312b7cb4-6f25-53a9-8788-4371770d82d3",
+            "name": "m/(L·d)",
+            "main_symbol": "m/(L·d)",
+            "conversion_factor_to_main_unit": "86.4"
+        },
+        {
             "uuid": "5e24e557-c549-5aaa-b4f9-1af0cbbe048a",
             "name": "μm/(L·d)",
             "main_symbol": "μm/(L·d)",

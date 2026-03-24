@@ -85,11 +85,6 @@
             "symbol": "dag"
         },
         {
-            "osw_id": "Item:OSW54afa4358b8655338e8e82e2ea7fac65",
-            "name": "ampere_turn",
-            "symbol": "AT"
-        },
-        {
             "osw_id": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSW88dc7f02bedd5111a34ed02756f37892",
             "name": "hecto_gram",
             "symbol": "hg"

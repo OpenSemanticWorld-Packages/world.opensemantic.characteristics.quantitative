@@ -37,11 +37,12 @@
                     "title": "ElectricChargePerMassUnit",
                     "enum": [
                         "Item:OSWf67d1f72b8d65f079085ae0b2e649428",
-                        "Item:OSW40aee268cfd056638db75aca748bb5a9",
+                        "Item:OSWeccca21113fe5297bb1190eaee52459d#OSW40aee268cfd056638db75aca748bb5a9",
                         "Item:OSW57e1f78efd6a50fd8f2c35ea808d7b86",
-                        "Item:OSWae7413b736b45ffca049de991c5df83c",
+                        "Item:OSWeccca21113fe5297bb1190eaee52459d#OSWae7413b736b45ffca049de991c5df83c",
                         "Item:OSWc487154613c25f51813ae4f4de2c7802",
-                        "Item:OSW9281c5087fb45cd3b07507b940231330"
+                        "Item:OSWeccca21113fe5297bb1190eaee52459d",
+                        "Item:OSWc487154613c25f51813ae4f4de2c7802#OSW9281c5087fb45cd3b07507b940231330"
                     ],
                     "x-enum-varnames": [
                         "per_second_per_tesla",
@@ -49,6 +50,7 @@
                         "ampere_meter_squared_per_joule_per_second",
                         "coulomb_per_kilo_gram",
                         "hertz_per_tesla",
+                        "coulomb_per_gram",
                         "mega_hertz_per_tesla"
                     ],
                     "options": {
@@ -58,6 +60,7 @@
                             "A·m²/(J·s)",
                             "C/kg",
                             "Hz/T",
+                            "C/g",
                             "MHz/T"
                         ]
                     },

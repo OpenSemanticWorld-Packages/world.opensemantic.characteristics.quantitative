@@ -26,5 +26,13 @@
         "name": "CHF/kg",
         "main_symbol": "CHF/kg",
         "conversion_factor_to_main_unit": "1.0"
-    }
+    },
+    "additional_units": [
+        {
+            "uuid": "576c64bd-07e3-58fa-aa11-537aff67e23f",
+            "name": "CHF/g",
+            "main_symbol": "CHF/g",
+            "conversion_factor_to_main_unit": "1000.0"
+        }
+    ]
 }

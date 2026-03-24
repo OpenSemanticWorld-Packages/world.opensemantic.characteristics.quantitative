@@ -29,6 +29,12 @@
             "name": "/(m·nm)",
             "main_symbol": "/(m·nm)",
             "conversion_factor_to_main_unit": "1e-09"
+        },
+        {
+            "uuid": "ae7f1f55-9c11-5c61-912f-809559bbd990",
+            "name": "m^-2",
+            "main_symbol": "m^-2",
+            "conversion_factor_to_main_unit": "1.0"
         }
     ]
 }

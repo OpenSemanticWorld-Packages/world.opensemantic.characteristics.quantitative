@@ -36,17 +36,20 @@
                 "unit": {
                     "title": "ConductivityVarianceUnit",
                     "enum": [
-                        "Item:OSW89e525be6d675802a9d695d2d6655505"
+                        "Item:OSWcc4ad63bfadb5b85937be0b7e6fad4da",
+                        "Item:OSWcc4ad63bfadb5b85937be0b7e6fad4da#OSW89e525be6d675802a9d695d2d6655505"
                     ],
                     "x-enum-varnames": [
+                        "siemens_squared_per_meter_squared",
                         "micro_siemens_squared_per_centi_meter_squared"
                     ],
                     "options": {
                         "enum_titles": [
+                            "S²/m²",
                             "μS²/cm²"
                         ]
                     },
-                    "default": "Item:OSW89e525be6d675802a9d695d2d6655505"
+                    "default": "Item:OSWcc4ad63bfadb5b85937be0b7e6fad4da"
                 }
             },
             "x-smw-quantity-property": "Property:HasConductivityVarianceValue"

@@ -12,9 +12,17 @@
     ],
     "property_type": "Quantity",
     "main_unit": {
-        "uuid": "880083ed-1ad8-56e1-91fd-9e86ac5171a4",
-        "name": "cm·s·°C",
-        "main_symbol": "cm·s·°C",
+        "uuid": "e110e1a6-ce59-52b1-a152-a1f9414099fe",
+        "name": "m·s·°C",
+        "main_symbol": "m·s·°C",
         "conversion_factor_to_main_unit": "1.0"
-    }
+    },
+    "additional_units": [
+        {
+            "uuid": "880083ed-1ad8-56e1-91fd-9e86ac5171a4",
+            "name": "cm·s·°C",
+            "main_symbol": "cm·s·°C",
+            "conversion_factor_to_main_unit": "100.0"
+        }
+    ]
 }

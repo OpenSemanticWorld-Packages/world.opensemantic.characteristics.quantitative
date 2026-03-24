@@ -36,20 +36,26 @@
                 "unit": {
                     "title": "VolumetricFluxUnit",
                     "enum": [
-                        "Item:OSW832931cbeded5692a611f7752ee6cf4c",
-                        "Item:OSWce6dfcc14ebe5512909267b6fbe8831d"
+                        "Item:OSW68725f4a9daf50cf9b8f166f62e1738b",
+                        "Item:OSW68725f4a9daf50cf9b8f166f62e1738b#OSW832931cbeded5692a611f7752ee6cf4c",
+                        "Item:OSWffc45287d2325f1eb96d3e2cec2f6ac0",
+                        "Item:OSWffc45287d2325f1eb96d3e2cec2f6ac0#OSWce6dfcc14ebe5512909267b6fbe8831d"
                     ],
                     "x-enum-varnames": [
+                        "liter_per_meter_squared_per_minute",
                         "milli_liter_per_centi_meter_squared_per_minute",
+                        "liter_per_meter_squared_per_second",
                         "milli_liter_per_centi_meter_squared_per_second"
                     ],
                     "options": {
                         "enum_titles": [
+                            "L/(m²·min)",
                             "mL/(cm²·min)",
+                            "L/(m²·s)",
                             "mL/(cm²·s)"
                         ]
                     },
-                    "default": "Item:OSW832931cbeded5692a611f7752ee6cf4c"
+                    "default": "Item:OSW68725f4a9daf50cf9b8f166f62e1738b"
                 }
             },
             "x-smw-quantity-property": "Property:HasVolumetricFluxValue"

@@ -26,10 +26,10 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW48b2f73fc64c5fb8be9721afca6648c6",
-    "default_unit": "Item:OSWf43e687f9152535bac176e4c48d3fd5f",
+    "default_unit": "Item:OSWab4ed272f70f51b4b2e7d697529f710e#OSWf43e687f9152535bac176e4c48d3fd5f",
     "unit_enumeration": [
         {
-            "osw_id": "Item:OSWf43e687f9152535bac176e4c48d3fd5f",
+            "osw_id": "Item:OSWab4ed272f70f51b4b2e7d697529f710e#OSWf43e687f9152535bac176e4c48d3fd5f",
             "name": "kilo_gram_per_second_squared",
             "symbol": "kg/s²"
         },
@@ -39,12 +39,17 @@
             "symbol": "nN·m/m²"
         },
         {
+            "osw_id": "Item:OSWffdf65fa3ce15abb84e12b3065741882",
+            "name": "erg_per_meter_squared",
+            "symbol": "erg/m²"
+        },
+        {
             "osw_id": "Item:OSW0d4e5e11d53f5018a0b965373b55510d#OSW791fa3180a03539890eda05576abf858",
             "name": "micro_newton_per_meter",
             "symbol": "μN·m/m²"
         },
         {
-            "osw_id": "Item:OSWa6f5dc3bda325537be959b73b3f9cffb",
+            "osw_id": "Item:OSWffdf65fa3ce15abb84e12b3065741882#OSWa6f5dc3bda325537be959b73b3f9cffb",
             "name": "erg_per_centi_meter_squared",
             "symbol": "erg/cm²"
         },
@@ -79,6 +84,11 @@
             "symbol": "W·s/m²"
         },
         {
+            "osw_id": "Item:OSWab4ed272f70f51b4b2e7d697529f710e",
+            "name": "gram_per_second_squared",
+            "symbol": "g/s²"
+        },
+        {
             "osw_id": "Item:OSW0d4e5e11d53f5018a0b965373b55510d#OSWca3713c796a850e28929b34bfe347edb",
             "name": "kilo_newton_per_meter",
             "symbol": "kN·m/m²"
@@ -94,7 +104,7 @@
             "symbol": "J/cm²"
         },
         {
-            "osw_id": "Item:OSWf9cdbd6556545d55a9bde1a0915a9545",
+            "osw_id": "Item:OSW0747b5382b955ef2adef0e4c4b1efa81#OSWf9cdbd6556545d55a9bde1a0915a9545",
             "name": "mega_joule_per_meter_squared",
             "symbol": "MJ/m²"
         },
@@ -104,12 +114,12 @@
             "symbol": "MN·m/m²"
         },
         {
-            "osw_id": "Item:OSWf1206d0d1834545daea229acbe7559e4",
+            "osw_id": "Item:OSWe8b1aef90f3658a188f5aaf54cd01384#OSWf1206d0d1834545daea229acbe7559e4",
             "name": "hour_kilo_watt_per_meter_squared",
             "symbol": "kW·h/m²"
         },
         {
-            "osw_id": "Item:OSW48c62f71ae5a512ca24dcb6059999b8d",
+            "osw_id": "Item:OSW0747b5382b955ef2adef0e4c4b1efa81#OSW48c62f71ae5a512ca24dcb6059999b8d",
             "name": "giga_joule_per_meter_squared",
             "symbol": "GJ/m²"
         },

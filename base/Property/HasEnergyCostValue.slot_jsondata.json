@@ -29,6 +29,54 @@
     },
     "additional_units": [
         {
+            "uuid": "032cf81c-b25e-5689-911d-fcf6ef8b0ac1",
+            "name": "CHF/(W·h)",
+            "main_symbol": "CHF/(W·h)",
+            "conversion_factor_to_main_unit": "3600.0"
+        },
+        {
+            "uuid": "5fb87cd6-96ad-561b-9235-6ec9721e1b93",
+            "name": "Ft/Wh",
+            "main_symbol": "Ft/Wh",
+            "conversion_factor_to_main_unit": "3600.0"
+        },
+        {
+            "uuid": "f9e2056b-6c8a-5027-ba33-068f3e1fb75b",
+            "name": "Kč/(W·h)",
+            "main_symbol": "Kč/(W·h)",
+            "conversion_factor_to_main_unit": "3600.0"
+        },
+        {
+            "uuid": "e06d5a17-2782-50d0-82a8-f90d080f4af2",
+            "name": "RON/(W·h)",
+            "main_symbol": "RON/(W·h)",
+            "conversion_factor_to_main_unit": "3600.0"
+        },
+        {
+            "uuid": "93737fe6-ad9b-5f7b-8f90-65492a93c4d3",
+            "name": "kr/(W·h)",
+            "main_symbol": "kr/(W·h)",
+            "conversion_factor_to_main_unit": "3600.0"
+        },
+        {
+            "uuid": "d9f16cf6-7e71-55ee-8051-25f6d78b6dc4",
+            "name": "zł/(W·h)",
+            "main_symbol": "zł/(W·h)",
+            "conversion_factor_to_main_unit": "3600.0"
+        },
+        {
+            "uuid": "2d7cd160-465f-5416-89f1-6f54d46b762f",
+            "name": "£/(W·h)",
+            "main_symbol": "£/(W·h)",
+            "conversion_factor_to_main_unit": "3600.0"
+        },
+        {
+            "uuid": "69d986ad-c336-5192-98ba-4eed9aca4058",
+            "name": "лв./(W·h)",
+            "main_symbol": "лв./(W·h)",
+            "conversion_factor_to_main_unit": "3600.0"
+        },
+        {
             "uuid": "c83187ef-09c6-52c8-85ce-7e74fc66aeb2",
             "name": "€/(W·h)",
             "main_symbol": "€/(W·h)",

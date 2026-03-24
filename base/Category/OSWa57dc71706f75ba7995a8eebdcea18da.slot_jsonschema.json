@@ -53,7 +53,7 @@
                         "milli_hertz",
                         "per_minute",
                         "hertz",
-                        "speed_of_light_per_second",
+                        "cycle_per_second",
                         "per_milli_second",
                         "kilo_hertz",
                         "mega_hertz",

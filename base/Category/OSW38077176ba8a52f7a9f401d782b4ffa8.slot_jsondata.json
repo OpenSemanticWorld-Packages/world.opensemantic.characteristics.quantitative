@@ -28,7 +28,12 @@
             "symbol": "N·m/rad"
         },
         {
-            "osw_id": "Item:OSW594d046f9dd75e6babafafcc00da5467",
+            "osw_id": "Item:OSWc52e27ac442e51e39ea2c81a8b18a1bc",
+            "name": "meter_newton_per_degree",
+            "symbol": "N·m/°"
+        },
+        {
+            "osw_id": "Item:OSWc52e27ac442e51e39ea2c81a8b18a1bc#OSW594d046f9dd75e6babafafcc00da5467",
             "name": "kilo_newton_meter_per_degree",
             "symbol": "kN·m/°"
         }

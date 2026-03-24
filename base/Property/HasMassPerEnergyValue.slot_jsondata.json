@@ -25,6 +25,12 @@
     },
     "additional_units": [
         {
+            "uuid": "d2d434c6-6ee5-5f24-ae2f-4a8434ae1426",
+            "name": "g/J",
+            "main_symbol": "g/J",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
             "uuid": "a7d46776-09b2-5066-a245-fb48b2c4db0f",
             "name": "kg/GJ",
             "main_symbol": "kg/GJ",

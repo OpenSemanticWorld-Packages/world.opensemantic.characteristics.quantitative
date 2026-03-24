@@ -44,7 +44,7 @@
             "symbol": "pg/kg"
         },
         {
-            "osw_id": "Item:OSWc8e31fab4f67570ea38e00fd9c82be94",
+            "osw_id": "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSWc8e31fab4f67570ea38e00fd9c82be94",
             "name": "nano_gram_per_kilo_gram",
             "symbol": "ng/kg"
         },
@@ -59,7 +59,7 @@
             "symbol": "pg/mg"
         },
         {
-            "osw_id": "Item:OSW489e9a9e15db5cdb8c5e19af8453080d",
+            "osw_id": "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSW489e9a9e15db5cdb8c5e19af8453080d",
             "name": "micro_gram_per_kilo_gram",
             "symbol": "μg/kg"
         },
@@ -74,7 +74,7 @@
             "symbol": "ng/mg"
         },
         {
-            "osw_id": "Item:OSW8b2109351a6e507492cbce6f37661a92",
+            "osw_id": "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSW8b2109351a6e507492cbce6f37661a92",
             "name": "micro_gram_per_gram",
             "symbol": "μg/g"
         },
@@ -84,7 +84,7 @@
             "symbol": "g/kg"
         },
         {
-            "osw_id": "Item:OSW31fbfb51bd3f59f8ad0721cb4d285ad3",
+            "osw_id": "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSW31fbfb51bd3f59f8ad0721cb4d285ad3",
             "name": "milli_gram_per_gram",
             "symbol": "mg/g"
         },

@@ -43,6 +43,12 @@
             "conversion_factor_to_main_unit": "0.1"
         },
         {
+            "uuid": "93438d13-9538-5f1a-8e06-f8c5a0f793c2",
+            "name": "g/in²",
+            "main_symbol": "g/in²",
+            "conversion_factor_to_main_unit": "0.64516"
+        },
+        {
             "uuid": "6ed6b96d-8e6f-58a9-9631-638ebe3137de",
             "name": "mg/cm²",
             "main_symbol": "mg/cm²",

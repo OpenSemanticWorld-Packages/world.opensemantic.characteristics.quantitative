@@ -18,9 +18,9 @@
     ],
     "property_type": "Quantity",
     "main_unit": {
-        "uuid": "ab318d41-6687-5b34-9f7c-0f6f8922bcc9",
-        "name": "kg·m/s",
-        "main_symbol": "kg·m/s",
+        "uuid": "1ee32ea5-520a-501e-b105-d50fd7c37363",
+        "name": "N·s",
+        "main_symbol": "N·s",
         "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
@@ -31,10 +31,28 @@
             "conversion_factor_to_main_unit": "1.0"
         },
         {
-            "uuid": "1ee32ea5-520a-501e-b105-d50fd7c37363",
-            "name": "N·s",
-            "main_symbol": "N·s",
+            "uuid": "ab318d41-6687-5b34-9f7c-0f6f8922bcc9",
+            "name": "kg·m/s",
+            "main_symbol": "kg·m/s",
             "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "0227a69d-2a4e-5b7b-99ea-bb80575c0981",
+            "name": "kg·cm/s",
+            "main_symbol": "kg·cm/s",
+            "conversion_factor_to_main_unit": "100.0"
+        },
+        {
+            "uuid": "e1812180-a4ca-5153-86e4-f3faaa754b82",
+            "name": "g·m/s",
+            "main_symbol": "g·m/s",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "696c050f-0001-51ef-902b-2962d9a381d2",
+            "name": "g·cm/s",
+            "main_symbol": "g·cm/s",
+            "conversion_factor_to_main_unit": "99999.99999999999"
         }
     ]
 }

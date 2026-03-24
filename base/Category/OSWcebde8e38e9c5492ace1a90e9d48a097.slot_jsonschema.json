@@ -34,17 +34,20 @@
                 "unit": {
                     "title": "InverseSquareMassUnit",
                     "enum": [
-                        "Item:OSWea9499724b3152d5a6090f9ef5ce7f4a"
+                        "Item:OSWa0d81bf16132526190b76e39106dc531#OSWea9499724b3152d5a6090f9ef5ce7f4a",
+                        "Item:OSWa0d81bf16132526190b76e39106dc531"
                     ],
                     "x-enum-varnames": [
-                        "per_kilo_gram_squared"
+                        "per_kilo_gram_squared",
+                        "per_gram_squared"
                     ],
                     "options": {
                         "enum_titles": [
-                            "/kg²"
+                            "/kg²",
+                            "/g²"
                         ]
                     },
-                    "default": "Item:OSWea9499724b3152d5a6090f9ef5ce7f4a"
+                    "default": "Item:OSWa0d81bf16132526190b76e39106dc531#OSWea9499724b3152d5a6090f9ef5ce7f4a"
                 }
             },
             "x-smw-quantity-property": "Property:HasInverseSquareMassValue"

@@ -22,5 +22,13 @@
         "name": "J/(kg·K·m³)",
         "main_symbol": "J/(kg·K·m³)",
         "conversion_factor_to_main_unit": "1.0"
-    }
+    },
+    "additional_units": [
+        {
+            "uuid": "aa133306-7fb6-586c-a749-8f2df439e95f",
+            "name": "J/(g·K·m³)",
+            "main_symbol": "J/(g·K·m³)",
+            "conversion_factor_to_main_unit": "0.001"
+        }
+    ]
 }

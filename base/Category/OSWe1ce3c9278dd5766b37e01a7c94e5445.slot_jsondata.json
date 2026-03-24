@@ -26,22 +26,27 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW059c739dae6153cc8ae56fd38b7e0933",
-    "default_unit": "Item:OSWd211fc61709b5e48a4c96473c86a8d13",
+    "default_unit": "Item:OSW7ff49f1950255990a749289e0e68695c#OSWd211fc61709b5e48a4c96473c86a8d13",
     "unit_enumeration": [
         {
-            "osw_id": "Item:OSWd211fc61709b5e48a4c96473c86a8d13",
+            "osw_id": "Item:OSW7ff49f1950255990a749289e0e68695c#OSWd211fc61709b5e48a4c96473c86a8d13",
             "name": "kilo_gram_meter_squared",
             "symbol": "kg·m²"
         },
         {
-            "osw_id": "Item:OSW391034a969af55ae94b7511e27805794",
+            "osw_id": "Item:OSW7ff49f1950255990a749289e0e68695c#OSW391034a969af55ae94b7511e27805794",
             "name": "kilo_gram_milli_meter_squared",
             "symbol": "kg·mm²"
         },
         {
-            "osw_id": "Item:OSW82c716e8954c527fa755f64c88150efd",
+            "osw_id": "Item:OSW7ff49f1950255990a749289e0e68695c#OSW82c716e8954c527fa755f64c88150efd",
             "name": "centi_meter_squared_kilo_gram",
             "symbol": "kg·cm²"
+        },
+        {
+            "osw_id": "Item:OSW7ff49f1950255990a749289e0e68695c",
+            "name": "gram_meter_squared",
+            "symbol": "g·m²"
         }
     ],
     "quantity_property": "Property:HasRotationalMassValue"

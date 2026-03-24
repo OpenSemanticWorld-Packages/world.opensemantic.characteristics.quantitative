@@ -25,10 +25,22 @@
     },
     "additional_units": [
         {
+            "uuid": "cafa2bba-be23-51cb-9f04-7235dc8f6e43",
+            "name": "g/(s·m²)",
+            "main_symbol": "g/(s·m²)",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
             "uuid": "d5adb5da-2e87-515b-bfb7-3e70f76affeb",
             "name": "kg/(m²·s)",
             "main_symbol": "kg/(m²·s)",
             "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "194f1819-f90b-56fa-ac6d-500016ca4627",
+            "name": "g/(m²·s)",
+            "main_symbol": "g/(m²·s)",
+            "conversion_factor_to_main_unit": "1000.0"
         },
         {
             "uuid": "7a17a51c-98e7-56d0-b63d-140d330b33e2",
@@ -73,6 +85,12 @@
             "conversion_factor_to_main_unit": "315576000.0"
         },
         {
+            "uuid": "cc0988fe-d411-596e-9e66-3cabb15d397d",
+            "name": "g/(m²·wk)",
+            "main_symbol": "g/(m²·wk)",
+            "conversion_factor_to_main_unit": "604800000.0"
+        },
+        {
             "uuid": "1756ba55-3837-5039-a36a-9806fda8651c",
             "name": "mg/(m²·h)",
             "main_symbol": "mg/(m²·h)",
@@ -113,6 +131,12 @@
             "name": "μg/(m²·d)",
             "main_symbol": "μg/(m²·d)",
             "conversion_factor_to_main_unit": "86400000000000.0"
+        },
+        {
+            "uuid": "535863eb-e122-5d75-a721-f8ccf7157242",
+            "name": "g/(ha·a)",
+            "main_symbol": "g/(ha·a)",
+            "conversion_factor_to_main_unit": "315576000000000.0"
         }
     ]
 }

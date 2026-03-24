@@ -26,10 +26,15 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW13fc03e790a452ad8e9423aa9cef3d05",
-    "default_unit": "Item:OSW89e525be6d675802a9d695d2d6655505",
+    "default_unit": "Item:OSWcc4ad63bfadb5b85937be0b7e6fad4da",
     "unit_enumeration": [
         {
-            "osw_id": "Item:OSW89e525be6d675802a9d695d2d6655505",
+            "osw_id": "Item:OSWcc4ad63bfadb5b85937be0b7e6fad4da",
+            "name": "siemens_squared_per_meter_squared",
+            "symbol": "S²/m²"
+        },
+        {
+            "osw_id": "Item:OSWcc4ad63bfadb5b85937be0b7e6fad4da#OSW89e525be6d675802a9d695d2d6655505",
             "name": "micro_siemens_squared_per_centi_meter_squared",
             "symbol": "μS²/cm²"
         }

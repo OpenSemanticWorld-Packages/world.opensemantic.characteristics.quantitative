@@ -36,17 +36,20 @@
                 "unit": {
                     "title": "MolarMassVariationDueToPressureUnit",
                     "enum": [
-                        "Item:OSWe96cbd9b4c9c5e2ab7b4a76d5ad71449"
+                        "Item:OSW26e3e34d0de2560fb9e53c16cf4b67f0#OSWe96cbd9b4c9c5e2ab7b4a76d5ad71449",
+                        "Item:OSW26e3e34d0de2560fb9e53c16cf4b67f0"
                     ],
                     "x-enum-varnames": [
-                        "mole_per_kilo_gram_per_pascal"
+                        "mole_per_kilo_gram_per_pascal",
+                        "mole_per_gram_per_pascal"
                     ],
                     "options": {
                         "enum_titles": [
-                            "mol/(kg·Pa)"
+                            "mol/(kg·Pa)",
+                            "mol/(g·Pa)"
                         ]
                     },
-                    "default": "Item:OSWe96cbd9b4c9c5e2ab7b4a76d5ad71449"
+                    "default": "Item:OSW26e3e34d0de2560fb9e53c16cf4b67f0#OSWe96cbd9b4c9c5e2ab7b4a76d5ad71449"
                 }
             },
             "x-smw-quantity-property": "Property:HasMolarMassVariationDueToPressureValue"

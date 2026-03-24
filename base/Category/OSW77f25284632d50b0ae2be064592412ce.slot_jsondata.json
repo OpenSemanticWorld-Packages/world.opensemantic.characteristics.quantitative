@@ -44,7 +44,7 @@
             "symbol": "μN·m"
         },
         {
-            "osw_id": "Item:OSW62f7907222b855ffb1920944af234145",
+            "osw_id": "Item:OSW599c5384bf7a5de7b8cee8b2e94c39e3#OSW62f7907222b855ffb1920944af234145",
             "name": "meter_milli_newton",
             "symbol": "mN·m"
         },
@@ -59,7 +59,7 @@
             "symbol": "cN·m"
         },
         {
-            "osw_id": "Item:OSW83f4a238c5875e3587f45071e11aaaa3",
+            "osw_id": "Item:OSW599c5384bf7a5de7b8cee8b2e94c39e3#OSW83f4a238c5875e3587f45071e11aaaa3",
             "name": "deci_newton_meter",
             "symbol": "dN·m"
         },
@@ -69,7 +69,7 @@
             "symbol": "kN·m"
         },
         {
-            "osw_id": "Item:OSW48e50fcb919e57d99158eb2308baed11",
+            "osw_id": "Item:OSW599c5384bf7a5de7b8cee8b2e94c39e3#OSW48e50fcb919e57d99158eb2308baed11",
             "name": "mega_newton_meter",
             "symbol": "MN·m"
         }

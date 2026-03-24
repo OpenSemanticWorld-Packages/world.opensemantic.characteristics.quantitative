@@ -26,12 +26,17 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW5f4d3f724ebc5678bb3c26d3fc63d83e",
-    "default_unit": "Item:OSWc06da5be651b56d993bef3fc05d91bd6",
+    "default_unit": "Item:OSWd52262b052425cd89da2c28f885447d1#OSWc06da5be651b56d993bef3fc05d91bd6",
     "unit_enumeration": [
         {
-            "osw_id": "Item:OSWc06da5be651b56d993bef3fc05d91bd6",
+            "osw_id": "Item:OSWd52262b052425cd89da2c28f885447d1#OSWc06da5be651b56d993bef3fc05d91bd6",
             "name": "joule_per_kelvin_per_kilo_gram_per_meter_cubed",
             "symbol": "J/(kg·K·m³)"
+        },
+        {
+            "osw_id": "Item:OSWd52262b052425cd89da2c28f885447d1",
+            "name": "joule_per_gram_per_kelvin_per_meter_cubed",
+            "symbol": "J/(g·K·m³)"
         }
     ],
     "quantity_property": "Property:HasSpecificHeatVolumeValue"

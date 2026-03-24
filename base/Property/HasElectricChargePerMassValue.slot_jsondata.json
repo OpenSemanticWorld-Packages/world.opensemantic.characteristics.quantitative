@@ -31,6 +31,12 @@
             "conversion_factor_to_main_unit": "1e-06"
         },
         {
+            "uuid": "2abad0c8-6715-56aa-b372-3b2940b1e10c",
+            "name": "C/g",
+            "main_symbol": "C/g",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
             "uuid": "8737f9f9-095e-5887-a749-d254d767c1d7",
             "name": "/(T·s)",
             "main_symbol": "/(T·s)",

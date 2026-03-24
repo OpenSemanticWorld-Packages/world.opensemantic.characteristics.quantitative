@@ -36,20 +36,23 @@
                 "unit": {
                     "title": "MassPerEnergyUnit",
                     "enum": [
-                        "Item:OSW0ab2af45d05c527d8fe20509629f9ae3",
-                        "Item:OSWed66a7af0af258c1b94a9646a09cda97"
+                        "Item:OSWbbb76668279755aaa01bbc7764dd6937#OSW0ab2af45d05c527d8fe20509629f9ae3",
+                        "Item:OSWbbb76668279755aaa01bbc7764dd6937#OSWed66a7af0af258c1b94a9646a09cda97",
+                        "Item:OSWbbb76668279755aaa01bbc7764dd6937"
                     ],
                     "x-enum-varnames": [
                         "kilo_gram_per_joule",
-                        "kilo_gram_per_giga_joule"
+                        "kilo_gram_per_giga_joule",
+                        "gram_per_joule"
                     ],
                     "options": {
                         "enum_titles": [
                             "kg/J",
-                            "kg/GJ"
+                            "kg/GJ",
+                            "g/J"
                         ]
                     },
-                    "default": "Item:OSW0ab2af45d05c527d8fe20509629f9ae3"
+                    "default": "Item:OSWbbb76668279755aaa01bbc7764dd6937#OSW0ab2af45d05c527d8fe20509629f9ae3"
                 }
             },
             "x-smw-quantity-property": "Property:HasMassPerEnergyValue"

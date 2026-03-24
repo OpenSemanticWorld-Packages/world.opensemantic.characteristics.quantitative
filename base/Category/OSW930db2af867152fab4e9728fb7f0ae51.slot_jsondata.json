@@ -44,12 +44,12 @@
             "symbol": "nmol/(m²·d)"
         },
         {
-            "osw_id": "Item:OSWf14e9fda3f4f5625a2e0860d74a3a733",
+            "osw_id": "Item:OSWd9745ca0ed9a521b8b14bc571ced2daf#OSWf14e9fda3f4f5625a2e0860d74a3a733",
             "name": "micro_mole_per_day_per_meter_squared",
             "symbol": "μmol/(m²·d)"
         },
         {
-            "osw_id": "Item:OSW1be151a2b48358989693e1d41651fb63",
+            "osw_id": "Item:OSWc20dc615daea5c85bffa64b81d26d28d#OSW1be151a2b48358989693e1d41651fb63",
             "name": "micro_mole_per_hour_per_meter_squared",
             "symbol": "μmol/(m²·h)"
         },
@@ -59,12 +59,12 @@
             "symbol": "nmol/(m²·s)"
         },
         {
-            "osw_id": "Item:OSW8987e0c6358854aab10f859bcd42cf0a",
+            "osw_id": "Item:OSWd9745ca0ed9a521b8b14bc571ced2daf#OSW8987e0c6358854aab10f859bcd42cf0a",
             "name": "milli_mole_per_day_per_meter_squared",
             "symbol": "mmol/(m²·d)"
         },
         {
-            "osw_id": "Item:OSWb0f42ca828795d16baf061f0332e9bbd",
+            "osw_id": "Item:OSWc20dc615daea5c85bffa64b81d26d28d#OSWb0f42ca828795d16baf061f0332e9bbd",
             "name": "milli_mole_per_hour_per_meter_squared",
             "symbol": "mmol/(m²·h)"
         },
@@ -77,6 +77,11 @@
             "osw_id": "Item:OSWd9745ca0ed9a521b8b14bc571ced2daf",
             "name": "mole_per_day_per_meter_squared",
             "symbol": "mol/(m²·d)"
+        },
+        {
+            "osw_id": "Item:OSWc20dc615daea5c85bffa64b81d26d28d",
+            "name": "mole_per_hour_per_meter_squared",
+            "symbol": "mol/(m²·h)"
         },
         {
             "osw_id": "Item:OSW3063bab947d256b1a7a11cdb158d11b1#OSWd5bf9cdb27765d8bbc553cf3682b1c52",

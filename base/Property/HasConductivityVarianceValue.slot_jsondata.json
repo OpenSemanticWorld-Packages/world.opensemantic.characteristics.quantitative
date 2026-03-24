@@ -18,9 +18,17 @@
     ],
     "property_type": "Quantity",
     "main_unit": {
-        "uuid": "b936c7e6-d05f-5047-ad52-dd821de298b5",
-        "name": "μS²/cm²",
-        "main_symbol": "μS²/cm²",
+        "uuid": "6ba5b0e9-7d32-5f3e-b512-f15ae9b553c8",
+        "name": "S²/m²",
+        "main_symbol": "S²/m²",
         "conversion_factor_to_main_unit": "1.0"
-    }
+    },
+    "additional_units": [
+        {
+            "uuid": "b936c7e6-d05f-5047-ad52-dd821de298b5",
+            "name": "μS²/cm²",
+            "main_symbol": "μS²/cm²",
+            "conversion_factor_to_main_unit": "100000000.0"
+        }
+    ]
 }

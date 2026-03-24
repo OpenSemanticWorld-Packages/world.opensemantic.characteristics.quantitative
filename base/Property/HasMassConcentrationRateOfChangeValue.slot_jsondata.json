@@ -18,9 +18,17 @@
     ],
     "property_type": "Quantity",
     "main_unit": {
-        "uuid": "6a4fa9ba-3afc-5049-bfe9-26eda63cf878",
-        "name": "μg/(L·d)",
-        "main_symbol": "μg/(L·d)",
+        "uuid": "a28a1abe-327f-5339-923d-4b195c0f938e",
+        "name": "g/(L·d)",
+        "main_symbol": "g/(L·d)",
         "conversion_factor_to_main_unit": "1.0"
-    }
+    },
+    "additional_units": [
+        {
+            "uuid": "6a4fa9ba-3afc-5049-bfe9-26eda63cf878",
+            "name": "μg/(L·d)",
+            "main_symbol": "μg/(L·d)",
+            "conversion_factor_to_main_unit": "1000000.0"
+        }
+    ]
 }

@@ -36,17 +36,23 @@
                 "unit": {
                     "title": "UnbalanceUnit",
                     "enum": [
-                        "Item:OSW5baa1fbaa17b50d5ab35eb004c5388df"
+                        "Item:OSWd506e60265815e7b84758079b8d42ca8#OSWdfeba37042f356e181a407aa239dda69",
+                        "Item:OSWd506e60265815e7b84758079b8d42ca8#OSW5baa1fbaa17b50d5ab35eb004c5388df",
+                        "Item:OSWd506e60265815e7b84758079b8d42ca8"
                     ],
                     "x-enum-varnames": [
-                        "gram_milli_meter"
+                        "kilo_gram_meter",
+                        "gram_milli_meter",
+                        "gram_meter"
                     ],
                     "options": {
                         "enum_titles": [
-                            "g·mm"
+                            "kg·m",
+                            "g·mm",
+                            "g·m"
                         ]
                     },
-                    "default": "Item:OSW5baa1fbaa17b50d5ab35eb004c5388df"
+                    "default": "Item:OSWd506e60265815e7b84758079b8d42ca8#OSWdfeba37042f356e181a407aa239dda69"
                 }
             },
             "x-smw-quantity-property": "Property:HasUnbalanceValue"

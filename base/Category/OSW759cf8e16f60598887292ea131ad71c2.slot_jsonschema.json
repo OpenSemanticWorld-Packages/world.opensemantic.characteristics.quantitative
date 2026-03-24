@@ -36,17 +36,20 @@
                 "unit": {
                     "title": "ExposureRateUnit",
                     "enum": [
-                        "Item:OSW7c9817a1145157e8b2803464c641e6cf"
+                        "Item:OSW8ef38d2470bf5cca85115be834a65b81#OSW7c9817a1145157e8b2803464c641e6cf",
+                        "Item:OSW8ef38d2470bf5cca85115be834a65b81"
                     ],
                     "x-enum-varnames": [
-                        "coulomb_per_kilo_gram_per_second"
+                        "coulomb_per_kilo_gram_per_second",
+                        "coulomb_per_gram_per_second"
                     ],
                     "options": {
                         "enum_titles": [
-                            "C/(kg·s)"
+                            "C/(kg·s)",
+                            "C/(g·s)"
                         ]
                     },
-                    "default": "Item:OSW7c9817a1145157e8b2803464c641e6cf"
+                    "default": "Item:OSW8ef38d2470bf5cca85115be834a65b81#OSW7c9817a1145157e8b2803464c641e6cf"
                 }
             },
             "x-smw-quantity-property": "Property:HasExposureRateValue"

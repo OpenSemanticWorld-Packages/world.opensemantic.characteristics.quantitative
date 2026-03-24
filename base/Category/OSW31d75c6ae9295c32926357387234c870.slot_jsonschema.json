@@ -37,17 +37,20 @@
                 "unit": {
                     "title": "WaterVapourDiffusionCoefficientUnit",
                     "enum": [
-                        "Item:OSWa2b4ab78b9975e0891d0d14dfbb12314"
+                        "Item:OSW2e9b80eec4585cad93305282afdee00a#OSWa2b4ab78b9975e0891d0d14dfbb12314",
+                        "Item:OSW2e9b80eec4585cad93305282afdee00a"
                     ],
                     "x-enum-varnames": [
-                        "kilo_gram_per_meter_per_pascal_per_second"
+                        "kilo_gram_per_meter_per_pascal_per_second",
+                        "gram_per_meter_per_pascal_per_second"
                     ],
                     "options": {
                         "enum_titles": [
-                            "kg/(Pa·s·m)"
+                            "kg/(Pa·s·m)",
+                            "g/(Pa·s·m)"
                         ]
                     },
-                    "default": "Item:OSWa2b4ab78b9975e0891d0d14dfbb12314"
+                    "default": "Item:OSW2e9b80eec4585cad93305282afdee00a#OSWa2b4ab78b9975e0891d0d14dfbb12314"
                 }
             },
             "x-smw-quantity-property": "Property:HasWaterVapourDiffusionCoefficientValue"

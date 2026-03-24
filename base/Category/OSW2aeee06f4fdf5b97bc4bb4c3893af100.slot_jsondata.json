@@ -35,12 +35,17 @@
             "symbol": "m²/s²"
         },
         {
-            "osw_id": "Item:OSWf3093f867b3e5a7e9955befd1748ff78",
+            "osw_id": "Item:OSWddd2e8bc10f755b38f1e4334f3d81642",
+            "name": "meter_cubed_pascal_per_gram",
+            "symbol": "Pa·m³/g"
+        },
+        {
+            "osw_id": "Item:OSWddd2e8bc10f755b38f1e4334f3d81642#OSWf3093f867b3e5a7e9955befd1748ff78",
             "name": "centi_meter_cubed_giga_pascal_per_gram",
             "symbol": "GPa·cm³/g"
         },
         {
-            "osw_id": "Item:OSWf19ea831be1053a9b70d6403acc15022",
+            "osw_id": "Item:OSWf6d6f2af61295484ab10221fe5922f97#OSWf19ea831be1053a9b70d6403acc15022",
             "name": "kilo_meter_squared_per_second_squared",
             "symbol": "km²/s²"
         }

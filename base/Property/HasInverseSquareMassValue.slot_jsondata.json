@@ -16,5 +16,13 @@
         "name": "/kg²",
         "main_symbol": "/kg²",
         "conversion_factor_to_main_unit": "1.0"
-    }
+    },
+    "additional_units": [
+        {
+            "uuid": "d1cae9bb-8100-5dbe-8f02-755f109cc34a",
+            "name": "/g²",
+            "main_symbol": "/g²",
+            "conversion_factor_to_main_unit": "1e-06"
+        }
+    ]
 }

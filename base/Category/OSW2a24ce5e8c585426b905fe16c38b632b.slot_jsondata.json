@@ -35,7 +35,12 @@
             "symbol": "Gy/s"
         },
         {
-            "osw_id": "Item:OSW8a9814ddf5a250588e9853662328c977",
+            "osw_id": "Item:OSWb945eabede6156ac8ad77cf1fabbcf0e#OSWa9a1148d90e05348ab1fb91960072310",
+            "name": "nano_sievert_per_hour",
+            "symbol": "nSv/h"
+        },
+        {
+            "osw_id": "Item:OSWb945eabede6156ac8ad77cf1fabbcf0e#OSW8a9814ddf5a250588e9853662328c977",
             "name": "micro_sievert_per_hour",
             "symbol": "μSv/h"
         },
@@ -45,9 +50,19 @@
             "symbol": "nGy/s"
         },
         {
+            "osw_id": "Item:OSWb945eabede6156ac8ad77cf1fabbcf0e#OSW704a6ea3db6259989ccba456e4b39f49",
+            "name": "milli_sievert_per_hour",
+            "symbol": "mSv/h"
+        },
+        {
             "osw_id": "Item:OSW4cbc32faa6945fea85c32ee675aff008#OSW6088cd1a185e5d31b1d729ad0a92fb6f",
             "name": "micro_gray_per_second",
             "symbol": "μGy/s"
+        },
+        {
+            "osw_id": "Item:OSWb945eabede6156ac8ad77cf1fabbcf0e",
+            "name": "sievert_per_hour",
+            "symbol": "Sv/h"
         },
         {
             "osw_id": "Item:OSW4cbc32faa6945fea85c32ee675aff008#OSW86223c99c5b9526286e5d678a64433c9",
@@ -65,7 +80,7 @@
             "symbol": "W/g"
         },
         {
-            "osw_id": "Item:OSW7207ca2b074d5f1b9ef3972f52ea670f",
+            "osw_id": "Item:OSW25f89269045e5f93a7a200ab8687615f#OSW7207ca2b074d5f1b9ef3972f52ea670f",
             "name": "milli_watt_per_milli_gram",
             "symbol": "mW/mg"
         }

@@ -38,7 +38,7 @@
                     "title": "MobilityUnit",
                     "enum": [
                         "Item:OSWb2b78d963e4e54d7b5e64db90eb5fad2",
-                        "Item:OSW5912aba53a8b5951ae88d643b40ff33d"
+                        "Item:OSWb2b78d963e4e54d7b5e64db90eb5fad2#OSW5912aba53a8b5951ae88d643b40ff33d"
                     ],
                     "x-enum-varnames": [
                         "meter_squared_per_second_per_volt",

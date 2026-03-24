@@ -34,17 +34,20 @@
                 "unit": {
                     "title": "MassTemperatureUnit",
                     "enum": [
-                        "Item:OSWfd24f9425d815d66beab746eecaf5926"
+                        "Item:OSW7b82dfcbfc22546fa1bd69b1f1d373da#OSWfd24f9425d815d66beab746eecaf5926",
+                        "Item:OSW7b82dfcbfc22546fa1bd69b1f1d373da"
                     ],
                     "x-enum-varnames": [
-                        "kelvin_kilo_gram"
+                        "kelvin_kilo_gram",
+                        "gram_kelvin"
                     ],
                     "options": {
                         "enum_titles": [
-                            "kg·K"
+                            "kg·K",
+                            "g·K"
                         ]
                     },
-                    "default": "Item:OSWfd24f9425d815d66beab746eecaf5926"
+                    "default": "Item:OSW7b82dfcbfc22546fa1bd69b1f1d373da#OSWfd24f9425d815d66beab746eecaf5926"
                 }
             },
             "x-smw-quantity-property": "Property:HasMassTemperatureValue"

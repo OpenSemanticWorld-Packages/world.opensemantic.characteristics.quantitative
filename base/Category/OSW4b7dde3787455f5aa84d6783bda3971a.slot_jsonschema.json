@@ -34,20 +34,29 @@
                 "unit": {
                     "title": "LengthMassUnit",
                     "enum": [
-                        "Item:OSW4a5d124e14e45b8c95bebb544ce245b6",
-                        "Item:OSW5baa1fbaa17b50d5ab35eb004c5388df"
+                        "Item:OSWd506e60265815e7b84758079b8d42ca8#OSWdfeba37042f356e181a407aa239dda69",
+                        "Item:OSWd506e60265815e7b84758079b8d42ca8#OSW5baa1fbaa17b50d5ab35eb004c5388df",
+                        "Item:OSWd506e60265815e7b84758079b8d42ca8",
+                        "Item:OSWb75542bd3aa153d295c5a791cf31a2ed#OSW4a5d124e14e45b8c95bebb544ce245b6",
+                        "Item:OSWb75542bd3aa153d295c5a791cf31a2ed"
                     ],
                     "x-enum-varnames": [
                         "kilo_gram_meter",
-                        "gram_milli_meter"
+                        "gram_milli_meter",
+                        "gram_meter",
+                        "kilo_gram_meter",
+                        "gram_meter"
                     ],
                     "options": {
                         "enum_titles": [
+                            "kg·m",
+                            "g·mm",
+                            "g·m",
                             "m·kg",
-                            "g·mm"
+                            "m·g"
                         ]
                     },
-                    "default": "Item:OSW4a5d124e14e45b8c95bebb544ce245b6"
+                    "default": "Item:OSWd506e60265815e7b84758079b8d42ca8#OSWdfeba37042f356e181a407aa239dda69"
                 }
             },
             "x-smw-quantity-property": "Property:HasLengthMassValue"

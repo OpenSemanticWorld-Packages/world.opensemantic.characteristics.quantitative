@@ -35,6 +35,12 @@
             "name": "J/(cm³·K)",
             "main_symbol": "J/(cm³·K)",
             "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "e40c7646-acc1-57dc-b6e9-0b2f9c50efa1",
+            "name": "cal_th/(m³·K)",
+            "main_symbol": "cal_th/(m³·K)",
+            "conversion_factor_to_main_unit": "0.2390057361376673"
         }
     ]
 }

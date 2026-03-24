@@ -35,6 +35,12 @@
             "name": "kg/(s³·K)",
             "main_symbol": "kg/(s³·K)",
             "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "af835e94-92fb-51f8-8475-89a5f2b594b3",
+            "name": "g/(s³·K)",
+            "main_symbol": "g/(s³·K)",
+            "conversion_factor_to_main_unit": "1000.0"
         }
     ]
 }

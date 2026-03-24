@@ -38,42 +38,42 @@
             "symbol": "€/(W·s)"
         },
         {
-            "osw_id": "Item:OSW900f3e428d94531585290faab081bb65",
+            "osw_id": "Item:OSW2dd1669de76957c9b9c98a3ed3e554a2#OSW900f3e428d94531585290faab081bb65",
             "name": "chf_per_kW_h",
             "symbol": "CHF/(kW·h)"
         },
         {
-            "osw_id": "Item:OSWfc0f1b2da6735268b36f271b58a30880",
+            "osw_id": "Item:OSW33eb5792f4945b6d99de7357ae84e6d7#OSWfc0f1b2da6735268b36f271b58a30880",
             "name": "forint_per_kW_h",
             "symbol": "Ft/(kW·h)"
         },
         {
-            "osw_id": "Item:OSWb8ebd931d79f536db513bfa5624a8170",
+            "osw_id": "Item:OSWedc2c6df98e25b80860b71edaa949e20#OSWb8ebd931d79f536db513bfa5624a8170",
             "name": "koruna_per_kW_h",
             "symbol": "Kč/(kW·h)"
         },
         {
-            "osw_id": "Item:OSWa2eff55a062a5ac7b35c6644e3964a97",
+            "osw_id": "Item:OSWb6b0dcb803bc564caa6c7f4b30929886#OSWa2eff55a062a5ac7b35c6644e3964a97",
             "name": "liter_per_hour_per_kilo_watt",
             "symbol": "L/(kW·h)"
         },
         {
-            "osw_id": "Item:OSW07934b5043e05afb8c3db10c3b098a87",
+            "osw_id": "Item:OSW33b7f49d27a4566e9b51e4ea75a44b40#OSW07934b5043e05afb8c3db10c3b098a87",
             "name": "krone_per_kW_h",
             "symbol": "kr/(kW·h)"
         },
         {
-            "osw_id": "Item:OSW5124e1cf54de593789b807df549a1c9c",
+            "osw_id": "Item:OSW38717191470e5aa2b1bdfe0bc30e33a5#OSW5124e1cf54de593789b807df549a1c9c",
             "name": "zloty_per_kW_h",
             "symbol": "zł/(kW·h)"
         },
         {
-            "osw_id": "Item:OSW0e65ef0fa8bb5fa7a6cb54505e54d559",
+            "osw_id": "Item:OSW1ede00ce7e385d1e9b1c73dad60690cc#OSW0e65ef0fa8bb5fa7a6cb54505e54d559",
             "name": "pound_per_kW_h",
             "symbol": "£/(kW·h)"
         },
         {
-            "osw_id": "Item:OSW0db23553b6075ef9b9a4f717b286b0d0",
+            "osw_id": "Item:OSW4a622bd846a1595da3e416227ca239fe#OSW0db23553b6075ef9b9a4f717b286b0d0",
             "name": "lev_per_kW_h",
             "symbol": "лв./(kW·h)"
         },
@@ -81,6 +81,46 @@
             "osw_id": "Item:OSWd07d2737c3de5ffd8e9027505e8b44db",
             "name": "euro_per_kW_h",
             "symbol": "€/(kW·h)"
+        },
+        {
+            "osw_id": "Item:OSW2dd1669de76957c9b9c98a3ed3e554a2",
+            "name": "chf_per_W_h",
+            "symbol": "CHF/(W·h)"
+        },
+        {
+            "osw_id": "Item:OSW33eb5792f4945b6d99de7357ae84e6d7",
+            "name": "forint_per_Wh",
+            "symbol": "Ft/Wh"
+        },
+        {
+            "osw_id": "Item:OSWedc2c6df98e25b80860b71edaa949e20",
+            "name": "koruna_per_W_h",
+            "symbol": "Kč/(W·h)"
+        },
+        {
+            "osw_id": "Item:OSWb6b0dcb803bc564caa6c7f4b30929886",
+            "name": "RON_per_W_h",
+            "symbol": "RON/(W·h)"
+        },
+        {
+            "osw_id": "Item:OSW33b7f49d27a4566e9b51e4ea75a44b40",
+            "name": "krone_per_W_h",
+            "symbol": "kr/(W·h)"
+        },
+        {
+            "osw_id": "Item:OSW38717191470e5aa2b1bdfe0bc30e33a5",
+            "name": "zloty_per_W_h",
+            "symbol": "zł/(W·h)"
+        },
+        {
+            "osw_id": "Item:OSW1ede00ce7e385d1e9b1c73dad60690cc",
+            "name": "pound_per_W_h",
+            "symbol": "£/(W·h)"
+        },
+        {
+            "osw_id": "Item:OSW4a622bd846a1595da3e416227ca239fe",
+            "name": "lev_per_W_h",
+            "symbol": "лв./(W·h)"
         },
         {
             "osw_id": "Item:OSW3c97bbdd02cf52839cac517b5db25755",

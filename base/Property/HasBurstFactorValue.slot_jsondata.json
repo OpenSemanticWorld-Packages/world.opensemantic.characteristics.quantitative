@@ -18,9 +18,23 @@
     ],
     "property_type": "Quantity",
     "main_unit": {
-        "uuid": "e30180a4-ca92-5c75-9ae0-2df2f78c9fcb",
-        "name": "kPa·m²/g",
-        "main_symbol": "kPa·m²/g",
+        "uuid": "80c23a67-de98-5dff-af63-e45637deb865",
+        "name": "Pa·m²/kg",
+        "main_symbol": "Pa·m²/kg",
         "conversion_factor_to_main_unit": "1.0"
-    }
+    },
+    "additional_units": [
+        {
+            "uuid": "e30180a4-ca92-5c75-9ae0-2df2f78c9fcb",
+            "name": "kPa·m²/g",
+            "main_symbol": "kPa·m²/g",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "6e7b2f06-2173-57b3-b328-4987c209cddd",
+            "name": "Pa·m²/g",
+            "main_symbol": "Pa·m²/g",
+            "conversion_factor_to_main_unit": "0.001"
+        }
+    ]
 }

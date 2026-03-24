@@ -18,29 +18,41 @@
     ],
     "property_type": "Quantity",
     "main_unit": {
-        "uuid": "14d13a52-e526-5e1b-9f79-939c345980e9",
-        "name": "mg/(kg·d)",
-        "main_symbol": "mg/(kg·d)",
+        "uuid": "7ad6b621-6669-5875-9423-f6ead2647658",
+        "name": "g/(g·h)",
+        "main_symbol": "g/(g·h)",
         "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
         {
+            "uuid": "52a33bf6-bb34-5b5d-b53b-205b9d6a0f26",
+            "name": "g/(g·d)",
+            "main_symbol": "g/(g·d)",
+            "conversion_factor_to_main_unit": "24.0"
+        },
+        {
             "uuid": "c1695537-9552-5255-b623-17b7d4cb9243",
             "name": "mg/(g·h)",
             "main_symbol": "mg/(g·h)",
-            "conversion_factor_to_main_unit": "4.1666666666666665e-05"
+            "conversion_factor_to_main_unit": "1000.0000000000001"
         },
         {
             "uuid": "1d6c926d-fb45-5bec-a630-302f361d58ee",
             "name": "μg/(g·h)",
             "main_symbol": "μg/(g·h)",
-            "conversion_factor_to_main_unit": "0.041666666666666664"
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "14d13a52-e526-5e1b-9f79-939c345980e9",
+            "name": "mg/(kg·d)",
+            "main_symbol": "mg/(kg·d)",
+            "conversion_factor_to_main_unit": "24000000.0"
         },
         {
             "uuid": "4ef8a628-50ca-5eee-9fa7-8d524e0f3cff",
             "name": "μg/(g·d)",
             "main_symbol": "μg/(g·d)",
-            "conversion_factor_to_main_unit": "1.0"
+            "conversion_factor_to_main_unit": "24000000.0"
         }
     ]
 }

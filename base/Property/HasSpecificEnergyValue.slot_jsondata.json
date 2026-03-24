@@ -18,9 +18,9 @@
     ],
     "property_type": "Quantity",
     "main_unit": {
-        "uuid": "7b528526-ab40-567b-b54d-36165de9fc7a",
-        "name": "N·m/kg",
-        "main_symbol": "N·m/kg",
+        "uuid": "ebabad04-d971-5593-a5f2-220ff9a51f95",
+        "name": "J/kg",
+        "main_symbol": "J/kg",
         "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
@@ -37,15 +37,21 @@
             "conversion_factor_to_main_unit": "0.001"
         },
         {
+            "uuid": "8e0300fb-77cd-5b38-98e2-2e3b2e61a72b",
+            "name": "N·m/g",
+            "main_symbol": "N·m/g",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
             "uuid": "38b72ae4-024b-5352-b1e4-3f58f39c806e",
             "name": "kJ/kg",
             "main_symbol": "kJ/kg",
             "conversion_factor_to_main_unit": "0.001"
         },
         {
-            "uuid": "ebabad04-d971-5593-a5f2-220ff9a51f95",
-            "name": "J/kg",
-            "main_symbol": "J/kg",
+            "uuid": "7b528526-ab40-567b-b54d-36165de9fc7a",
+            "name": "N·m/kg",
+            "main_symbol": "N·m/kg",
             "conversion_factor_to_main_unit": "1.0"
         },
         {

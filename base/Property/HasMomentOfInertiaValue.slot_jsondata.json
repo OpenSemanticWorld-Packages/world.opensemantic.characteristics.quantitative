@@ -29,6 +29,12 @@
     },
     "additional_units": [
         {
+            "uuid": "068f1cda-d648-5478-b09f-46bae77764b6",
+            "name": "g·m²",
+            "main_symbol": "g·m²",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
             "uuid": "2f5337c1-8718-5fbf-a7d6-8157297b23d0",
             "name": "kg·cm²",
             "main_symbol": "kg·cm²",

@@ -37,9 +37,10 @@
                     "title": "SpecificEnergyUnit",
                     "enum": [
                         "Item:OSWffdf8410a8c65687a122eaf44719162d",
-                        "Item:OSW5c3bc74f490f59b898441d2863f5e961",
+                        "Item:OSW7a9b53330d565b609c1114ae81b36719#OSW5c3bc74f490f59b898441d2863f5e961",
                         "Item:OSW0fb024653eb9557482d93f027840ee33#OSW27784b13f8b75b47875a87f13de1cde9",
                         "Item:OSW0fb024653eb9557482d93f027840ee33",
+                        "Item:OSW7a9b53330d565b609c1114ae81b36719",
                         "Item:OSW0fb024653eb9557482d93f027840ee33#OSW4acc791f0c595c508efa5222cb675287",
                         "Item:OSW0fb024653eb9557482d93f027840ee33#OSW198b087b3d565fedb18279ccd08a5b40"
                     ],
@@ -48,6 +49,7 @@
                         "meter_newton_per_kilo_gram",
                         "milli_joule_per_gram",
                         "joule_per_gram",
+                        "meter_newton_per_gram",
                         "kilo_joule_per_kilo_gram",
                         "mega_joule_per_kilo_gram"
                     ],
@@ -57,6 +59,7 @@
                             "N·m/kg",
                             "mJ/g",
                             "J/g",
+                            "N·m/g",
                             "kJ/kg",
                             "MJ/kg"
                         ]

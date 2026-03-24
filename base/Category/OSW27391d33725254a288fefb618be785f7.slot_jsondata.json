@@ -34,7 +34,7 @@
             "symbol": "/(T·s)"
         },
         {
-            "osw_id": "Item:OSW40aee268cfd056638db75aca748bb5a9",
+            "osw_id": "Item:OSWeccca21113fe5297bb1190eaee52459d#OSW40aee268cfd056638db75aca748bb5a9",
             "name": "milli_coulomb_per_kilo_gram",
             "symbol": "mC/kg"
         },
@@ -44,7 +44,7 @@
             "symbol": "A·m²/(J·s)"
         },
         {
-            "osw_id": "Item:OSWae7413b736b45ffca049de991c5df83c",
+            "osw_id": "Item:OSWeccca21113fe5297bb1190eaee52459d#OSWae7413b736b45ffca049de991c5df83c",
             "name": "coulomb_per_kilo_gram",
             "symbol": "C/kg"
         },
@@ -54,7 +54,12 @@
             "symbol": "Hz/T"
         },
         {
-            "osw_id": "Item:OSW9281c5087fb45cd3b07507b940231330",
+            "osw_id": "Item:OSWeccca21113fe5297bb1190eaee52459d",
+            "name": "coulomb_per_gram",
+            "symbol": "C/g"
+        },
+        {
+            "osw_id": "Item:OSWc487154613c25f51813ae4f4de2c7802#OSW9281c5087fb45cd3b07507b940231330",
             "name": "mega_hertz_per_tesla",
             "symbol": "MHz/T"
         }

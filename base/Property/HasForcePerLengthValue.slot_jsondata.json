@@ -12,24 +12,12 @@
     ],
     "property_type": "Quantity",
     "main_unit": {
-        "uuid": "80c6a620-d01a-56f9-a703-96950102f3cb",
-        "name": "N·m/m²",
-        "main_symbol": "N·m/m²",
+        "uuid": "276ee2af-c326-5571-b662-7aab5069b9a0",
+        "name": "N/m",
+        "main_symbol": "N/m",
         "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
-        {
-            "uuid": "f06c1493-69fe-5bad-82b5-3469ead53d8a",
-            "name": "GN·m/m²",
-            "main_symbol": "GN·m/m²",
-            "conversion_factor_to_main_unit": "1e-09"
-        },
-        {
-            "uuid": "d8f75dff-29a7-5877-a8db-cfae59f2d74f",
-            "name": "MN·m/m²",
-            "main_symbol": "MN·m/m²",
-            "conversion_factor_to_main_unit": "1e-06"
-        },
         {
             "uuid": "afedd78a-0dd5-5c67-a304-339fcb87ec3e",
             "name": "N/mm",
@@ -43,52 +31,16 @@
             "conversion_factor_to_main_unit": "0.001"
         },
         {
-            "uuid": "c3f97dd8-c1b9-5948-9df6-ee27dc5a1e5c",
-            "name": "kN·m/m²",
-            "main_symbol": "kN·m/m²",
-            "conversion_factor_to_main_unit": "0.001"
-        },
-        {
             "uuid": "427144f6-ac3f-54ac-a7b7-4e8dc2b56b1c",
             "name": "N/cm",
             "main_symbol": "N/cm",
             "conversion_factor_to_main_unit": "0.01"
         },
         {
-            "uuid": "276ee2af-c326-5571-b662-7aab5069b9a0",
-            "name": "N/m",
-            "main_symbol": "N/m",
-            "conversion_factor_to_main_unit": "1.0"
-        },
-        {
-            "uuid": "603e9ac9-c343-5596-a555-3f5944a8f645",
-            "name": "cN·m/m²",
-            "main_symbol": "cN·m/m²",
-            "conversion_factor_to_main_unit": "100.0"
-        },
-        {
             "uuid": "550cef4f-6446-59fb-9a2d-ed488ec4f84a",
             "name": "mN/m",
             "main_symbol": "mN/m",
             "conversion_factor_to_main_unit": "1000.0"
-        },
-        {
-            "uuid": "cab652f9-fd8c-5c1c-b5bf-891b863d9295",
-            "name": "mN·m/m²",
-            "main_symbol": "mN·m/m²",
-            "conversion_factor_to_main_unit": "1000.0"
-        },
-        {
-            "uuid": "a2259ddd-99f7-5e3b-9c82-ead0ccffd1b0",
-            "name": "μN·m/m²",
-            "main_symbol": "μN·m/m²",
-            "conversion_factor_to_main_unit": "1000000.0"
-        },
-        {
-            "uuid": "0b43d5c7-797f-584b-b3e5-835a86bde307",
-            "name": "nN·m/m²",
-            "main_symbol": "nN·m/m²",
-            "conversion_factor_to_main_unit": "999999999.9999999"
         }
     ]
 }

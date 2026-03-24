@@ -120,7 +120,7 @@
             "symbol": "MJ"
         },
         {
-            "osw_id": "Item:OSW8375632d08f4586880505270a729188d",
+            "osw_id": "Item:OSWbbd1817837d95c95a9e395774daea725#OSW8375632d08f4586880505270a729188d",
             "name": "hour_kilo_volt_ampere",
             "symbol": "kVA·h"
         },
@@ -135,7 +135,7 @@
             "symbol": "GJ"
         },
         {
-            "osw_id": "Item:OSW36e830079f985f9bada7e2fbfbff6f95",
+            "osw_id": "Item:OSWbbd1817837d95c95a9e395774daea725#OSW36e830079f985f9bada7e2fbfbff6f95",
             "name": "hour_mega_volt_ampere",
             "symbol": "MVA·h"
         },

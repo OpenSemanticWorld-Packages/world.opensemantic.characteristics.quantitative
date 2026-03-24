@@ -37,7 +37,7 @@
                     "title": "StandardGravitationalParameterUnit",
                     "enum": [
                         "Item:OSW70d2cca5a9c75bec807d755997acbf8c",
-                        "Item:OSW111bef40f18158099e03d15fcd4af1fe"
+                        "Item:OSW70d2cca5a9c75bec807d755997acbf8c#OSW111bef40f18158099e03d15fcd4af1fe"
                     ],
                     "x-enum-varnames": [
                         "meter_cubed_per_second_squared",

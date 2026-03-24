@@ -26,62 +26,67 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSWda73a0cabed655b6b94057a627923377",
-    "default_unit": "Item:OSWfd92e9c2c69754f78e4145ad3d31c34b",
+    "default_unit": "Item:OSWaf01bcca1fee5a3db98382c2cb42ad56#OSWfd92e9c2c69754f78e4145ad3d31c34b",
     "unit_enumeration": [
         {
-            "osw_id": "Item:OSWfd92e9c2c69754f78e4145ad3d31c34b",
+            "osw_id": "Item:OSWaf01bcca1fee5a3db98382c2cb42ad56#OSWfd92e9c2c69754f78e4145ad3d31c34b",
             "name": "mole_per_kilo_gram",
             "symbol": "mol/kg"
         },
         {
-            "osw_id": "Item:OSWce6b64163d095affbef6daa39c9cd063",
+            "osw_id": "Item:OSWaf01bcca1fee5a3db98382c2cb42ad56#OSWce6b64163d095affbef6daa39c9cd063",
             "name": "femto_mole_per_kilo_gram",
             "symbol": "fmol/kg"
         },
         {
-            "osw_id": "Item:OSWd77b5543087f560caec2016c89521715",
+            "osw_id": "Item:OSWaf01bcca1fee5a3db98382c2cb42ad56#OSWd77b5543087f560caec2016c89521715",
             "name": "pico_mole_per_kilo_gram",
             "symbol": "pmol/kg"
         },
         {
-            "osw_id": "Item:OSW51bd13e67a4758bba50388bd5cffe504",
+            "osw_id": "Item:OSWaf01bcca1fee5a3db98382c2cb42ad56#OSW51bd13e67a4758bba50388bd5cffe504",
             "name": "nano_mole_per_kilo_gram",
             "symbol": "nmol/kg"
         },
         {
-            "osw_id": "Item:OSWd9fdab53b3c05657aad5be0f1382d5e7",
+            "osw_id": "Item:OSWaf01bcca1fee5a3db98382c2cb42ad56#OSWd9fdab53b3c05657aad5be0f1382d5e7",
             "name": "nano_mole_per_gram",
             "symbol": "nmol/g"
         },
         {
-            "osw_id": "Item:OSWa9d227b6d12958eba67fdf22b0934535",
+            "osw_id": "Item:OSWaf01bcca1fee5a3db98382c2cb42ad56#OSWa9d227b6d12958eba67fdf22b0934535",
             "name": "micro_mole_per_kilo_gram",
             "symbol": "μmol/kg"
         },
         {
-            "osw_id": "Item:OSW78a5da75d0d15046935df4e27fa7d3a9",
+            "osw_id": "Item:OSWaf01bcca1fee5a3db98382c2cb42ad56#OSW78a5da75d0d15046935df4e27fa7d3a9",
             "name": "milli_mole_per_kilo_gram",
             "symbol": "mmol/kg"
         },
         {
-            "osw_id": "Item:OSWcb30576f7a525b6c88fe17b80a79ff5b",
+            "osw_id": "Item:OSWaf01bcca1fee5a3db98382c2cb42ad56#OSWcb30576f7a525b6c88fe17b80a79ff5b",
             "name": "micro_mole_per_gram",
             "symbol": "μmol/g"
         },
         {
-            "osw_id": "Item:OSW9abfd6b6d96b507abac8057d6e35a74f",
+            "osw_id": "Item:OSWaf01bcca1fee5a3db98382c2cb42ad56#OSW9abfd6b6d96b507abac8057d6e35a74f",
             "name": "centi_mole_per_kilo_gram",
             "symbol": "cmol/kg"
         },
         {
-            "osw_id": "Item:OSW8cf332ce3aea59278069ed9b0da20b5c",
+            "osw_id": "Item:OSWaf01bcca1fee5a3db98382c2cb42ad56#OSW8cf332ce3aea59278069ed9b0da20b5c",
             "name": "milli_mole_per_gram",
             "symbol": "mmol/g"
         },
         {
-            "osw_id": "Item:OSW84e7943cec52598082a96c43ab77d33a",
+            "osw_id": "Item:OSWaf01bcca1fee5a3db98382c2cb42ad56#OSW84e7943cec52598082a96c43ab77d33a",
             "name": "kilo_mole_per_kilo_gram",
             "symbol": "kmol/kg"
+        },
+        {
+            "osw_id": "Item:OSWaf01bcca1fee5a3db98382c2cb42ad56",
+            "name": "mole_per_gram",
+            "symbol": "mol/g"
         }
     ],
     "quantity_property": "Property:HasIonicStrengthValue"

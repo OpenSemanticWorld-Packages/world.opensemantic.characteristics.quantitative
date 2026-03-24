@@ -49,6 +49,12 @@
             "conversion_factor_to_main_unit": "1000.0"
         },
         {
+            "uuid": "bee2f787-541b-5095-a486-b7ea1c1a05e7",
+            "name": "J/(m²·d)",
+            "main_symbol": "J/(m²·d)",
+            "conversion_factor_to_main_unit": "86400.0"
+        },
+        {
             "uuid": "dff7b752-4f45-5f6e-84f5-f8b5d345b2af",
             "name": "μW/m²",
             "main_symbol": "μW/m²",

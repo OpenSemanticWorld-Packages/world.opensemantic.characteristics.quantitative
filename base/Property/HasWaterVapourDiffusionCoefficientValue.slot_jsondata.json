@@ -26,5 +26,13 @@
         "name": "kg/(Pa·s·m)",
         "main_symbol": "kg/(Pa·s·m)",
         "conversion_factor_to_main_unit": "1.0"
-    }
+    },
+    "additional_units": [
+        {
+            "uuid": "0831d340-f0f4-5103-9ccf-ec566fb85ff4",
+            "name": "g/(Pa·s·m)",
+            "main_symbol": "g/(Pa·s·m)",
+            "conversion_factor_to_main_unit": "1000.0"
+        }
+    ]
 }

@@ -27,47 +27,62 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW54fd9cc117e055018abe2f8a9abb8ceb",
-    "default_unit": "Item:OSW8967238ff12d589a8e1383b0a684ddc5",
+    "default_unit": "Item:OSW666e5dd167b75550af7d1a11bce09a4a#OSW8967238ff12d589a8e1383b0a684ddc5",
     "unit_enumeration": [
         {
-            "osw_id": "Item:OSW8967238ff12d589a8e1383b0a684ddc5",
+            "osw_id": "Item:OSW666e5dd167b75550af7d1a11bce09a4a#OSW8967238ff12d589a8e1383b0a684ddc5",
             "name": "meter_cubed_per_kilo_gram",
             "symbol": "m³/kg"
         },
         {
-            "osw_id": "Item:OSW0e4d5b9c7d1557418a789c8360d239cb",
+            "osw_id": "Item:OSW666e5dd167b75550af7d1a11bce09a4a#OSW0e4d5b9c7d1557418a789c8360d239cb",
             "name": "milli_meter_cubed_per_kilo_gram",
             "symbol": "mm³/kg"
         },
         {
-            "osw_id": "Item:OSWbf064e4b8d0055a0a5d9a9f18efb0f64",
+            "osw_id": "Item:OSWdaa79a7cac785cbfbe987888903ab861#OSWbf064e4b8d0055a0a5d9a9f18efb0f64",
             "name": "milli_liter_per_kilo_gram",
             "symbol": "mL/kg"
         },
         {
-            "osw_id": "Item:OSW62c24da2a31b51d5a574127a27ba2184",
+            "osw_id": "Item:OSW666e5dd167b75550af7d1a11bce09a4a#OSW62c24da2a31b51d5a574127a27ba2184",
             "name": "milli_meter_cubed_per_gram",
             "symbol": "mm³/g"
         },
         {
-            "osw_id": "Item:OSW0e59a4af80a651b2b60a525756fd2838",
+            "osw_id": "Item:OSWdaa79a7cac785cbfbe987888903ab861#OSW0e59a4af80a651b2b60a525756fd2838",
             "name": "liter_per_kilo_gram",
             "symbol": "L/kg"
         },
         {
-            "osw_id": "Item:OSW2bd67b66d9f15e7e834fbaaf9a6d5551",
+            "osw_id": "Item:OSW666e5dd167b75550af7d1a11bce09a4a#OSW2bd67b66d9f15e7e834fbaaf9a6d5551",
             "name": "centi_meter_cubed_per_gram",
             "symbol": "cm³/g"
         },
         {
-            "osw_id": "Item:OSWf22a5f4404805d79b24448e9bfc5e7d4",
+            "osw_id": "Item:OSW666e5dd167b75550af7d1a11bce09a4a#OSW9f9f7a954fa95f0bb12c21975c722be6",
+            "name": "deci_meter_cubed_per_kilo_gram",
+            "symbol": "dm³/kg"
+        },
+        {
+            "osw_id": "Item:OSWdaa79a7cac785cbfbe987888903ab861#OSWf22a5f4404805d79b24448e9bfc5e7d4",
             "name": "milli_liter_per_gram",
             "symbol": "mL/g"
         },
         {
-            "osw_id": "Item:OSW0488ff86089f5c46bc7d4688ba7c3e4a",
+            "osw_id": "Item:OSWdaa79a7cac785cbfbe987888903ab861#OSW0488ff86089f5c46bc7d4688ba7c3e4a",
             "name": "deci_liter_per_gram",
             "symbol": "dL/g"
+        },
+        {
+            "osw_id": "Item:OSWdaa79a7cac785cbfbe987888903ab861",
+            "name": "liter_per_gram",
+            "symbol": "L/g"
+        },
+        {
+            "osw_id": "Item:OSW666e5dd167b75550af7d1a11bce09a4a",
+            "name": "meter_cubed_per_gram",
+            "symbol": "m³/g"
         }
     ],
     "quantity_property": "Property:HasSpecificVolumeValue"

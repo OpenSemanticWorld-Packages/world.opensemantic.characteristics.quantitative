@@ -34,17 +34,17 @@
             "symbol": "C/m³"
         },
         {
-            "osw_id": "Item:OSW7ff981494feb573893427df6c288c2c1",
+            "osw_id": "Item:OSW138cfd775f5f5791acb676b2e30a858b#OSW7ff981494feb573893427df6c288c2c1",
             "name": "micro_coulomb_per_meter_cubed",
             "symbol": "μC/m³"
         },
         {
-            "osw_id": "Item:OSW0cf667e041bf5c70ad88948e99591fa7",
+            "osw_id": "Item:OSW138cfd775f5f5791acb676b2e30a858b#OSW0cf667e041bf5c70ad88948e99591fa7",
             "name": "milli_coulomb_per_meter_cubed",
             "symbol": "mC/m³"
         },
         {
-            "osw_id": "Item:OSWabb39bf77e53590aafd85088c14233eb",
+            "osw_id": "Item:OSW138cfd775f5f5791acb676b2e30a858b#OSWabb39bf77e53590aafd85088c14233eb",
             "name": "kilo_coulomb_per_meter_cubed",
             "symbol": "kC/m³"
         },
@@ -54,7 +54,7 @@
             "symbol": "C/cm³"
         },
         {
-            "osw_id": "Item:OSW78239b85b3255c27b70c82b5d719f312",
+            "osw_id": "Item:OSW138cfd775f5f5791acb676b2e30a858b#OSW78239b85b3255c27b70c82b5d719f312",
             "name": "mega_coulomb_per_meter_cubed",
             "symbol": "MC/m³"
         },
@@ -64,7 +64,7 @@
             "symbol": "C/mm³"
         },
         {
-            "osw_id": "Item:OSWa2ef417cc76554ccbc1e21d3399b1d0f",
+            "osw_id": "Item:OSW138cfd775f5f5791acb676b2e30a858b#OSWa2ef417cc76554ccbc1e21d3399b1d0f",
             "name": "giga_coulomb_per_meter_cubed",
             "symbol": "GC/m³"
         }

@@ -37,18 +37,21 @@
                     "title": "PowerPerElectricChargeUnit",
                     "enum": [
                         "Item:OSW7d0144647c655cbeac604178c20df9c8",
-                        "Item:OSWeb2b1de516395cee816ba36de570a3cf",
+                        "Item:OSW800e964e5b6155d59be8ba720f5fa945#OSWeb2b1de516395cee816ba36de570a3cf",
+                        "Item:OSW800e964e5b6155d59be8ba720f5fa945",
                         "Item:OSW7d0144647c655cbeac604178c20df9c8#OSWa89d207ffc6f502a9f742482fb84c1ad"
                     ],
                     "x-enum-varnames": [
                         "volt_per_second",
                         "milli_volt_per_minute",
+                        "volt_per_minute",
                         "volt_per_micro_second"
                     ],
                     "options": {
                         "enum_titles": [
                             "V/s",
                             "mV/min",
+                            "V/min",
                             "V/μs"
                         ]
                     },

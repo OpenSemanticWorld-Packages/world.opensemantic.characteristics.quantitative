@@ -22,5 +22,13 @@
         "name": "rad·m²/kg",
         "main_symbol": "rad·m²/kg",
         "conversion_factor_to_main_unit": "1.0"
-    }
+    },
+    "additional_units": [
+        {
+            "uuid": "7c88b03f-7b08-52b5-b905-fd6797645116",
+            "name": "rad·m²/g",
+            "main_symbol": "rad·m²/g",
+            "conversion_factor_to_main_unit": "1000.0"
+        }
+    ]
 }

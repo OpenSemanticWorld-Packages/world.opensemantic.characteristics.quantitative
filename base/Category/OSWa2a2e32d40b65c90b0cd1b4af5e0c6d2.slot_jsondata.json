@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "close_ontology_match": [
         "http://dbpedia.org/resource/Acceleration",
@@ -15,34 +15,7 @@
         }
     ],
     "subclass_of": [
-        "Category:OSW4082937906634af992cf9a1b18d772cf"
-    ],
-    "metaclass": [
-        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
-    ],
-    "quantity": "Item:OSW6030085aa5785bbb89b6d8a8edc42630",
-    "default_unit": "Item:OSWb91fd68d93375855a57c795180c429a3",
-    "unit_enumeration": [
-        {
-            "osw_id": "Item:OSWb91fd68d93375855a57c795180c429a3",
-            "name": "meter_per_second_squared",
-            "symbol": "m/s²"
-        },
-        {
-            "osw_id": "Item:OSWb91fd68d93375855a57c795180c429a3#OSWc1e73ef72fce51e59e956a39aff96df6",
-            "name": "milli_meter_per_second_squared",
-            "symbol": "mm/s²"
-        },
-        {
-            "osw_id": "Item:OSW014676a1d72e5f16a59a8d966253ab6f",
-            "name": "centi_meter_per_second_squared",
-            "symbol": "cm/s²"
-        },
-        {
-            "osw_id": "Item:OSWb91fd68d93375855a57c795180c429a3#OSWde24456bff59574e9ff24646b3ddf3d1",
-            "name": "kilo_meter_per_second_squared",
-            "symbol": "km/s²"
-        }
+        "Category:OSW347462e67d905995af16f97dc7c9ef48"
     ],
     "quantity_property": "Property:HasLinearAccelerationValue"
 }

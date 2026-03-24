@@ -49,6 +49,12 @@
             "conversion_factor_to_main_unit": "0.1"
         },
         {
+            "uuid": "93438d13-9538-5f1a-8e06-f8c5a0f793c2",
+            "name": "g/in²",
+            "main_symbol": "g/in²",
+            "conversion_factor_to_main_unit": "0.64516"
+        },
+        {
             "uuid": "7385cf96-d702-54e6-87a4-75e35112518b",
             "name": "Mg/ha",
             "main_symbol": "Mg/ha",
@@ -59,6 +65,12 @@
             "name": "t/ha",
             "main_symbol": "t/ha",
             "conversion_factor_to_main_unit": "10.0"
+        },
+        {
+            "uuid": "790a721a-5cf3-52e1-bcf8-39987dd236ef",
+            "name": "g/ft²",
+            "main_symbol": "g/ft²",
+            "conversion_factor_to_main_unit": "92.90304"
         },
         {
             "uuid": "6ed6b96d-8e6f-58a9-9631-638ebe3137de",

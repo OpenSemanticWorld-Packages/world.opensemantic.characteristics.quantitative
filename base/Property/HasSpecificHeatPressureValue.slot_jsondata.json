@@ -22,5 +22,13 @@
         "name": "J/(kg·K·Pa)",
         "main_symbol": "J/(kg·K·Pa)",
         "conversion_factor_to_main_unit": "1.0"
-    }
+    },
+    "additional_units": [
+        {
+            "uuid": "730a07e9-95c5-5406-845f-296b10f6dd16",
+            "name": "J/(g·K·Pa)",
+            "main_symbol": "J/(g·K·Pa)",
+            "conversion_factor_to_main_unit": "0.001"
+        }
+    ]
 }

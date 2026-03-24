@@ -26,12 +26,17 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW7177c9a6d3ba5b64ad95d9a6e1719c9e",
-    "default_unit": "Item:OSWe96cbd9b4c9c5e2ab7b4a76d5ad71449",
+    "default_unit": "Item:OSW26e3e34d0de2560fb9e53c16cf4b67f0#OSWe96cbd9b4c9c5e2ab7b4a76d5ad71449",
     "unit_enumeration": [
         {
-            "osw_id": "Item:OSWe96cbd9b4c9c5e2ab7b4a76d5ad71449",
+            "osw_id": "Item:OSW26e3e34d0de2560fb9e53c16cf4b67f0#OSWe96cbd9b4c9c5e2ab7b4a76d5ad71449",
             "name": "mole_per_kilo_gram_per_pascal",
             "symbol": "mol/(kg·Pa)"
+        },
+        {
+            "osw_id": "Item:OSW26e3e34d0de2560fb9e53c16cf4b67f0",
+            "name": "mole_per_gram_per_pascal",
+            "symbol": "mol/(g·Pa)"
         }
     ],
     "quantity_property": "Property:HasMolarMassVariationDueToPressureValue"

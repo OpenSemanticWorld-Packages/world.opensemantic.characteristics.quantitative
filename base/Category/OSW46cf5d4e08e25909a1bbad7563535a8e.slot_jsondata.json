@@ -34,7 +34,12 @@
             "symbol": "W/(m²·K)"
         },
         {
-            "osw_id": "Item:OSWf402befbbafe507aa45fdadbf0c635c0",
+            "osw_id": "Item:OSWb93368058bed58e3b5855aef1f3dfb86",
+            "name": "gram_per_kelvin_per_second_cubed",
+            "symbol": "g/(s³·K)"
+        },
+        {
+            "osw_id": "Item:OSWb93368058bed58e3b5855aef1f3dfb86#OSWf402befbbafe507aa45fdadbf0c635c0",
             "name": "kilo_gram_per_kelvin_per_second_cubed",
             "symbol": "kg/(s³·K)"
         },

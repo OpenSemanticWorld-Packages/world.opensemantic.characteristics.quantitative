@@ -22,5 +22,13 @@
         "name": "J·m²/kg",
         "main_symbol": "J·m²/kg",
         "conversion_factor_to_main_unit": "1.0"
-    }
+    },
+    "additional_units": [
+        {
+            "uuid": "a9ac1708-3af2-5d79-97ba-91131dfb37ca",
+            "name": "J·m²/g",
+            "main_symbol": "J·m²/g",
+            "conversion_factor_to_main_unit": "1000.0"
+        }
+    ]
 }

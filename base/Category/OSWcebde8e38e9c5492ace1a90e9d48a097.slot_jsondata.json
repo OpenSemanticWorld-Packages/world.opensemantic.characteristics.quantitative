@@ -20,12 +20,17 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSWda44ec852ac052fb86c4179f4fbf21c2",
-    "default_unit": "Item:OSWea9499724b3152d5a6090f9ef5ce7f4a",
+    "default_unit": "Item:OSWa0d81bf16132526190b76e39106dc531#OSWea9499724b3152d5a6090f9ef5ce7f4a",
     "unit_enumeration": [
         {
-            "osw_id": "Item:OSWea9499724b3152d5a6090f9ef5ce7f4a",
+            "osw_id": "Item:OSWa0d81bf16132526190b76e39106dc531#OSWea9499724b3152d5a6090f9ef5ce7f4a",
             "name": "per_kilo_gram_squared",
             "symbol": "/kg²"
+        },
+        {
+            "osw_id": "Item:OSWa0d81bf16132526190b76e39106dc531",
+            "name": "per_gram_squared",
+            "symbol": "/g²"
         }
     ],
     "quantity_property": "Property:HasInverseSquareMassValue"

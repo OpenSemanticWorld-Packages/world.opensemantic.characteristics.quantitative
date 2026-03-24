@@ -30,7 +30,7 @@
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW5d3fe58ebbac5483bad8904ff8811366",
-            "name": "number",
+            "name": "dimensionless",
             "symbol": "#"
         },
         {

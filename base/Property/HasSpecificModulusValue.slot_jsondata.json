@@ -35,6 +35,12 @@
             "name": "km²/s²",
             "main_symbol": "km²/s²",
             "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "4bacca95-2753-5ab3-b52c-5af55081129a",
+            "name": "Pa·m³/g",
+            "main_symbol": "Pa·m³/g",
+            "conversion_factor_to_main_unit": "0.001"
         }
     ]
 }

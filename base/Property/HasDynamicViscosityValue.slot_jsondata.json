@@ -22,17 +22,29 @@
     ],
     "property_type": "Quantity",
     "main_unit": {
-        "uuid": "92da9e36-0612-5b14-bc07-59d1b0df0896",
-        "name": "kg/(m·s)",
-        "main_symbol": "kg/(m·s)",
+        "uuid": "ea71202a-8942-5d59-8318-ee1d6c902930",
+        "name": "Pa·s",
+        "main_symbol": "Pa·s",
         "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
         {
-            "uuid": "ea71202a-8942-5d59-8318-ee1d6c902930",
-            "name": "Pa·s",
-            "main_symbol": "Pa·s",
+            "uuid": "92da9e36-0612-5b14-bc07-59d1b0df0896",
+            "name": "kg/(m·s)",
+            "main_symbol": "kg/(m·s)",
             "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "48495873-8e1e-5b9a-9232-e6ed35d19433",
+            "name": "g/(cm·s)",
+            "main_symbol": "g/(cm·s)",
+            "conversion_factor_to_main_unit": "10.0"
+        },
+        {
+            "uuid": "4945facc-5fcb-5142-98ad-4c0b01009e05",
+            "name": "g/(m·s)",
+            "main_symbol": "g/(m·s)",
+            "conversion_factor_to_main_unit": "1000.0"
         },
         {
             "uuid": "90812c3e-b2ca-5ef0-9a94-9daa29faffb0",
@@ -45,6 +57,12 @@
             "name": "kg/(m·h)",
             "main_symbol": "kg/(m·h)",
             "conversion_factor_to_main_unit": "3600.0"
+        },
+        {
+            "uuid": "41ed65dc-9119-5b01-b335-b118f4ebe273",
+            "name": "g/(m·h)",
+            "main_symbol": "g/(m·h)",
+            "conversion_factor_to_main_unit": "3600000.0000000005"
         }
     ]
 }

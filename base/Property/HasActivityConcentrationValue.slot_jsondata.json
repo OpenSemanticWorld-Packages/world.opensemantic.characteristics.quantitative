@@ -18,9 +18,9 @@
     ],
     "property_type": "Quantity",
     "main_unit": {
-        "uuid": "07c6c66d-fa50-5ffc-b241-db7c89a2b378",
-        "name": "mBq/L",
-        "main_symbol": "mBq/L",
+        "uuid": "712b6021-48fb-5422-89b2-9a4fc9644f36",
+        "name": "Bq/m³",
+        "main_symbol": "Bq/m³",
         "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
@@ -31,9 +31,9 @@
             "conversion_factor_to_main_unit": "0.001"
         },
         {
-            "uuid": "712b6021-48fb-5422-89b2-9a4fc9644f36",
-            "name": "Bq/m³",
-            "main_symbol": "Bq/m³",
+            "uuid": "07c6c66d-fa50-5ffc-b241-db7c89a2b378",
+            "name": "mBq/L",
+            "main_symbol": "mBq/L",
             "conversion_factor_to_main_unit": "1.0"
         },
         {

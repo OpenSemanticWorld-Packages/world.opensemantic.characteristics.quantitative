@@ -44,7 +44,7 @@
             "symbol": "eV·s"
         },
         {
-            "osw_id": "Item:OSW3eaa66dd20f856fe9a5c4199bc0a1ea4",
+            "osw_id": "Item:OSWf045a04750e15ea2b152fb3bfebf162a#OSW3eaa66dd20f856fe9a5c4199bc0a1ea4",
             "name": "atto_joule_second",
             "symbol": "aJ·s"
         },
@@ -54,9 +54,14 @@
             "symbol": "N·m·s"
         },
         {
-            "osw_id": "Item:OSWc5e4d5b0a17f513ca13db454fc844fbc",
+            "osw_id": "Item:OSW536ad743296e51a6a9f8dc28afc017e4#OSWc5e4d5b0a17f513ca13db454fc844fbc",
             "name": "kilo_gram_meter_squared_per_second",
             "symbol": "kg·m²/s"
+        },
+        {
+            "osw_id": "Item:OSW536ad743296e51a6a9f8dc28afc017e4",
+            "name": "gram_meter_squared_per_second",
+            "symbol": "g·m²/s"
         }
     ],
     "quantity_property": "Property:HasAngularImpulseValue"

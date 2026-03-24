@@ -37,11 +37,6 @@
             "osw_id": "Item:OSW07ca63bf7dc757298a3f4e0d372dfe73",
             "name": "decibel",
             "symbol": "dB"
-        },
-        {
-            "osw_id": "Item:OSW8ab36cb872275d14ac24784b4b0405a0",
-            "name": "dBmW",
-            "symbol": "dBmW"
         }
     ],
     "quantity_property": "Property:HasSoundExposureLevelValue"

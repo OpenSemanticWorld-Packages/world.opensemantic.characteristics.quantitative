@@ -34,17 +34,20 @@
                 "unit": {
                     "title": "LengthTemperatureTimeUnit",
                     "enum": [
-                        "Item:OSW47b476c946d35bde93b5757a8e2d3d1b"
+                        "Item:OSWb41436f201e654859878f82691341be6",
+                        "Item:OSWb41436f201e654859878f82691341be6#OSW47b476c946d35bde93b5757a8e2d3d1b"
                     ],
                     "x-enum-varnames": [
+                        "Celsius_meter_second",
                         "centi_meter_Celsius_second"
                     ],
                     "options": {
                         "enum_titles": [
+                            "m·s·°C",
                             "cm·s·°C"
                         ]
                     },
-                    "default": "Item:OSW47b476c946d35bde93b5757a8e2d3d1b"
+                    "default": "Item:OSWb41436f201e654859878f82691341be6"
                 }
             },
             "x-smw-quantity-property": "Property:HasLengthTemperatureTimeValue"

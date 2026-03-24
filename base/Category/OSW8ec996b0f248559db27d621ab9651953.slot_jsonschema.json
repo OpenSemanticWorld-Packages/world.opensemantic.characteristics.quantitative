@@ -36,32 +36,14 @@
                 "unit": {
                     "title": "SpectralRadiantEnergyDensityUnit",
                     "enum": [
-                        "Item:OSW9660b61081145dbcb6d4ebb5ab9244ff",
-                        "Item:OSW99601f470fd45cfdb1212116828089a1",
-                        "Item:OSW0003c1109b645575b70f007360b49fa2#OSWd4588382274f5562bb8ae501d79a9a7b",
-                        "Item:OSW0003c1109b645575b70f007360b49fa2",
-                        "Item:OSW0003c1109b645575b70f007360b49fa2#OSWdbc16d304ae05714ba10f091cf23016f",
-                        "Item:OSW0003c1109b645575b70f007360b49fa2#OSWde57b565a8ad5f508b6f7c24f3f98db6",
-                        "Item:OSWa1f0f30cdd0c5e6a898e05fc76e109ad"
+                        "Item:OSW9660b61081145dbcb6d4ebb5ab9244ff"
                     ],
                     "x-enum-varnames": [
-                        "joule_per_meter_to_the_fourth",
-                        "pico_pascal_per_kilo_meter",
-                        "milli_pascal_per_meter",
-                        "pascal_per_meter",
-                        "hecto_pascal_per_meter",
-                        "kilo_pascal_per_meter",
-                        "kilo_pascal_per_milli_meter"
+                        "joule_per_meter_to_the_fourth"
                     ],
                     "options": {
                         "enum_titles": [
-                            "J/m⁴",
-                            "pPa/km",
-                            "mPa/m",
-                            "Pa/m",
-                            "hPa/m",
-                            "kPa/m",
-                            "kPa/mm"
+                            "J/m⁴"
                         ]
                     },
                     "default": "Item:OSW9660b61081145dbcb6d4ebb5ab9244ff"

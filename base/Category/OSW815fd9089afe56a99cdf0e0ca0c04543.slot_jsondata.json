@@ -34,17 +34,17 @@
             "symbol": "Bq/m³"
         },
         {
-            "osw_id": "Item:OSW0ac5a24d69075e4580b88126796660ea",
+            "osw_id": "Item:OSWbb252cb7b9505d5c9369be8da21e274d#OSW0ac5a24d69075e4580b88126796660ea",
             "name": "nano_becquerel_per_liter",
             "symbol": "nBq/L"
         },
         {
-            "osw_id": "Item:OSWea37c5022a28551089380a9351fb06a6",
+            "osw_id": "Item:OSWbb252cb7b9505d5c9369be8da21e274d#OSWea37c5022a28551089380a9351fb06a6",
             "name": "micro_becquerel_per_liter",
             "symbol": "μBq/L"
         },
         {
-            "osw_id": "Item:OSW5ca6e9dcc49f53d6921db368597bdc2a",
+            "osw_id": "Item:OSWbb252cb7b9505d5c9369be8da21e274d#OSW5ca6e9dcc49f53d6921db368597bdc2a",
             "name": "milli_becquerel_per_liter",
             "symbol": "mBq/L"
         },

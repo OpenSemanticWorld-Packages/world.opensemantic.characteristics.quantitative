@@ -31,6 +31,12 @@
             "conversion_factor_to_main_unit": "1000.0"
         },
         {
+            "uuid": "de00eaeb-fdfe-547a-ab4a-3aeced84fd25",
+            "name": "mol/(m²·h)",
+            "main_symbol": "mol/(m²·h)",
+            "conversion_factor_to_main_unit": "3600.0"
+        },
+        {
             "uuid": "a9099937-0cf6-5439-a00c-f6d248c80635",
             "name": "μmol/(m²·s)",
             "main_symbol": "μmol/(m²·s)",

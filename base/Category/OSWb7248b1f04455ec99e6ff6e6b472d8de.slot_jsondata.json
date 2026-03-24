@@ -104,7 +104,7 @@
             "symbol": "A·s"
         },
         {
-            "osw_id": "Item:OSW0f2851b9e0125b9392933d2723c88912",
+            "osw_id": "Item:OSWafebb36f7bb65377baeb39c5c782bc93#OSW0f2851b9e0125b9392933d2723c88912",
             "name": "hour_milli_ampere",
             "symbol": "mA·h"
         },
@@ -134,7 +134,7 @@
             "symbol": "MC"
         },
         {
-            "osw_id": "Item:OSW35d01b84f9fd58aeb65ab3bd19002e82",
+            "osw_id": "Item:OSWafebb36f7bb65377baeb39c5c782bc93#OSW35d01b84f9fd58aeb65ab3bd19002e82",
             "name": "hour_kilo_ampere",
             "symbol": "kA·h"
         },

@@ -20,10 +20,15 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW14acd216b5ce56749247380e5eeb170b",
-    "default_unit": "Item:OSW47b476c946d35bde93b5757a8e2d3d1b",
+    "default_unit": "Item:OSWb41436f201e654859878f82691341be6",
     "unit_enumeration": [
         {
-            "osw_id": "Item:OSW47b476c946d35bde93b5757a8e2d3d1b",
+            "osw_id": "Item:OSWb41436f201e654859878f82691341be6",
+            "name": "Celsius_meter_second",
+            "symbol": "m·s·°C"
+        },
+        {
+            "osw_id": "Item:OSWb41436f201e654859878f82691341be6#OSW47b476c946d35bde93b5757a8e2d3d1b",
             "name": "centi_meter_Celsius_second",
             "symbol": "cm·s·°C"
         }
