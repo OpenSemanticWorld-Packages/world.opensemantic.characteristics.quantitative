@@ -31,7 +31,7 @@
         "type"
     ],
     "defaultProperties": [
-        "quantity"
+        "default_unit"
     ],
     "properties": {
         "type": {
@@ -50,13 +50,18 @@
             "description*": {
                 "de": "Für diese Größe präferierte Anzeigeeinheit, kann von der SI Einheit abweichen"
             },
+            "watch": {
+                "parent_w": "root.subclass_of.0"
+            },
+            "$comment": "Finds units for the parent characteristic by querying HasQuantity directly on the parent, then traversing its SubClassOf chain (inverse) up to 3 levels. Limited by SMW query depth restrictions.",
             "options": {
                 "autocomplete": {
-                    "query": "[[-HasUnit.SubClassOf::{{{_current_subject_}}}]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit.SubClassOf::{{{_current_subject_}}}]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasUnit.SubClassOf.SubClassOf::{{{_current_subject_}}}]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit.SubClassOf.SubClassOf::{{{_current_subject_}}}]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasUnit.SubClassOf.SubClassOf.SubClassOf::{{{_current_subject_}}}]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit.SubClassOf.SubClassOf.SubClassOf::{{{_current_subject_}}}]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasUnit.SubClassOf.SubClassOf.SubClassOf.SubClassOf::{{{_current_subject_}}}]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit.SubClassOf.SubClassOf.SubClassOf.SubClassOf::{{{_current_subject_}}}]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasUnit.SubClassOf.SubClassOf.SubClassOf.SubClassOf.SubClassOf::{{{_current_subject_}}}]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit.SubClassOf.SubClassOf.SubClassOf.SubClassOf.SubClassOf::{{{_current_subject_}}}]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
+                    "query": "[[-HasUnit.-HasQuantity::$(parent_w)]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasUnit.-HasQuantity.-SubClassOf::$(parent_w)]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasUnit.-HasQuantity.-SubClassOf.-SubClassOf::$(parent_w)]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasUnit.-HasQuantity.-SubClassOf.-SubClassOf.-SubClassOf::$(parent_w)]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
                 }
             }
         },
         "quantity": {
+            "$comment": "Deprecated: quantity is set on FundamentalQuantityValueType, not here. Hidden to avoid confusion.",
             "type": "string",
             "format": "autocomplete",
             "title": "Quantity",
@@ -64,8 +69,10 @@
                 "de": "Physikalische Größe"
             },
             "description": "The Quantity this value object realizes",
-            "$comment": "range: QuanityKind",
-            "range": "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+            "range": "Category:OSW00fbd6feecb5408997ca18d4e681a131",
+            "options": {
+                "hidden": true
+            }
         },
         "quantity_property": {
             "type": "string",

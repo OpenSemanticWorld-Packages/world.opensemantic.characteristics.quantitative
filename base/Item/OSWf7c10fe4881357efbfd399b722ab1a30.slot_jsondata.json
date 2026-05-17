@@ -17,13 +17,13 @@
         }
     ],
     "meta": {
-        "uuid": "283b176c-6163-45b0-8623-792321a283c6",
+        "uuid": "9b64b61c-af28-48e0-b9da-46fa93f3a06b",
         "change_id": [
-            "c7b98e67-18c0-4911-95ee-aeb153d77c4f"
+            "51923298-abe8-4c1a-a34f-7cc59a422abe"
         ]
     },
     "global_id": "world.opensemantic.characteristics.quantitative",
-    "version": "0.3.0",
+    "version": "0.4.1",
     "url": [
         "https://github.com/OpenSemanticWorld-Packages/world.opensemantic.characteristics.quantitative"
     ],
