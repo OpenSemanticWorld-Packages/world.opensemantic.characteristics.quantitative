@@ -105,9 +105,19 @@
             "symbol": "cal"
         },
         {
+            "osw_id": "Item:OSW18eab2bcd1575213839be236edbf82d6",
+            "name": "cal_to_the_15_degree_celsius",
+            "symbol": "cal{15 °C}"
+        },
+        {
             "osw_id": "Item:OSWc14beede94eb5e7981a635d0b14fbe1c",
             "name": "international_calorie",
             "symbol": "cal{IT}"
+        },
+        {
+            "osw_id": "Item:OSW883d9784e2e85c0f89f46005cacfe4a7",
+            "name": "mean_calorie",
+            "symbol": "cal{mean}"
         },
         {
             "osw_id": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSWad2518d42b685f569679c3599455c3d3",

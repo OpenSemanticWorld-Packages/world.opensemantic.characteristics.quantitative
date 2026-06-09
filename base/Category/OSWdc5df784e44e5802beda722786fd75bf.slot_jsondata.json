@@ -28,6 +28,11 @@
             "symbol": "/m³"
         },
         {
+            "osw_id": "Item:OSW1efd1bc60d165d23a47da67b5afd8d53",
+            "name": "becquerel_second_per_meter_cubed",
+            "symbol": "Bq·s/m³"
+        },
+        {
             "osw_id": "Item:OSW3033afc70c4f524dbabf2a0fb0c6352b",
             "name": "per_liter",
             "symbol": "/L"

@@ -119,16 +119,46 @@
             "conversion_factor_to_main_unit": "0.01671229960072645"
         },
         {
+            "uuid": "d3926f24-70d2-52de-902f-cec1e1b6e7ca",
+            "name": "H/Ω",
+            "main_symbol": "H/Ω",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
             "uuid": "1e7506c0-baef-5d5f-a572-3fe4b7ce388d",
             "name": "ds",
             "main_symbol": "ds",
             "conversion_factor_to_main_unit": "10.0"
         },
         {
+            "uuid": "c3a016b1-7bf0-55f4-80b0-9279e48a2bdf",
+            "name": "H/kΩ",
+            "main_symbol": "H/kΩ",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "27ac8726-f49f-52f2-a108-1ad787f94c73",
+            "name": "mH/Ω",
+            "main_symbol": "mH/Ω",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
             "uuid": "42370c30-92d5-529e-895b-50d85fafa20a",
             "name": "ms",
             "main_symbol": "ms",
             "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "0f559101-338a-548d-849b-2c1e702d4725",
+            "name": "mH/kΩ",
+            "main_symbol": "mH/kΩ",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "392b8639-25f7-52b4-858a-b82b9617b9ce",
+            "name": "μH/Ω",
+            "main_symbol": "μH/Ω",
+            "conversion_factor_to_main_unit": "1000000.0"
         },
         {
             "uuid": "4a9eb81f-5117-5360-aac3-388e8220d483",
@@ -140,6 +170,12 @@
             "uuid": "e9d39cae-adfb-5433-a2a4-1580bca9a9e8",
             "name": "ns",
             "main_symbol": "ns",
+            "conversion_factor_to_main_unit": "999999999.9999999"
+        },
+        {
+            "uuid": "ae1eff47-db20-5f20-8ecf-037daa22c868",
+            "name": "μH/kΩ",
+            "main_symbol": "μH/kΩ",
             "conversion_factor_to_main_unit": "999999999.9999999"
         },
         {

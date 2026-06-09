@@ -34,14 +34,23 @@
                 "unit": {
                     "title": "ForcePerAngleUnit",
                     "enum": [
-                        "Item:OSW1a0a52ba2fe957989fe3e1a2d0bbdcc4"
+                        "Item:OSW1a0a52ba2fe957989fe3e1a2d0bbdcc4",
+                        "Item:OSWdb56cd91482e56e78819b9b53a36e346",
+                        "Item:OSWb6cd057594875dcab33a9f3fdd1ef440",
+                        "Item:OSWb6cd057594875dcab33a9f3fdd1ef440#OSW1df81409b3fe54f688dd5fa9d87d8d39"
                     ],
                     "x-enum-varnames": [
-                        "newton_per_radian"
+                        "newton_per_radian",
+                        "newton_per_radian",
+                        "newton_per_degree",
+                        "kilo_newton_per_degree"
                     ],
                     "options": {
                         "enum_titles": [
-                            "N/rad"
+                            "N/rad",
+                            "N·m/(m·rad)",
+                            "N·m/(°·m)",
+                            "kN·m/(°·m)"
                         ]
                     },
                     "default": "Item:OSW1a0a52ba2fe957989fe3e1a2d0bbdcc4"

@@ -20,8 +20,13 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW010eaa21484d5e30bb35dd02c2850c4d",
-    "default_unit": "Item:OSWbefab75c6042567c84545b5fab456055",
+    "default_unit": "Item:OSW3e32d5c05da65edda555930f2545430b",
     "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW3e32d5c05da65edda555930f2545430b",
+            "name": "radian_per_second_squared",
+            "symbol": "rad/s²"
+        },
         {
             "osw_id": "Item:OSWbefab75c6042567c84545b5fab456055",
             "name": "per_second_squared",

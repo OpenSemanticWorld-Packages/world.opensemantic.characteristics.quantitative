@@ -25,10 +25,208 @@
     },
     "additional_units": [
         {
+            "uuid": "d0dec597-7977-5143-88ca-637daebce925",
+            "name": "EB",
+            "main_symbol": "EB",
+            "conversion_factor_to_main_unit": "1.8033688011112042e-19"
+        },
+        {
+            "uuid": "0a1a8d5d-beb0-5cd2-b96b-72461021e535",
+            "name": "EiB",
+            "main_symbol": "EiB",
+            "conversion_factor_to_main_unit": "1.1792774376289124e-18"
+        },
+        {
+            "uuid": "94dfad12-0a65-519a-b334-ac38e7cfd7d6",
+            "name": "Eb",
+            "main_symbol": "Eb",
+            "conversion_factor_to_main_unit": "1.4426950408889633e-18"
+        },
+        {
+            "uuid": "5bea4d6e-09c2-5af8-8cac-1a82f77224cd",
+            "name": "Eib",
+            "main_symbol": "Eib",
+            "conversion_factor_to_main_unit": "9.4342195010313e-18"
+        },
+        {
+            "uuid": "66d1bc50-479b-5c91-ab94-eeac3d27529c",
+            "name": "PB",
+            "main_symbol": "PB",
+            "conversion_factor_to_main_unit": "1.8033688011112043e-16"
+        },
+        {
+            "uuid": "2440f66d-14fc-5265-8911-d75bc219d4ac",
+            "name": "PiB",
+            "main_symbol": "PiB",
+            "conversion_factor_to_main_unit": "1.4323829511370737e-15"
+        },
+        {
+            "uuid": "e66a85d4-28f6-5877-a6f0-c1389894704e",
+            "name": "Pb",
+            "main_symbol": "Pb",
+            "conversion_factor_to_main_unit": "1.4426950408889635e-15"
+        },
+        {
+            "uuid": "bd0ff295-9a7a-5fa8-ba47-4fad23020ce8",
+            "name": "Pib",
+            "main_symbol": "Pib",
+            "conversion_factor_to_main_unit": "1.1459063609096589e-14"
+        },
+        {
+            "uuid": "dfcec2fa-dbc1-5f25-9a8f-4bd38675be57",
+            "name": "TiB",
+            "main_symbol": "TiB",
+            "conversion_factor_to_main_unit": "1.6401543699532378e-13"
+        },
+        {
+            "uuid": "3c9ecc11-a29f-5a1d-82d4-87b59bdce38b",
+            "name": "TB",
+            "main_symbol": "TB",
+            "conversion_factor_to_main_unit": "1.8033688011112043e-13"
+        },
+        {
+            "uuid": "5ffc13c7-755f-58d6-9f0a-abb509832b91",
+            "name": "1000000000000",
+            "main_symbol": "1000000000000",
+            "conversion_factor_to_main_unit": "1e-12"
+        },
+        {
+            "uuid": "09b95c2a-bf30-5b6c-b20e-72c3594bef75",
+            "name": "Tib",
+            "main_symbol": "Tib",
+            "conversion_factor_to_main_unit": "1.3121234959625903e-12"
+        },
+        {
+            "uuid": "514dca20-293f-5179-91f7-a07ae204bf67",
+            "name": "Tb",
+            "main_symbol": "Tb",
+            "conversion_factor_to_main_unit": "1.4426950408889635e-12"
+        },
+        {
+            "uuid": "97e4247b-2c9f-5db5-b039-f067147b2b7d",
+            "name": "GiB",
+            "main_symbol": "GiB",
+            "conversion_factor_to_main_unit": "1.6795180748321155e-10"
+        },
+        {
+            "uuid": "f5f0a9ec-bc5c-5cec-be6b-4b2873188a35",
+            "name": "GB",
+            "main_symbol": "GB",
+            "conversion_factor_to_main_unit": "1.8033688011112042e-10"
+        },
+        {
+            "uuid": "b7ca38b3-19cb-5043-bd77-9f5c0a7fe161",
+            "name": "1000000000",
+            "main_symbol": "1000000000",
+            "conversion_factor_to_main_unit": "1e-09"
+        },
+        {
             "uuid": "e40d94e5-4eb0-53a4-be3b-0b472a614053",
             "name": "Gbp",
             "main_symbol": "Gbp",
             "conversion_factor_to_main_unit": "1e-09"
+        },
+        {
+            "uuid": "c93eab33-3754-5b91-b26b-d04ac186f706",
+            "name": "Gib",
+            "main_symbol": "Gib",
+            "conversion_factor_to_main_unit": "1.3436144598656924e-09"
+        },
+        {
+            "uuid": "21d65881-582a-5526-8d16-4a71d78db318",
+            "name": "Gb",
+            "main_symbol": "Gb",
+            "conversion_factor_to_main_unit": "1.4426950408889634e-09"
+        },
+        {
+            "uuid": "223cf681-c4ac-5a71-8ace-d4f2540bb5b6",
+            "name": "MiB",
+            "main_symbol": "MiB",
+            "conversion_factor_to_main_unit": "1.7198265086280863e-07"
+        },
+        {
+            "uuid": "46178681-77ea-5163-81d9-6d1f8e0a3866",
+            "name": "MB",
+            "main_symbol": "MB",
+            "conversion_factor_to_main_unit": "1.8033688011112042e-07"
+        },
+        {
+            "uuid": "ad662154-059a-55c0-ad26-c1038de0c21d",
+            "name": "1000000",
+            "main_symbol": "1000000",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "297132fd-7218-50d6-9fcc-9a8285d1c2f4",
+            "name": "Mib",
+            "main_symbol": "Mib",
+            "conversion_factor_to_main_unit": "1.375861206902469e-06"
+        },
+        {
+            "uuid": "64bf327c-f8ea-5449-a306-d320efbc0a8f",
+            "name": "Mb",
+            "main_symbol": "Mb",
+            "conversion_factor_to_main_unit": "1.4426950408889634e-06"
+        },
+        {
+            "uuid": "8763ce66-3e36-5283-a868-8b320cdb978e",
+            "name": "KiB",
+            "main_symbol": "KiB",
+            "conversion_factor_to_main_unit": "0.00017611023448351604"
+        },
+        {
+            "uuid": "a1dc7f6e-0ec2-5413-9ae2-b976f410fa15",
+            "name": "kB",
+            "main_symbol": "kB",
+            "conversion_factor_to_main_unit": "0.00018033688011112042"
+        },
+        {
+            "uuid": "39ab4a95-a8a8-57a9-bd44-2bafcafbf49e",
+            "name": "1000",
+            "main_symbol": "1000",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "f573a897-7894-523f-8893-1f8eddc7a4a7",
+            "name": "Kib",
+            "main_symbol": "Kib",
+            "conversion_factor_to_main_unit": "0.0014088818758681283"
+        },
+        {
+            "uuid": "d031e9ea-b6c4-5790-a619-420b13c7e511",
+            "name": "kb",
+            "main_symbol": "kb",
+            "conversion_factor_to_main_unit": "0.0014426950408889634"
+        },
+        {
+            "uuid": "d4f76aeb-7451-54cf-affd-0b3b2af7ea2b",
+            "name": "100",
+            "main_symbol": "100",
+            "conversion_factor_to_main_unit": "0.01"
+        },
+        {
+            "uuid": "b1d0617f-bebe-5f4c-ab48-32a28cf33810",
+            "name": "10",
+            "main_symbol": "10",
+            "conversion_factor_to_main_unit": "0.1"
+        },
+        {
+            "uuid": "f46e2b6b-358c-5c9d-b989-a5b9aac4beff",
+            "name": "B",
+            "main_symbol": "B",
+            "conversion_factor_to_main_unit": "0.18033688011112042"
+        },
+        {
+            "uuid": "16055884-9148-5a8c-8e19-7260dc3ed600",
+            "name": "Hart",
+            "main_symbol": "Hart",
+            "conversion_factor_to_main_unit": "0.43429448190325176"
+        },
+        {
+            "uuid": "05edc659-395e-5b3d-b570-7cdd5983dc61",
+            "name": "ban",
+            "main_symbol": "ban",
+            "conversion_factor_to_main_unit": "0.43429448246796387"
         },
         {
             "uuid": "8f61e972-498f-51b6-9c88-bc54fee65fed",
@@ -40,6 +238,12 @@
             "uuid": "d963b32f-1dbe-5b82-ba0e-ade82ffceb73",
             "name": "COUNT",
             "main_symbol": "COUNT",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "4728e1b7-90ac-5d61-84ec-c208558cc176",
+            "name": "E",
+            "main_symbol": "E",
             "conversion_factor_to_main_unit": "1.0"
         },
         {
@@ -55,6 +259,24 @@
             "conversion_factor_to_main_unit": "1.0"
         },
         {
+            "uuid": "fb063e29-7d7f-58a0-845b-89c23815e0e5",
+            "name": "nat",
+            "main_symbol": "nat",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "c8c70811-b151-579e-9fda-00c4434367eb",
+            "name": "one",
+            "main_symbol": "one",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "657061fd-f800-5eab-8778-fc1660ecde87",
+            "name": "÷",
+            "main_symbol": "÷",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
             "uuid": "bd836ca7-a38d-56b8-872e-83157ca05d3d",
             "name": "χ",
             "main_symbol": "χ",
@@ -65,6 +287,66 @@
             "name": "一",
             "main_symbol": "一",
             "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "69edb2b5-d48b-57c0-8db2-d379ae4340c2",
+            "name": "Sh",
+            "main_symbol": "Sh",
+            "conversion_factor_to_main_unit": "1.4426950408889634"
+        },
+        {
+            "uuid": "9dcd1426-1d8f-5f22-8a94-5a3a2beb275f",
+            "name": "b",
+            "main_symbol": "b",
+            "conversion_factor_to_main_unit": "1.4426950408889634"
+        },
+        {
+            "uuid": "64d89d8f-1515-5e84-af23-10e1ba1dbcbb",
+            "name": "%",
+            "main_symbol": "%",
+            "conversion_factor_to_main_unit": "100.0"
+        },
+        {
+            "uuid": "638ca923-1477-5241-b630-8d4112d51962",
+            "name": "‰",
+            "main_symbol": "‰",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "3e25f14a-39d9-5322-9280-39c471ed773f",
+            "name": "PPM",
+            "main_symbol": "PPM",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "475ca94d-62d1-5870-b299-690434cf4b7d",
+            "name": "PPTM",
+            "main_symbol": "PPTM",
+            "conversion_factor_to_main_unit": "10000000.0"
+        },
+        {
+            "uuid": "6087383b-5f44-5f14-9642-cdfb4ce87289",
+            "name": "PPB",
+            "main_symbol": "PPB",
+            "conversion_factor_to_main_unit": "999999999.9999999"
+        },
+        {
+            "uuid": "5218c601-0139-5b08-a199-a7ffafeaf881",
+            "name": "εᵣ",
+            "main_symbol": "εᵣ",
+            "conversion_factor_to_main_unit": "112940906683.72818"
+        },
+        {
+            "uuid": "400507a5-8808-57ed-9011-c0c56abdad7a",
+            "name": "ppt",
+            "main_symbol": "ppt",
+            "conversion_factor_to_main_unit": "1000000000000.0"
+        },
+        {
+            "uuid": "15b767e1-0dd9-563d-ab3e-bae547620e43",
+            "name": "ppq",
+            "main_symbol": "ppq",
+            "conversion_factor_to_main_unit": "1e+16"
         }
     ]
 }

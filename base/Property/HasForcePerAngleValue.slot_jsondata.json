@@ -16,5 +16,25 @@
         "name": "N/rad",
         "main_symbol": "N/rad",
         "conversion_factor_to_main_unit": "1.0"
-    }
+    },
+    "additional_units": [
+        {
+            "uuid": "56766a83-f2da-5db5-8058-715092843a82",
+            "name": "kN·m/(°·m)",
+            "main_symbol": "kN·m/(°·m)",
+            "conversion_factor_to_main_unit": "1.74532925e-05"
+        },
+        {
+            "uuid": "5d391f54-a379-50ed-9b3b-58a5b308cb05",
+            "name": "N·m/(°·m)",
+            "main_symbol": "N·m/(°·m)",
+            "conversion_factor_to_main_unit": "0.0174532925"
+        },
+        {
+            "uuid": "681fcc9a-b4aa-556e-8f56-e5d031885d7c",
+            "name": "N·m/(m·rad)",
+            "main_symbol": "N·m/(m·rad)",
+            "conversion_factor_to_main_unit": "1.0"
+        }
+    ]
 }

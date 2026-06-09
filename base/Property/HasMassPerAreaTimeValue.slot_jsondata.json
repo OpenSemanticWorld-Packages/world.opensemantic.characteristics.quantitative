@@ -18,9 +18,9 @@
     ],
     "property_type": "Quantity",
     "main_unit": {
-        "uuid": "b7702f6b-532d-5464-abf3-1a2a50f81cdd",
-        "name": "kg/(s·m²)",
-        "main_symbol": "kg/(s·m²)",
+        "uuid": "0ce795aa-57ce-5886-9764-b5d6750db884",
+        "name": "Pa·s/m",
+        "main_symbol": "Pa·s/m",
         "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
@@ -34,6 +34,12 @@
             "uuid": "d5adb5da-2e87-515b-bfb7-3e70f76affeb",
             "name": "kg/(m²·s)",
             "main_symbol": "kg/(m²·s)",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "b7702f6b-532d-5464-abf3-1a2a50f81cdd",
+            "name": "kg/(s·m²)",
+            "main_symbol": "kg/(s·m²)",
             "conversion_factor_to_main_unit": "1.0"
         },
         {

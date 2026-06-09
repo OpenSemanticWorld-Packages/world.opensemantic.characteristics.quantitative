@@ -49,9 +49,19 @@
             "symbol": "mm/m²"
         },
         {
+            "osw_id": "Item:OSW1b6a103ceff75552910ca26d32e0dd07",
+            "name": "debye",
+            "symbol": "D"
+        },
+        {
             "osw_id": "Item:OSW10a8f8f1cda351a4849a0443cd543b8f",
             "name": "per_meter",
             "symbol": "m/m²"
+        },
+        {
+            "osw_id": "Item:OSW36316ec96974546b9cd3a5068a5f0cb4",
+            "name": "radian_per_meter",
+            "symbol": "rad/m"
         },
         {
             "osw_id": "Item:OSW0dcebe41477056aba0e706c148970688",

@@ -60,9 +60,34 @@
             "symbol": "ns"
         },
         {
+            "osw_id": "Item:OSW8751fff4e67d5a9b944e323159eb0dad#OSWdd1328a6f280577c866b63c5e9eb7d53",
+            "name": "micro_henry_per_kilo_ohm",
+            "symbol": "μH/kΩ"
+        },
+        {
+            "osw_id": "Item:OSW8751fff4e67d5a9b944e323159eb0dad#OSW91f2217a1e5e58bb84644588308ec27b",
+            "name": "milli_henry_per_kilo_ohm",
+            "symbol": "mH/kΩ"
+        },
+        {
+            "osw_id": "Item:OSW8751fff4e67d5a9b944e323159eb0dad#OSW14b5b614d6eb5e949713232e9d79b744",
+            "name": "micro_henry_per_ohm",
+            "symbol": "μH/Ω"
+        },
+        {
             "osw_id": "Item:OSW85302b21cf045998b80f38c9fdb88f84#OSW90ff22cff2dd5d8ba6de84bf9a70c50c",
             "name": "micro_second",
             "symbol": "μs"
+        },
+        {
+            "osw_id": "Item:OSW8751fff4e67d5a9b944e323159eb0dad#OSWf02ec24730135b3c84a28a362576cd24",
+            "name": "henry_per_kilo_ohm",
+            "symbol": "H/kΩ"
+        },
+        {
+            "osw_id": "Item:OSW8751fff4e67d5a9b944e323159eb0dad#OSW6df9229649a65017822675d67c415c23",
+            "name": "milli_henry_per_ohm",
+            "symbol": "mH/Ω"
         },
         {
             "osw_id": "Item:OSW85302b21cf045998b80f38c9fdb88f84#OSW84d4f530814e5251b06e73ee0184e32b",
@@ -73,6 +98,11 @@
             "osw_id": "Item:OSW85302b21cf045998b80f38c9fdb88f84#OSW78488a0c8e885365beff30aae10a4efd",
             "name": "deci_second",
             "symbol": "ds"
+        },
+        {
+            "osw_id": "Item:OSW8751fff4e67d5a9b944e323159eb0dad",
+            "name": "henry_per_ohm",
+            "symbol": "H/Ω"
         },
         {
             "osw_id": "Item:OSWc11439599ec0538ab0c1d7d5d88da3e0",

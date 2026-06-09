@@ -38,6 +38,7 @@
                     "title": "MassUnit",
                     "enum": [
                         "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWda255533fa615a42b08ddb7aaa8236f0",
+                        "Item:OSW3120657825b851f7856bfec8259dac99",
                         "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSW94feade03c695735a9f42bfa58913427",
                         "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSW9f45555655d054a18cfc956f56720b4a",
                         "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWc82356a0512e545fa594c0454498cd0a",
@@ -48,6 +49,7 @@
                         "Item:OSWc7ed820dc85852b6be50637e389a21ae",
                         "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903",
                         "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSW9b69b8d24e745d38a5bfff237c0f075d",
+                        "Item:OSW54afa4358b8655338e8e82e2ea7fac65",
                         "Item:OSW83d430005c3f56ad9842634aa262ff6e",
                         "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSW88dc7f02bedd5111a34ed02756f37892",
                         "Item:OSW80d10f0e1fa151c3a50c2a931eaaa584",
@@ -64,6 +66,7 @@
                     ],
                     "x-enum-varnames": [
                         "kilo_gram",
+                        "dalton",
                         "femto_gram",
                         "pico_gram",
                         "nano_gram",
@@ -74,6 +77,7 @@
                         "carat",
                         "gram",
                         "deca_gram",
+                        "ampere_turn",
                         "troy_ounce",
                         "hecto_gram",
                         "troy_pound",
@@ -91,6 +95,7 @@
                     "options": {
                         "enum_titles": [
                             "kg",
+                            "Da",
                             "fg",
                             "pg",
                             "ng",
@@ -101,6 +106,7 @@
                             "ct",
                             "g",
                             "dag",
+                            "AT",
                             "oz{Troy}",
                             "hg",
                             "lbt",

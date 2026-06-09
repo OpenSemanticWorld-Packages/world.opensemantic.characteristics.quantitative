@@ -61,6 +61,18 @@
             "conversion_factor_to_main_unit": "1.0"
         },
         {
+            "uuid": "1724e3a9-51ef-5a80-bdc6-41228222a94b",
+            "name": "D",
+            "main_symbol": "D",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "241bc968-ec6b-5122-935c-14c54eb600e2",
+            "name": "rad/m",
+            "main_symbol": "rad/m",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
             "uuid": "f69b3b81-deac-5e76-ae8d-60cf7c8f099f",
             "name": "/km",
             "main_symbol": "/km",

@@ -29,16 +29,46 @@
     },
     "additional_units": [
         {
+            "uuid": "e30180a4-ca92-5c75-9ae0-2df2f78c9fcb",
+            "name": "kPa·m²/g",
+            "main_symbol": "kPa·m²/g",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "6e7b2f06-2173-57b3-b328-4987c209cddd",
+            "name": "Pa·m²/g",
+            "main_symbol": "Pa·m²/g",
+            "conversion_factor_to_main_unit": "0.001"
+        },
+        {
             "uuid": "3af4e318-b2c0-5f78-80cf-807a2a2df967",
             "name": "km/s²",
             "main_symbol": "km/s²",
             "conversion_factor_to_main_unit": "0.001"
         },
         {
+            "uuid": "582f6734-61d7-5b51-ba01-2f4637e9dc60",
+            "name": "N/kg",
+            "main_symbol": "N/kg",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "80c23a67-de98-5dff-af63-e45637deb865",
+            "name": "Pa·m²/kg",
+            "main_symbol": "Pa·m²/kg",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
             "uuid": "9e859eb7-8757-5183-9ec3-3360d9e1798f",
             "name": "cm/s²",
             "main_symbol": "cm/s²",
             "conversion_factor_to_main_unit": "100.0"
+        },
+        {
+            "uuid": "09f429af-d8cd-59e1-894c-f291eaabf3f6",
+            "name": "N/g",
+            "main_symbol": "N/g",
+            "conversion_factor_to_main_unit": "1000.0"
         },
         {
             "uuid": "9a7a8fb4-e4f0-5de0-8c11-1f0b054ba61e",

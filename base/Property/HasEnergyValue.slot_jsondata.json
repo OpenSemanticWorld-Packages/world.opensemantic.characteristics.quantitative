@@ -137,10 +137,22 @@
             "conversion_factor_to_main_unit": "0.001"
         },
         {
+            "uuid": "6d70ad26-b03a-5d71-bc59-98fedda93ab6",
+            "name": "cal{mean}",
+            "main_symbol": "cal{mean}",
+            "conversion_factor_to_main_unit": "0.2386634844868735"
+        },
+        {
             "uuid": "d37c26a2-8e5c-51bd-b7f6-040473b05417",
             "name": "cal{IT}",
             "main_symbol": "cal{IT}",
             "conversion_factor_to_main_unit": "0.23884589662749595"
+        },
+        {
+            "uuid": "a971d322-3f70-581d-a3d8-09a3a6d753cf",
+            "name": "cal{15 °C}",
+            "main_symbol": "cal{15 °C}",
+            "conversion_factor_to_main_unit": "0.2389029576186153"
         },
         {
             "uuid": "a3ff2eff-c3ae-5650-ad8d-438b0e553daf",

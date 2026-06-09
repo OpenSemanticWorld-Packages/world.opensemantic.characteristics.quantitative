@@ -3564,6 +3564,26 @@
                     }
                 },
                 {
+                    "name": "OSW2d29c3f218f75d669b67f8008851f82e",
+                    "label": "PowerPerAreaAngle",
+                    "namespace": "NS_CATEGORY",
+                    "urlPath": "Category/OSW2d29c3f218f75d669b67f8008851f82e.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Category/OSW2d29c3f218f75d669b67f8008851f82e.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Category/OSW2d29c3f218f75d669b67f8008851f82e.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Category/OSW2d29c3f218f75d669b67f8008851f82e.slot_jsondata.json"
+                        },
+                        "jsonschema": {
+                            "urlPath": "Category/OSW2d29c3f218f75d669b67f8008851f82e.slot_jsonschema.json"
+                        }
+                    }
+                },
+                {
                     "name": "OSW2db5f26f631554fa840ba5d0533ec86f",
                     "label": "LiftCoefficient",
                     "namespace": "NS_CATEGORY",
@@ -8784,6 +8804,26 @@
                     }
                 },
                 {
+                    "name": "OSW7468741a399c52338e44a8242cfed871",
+                    "label": "InverseTime",
+                    "namespace": "NS_CATEGORY",
+                    "urlPath": "Category/OSW7468741a399c52338e44a8242cfed871.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Category/OSW7468741a399c52338e44a8242cfed871.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Category/OSW7468741a399c52338e44a8242cfed871.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Category/OSW7468741a399c52338e44a8242cfed871.slot_jsondata.json"
+                        },
+                        "jsonschema": {
+                            "urlPath": "Category/OSW7468741a399c52338e44a8242cfed871.slot_jsonschema.json"
+                        }
+                    }
+                },
+                {
                     "name": "OSW74ae1de66beb525ea52eedabf09ab228",
                     "label": "Stress",
                     "namespace": "NS_CATEGORY",
@@ -8860,6 +8900,26 @@
                         },
                         "jsonschema": {
                             "urlPath": "Category/OSW75f2f083a2e856f3bd3757d099851530.slot_jsonschema.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSW76131090bf885b3b93394f5f4574e1a1",
+                    "label": "SpecificImpulse",
+                    "namespace": "NS_CATEGORY",
+                    "urlPath": "Category/OSW76131090bf885b3b93394f5f4574e1a1.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Category/OSW76131090bf885b3b93394f5f4574e1a1.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Category/OSW76131090bf885b3b93394f5f4574e1a1.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Category/OSW76131090bf885b3b93394f5f4574e1a1.slot_jsondata.json"
+                        },
+                        "jsonschema": {
+                            "urlPath": "Category/OSW76131090bf885b3b93394f5f4574e1a1.slot_jsonschema.json"
                         }
                     }
                 },
@@ -21328,6 +21388,23 @@
                     }
                 },
                 {
+                    "name": "HasDecayConstantValue",
+                    "label": "HasDecayConstantValue",
+                    "namespace": "SMW_NS_PROPERTY",
+                    "urlPath": "Property/HasDecayConstantValue.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Property/HasDecayConstantValue.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Property/HasDecayConstantValue.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Property/HasDecayConstantValue.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
                     "name": "HasDegreeOfDissociationValue",
                     "label": "HasDegreeOfDissociationValue",
                     "namespace": "SMW_NS_PROPERTY",
@@ -25047,6 +25124,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Property/HasInverseTimeTemperatureValue.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "HasInverseTimeValue",
+                    "label": "HasInverseTimeValue",
+                    "namespace": "SMW_NS_PROPERTY",
+                    "urlPath": "Property/HasInverseTimeValue.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Property/HasInverseTimeValue.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Property/HasInverseTimeValue.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Property/HasInverseTimeValue.slot_jsondata.json"
                         }
                     }
                 },
@@ -29284,6 +29378,23 @@
                     }
                 },
                 {
+                    "name": "HasPowerPerAreaAngleValue",
+                    "label": "HasPowerPerAreaAngleValue",
+                    "namespace": "SMW_NS_PROPERTY",
+                    "urlPath": "Property/HasPowerPerAreaAngleValue.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Property/HasPowerPerAreaAngleValue.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Property/HasPowerPerAreaAngleValue.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Property/HasPowerPerAreaAngleValue.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
                     "name": "HasPowerPerAreaQuarticTemperatureValue",
                     "label": "HasPowerPerAreaQuarticTemperatureValue",
                     "namespace": "SMW_NS_PROPERTY",
@@ -31626,6 +31737,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Property/HasSpecificImpulseByWeightValue.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "HasSpecificImpulseValue",
+                    "label": "HasSpecificImpulseValue",
+                    "namespace": "SMW_NS_PROPERTY",
+                    "urlPath": "Property/HasSpecificImpulseValue.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Property/HasSpecificImpulseValue.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Property/HasSpecificImpulseValue.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Property/HasSpecificImpulseValue.slot_jsondata.json"
                         }
                     }
                 },

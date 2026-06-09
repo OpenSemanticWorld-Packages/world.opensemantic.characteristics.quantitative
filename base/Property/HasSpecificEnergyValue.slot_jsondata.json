@@ -18,9 +18,9 @@
     ],
     "property_type": "Quantity",
     "main_unit": {
-        "uuid": "ebabad04-d971-5593-a5f2-220ff9a51f95",
-        "name": "J/kg",
-        "main_symbol": "J/kg",
+        "uuid": "aed1d8d6-9321-5acc-858c-151846ba249b",
+        "name": "m²/s²",
+        "main_symbol": "m²/s²",
         "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
@@ -28,6 +28,12 @@
             "uuid": "e5954789-61c5-5eb5-aa50-8a52fdd9655d",
             "name": "MJ/kg",
             "main_symbol": "MJ/kg",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "2adfd339-e7d7-5546-b825-d18ce155a586",
+            "name": "km²/s²",
+            "main_symbol": "km²/s²",
             "conversion_factor_to_main_unit": "1e-06"
         },
         {
@@ -49,6 +55,12 @@
             "conversion_factor_to_main_unit": "0.001"
         },
         {
+            "uuid": "ebabad04-d971-5593-a5f2-220ff9a51f95",
+            "name": "J/kg",
+            "main_symbol": "J/kg",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
             "uuid": "7b528526-ab40-567b-b54d-36165de9fc7a",
             "name": "N·m/kg",
             "main_symbol": "N·m/kg",
@@ -59,6 +71,24 @@
             "name": "mJ/g",
             "main_symbol": "mJ/g",
             "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "52e9f6eb-ccb1-5045-8641-bba268d27257",
+            "name": "rad",
+            "main_symbol": "rad",
+            "conversion_factor_to_main_unit": "100.0"
+        },
+        {
+            "uuid": "7434cbfe-3fe4-5620-8bd9-cad632a3b08d",
+            "name": "rem",
+            "main_symbol": "rem",
+            "conversion_factor_to_main_unit": "100.0"
+        },
+        {
+            "uuid": "627f43ec-1b8e-5ae2-a8d5-cb4271682049",
+            "name": "mrad",
+            "main_symbol": "mrad",
+            "conversion_factor_to_main_unit": "99999.99999999999"
         }
     ]
 }

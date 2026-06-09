@@ -26,12 +26,12 @@
         "Category:OSWac07a46c2cf14f3daec503136861f5ab"
     ],
     "quantity": "Item:OSW355991130bb05ab39e068c0cc8028094",
-    "default_unit": "Item:OSWf81272110594591abc29164f3c106ab6#OSWebfdb321c4215ee6b0e498a101b191c9",
+    "default_unit": "Item:OSWa16942bc554b543bb9542f6c941cfe78",
     "unit_enumeration": [
         {
-            "osw_id": "Item:OSWf81272110594591abc29164f3c106ab6#OSWebfdb321c4215ee6b0e498a101b191c9",
-            "name": "kilo_gram_per_meter_squared_per_second",
-            "symbol": "kg/(m²·s)"
+            "osw_id": "Item:OSWa16942bc554b543bb9542f6c941cfe78",
+            "name": "pascal_second_per_meter",
+            "symbol": "Pa·s/m"
         },
         {
             "osw_id": "Item:OSW7e2cc094b2c857c9af45bde4a1459da6",
@@ -117,6 +117,11 @@
             "osw_id": "Item:OSWf81272110594591abc29164f3c106ab6",
             "name": "gram_per_meter_squared_per_second",
             "symbol": "g/(m²·s)"
+        },
+        {
+            "osw_id": "Item:OSWf81272110594591abc29164f3c106ab6#OSWebfdb321c4215ee6b0e498a101b191c9",
+            "name": "kilo_gram_per_meter_squared_per_second",
+            "symbol": "kg/(m²·s)"
         },
         {
             "osw_id": "Item:OSW41b075fc469a586eba9b1a3e349ae54d#OSW392e53059570581b8b98decafc31a919",

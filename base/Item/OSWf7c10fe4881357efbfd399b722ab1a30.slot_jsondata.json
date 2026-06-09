@@ -17,9 +17,9 @@
         }
     ],
     "meta": {
-        "uuid": "b7e3512f-8337-49fa-ae94-75c144814675",
+        "uuid": "880a72bb-e56b-4d7c-9d8e-50fa102821de",
         "change_id": [
-            "46004457-8d82-46b0-9ac9-81caca856325"
+            "3c5a5757-3c41-46d8-84d0-d4f148ca1a2d"
         ]
     },
     "global_id": "world.opensemantic.characteristics.quantitative",
@@ -201,6 +201,7 @@
         "Category:OSW2cae7f47264e5a25abee5713c593bc56",
         "Category:OSW2d0da104d005586998d511764fbb2517",
         "Category:OSW2d1d1f04bf8d579180ad371211ea8969",
+        "Category:OSW2d29c3f218f75d669b67f8008851f82e",
         "Category:OSW2db5f26f631554fa840ba5d0533ec86f",
         "Category:OSW2db9d2e24c985062b5f764ebc6e146fb",
         "Category:OSW2e156bd3451d56e9aa27d9604de376f1",
@@ -463,10 +464,12 @@
         "Category:OSW7423002c2fd45809bfc0c4879b7d6f9c",
         "Category:OSW7450be7f3aa3552e9da4bb8a6d952f9f",
         "Category:OSW7462160259c65b45be6369b78ee192aa",
+        "Category:OSW7468741a399c52338e44a8242cfed871",
         "Category:OSW74ae1de66beb525ea52eedabf09ab228",
         "Category:OSW759cf8e16f60598887292ea131ad71c2",
         "Category:OSW75c0b290d1a451fb8de36ffa84bdc59c",
         "Category:OSW75f2f083a2e856f3bd3757d099851530",
+        "Category:OSW76131090bf885b3b93394f5f4574e1a1",
         "Category:OSW76a6380b5209591dbb051af32a54fef0",
         "Category:OSW76c12a2cef85509fba12bf965efaef2f",
         "Category:OSW76e5322d7b8c5f03be94ad8dc87405b1",
@@ -1116,6 +1119,7 @@
         "Property:HasDebyeAngularWavenumberValue",
         "Property:HasDebyeTemperatureValue",
         "Property:HasDebyeWallerFactorValue",
+        "Property:HasDecayConstantValue",
         "Property:HasDegreeOfDissociationValue",
         "Property:HasDeltaUVValue",
         "Property:HasDeltaVValue",
@@ -1335,6 +1339,7 @@
         "Property:HasInverseSquareTimeValue",
         "Property:HasInverseTemperatureValue",
         "Property:HasInverseTimeTemperatureValue",
+        "Property:HasInverseTimeValue",
         "Property:HasInverseVolumeValue",
         "Property:HasIonConcentrationValue",
         "Property:HasIonCurrentValue",
@@ -1584,6 +1589,7 @@
         "Property:HasPowerAreaPerSolidAngleValue",
         "Property:HasPowerAreaValue",
         "Property:HasPowerFactorValue",
+        "Property:HasPowerPerAreaAngleValue",
         "Property:HasPowerPerAreaQuarticTemperatureValue",
         "Property:HasPowerPerAreaValue",
         "Property:HasPowerPerElectricChargeValue",
@@ -1722,6 +1728,7 @@
         "Property:HasSpecificHelmholtzEnergyValue",
         "Property:HasSpecificImpulseByMassValue",
         "Property:HasSpecificImpulseByWeightValue",
+        "Property:HasSpecificImpulseValue",
         "Property:HasSpecificInternalEnergyValue",
         "Property:HasSpecificModulusValue",
         "Property:HasSpecificOpticalRotatoryPowerValue",

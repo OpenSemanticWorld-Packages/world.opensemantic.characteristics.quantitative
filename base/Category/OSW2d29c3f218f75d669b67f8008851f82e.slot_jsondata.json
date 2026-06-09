@@ -1,0 +1,32 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/PowerPerAreaAngle"
+    ],
+    "uuid": "2d29c3f2-18f7-5d66-9b67-f8008851f82e",
+    "name": "PowerPerAreaAngle",
+    "label": [
+        {
+            "text": "Power per Area Angle",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW8ee31dfb85b955cda7c7b2451aaa0ae4",
+    "default_unit": "Item:OSW8afae973361b5e9ba300c36ac631da76",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW8afae973361b5e9ba300c36ac631da76",
+            "name": "watt_per_meter_squared_per_steradian",
+            "symbol": "W/(m²·sr)"
+        }
+    ],
+    "quantity_property": "Property:HasPowerPerAreaAngleValue"
+}

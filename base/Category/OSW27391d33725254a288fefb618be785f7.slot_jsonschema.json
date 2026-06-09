@@ -37,7 +37,10 @@
                     "title": "ElectricChargePerMassUnit",
                     "enum": [
                         "Item:OSWf67d1f72b8d65f079085ae0b2e649428",
+                        "Item:OSW24c69f74406f5ba5aef5e37f7534044c#OSWb698000787a9530fbf38d408a735d849",
+                        "Item:OSW24c69f74406f5ba5aef5e37f7534044c#OSW24c69f74406f5ba5aef5e37f7534044c",
                         "Item:OSWeccca21113fe5297bb1190eaee52459d#OSW40aee268cfd056638db75aca748bb5a9",
+                        "Item:OSW24c69f74406f5ba5aef5e37f7534044c#OSW11becc291de559a48041ed5f8a1cf82a",
                         "Item:OSW57e1f78efd6a50fd8f2c35ea808d7b86",
                         "Item:OSWeccca21113fe5297bb1190eaee52459d#OSWae7413b736b45ffca049de991c5df83c",
                         "Item:OSWc487154613c25f51813ae4f4de2c7802",
@@ -46,7 +49,10 @@
                     ],
                     "x-enum-varnames": [
                         "per_second_per_tesla",
+                        "milli_molar_gas_constant",
+                        "molar_gas_constant",
                         "milli_coulomb_per_kilo_gram",
+                        "kilo_molar_gas_constant",
                         "ampere_meter_squared_per_joule_per_second",
                         "coulomb_per_kilo_gram",
                         "hertz_per_tesla",
@@ -56,7 +62,10 @@
                     "options": {
                         "enum_titles": [
                             "/(T·s)",
+                            "mR",
+                            "R",
                             "mC/kg",
+                            "kR",
                             "A·m²/(J·s)",
                             "C/kg",
                             "Hz/T",

@@ -36,7 +36,7 @@
                 "unit": {
                     "title": "MassPerAreaTimeUnit",
                     "enum": [
-                        "Item:OSWf81272110594591abc29164f3c106ab6#OSWebfdb321c4215ee6b0e498a101b191c9",
+                        "Item:OSWa16942bc554b543bb9542f6c941cfe78",
                         "Item:OSW7e2cc094b2c857c9af45bde4a1459da6",
                         "Item:OSWb2902ae1df0b561682bfc174af5ff039#OSWae40efaa247650f38362d522eabf49ca",
                         "Item:OSWb2902ae1df0b561682bfc174af5ff039#OSWb4fb60e190df572681fbd988fd44a5c4",
@@ -54,11 +54,12 @@
                         "Item:OSWf81272110594591abc29164f3c106ab6#OSWd6359a8a93a25bd48e5c2e745bfb9d43",
                         "Item:OSWb2902ae1df0b561682bfc174af5ff039#OSW41b282c4f40a53d1b288be6610a9133d",
                         "Item:OSWf81272110594591abc29164f3c106ab6",
+                        "Item:OSWf81272110594591abc29164f3c106ab6#OSWebfdb321c4215ee6b0e498a101b191c9",
                         "Item:OSW41b075fc469a586eba9b1a3e349ae54d#OSW392e53059570581b8b98decafc31a919",
                         "Item:OSW41b075fc469a586eba9b1a3e349ae54d"
                     ],
                     "x-enum-varnames": [
-                        "kilo_gram_per_meter_squared_per_second",
+                        "pascal_second_per_meter",
                         "gram_per_hectare_per_year",
                         "micro_gram_per_day_per_meter_squared",
                         "nano_gram_per_centi_meter_squared_per_day",
@@ -77,11 +78,12 @@
                         "kilo_gram_per_day_per_meter_squared",
                         "gram_per_meter_squared_per_second",
                         "kilo_gram_per_meter_squared_per_second",
+                        "kilo_gram_per_meter_squared_per_second",
                         "gram_per_meter_squared_per_second"
                     ],
                     "options": {
                         "enum_titles": [
-                            "kg/(m²·s)",
+                            "Pa·s/m",
                             "g/(ha·a)",
                             "μg/(m²·d)",
                             "ng/(cm²·d)",
@@ -99,11 +101,12 @@
                             "mg/(m²·s)",
                             "kg/(m²·d)",
                             "g/(m²·s)",
+                            "kg/(m²·s)",
                             "kg/(s·m²)",
                             "g/(s·m²)"
                         ]
                     },
-                    "default": "Item:OSWf81272110594591abc29164f3c106ab6#OSWebfdb321c4215ee6b0e498a101b191c9"
+                    "default": "Item:OSWa16942bc554b543bb9542f6c941cfe78"
                 }
             },
             "x-smw-quantity-property": "Property:HasMassPerAreaTimeValue"

@@ -40,6 +40,11 @@
             "symbol": "kg"
         },
         {
+            "osw_id": "Item:OSW3120657825b851f7856bfec8259dac99",
+            "name": "dalton",
+            "symbol": "Da"
+        },
+        {
             "osw_id": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSW94feade03c695735a9f42bfa58913427",
             "name": "femto_gram",
             "symbol": "fg"
@@ -88,6 +93,11 @@
             "osw_id": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSW9b69b8d24e745d38a5bfff237c0f075d",
             "name": "deca_gram",
             "symbol": "dag"
+        },
+        {
+            "osw_id": "Item:OSW54afa4358b8655338e8e82e2ea7fac65",
+            "name": "ampere_turn",
+            "symbol": "AT"
         },
         {
             "osw_id": "Item:OSW83d430005c3f56ad9842634aa262ff6e",

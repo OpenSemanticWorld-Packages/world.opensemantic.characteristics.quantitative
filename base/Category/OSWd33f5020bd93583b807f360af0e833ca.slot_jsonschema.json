@@ -34,17 +34,20 @@
                 "unit": {
                     "title": "InverseSquareTimeUnit",
                     "enum": [
+                        "Item:OSW3e32d5c05da65edda555930f2545430b",
                         "Item:OSWbefab75c6042567c84545b5fab456055"
                     ],
                     "x-enum-varnames": [
+                        "radian_per_second_squared",
                         "per_second_squared"
                     ],
                     "options": {
                         "enum_titles": [
+                            "rad/s²",
                             "/s²"
                         ]
                     },
-                    "default": "Item:OSWbefab75c6042567c84545b5fab456055"
+                    "default": "Item:OSW3e32d5c05da65edda555930f2545430b"
                 }
             },
             "x-smw-quantity-property": "Property:HasInverseSquareTimeValue"

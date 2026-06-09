@@ -29,6 +29,12 @@
             "name": "kJ/K",
             "main_symbol": "kJ/K",
             "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "3bb685ef-6b06-5fd4-a597-c503ad1e5d90",
+            "name": "eV/K",
+            "main_symbol": "eV/K",
+            "conversion_factor_to_main_unit": "6.241509074460763e+18"
         }
     ]
 }

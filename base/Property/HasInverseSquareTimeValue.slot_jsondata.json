@@ -12,9 +12,17 @@
     ],
     "property_type": "Quantity",
     "main_unit": {
-        "uuid": "3715b1b5-ba3e-5dff-b1d1-472d913f9dbd",
-        "name": "/s²",
-        "main_symbol": "/s²",
+        "uuid": "c72a69a6-20c3-545e-9263-8a90b6fc6a7a",
+        "name": "rad/s²",
+        "main_symbol": "rad/s²",
         "conversion_factor_to_main_unit": "1.0"
-    }
+    },
+    "additional_units": [
+        {
+            "uuid": "3715b1b5-ba3e-5dff-b1d1-472d913f9dbd",
+            "name": "/s²",
+            "main_symbol": "/s²",
+            "conversion_factor_to_main_unit": "1.0"
+        }
+    ]
 }

@@ -1,0 +1,22 @@
+{
+    "type": [
+        "Category:OSW69f251a900944602a08d1cca830249b5"
+    ],
+    "uuid": "e9febc2f-01b9-5474-8d8f-2120dd3c9e3d",
+    "name": "HasDecayConstantValue",
+    "label": [
+        {
+            "text": "Decay Constant",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Decay Constant\" is the proportionality between the size of a population of radioactive atoms and the rate at which the population decreases because of radioactive decay.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "subproperty_of": "Property:HasInverseTimeValue",
+    "base_property": "Property:HasInverseTimeValue"
+}

@@ -34,9 +34,24 @@
             "symbol": "/(T·s)"
         },
         {
+            "osw_id": "Item:OSW24c69f74406f5ba5aef5e37f7534044c#OSWb698000787a9530fbf38d408a735d849",
+            "name": "milli_molar_gas_constant",
+            "symbol": "mR"
+        },
+        {
+            "osw_id": "Item:OSW24c69f74406f5ba5aef5e37f7534044c#OSW24c69f74406f5ba5aef5e37f7534044c",
+            "name": "molar_gas_constant",
+            "symbol": "R"
+        },
+        {
             "osw_id": "Item:OSWeccca21113fe5297bb1190eaee52459d#OSW40aee268cfd056638db75aca748bb5a9",
             "name": "milli_coulomb_per_kilo_gram",
             "symbol": "mC/kg"
+        },
+        {
+            "osw_id": "Item:OSW24c69f74406f5ba5aef5e37f7534044c#OSW11becc291de559a48041ed5f8a1cf82a",
+            "name": "kilo_molar_gas_constant",
+            "symbol": "kR"
         },
         {
             "osw_id": "Item:OSW57e1f78efd6a50fd8f2c35ea808d7b86",

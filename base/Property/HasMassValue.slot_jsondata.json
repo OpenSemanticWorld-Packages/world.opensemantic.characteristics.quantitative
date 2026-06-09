@@ -107,6 +107,12 @@
             "conversion_factor_to_main_unit": "32.15074656862798"
         },
         {
+            "uuid": "5681ba21-39c0-52c6-bda7-e7eb70d1c681",
+            "name": "AT",
+            "main_symbol": "AT",
+            "conversion_factor_to_main_unit": "34.28571036734739"
+        },
+        {
             "uuid": "4c8f760a-09ba-5847-acb0-9ee7d4073d3d",
             "name": "dag",
             "main_symbol": "dag",
@@ -165,6 +171,12 @@
             "name": "fg",
             "main_symbol": "fg",
             "conversion_factor_to_main_unit": "9.999999999999999e+17"
+        },
+        {
+            "uuid": "f9fe30bd-48b5-52c5-96ae-8d9d3975f0ea",
+            "name": "Da",
+            "main_symbol": "Da",
+            "conversion_factor_to_main_unit": "6.02214179120667e+26"
         }
     ]
 }

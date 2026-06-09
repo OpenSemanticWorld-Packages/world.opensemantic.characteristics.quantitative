@@ -37,26 +37,41 @@
                 "unit": {
                     "title": "AccelerationUnit",
                     "enum": [
-                        "Item:OSWb91fd68d93375855a57c795180c429a3",
+                        "Item:OSW34e9b9faef5e51d5baba67459d7295e2#OSW8ef77a27e94b5ccba0f3d69d8491e137",
+                        "Item:OSW34e9b9faef5e51d5baba67459d7295e2",
                         "Item:OSWb91fd68d93375855a57c795180c429a3#OSWc1e73ef72fce51e59e956a39aff96df6",
                         "Item:OSWb91fd68d93375855a57c795180c429a3#OSW014676a1d72e5f16a59a8d966253ab6f",
-                        "Item:OSWb91fd68d93375855a57c795180c429a3#OSWde24456bff59574e9ff24646b3ddf3d1"
+                        "Item:OSW09bffc6b706d5b8b86db307ee7503a2a#OSW7dcdf8b144755fb8ac3897d4ba5e3a43",
+                        "Item:OSWb91fd68d93375855a57c795180c429a3",
+                        "Item:OSW09bffc6b706d5b8b86db307ee7503a2a",
+                        "Item:OSWb91fd68d93375855a57c795180c429a3#OSWde24456bff59574e9ff24646b3ddf3d1",
+                        "Item:OSW09bffc6b706d5b8b86db307ee7503a2a#OSW2ff95fa06aa15090a73b82c969626568"
                     ],
                     "x-enum-varnames": [
-                        "meter_per_second_squared",
+                        "newton_per_kilo_gram",
+                        "newton_per_gram",
                         "milli_meter_per_second_squared",
                         "centi_meter_per_second_squared",
-                        "kilo_meter_per_second_squared"
+                        "meter_squared_pascal_per_kilo_gram",
+                        "meter_per_second_squared",
+                        "meter_squared_pascal_per_gram",
+                        "kilo_meter_per_second_squared",
+                        "kilo_pascal_meter_squared_per_gram"
                     ],
                     "options": {
                         "enum_titles": [
-                            "m/s²",
+                            "N/kg",
+                            "N/g",
                             "mm/s²",
                             "cm/s²",
-                            "km/s²"
+                            "Pa·m²/kg",
+                            "m/s²",
+                            "Pa·m²/g",
+                            "km/s²",
+                            "kPa·m²/g"
                         ]
                     },
-                    "default": "Item:OSWb91fd68d93375855a57c795180c429a3"
+                    "default": "Item:OSW34e9b9faef5e51d5baba67459d7295e2#OSW8ef77a27e94b5ccba0f3d69d8491e137"
                 }
             },
             "x-smw-quantity-property": "Property:HasAccelerationValue"
