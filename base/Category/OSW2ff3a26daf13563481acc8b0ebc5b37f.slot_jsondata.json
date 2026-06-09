@@ -49,6 +49,16 @@
             "symbol": "mPa"
         },
         {
+            "osw_id": "Item:OSWad94dc4bfea45e20a8234c7487634c99#OSW9ec301c16d345beeb00df3edfaa791fb",
+            "name": "micro_bar",
+            "symbol": "μbar"
+        },
+        {
+            "osw_id": "Item:OSWf3df7559397e55aa9006e3e1e5bc68b9#OSWd5e58ef36326542ba2245104886b0883",
+            "name": "micro_standard_atmosphere",
+            "symbol": "μatm"
+        },
+        {
             "osw_id": "Item:OSW8a5d71b652735726aa47d5d3865b235c",
             "name": "newton_per_meter_squared",
             "symbol": "N/m²"
@@ -67,6 +77,21 @@
             "osw_id": "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW482939f123595314beca39ad32d65a15",
             "name": "hecto_pascal",
             "symbol": "hPa"
+        },
+        {
+            "osw_id": "Item:OSWad94dc4bfea45e20a8234c7487634c99#OSW9ebd04e2e60051c682fce5c4c696194f",
+            "name": "milli_bar",
+            "symbol": "mbar"
+        },
+        {
+            "osw_id": "Item:OSW0489626a4cd15b65b8ae4541a0a8bbdc#OSWdea4cb3bc9b55d169545c5e0a42f81ec",
+            "name": "mbar_abs",
+            "symbol": "mbar abs"
+        },
+        {
+            "osw_id": "Item:OSWad94dc4bfea45e20a8234c7487634c99#OSW276ae35c97f05a829443b38c0120d134",
+            "name": "centi_bar",
+            "symbol": "cbar"
         },
         {
             "osw_id": "Item:OSW29e8c4eee58e56608bcd4ae23f02208d",
@@ -89,6 +114,26 @@
             "symbol": "N/cm²"
         },
         {
+            "osw_id": "Item:OSW220eff637bd45734a08a6a88385d6ae2",
+            "name": "technical_atmosphere",
+            "symbol": "at"
+        },
+        {
+            "osw_id": "Item:OSWad94dc4bfea45e20a8234c7487634c99",
+            "name": "bar",
+            "symbol": "bar"
+        },
+        {
+            "osw_id": "Item:OSW0489626a4cd15b65b8ae4541a0a8bbdc",
+            "name": "bar_absolute",
+            "symbol": "bar abs"
+        },
+        {
+            "osw_id": "Item:OSWf3df7559397e55aa9006e3e1e5bc68b9",
+            "name": "standard_atmosphere",
+            "symbol": "atm"
+        },
+        {
             "osw_id": "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW0ec5bf8132b25e58b7032766bd9b3225",
             "name": "mega_pascal",
             "symbol": "MPa"
@@ -99,9 +144,24 @@
             "symbol": "N/mm²"
         },
         {
+            "osw_id": "Item:OSWad94dc4bfea45e20a8234c7487634c99#OSWd9906a26879a560f9eb44b405a09440c",
+            "name": "dirac_constant",
+            "symbol": "hbar"
+        },
+        {
+            "osw_id": "Item:OSWad94dc4bfea45e20a8234c7487634c99#OSWe160f83a9ebd5f51ae17bc3e1f18da17",
+            "name": "kilo_bar",
+            "symbol": "kbar"
+        },
+        {
             "osw_id": "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW49bb4743a5735e189777f3c6bd422a52",
             "name": "giga_pascal",
             "symbol": "GPa"
+        },
+        {
+            "osw_id": "Item:OSWad94dc4bfea45e20a8234c7487634c99#OSWc787e32e220555a4aded13f0b4f2b0ee",
+            "name": "mega_bar",
+            "symbol": "Mbar"
         }
     ],
     "quantity_property": "Property:HasForcePerAreaValue"

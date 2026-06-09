@@ -100,6 +100,16 @@
             "symbol": "W·s"
         },
         {
+            "osw_id": "Item:OSWa10ab59b3558540b9216812a03241e22",
+            "name": "calorie",
+            "symbol": "cal"
+        },
+        {
+            "osw_id": "Item:OSWc14beede94eb5e7981a635d0b14fbe1c",
+            "name": "international_calorie",
+            "symbol": "cal{IT}"
+        },
+        {
             "osw_id": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSWad2518d42b685f569679c3599455c3d3",
             "name": "kilo_joule",
             "symbol": "kJ"
@@ -113,6 +123,16 @@
             "osw_id": "Item:OSW7a184bd36f7e58f5a5c030497784cc02",
             "name": "hour_watt",
             "symbol": "W·h"
+        },
+        {
+            "osw_id": "Item:OSWa10ab59b3558540b9216812a03241e22#OSW3dbfa0781597595bac216bcedd9508d9",
+            "name": "kilo_calorie",
+            "symbol": "kcal"
+        },
+        {
+            "osw_id": "Item:OSWc14beede94eb5e7981a635d0b14fbe1c#OSW02fb85aba449513c92a030722b540d4b",
+            "name": "kilo_international_calorie",
+            "symbol": "kcal{IT}"
         },
         {
             "osw_id": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSWc1525b1f1fc05c40b9715328bf707805",
@@ -145,6 +165,11 @@
             "symbol": "MW·h"
         },
         {
+            "osw_id": "Item:OSWd2c8accde73353f4b916d478f0f657ff",
+            "name": "metric_ton_per_force_pound",
+            "symbol": "t/lbf"
+        },
+        {
             "osw_id": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW0ac3643d930d5c99936e5ece487a9634",
             "name": "tera_joule",
             "symbol": "TJ"
@@ -168,6 +193,11 @@
             "osw_id": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW5ba80670b2945c08b35551442d3169d5",
             "name": "exa_joule",
             "symbol": "EJ"
+        },
+        {
+            "osw_id": "Item:OSW81fa41f795f45c50a2fd671b17a7dcba",
+            "name": "quad",
+            "symbol": "quad"
         }
     ],
     "quantity_property": "Property:HasEnergyValue"

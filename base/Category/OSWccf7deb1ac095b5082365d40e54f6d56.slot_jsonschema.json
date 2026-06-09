@@ -39,6 +39,7 @@
                     "enum": [
                         "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d",
                         "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d#OSWc9f2986f0974565b904f1d0d756d5318",
+                        "Item:OSW77d4b1042f5d5da49ea7a32d7f72560b",
                         "Item:OSWcaa8107f73e65c64bd1a17c1ce175b86",
                         "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d#OSW6cc3591d052d589cb271f6710f816486",
                         "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d#OSWf29947a1c6545b98b0a669c56a366105",
@@ -49,11 +50,13 @@
                         "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d#OSW6c046cfc0de15ce8a9f6aa09d575a524",
                         "Item:OSW88703a966490546d89632c3336e28b2a",
                         "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d#OSWe2d30b3b09325ef7819f6d51071e147e",
-                        "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d#OSW27b6c423e529517ba2d3f466d2c822b4"
+                        "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d#OSW27b6c423e529517ba2d3f466d2c822b4",
+                        "Item:OSW0ad7b62faa04540997ae86979ee04745"
                     ],
                     "x-enum-varnames": [
                         "siemens_per_meter",
                         "pico_siemens_per_meter",
+                        "statmho",
                         "statmho",
                         "nano_siemens_per_meter",
                         "nano_siemens_per_centi_meter",
@@ -64,12 +67,14 @@
                         "milli_siemens_per_centi_meter",
                         "siemens_per_centi_meter",
                         "kilo_siemens_per_meter",
-                        "mega_siemens_per_meter"
+                        "mega_siemens_per_meter",
+                        "absiemens"
                     ],
                     "options": {
                         "enum_titles": [
                             "S/m",
                             "pS/m",
+                            "statS",
                             "stat℧",
                             "nS/m",
                             "nS/cm",
@@ -80,7 +85,8 @@
                             "mS/cm",
                             "S/cm",
                             "kS/m",
-                            "MS/m"
+                            "MS/m",
+                            "aS"
                         ]
                     },
                     "default": "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d"

@@ -37,16 +37,19 @@
                     "title": "LuminousFluxPerAreaUnit",
                     "enum": [
                         "Item:OSWca14d08a41b65ac59d79d96be1351305",
-                        "Item:OSW4f047e2da1fc5ea497c9e22eb8e98ce5"
+                        "Item:OSW4f047e2da1fc5ea497c9e22eb8e98ce5",
+                        "Item:OSWbed1170537235cb98d9bb08e11e482e0"
                     ],
                     "x-enum-varnames": [
                         "lux",
-                        "candela_per_meter_squared"
+                        "candela_per_meter_squared",
+                        "phot"
                     ],
                     "options": {
                         "enum_titles": [
                             "lx",
-                            "cd/m²"
+                            "cd/m²",
+                            "ph"
                         ]
                     },
                     "default": "Item:OSWca14d08a41b65ac59d79d96be1351305"

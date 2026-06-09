@@ -38,33 +38,39 @@
                     "enum": [
                         "Item:OSWa1b4f9da4183543a8161e3fe99751be2",
                         "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSW328bea7c368659c0ab2729ace2604ebc",
+                        "Item:OSW19b2780fc9e453208461d0f02b53012b",
                         "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSW4a91761988a65eedb66ea86bafd6322a",
                         "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSWea22beb7c14350cfb4a8029430e0a9e3",
                         "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSW2c99e79b872e50d7a3cdb3b0614bbb1d",
                         "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSW3690c26e937c55f1aeb3dcba3c5d79f4",
                         "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSW233c7ca125dc5092bdc69b05723ba75b",
-                        "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSW6d5eff7201aa54a68e1f4165e8cf762d"
+                        "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSW6d5eff7201aa54a68e1f4165e8cf762d",
+                        "Item:OSW99c6644607c65f628236e9383b506717"
                     ],
                     "x-enum-varnames": [
                         "farad",
                         "atto_farad",
+                        "statfarad",
                         "femto_farad",
                         "pico_farad",
                         "nano_farad",
                         "micro_farad",
                         "milli_farad",
-                        "kilo_farad"
+                        "kilo_farad",
+                        "abfarad"
                     ],
                     "options": {
                         "enum_titles": [
                             "F",
                             "aF",
+                            "statF",
                             "fF",
                             "pF",
                             "nF",
                             "μF",
                             "mF",
-                            "kF"
+                            "kF",
+                            "abF"
                         ]
                     },
                     "default": "Item:OSWa1b4f9da4183543a8161e3fe99751be2"

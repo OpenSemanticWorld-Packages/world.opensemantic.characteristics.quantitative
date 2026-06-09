@@ -59,6 +59,18 @@
             "conversion_factor_to_main_unit": "0.001"
         },
         {
+            "uuid": "f585b7e0-dd2b-52f3-b7ae-be31d7009508",
+            "name": "Bi",
+            "main_symbol": "Bi",
+            "conversion_factor_to_main_unit": "0.1"
+        },
+        {
+            "uuid": "e44e202a-8854-5d89-ae4a-041e978deb24",
+            "name": "abA",
+            "main_symbol": "abA",
+            "conversion_factor_to_main_unit": "0.1"
+        },
+        {
             "uuid": "f048dfaf-4ada-5c7a-b6f1-ce55aaeb0805",
             "name": "mA",
             "main_symbol": "mA",
@@ -75,6 +87,12 @@
             "name": "nA",
             "main_symbol": "nA",
             "conversion_factor_to_main_unit": "999999999.9999999"
+        },
+        {
+            "uuid": "ea8e6292-4806-53c1-98db-9f878ed0ee27",
+            "name": "statA",
+            "main_symbol": "statA",
+            "conversion_factor_to_main_unit": "2997924536.8431435"
         },
         {
             "uuid": "4293fa6c-ffd2-58c9-bb9d-cf12b388532f",

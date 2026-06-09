@@ -36,14 +36,17 @@
                 "unit": {
                     "title": "ThermalInsulanceUnit",
                     "enum": [
-                        "Item:OSWeb19f8b7b92a5f09a0a4a398d29021dc"
+                        "Item:OSWeb19f8b7b92a5f09a0a4a398d29021dc",
+                        "Item:OSW466083d9a99a5461951196fc61eba910"
                     ],
                     "x-enum-varnames": [
-                        "kelvin_meter_squared_per_watt"
+                        "kelvin_meter_squared_per_watt",
+                        "clo_unit"
                     ],
                     "options": {
                         "enum_titles": [
-                            "m²·K/W"
+                            "m²·K/W",
+                            "clo"
                         ]
                     },
                     "default": "Item:OSWeb19f8b7b92a5f09a0a4a398d29021dc"

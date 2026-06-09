@@ -35,6 +35,11 @@
             "symbol": "Pa·s"
         },
         {
+            "osw_id": "Item:OSW453a0e790373569d9090299ca4c23254#OSW7b6f0482a9045a75a75be570b2b8655e",
+            "name": "micro_poise",
+            "symbol": "μP"
+        },
+        {
             "osw_id": "Item:OSWd8aa29b66adb508bb90a06298fc20758",
             "name": "gram_per_hour_per_meter",
             "symbol": "g/(m·h)"
@@ -43,6 +48,11 @@
             "osw_id": "Item:OSWd8aa29b66adb508bb90a06298fc20758#OSW3caecf6a4b095fe693ff789164f69434",
             "name": "kilo_gram_per_hour_per_meter",
             "symbol": "kg/(m·h)"
+        },
+        {
+            "osw_id": "Item:OSW453a0e790373569d9090299ca4c23254#OSWc71f4c1a8cbc5ca785fbe42f364f4205",
+            "name": "centi_poise",
+            "symbol": "cP"
         },
         {
             "osw_id": "Item:OSWa23628f5533252f2a59f8bcb5df2a15e",
@@ -55,14 +65,29 @@
             "symbol": "mPa·s"
         },
         {
+            "osw_id": "Item:OSW453a0e790373569d9090299ca4c23254",
+            "name": "poise",
+            "symbol": "P"
+        },
+        {
             "osw_id": "Item:OSWa23628f5533252f2a59f8bcb5df2a15e#OSWe41738b8454e5dfe937b4355b929d69d",
             "name": "gram_per_centi_meter_per_second",
             "symbol": "g/(cm·s)"
         },
         {
+            "osw_id": "Item:OSW453a0e790373569d9090299ca4c23254#OSWc29411f4e70e5c258457ebd07a7e5f8d",
+            "name": "deca_poise",
+            "symbol": "daP"
+        },
+        {
             "osw_id": "Item:OSWa23628f5533252f2a59f8bcb5df2a15e#OSW1533ce6303685bbfba8ea68bbab48e18",
             "name": "kilo_gram_per_meter_per_second",
             "symbol": "kg/(m·s)"
+        },
+        {
+            "osw_id": "Item:OSW453a0e790373569d9090299ca4c23254#OSWa1b873fe99a7503680206e2b55305f11",
+            "name": "kilo_poise",
+            "symbol": "kP"
         }
     ],
     "quantity_property": "Property:HasViscosityValue"

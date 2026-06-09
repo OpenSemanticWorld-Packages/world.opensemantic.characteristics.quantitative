@@ -37,6 +37,11 @@
             "osw_id": "Item:OSW4f047e2da1fc5ea497c9e22eb8e98ce5",
             "name": "candela_per_meter_squared",
             "symbol": "cd/m²"
+        },
+        {
+            "osw_id": "Item:OSWbed1170537235cb98d9bb08e11e482e0",
+            "name": "phot",
+            "symbol": "ph"
         }
     ],
     "quantity_property": "Property:HasLuminousFluxPerAreaValue"

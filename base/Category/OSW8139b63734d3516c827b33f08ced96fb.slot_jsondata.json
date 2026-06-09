@@ -32,6 +32,11 @@
             "osw_id": "Item:OSWeb19f8b7b92a5f09a0a4a398d29021dc",
             "name": "kelvin_meter_squared_per_watt",
             "symbol": "m²·K/W"
+        },
+        {
+            "osw_id": "Item:OSW466083d9a99a5461951196fc61eba910",
+            "name": "clo_unit",
+            "symbol": "clo"
         }
     ],
     "quantity_property": "Property:HasThermalInsulanceValue"

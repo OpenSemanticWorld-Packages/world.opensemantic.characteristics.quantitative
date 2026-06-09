@@ -25,6 +25,12 @@
     },
     "additional_units": [
         {
+            "uuid": "14761549-a5d9-5b73-aebd-e51705944b6c",
+            "name": "abF",
+            "main_symbol": "abF",
+            "conversion_factor_to_main_unit": "1e-09"
+        },
+        {
             "uuid": "4e01789e-9d13-58b3-9ead-9f88ff98b0cf",
             "name": "kF",
             "main_symbol": "kF",
@@ -59,6 +65,12 @@
             "name": "fF",
             "main_symbol": "fF",
             "conversion_factor_to_main_unit": "999999999999999.9"
+        },
+        {
+            "uuid": "715ad506-a315-5e36-b2fb-6f802ffc38fa",
+            "name": "statF",
+            "main_symbol": "statF",
+            "conversion_factor_to_main_unit": "8.987551787368177e+17"
         },
         {
             "uuid": "0d5a9753-fc7c-58c2-8f08-24e4ebecc147",

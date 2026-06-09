@@ -32,6 +32,11 @@
             "osw_id": "Item:OSW5d3fe58ebbac5483bad8904ff8811366",
             "name": "dimensionless",
             "symbol": "#"
+        },
+        {
+            "osw_id": "Item:OSW56cb00de0b945ec0b33280e0376b2c18",
+            "name": "k",
+            "symbol": "kᵣ"
         }
     ],
     "quantity_property": "Property:HasPermeabilityRatioValue"

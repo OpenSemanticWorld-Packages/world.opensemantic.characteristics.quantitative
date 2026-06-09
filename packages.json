@@ -8564,6 +8564,26 @@
                     }
                 },
                 {
+                    "name": "OSW71632403ff765a32b2e51f57d38fd64d",
+                    "label": "DecayConstant",
+                    "namespace": "NS_CATEGORY",
+                    "urlPath": "Category/OSW71632403ff765a32b2e51f57d38fd64d.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Category/OSW71632403ff765a32b2e51f57d38fd64d.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Category/OSW71632403ff765a32b2e51f57d38fd64d.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Category/OSW71632403ff765a32b2e51f57d38fd64d.slot_jsondata.json"
+                        },
+                        "jsonschema": {
+                            "urlPath": "Category/OSW71632403ff765a32b2e51f57d38fd64d.slot_jsonschema.json"
+                        }
+                    }
+                },
+                {
                     "name": "OSW71dc7977cd3a539889a4af664c2e02da",
                     "label": "MagneticField",
                     "namespace": "NS_CATEGORY",
@@ -23837,6 +23857,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Property/HasForcePerLengthValue.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "HasForceValue",
+                    "label": "HasForceValue",
+                    "namespace": "SMW_NS_PROPERTY",
+                    "urlPath": "Property/HasForceValue.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Property/HasForceValue.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Property/HasForceValue.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Property/HasForceValue.slot_jsondata.json"
                         }
                     }
                 },

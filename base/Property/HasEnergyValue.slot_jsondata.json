@@ -29,6 +29,12 @@
     },
     "additional_units": [
         {
+            "uuid": "6da56c8b-f928-5eb0-a5ca-3272134b458e",
+            "name": "quad",
+            "main_symbol": "quad",
+            "conversion_factor_to_main_unit": "9.47867298578199e-19"
+        },
+        {
             "uuid": "e1e8c21b-cafd-5f5d-b849-d984f19271ea",
             "name": "EJ",
             "main_symbol": "EJ",
@@ -57,6 +63,12 @@
             "name": "TJ",
             "main_symbol": "TJ",
             "conversion_factor_to_main_unit": "1e-12"
+        },
+        {
+            "uuid": "4c4e5e2f-2fac-5cfd-b0e0-c4a01114a5fc",
+            "name": "t/lbf",
+            "main_symbol": "t/lbf",
+            "conversion_factor_to_main_unit": "2.390057361376673e-10"
         },
         {
             "uuid": "e9b1c86b-c36a-5fe3-ac26-cc3f31915891",
@@ -95,6 +107,18 @@
             "conversion_factor_to_main_unit": "1e-06"
         },
         {
+            "uuid": "e48cff1e-0c18-523d-8541-4d749c9fc77c",
+            "name": "kcal{IT}",
+            "main_symbol": "kcal{IT}",
+            "conversion_factor_to_main_unit": "0.00023884589662749592"
+        },
+        {
+            "uuid": "5f5f8f04-4575-5597-9a95-91f5f37fe5e4",
+            "name": "kcal",
+            "main_symbol": "kcal",
+            "conversion_factor_to_main_unit": "0.0002390057361376673"
+        },
+        {
             "uuid": "68232465-63ef-50f6-b1d4-70fc5f1f1ad6",
             "name": "VA·h",
             "main_symbol": "VA·h",
@@ -111,6 +135,18 @@
             "name": "kJ",
             "main_symbol": "kJ",
             "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "d37c26a2-8e5c-51bd-b7f6-040473b05417",
+            "name": "cal{IT}",
+            "main_symbol": "cal{IT}",
+            "conversion_factor_to_main_unit": "0.23884589662749595"
+        },
+        {
+            "uuid": "a3ff2eff-c3ae-5650-ad8d-438b0e553daf",
+            "name": "cal",
+            "main_symbol": "cal",
+            "conversion_factor_to_main_unit": "0.2390057361376673"
         },
         {
             "uuid": "23dd685b-75b2-55a8-aead-45850d0f163c",

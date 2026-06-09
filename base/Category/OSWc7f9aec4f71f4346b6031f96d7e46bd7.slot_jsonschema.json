@@ -76,7 +76,7 @@
             },
             "options": {
                 "autocomplete": {
-                    "query": "[[-HasUnit::{{quantity}}]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::{{quantity}}]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
+                    "query": "[[-HasUnit::{{$(quantity)}}]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::{{$(quantity)}}]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
                 }
             }
         },
@@ -102,7 +102,7 @@
                         },
                         "options": {
                             "autocomplete": {
-                                "query": "[[-HasUnit::{{quantity}}]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::{{quantity}}]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
+                                "query": "[[-HasUnit::{{$(quantity)}}]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::{{$(quantity)}}]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
                             }
                         }
                     },

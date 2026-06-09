@@ -39,27 +39,33 @@
                     "enum": [
                         "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2",
                         "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2#OSWc916910c94335ef4bfd4956fdb64d445",
+                        "Item:OSWfc12b8aa861458e196528b09ec43a76c",
                         "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2#OSW466788b3b91054088792f8efcf881b73",
                         "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2#OSW0b6f22fdf4505cd1a14ced6ce63fd1c3",
                         "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2#OSWf936212f93685b0a81e881b7b4cd691c",
-                        "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2#OSW10259e9c4c745962b608025d4209a593"
+                        "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2#OSW10259e9c4c745962b608025d4209a593",
+                        "Item:OSW0f9432a8095854e7809a035308be7fbc"
                     ],
                     "x-enum-varnames": [
                         "henry",
                         "pH_value",
+                        "abhenry",
                         "nano_henry",
                         "micro_henry",
                         "milli_henry",
-                        "kilo_henry"
+                        "kilo_henry",
+                        "stathenry"
                     ],
                     "options": {
                         "enum_titles": [
                             "H",
                             "pH",
+                            "abH",
                             "nH",
                             "μH",
                             "mH",
-                            "kH"
+                            "kH",
+                            "statH"
                         ]
                     },
                     "default": "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2"

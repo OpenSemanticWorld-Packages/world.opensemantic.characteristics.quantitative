@@ -34,20 +34,23 @@
                 "unit": {
                     "title": "SpecificAcousticImpedanceUnit",
                     "enum": [
+                        "Item:OSWee18cfabe34058bab1733bfdba7003ab",
                         "Item:OSW4ba64f5b6daa583389742dfca1776afe",
                         "Item:OSWf81272110594591abc29164f3c106ab6#OSWebfdb321c4215ee6b0e498a101b191c9"
                     ],
                     "x-enum-varnames": [
+                        "rayl",
                         "newton_second_per_meter_cubed",
                         "kilo_gram_per_meter_squared_per_second"
                     ],
                     "options": {
                         "enum_titles": [
+                            "rayl",
                             "N·s/m³",
                             "kg/(m²·s)"
                         ]
                     },
-                    "default": "Item:OSW4ba64f5b6daa583389742dfca1776afe"
+                    "default": "Item:OSWee18cfabe34058bab1733bfdba7003ab"
                 }
             },
             "x-smw-quantity-property": "Property:HasSpecificAcousticImpedanceValue"

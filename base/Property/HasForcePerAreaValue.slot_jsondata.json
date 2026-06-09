@@ -25,10 +25,28 @@
     },
     "additional_units": [
         {
+            "uuid": "b7b61d30-6ce8-506f-b6db-6664190c7b01",
+            "name": "Mbar",
+            "main_symbol": "Mbar",
+            "conversion_factor_to_main_unit": "1e-11"
+        },
+        {
             "uuid": "c633df4c-6d4a-5f22-8ef8-5ec1031933da",
             "name": "GPa",
             "main_symbol": "GPa",
             "conversion_factor_to_main_unit": "1e-09"
+        },
+        {
+            "uuid": "e9780a3d-520d-58b0-ae2d-6c13b834c7eb",
+            "name": "kbar",
+            "main_symbol": "kbar",
+            "conversion_factor_to_main_unit": "1e-08"
+        },
+        {
+            "uuid": "3e3c1f11-31f2-54a7-aa6b-7a317567ec89",
+            "name": "hbar",
+            "main_symbol": "hbar",
+            "conversion_factor_to_main_unit": "1e-07"
         },
         {
             "uuid": "cf575cb5-07f0-5022-9fc5-41ec056632ad",
@@ -43,10 +61,40 @@
             "conversion_factor_to_main_unit": "1e-06"
         },
         {
+            "uuid": "816a038a-9518-513f-9b6b-e79eb09e51c2",
+            "name": "atm",
+            "main_symbol": "atm",
+            "conversion_factor_to_main_unit": "9.869232667160129e-06"
+        },
+        {
+            "uuid": "3b8ba94f-bfc7-51af-ab59-f13f4e1dd107",
+            "name": "bar",
+            "main_symbol": "bar",
+            "conversion_factor_to_main_unit": "1e-05"
+        },
+        {
+            "uuid": "fb4ea43d-150b-5f12-bf90-bcd401f76e3d",
+            "name": "bar abs",
+            "main_symbol": "bar abs",
+            "conversion_factor_to_main_unit": "1e-05"
+        },
+        {
+            "uuid": "62df53f4-e287-578d-89f7-e343ed9c3e24",
+            "name": "at",
+            "main_symbol": "at",
+            "conversion_factor_to_main_unit": "1.0197162129779282e-05"
+        },
+        {
             "uuid": "a671e73b-24fe-58c6-bde1-3c84fca21053",
             "name": "N/cm²",
             "main_symbol": "N/cm²",
             "conversion_factor_to_main_unit": "0.0001"
+        },
+        {
+            "uuid": "94cf9423-0a69-55fb-8147-300926057c31",
+            "name": "cbar",
+            "main_symbol": "cbar",
+            "conversion_factor_to_main_unit": "0.001"
         },
         {
             "uuid": "54782c5e-991e-58bf-98dd-48709e329a29",
@@ -73,6 +121,18 @@
             "conversion_factor_to_main_unit": "0.01"
         },
         {
+            "uuid": "c582f3ef-3dd6-56a3-9b24-d2e0266da0f9",
+            "name": "mbar",
+            "main_symbol": "mbar",
+            "conversion_factor_to_main_unit": "0.01"
+        },
+        {
+            "uuid": "220aae30-f251-504d-a9c4-0451e18a12b8",
+            "name": "mbar abs",
+            "main_symbol": "mbar abs",
+            "conversion_factor_to_main_unit": "0.01"
+        },
+        {
             "uuid": "06ba55c1-e227-5aea-8cb4-9f6495ca9bbd",
             "name": "daPa",
             "main_symbol": "daPa",
@@ -89,6 +149,18 @@
             "name": "kg/(m·s²)",
             "main_symbol": "kg/(m·s²)",
             "conversion_factor_to_main_unit": "1.0"
+        },
+        {
+            "uuid": "0bb44bb6-12cb-5bac-b29c-35a1195ea403",
+            "name": "μatm",
+            "main_symbol": "μatm",
+            "conversion_factor_to_main_unit": "9.869232667160128"
+        },
+        {
+            "uuid": "b18bd560-932e-5e95-b753-9b5c0ff7c732",
+            "name": "μbar",
+            "main_symbol": "μbar",
+            "conversion_factor_to_main_unit": "10.0"
         },
         {
             "uuid": "45df3459-d31e-52f1-8cbb-1f24359148b4",

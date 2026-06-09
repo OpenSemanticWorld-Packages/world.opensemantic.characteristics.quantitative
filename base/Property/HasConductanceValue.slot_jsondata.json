@@ -18,9 +18,9 @@
     ],
     "property_type": "Quantity",
     "main_unit": {
-        "uuid": "aaf34d16-25f0-5159-b859-f0ff52e987c8",
-        "name": "S",
-        "main_symbol": "S",
+        "uuid": "f7eeff54-480e-53f7-a056-9f3b0eae717b",
+        "name": "℧",
+        "main_symbol": "℧",
         "conversion_factor_to_main_unit": "1.0"
     },
     "additional_units": [
@@ -35,6 +35,12 @@
             "name": "kS",
             "main_symbol": "kS",
             "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "aaf34d16-25f0-5159-b859-f0ff52e987c8",
+            "name": "S",
+            "main_symbol": "S",
+            "conversion_factor_to_main_unit": "1.0"
         },
         {
             "uuid": "0dc2ea48-a076-54be-8c88-500cbc363ed1",
@@ -52,6 +58,12 @@
             "uuid": "6c3ae8dd-d46e-5fa8-8b5a-1f09ecfda3ff",
             "name": "μS",
             "main_symbol": "μS",
+            "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "6a2559e5-d436-5bb8-a396-e56b58c2ccea",
+            "name": "μ℧",
+            "main_symbol": "μ℧",
             "conversion_factor_to_main_unit": "1000000.0"
         },
         {

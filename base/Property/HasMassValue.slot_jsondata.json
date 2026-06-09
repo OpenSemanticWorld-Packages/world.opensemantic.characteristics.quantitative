@@ -35,6 +35,12 @@
             "conversion_factor_to_main_unit": "1e-09"
         },
         {
+            "uuid": "a052b030-0ba2-5e8f-98c0-42f05742d59b",
+            "name": "Mtn",
+            "main_symbol": "Mtn",
+            "conversion_factor_to_main_unit": "1.102311310924388e-09"
+        },
+        {
             "uuid": "076c823f-976e-5e98-926e-df260e8efdb9",
             "name": "kt",
             "main_symbol": "kt",
@@ -53,16 +59,52 @@
             "conversion_factor_to_main_unit": "0.001"
         },
         {
+            "uuid": "6f7ac72a-0472-5b71-928f-f017597e231a",
+            "name": "tn",
+            "main_symbol": "tn",
+            "conversion_factor_to_main_unit": "0.001102311310924388"
+        },
+        {
+            "uuid": "608f65eb-0a01-5df5-9b88-334039aa3603",
+            "name": "ton{short}",
+            "main_symbol": "ton{short}",
+            "conversion_factor_to_main_unit": "0.001102311310924388"
+        },
+        {
+            "uuid": "5996dde1-45bc-5bfd-8520-56f85af43bba",
+            "name": "klbm",
+            "main_symbol": "klbm",
+            "conversion_factor_to_main_unit": "0.002204622621848776"
+        },
+        {
             "uuid": "aa86f0dd-9351-51a7-8735-2a96130b58fb",
             "name": "dt",
             "main_symbol": "dt",
             "conversion_factor_to_main_unit": "0.01"
         },
         {
+            "uuid": "4445a954-5120-5e81-8846-636bd3aa8811",
+            "name": "lbm",
+            "main_symbol": "lbm",
+            "conversion_factor_to_main_unit": "2.2046226218487757"
+        },
+        {
+            "uuid": "6909fcf3-4d9a-5495-b8bd-204fc24597b3",
+            "name": "lbt",
+            "main_symbol": "lbt",
+            "conversion_factor_to_main_unit": "2.6792288807189983"
+        },
+        {
             "uuid": "ad2306df-dd60-57f0-90bf-a5f661ca2bcd",
             "name": "hg",
             "main_symbol": "hg",
             "conversion_factor_to_main_unit": "10.0"
+        },
+        {
+            "uuid": "afc9d799-1496-5550-8b71-d1a9934850e6",
+            "name": "oz{Troy}",
+            "main_symbol": "oz{Troy}",
+            "conversion_factor_to_main_unit": "32.15074656862798"
         },
         {
             "uuid": "4c8f760a-09ba-5847-acb0-9ee7d4073d3d",
@@ -75,6 +117,12 @@
             "name": "g",
             "main_symbol": "g",
             "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "bc2f7ec1-d21c-52ad-9a7e-a3ecf7e5d7c0",
+            "name": "ct",
+            "main_symbol": "ct",
+            "conversion_factor_to_main_unit": "5000.0"
         },
         {
             "uuid": "3e0771df-d1b6-52f1-9be5-cd64b433dc26",

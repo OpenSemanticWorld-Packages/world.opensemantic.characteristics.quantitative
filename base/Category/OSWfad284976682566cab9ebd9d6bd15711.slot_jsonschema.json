@@ -36,14 +36,17 @@
                 "unit": {
                     "title": "LuminanceUnit",
                     "enum": [
-                        "Item:OSW4f047e2da1fc5ea497c9e22eb8e98ce5"
+                        "Item:OSW4f047e2da1fc5ea497c9e22eb8e98ce5",
+                        "Item:OSW49277fc9ea4b5a29b1a10023d96d59d5"
                     ],
                     "x-enum-varnames": [
-                        "candela_per_meter_squared"
+                        "candela_per_meter_squared",
+                        "stilb"
                     ],
                     "options": {
                         "enum_titles": [
-                            "cd/m²"
+                            "cd/m²",
+                            "sb"
                         ]
                     },
                     "default": "Item:OSW4f047e2da1fc5ea497c9e22eb8e98ce5"

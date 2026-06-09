@@ -41,6 +41,11 @@
             "symbol": "aF"
         },
         {
+            "osw_id": "Item:OSW19b2780fc9e453208461d0f02b53012b",
+            "name": "statfarad",
+            "symbol": "statF"
+        },
+        {
             "osw_id": "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSW4a91761988a65eedb66ea86bafd6322a",
             "name": "femto_farad",
             "symbol": "fF"
@@ -69,6 +74,11 @@
             "osw_id": "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSW6d5eff7201aa54a68e1f4165e8cf762d",
             "name": "kilo_farad",
             "symbol": "kF"
+        },
+        {
+            "osw_id": "Item:OSW99c6644607c65f628236e9383b506717",
+            "name": "abfarad",
+            "symbol": "abF"
         }
     ],
     "quantity_property": "Property:HasCapacitanceValue"

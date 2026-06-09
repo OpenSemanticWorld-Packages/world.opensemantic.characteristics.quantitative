@@ -45,6 +45,11 @@
             "symbol": "pH"
         },
         {
+            "osw_id": "Item:OSWfc12b8aa861458e196528b09ec43a76c",
+            "name": "abhenry",
+            "symbol": "abH"
+        },
+        {
             "osw_id": "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2#OSW466788b3b91054088792f8efcf881b73",
             "name": "nano_henry",
             "symbol": "nH"
@@ -63,6 +68,11 @@
             "osw_id": "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2#OSW10259e9c4c745962b608025d4209a593",
             "name": "kilo_henry",
             "symbol": "kH"
+        },
+        {
+            "osw_id": "Item:OSW0f9432a8095854e7809a035308be7fbc",
+            "name": "stathenry",
+            "symbol": "statH"
         }
     ],
     "quantity_property": "Property:HasInductanceValue"

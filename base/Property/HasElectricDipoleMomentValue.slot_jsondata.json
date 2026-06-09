@@ -26,5 +26,13 @@
         "name": "C·m",
         "main_symbol": "C·m",
         "conversion_factor_to_main_unit": "1.0"
-    }
+    },
+    "additional_units": [
+        {
+            "uuid": "8f67f884-0482-5fa0-99b9-53fe54f2ffbd",
+            "name": "D",
+            "main_symbol": "D",
+            "conversion_factor_to_main_unit": "2.9979254355985658e+29"
+        }
+    ]
 }

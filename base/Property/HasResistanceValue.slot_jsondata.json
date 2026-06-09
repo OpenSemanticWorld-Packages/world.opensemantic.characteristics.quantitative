@@ -31,6 +31,12 @@
             "conversion_factor_to_main_unit": "1e-12"
         },
         {
+            "uuid": "ea8b5ce5-9501-5292-900e-f957117a4194",
+            "name": "statΩ",
+            "main_symbol": "statΩ",
+            "conversion_factor_to_main_unit": "1.1126440874093194e-12"
+        },
+        {
             "uuid": "8f63e68d-75d1-52ff-9b6f-fbcc3dd38cad",
             "name": "GΩ",
             "main_symbol": "GΩ",
@@ -59,6 +65,12 @@
             "name": "μΩ",
             "main_symbol": "μΩ",
             "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "50f98bc3-5ec3-5851-857f-adf9b5d3e560",
+            "name": "abΩ",
+            "main_symbol": "abΩ",
+            "conversion_factor_to_main_unit": "999999999.9999999"
         },
         {
             "uuid": "21cdffa9-1299-5f29-8d5f-c90612af8692",

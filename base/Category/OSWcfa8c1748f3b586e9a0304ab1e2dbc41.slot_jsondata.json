@@ -36,7 +36,7 @@
     "unit_enumeration": [
         {
             "osw_id": "Item:OSW6b270053305955a89f37c50637fc7aeb",
-            "name": "radian",
+            "name": "radiation_absorbed_dose",
             "symbol": "rad"
         },
         {

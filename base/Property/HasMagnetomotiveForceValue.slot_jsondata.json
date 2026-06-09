@@ -61,6 +61,12 @@
             "conversion_factor_to_main_unit": "1.0"
         },
         {
+            "uuid": "5d05adec-4249-5239-9903-f8573e60e921",
+            "name": "Gb",
+            "main_symbol": "Gb",
+            "conversion_factor_to_main_unit": "1.2566370621614937"
+        },
+        {
             "uuid": "f048dfaf-4ada-5c7a-b6f1-ce55aaeb0805",
             "name": "mA",
             "main_symbol": "mA",

@@ -50,6 +50,11 @@
             "symbol": "μN"
         },
         {
+            "osw_id": "Item:OSWade55059c34b52c184e058e8e2551b07",
+            "name": "dyne",
+            "symbol": "dyn"
+        },
+        {
             "osw_id": "Item:OSW8113ac9c25615c21902a9447ab03cc0a#OSWf2fd2b42f5a653f398f9fb35200f39fe",
             "name": "milli_newton",
             "symbol": "mN"

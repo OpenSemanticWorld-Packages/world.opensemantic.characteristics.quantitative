@@ -29,6 +29,12 @@
     },
     "additional_units": [
         {
+            "uuid": "d48d4bea-d1ed-5224-ade6-cc5f139ce6a8",
+            "name": "aS",
+            "main_symbol": "aS",
+            "conversion_factor_to_main_unit": "1e-09"
+        },
+        {
             "uuid": "45836c06-3e69-5c1c-bfb8-c2c5efa6f933",
             "name": "MS/m",
             "main_symbol": "MS/m",
@@ -87,6 +93,12 @@
             "name": "nS/m",
             "main_symbol": "nS/m",
             "conversion_factor_to_main_unit": "999999999.9999999"
+        },
+        {
+            "uuid": "2562fdeb-ecef-5551-a671-b02a1f5397ba",
+            "name": "statS",
+            "main_symbol": "statS",
+            "conversion_factor_to_main_unit": "898755178699.3524"
         },
         {
             "uuid": "b426be6e-7217-5d1d-a9de-b3ca1896443e",

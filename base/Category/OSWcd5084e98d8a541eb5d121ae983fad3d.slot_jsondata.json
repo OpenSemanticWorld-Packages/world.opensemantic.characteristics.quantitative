@@ -45,6 +45,11 @@
             "symbol": "mcd"
         },
         {
+            "osw_id": "Item:OSWa3fdeda173fa5b90a6245a7adf8c0ee1",
+            "name": "candlepower",
+            "symbol": "cp"
+        },
+        {
             "osw_id": "Item:OSWf04f81ce6d6a53b98630967e75958e53#OSWaafc38bda34b53ec953b191d1935ce8d",
             "name": "kilo_candela",
             "symbol": "kcd"

@@ -65,6 +65,11 @@
             "symbol": "mA"
         },
         {
+            "osw_id": "Item:OSW9fb7b9e67a4753bdb7e0a2eeecb87f61",
+            "name": "gigabit",
+            "symbol": "Gb"
+        },
+        {
             "osw_id": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec",
             "name": "ampere",
             "symbol": "A"

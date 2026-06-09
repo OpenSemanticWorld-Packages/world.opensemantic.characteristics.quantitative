@@ -45,6 +45,11 @@
             "symbol": "m°C"
         },
         {
+            "osw_id": "Item:OSWc05278561b6f51a4afe7bf8efe85c473",
+            "name": "degree_Rankine",
+            "symbol": "°R"
+        },
+        {
             "osw_id": "Item:OSWad04992cecb75af4be6f2205e791b42e",
             "name": "Celsius",
             "symbol": "°C"

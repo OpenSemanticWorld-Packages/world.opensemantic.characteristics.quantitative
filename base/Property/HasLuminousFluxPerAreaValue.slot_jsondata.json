@@ -25,6 +25,12 @@
     },
     "additional_units": [
         {
+            "uuid": "b79dbe98-1b50-5fd9-854f-726c89d9b182",
+            "name": "ph",
+            "main_symbol": "ph",
+            "conversion_factor_to_main_unit": "0.0001"
+        },
+        {
             "uuid": "807f107c-eb14-5b4b-8d1a-b75e90dbca94",
             "name": "lx",
             "main_symbol": "lx",

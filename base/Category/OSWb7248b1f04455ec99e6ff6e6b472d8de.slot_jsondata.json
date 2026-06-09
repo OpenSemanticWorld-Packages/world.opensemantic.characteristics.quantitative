@@ -69,6 +69,11 @@
             "symbol": "pC"
         },
         {
+            "osw_id": "Item:OSWf634b73e674e5cc5a9b866cd4c03a6f0",
+            "name": "statcoulomb",
+            "symbol": "statC"
+        },
+        {
             "osw_id": "Item:OSWb74ce812542f578fb6df2ecf9080fb32#OSW39159f1f4ebe549581554b919caa87c9",
             "name": "nano_coulomb",
             "symbol": "nC"
@@ -107,6 +112,11 @@
             "osw_id": "Item:OSWafebb36f7bb65377baeb39c5c782bc93#OSW0f2851b9e0125b9392933d2723c88912",
             "name": "hour_milli_ampere",
             "symbol": "mA·h"
+        },
+        {
+            "osw_id": "Item:OSWad5d9c5f75cc5c58b7c479d7ae6749e7",
+            "name": "abcoulomb",
+            "symbol": "abC"
         },
         {
             "osw_id": "Item:OSWb74ce812542f578fb6df2ecf9080fb32#OSW0dc82895087a55999831834657f5271c",

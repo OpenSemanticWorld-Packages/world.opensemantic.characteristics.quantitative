@@ -43,6 +43,11 @@
             "symbol": "pS/m"
         },
         {
+            "osw_id": "Item:OSW77d4b1042f5d5da49ea7a32d7f72560b",
+            "name": "statmho",
+            "symbol": "statS"
+        },
+        {
             "osw_id": "Item:OSWcaa8107f73e65c64bd1a17c1ce175b86",
             "name": "statmho",
             "symbol": "stat℧"
@@ -96,6 +101,11 @@
             "osw_id": "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d#OSW27b6c423e529517ba2d3f466d2c822b4",
             "name": "mega_siemens_per_meter",
             "symbol": "MS/m"
+        },
+        {
+            "osw_id": "Item:OSW0ad7b62faa04540997ae86979ee04745",
+            "name": "absiemens",
+            "symbol": "aS"
         }
     ],
     "quantity_property": "Property:HasElectricConductivityValue"

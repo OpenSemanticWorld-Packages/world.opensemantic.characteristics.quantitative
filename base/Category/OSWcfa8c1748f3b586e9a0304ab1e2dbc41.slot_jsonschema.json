@@ -48,7 +48,7 @@
                         "Item:OSWe2a244d736ac50c38407935fa6571e3d"
                     ],
                     "x-enum-varnames": [
-                        "radian",
+                        "radiation_absorbed_dose",
                         "micro_radian",
                         "minute",
                         "mil_NATO",

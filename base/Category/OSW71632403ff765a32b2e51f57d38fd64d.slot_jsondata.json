@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/DecayConstant"
+    ],
+    "uuid": "71632403-ff76-5a32-b2e5-1f57d38fd64d",
+    "name": "DecayConstant",
+    "label": [
+        {
+            "text": "Decay Constant",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Decay Constant\" is the proportionality between the size of a population of radioactive atoms and the rate at which the population decreases because of radioactive decay.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW7468741a399c52338e44a8242cfed871"
+    ],
+    "quantity_property": "Property:HasDecayConstantValue"
+}

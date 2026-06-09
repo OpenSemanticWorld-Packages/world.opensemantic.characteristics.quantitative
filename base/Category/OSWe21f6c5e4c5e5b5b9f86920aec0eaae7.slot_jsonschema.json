@@ -37,14 +37,17 @@
                 "unit": {
                     "title": "ElectricDipoleMomentUnit",
                     "enum": [
-                        "Item:OSW1daae0d7c4d35d3e8a523ce4f9c64970"
+                        "Item:OSW1daae0d7c4d35d3e8a523ce4f9c64970",
+                        "Item:OSW196be62ae9d6519da359fb56a71b0ef0"
                     ],
                     "x-enum-varnames": [
-                        "coulomb_meter"
+                        "coulomb_meter",
+                        "debye"
                     ],
                     "options": {
                         "enum_titles": [
-                            "C·m"
+                            "C·m",
+                            "D"
                         ]
                     },
                     "default": "Item:OSW1daae0d7c4d35d3e8a523ce4f9c64970"

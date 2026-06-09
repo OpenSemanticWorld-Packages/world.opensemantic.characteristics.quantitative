@@ -40,8 +40,10 @@
                         "Item:OSW46249e4c237d546198d98bff0b9d5e93#OSWd41a264449b852b4807e7e08ab790cc7",
                         "Item:OSW46249e4c237d546198d98bff0b9d5e93#OSWf52320000c645b64a4e9dcb8dd131254",
                         "Item:OSW46249e4c237d546198d98bff0b9d5e93#OSWfd5a12b202d2534c9cb0844fb6c4f15e",
+                        "Item:OSW121f18c9513a53debddfc746be8c571e#OSWe1c8741a62445600936d5f0c8e651f2e",
                         "Item:OSW46249e4c237d546198d98bff0b9d5e93#OSW8253047fc4835d79b0f31baf3b96182d",
                         "Item:OSW46249e4c237d546198d98bff0b9d5e93#OSW00d5ab4581fb51bebe243be341733c51",
+                        "Item:OSW121f18c9513a53debddfc746be8c571e",
                         "Item:OSW46249e4c237d546198d98bff0b9d5e93#OSW35746906e9d051c39bdeebdf5736c2ba",
                         "Item:OSW46249e4c237d546198d98bff0b9d5e93#OSW335afa8f1aa25135b30b1691b7ebfa4a"
                     ],
@@ -50,8 +52,10 @@
                         "pico_siemens",
                         "nano_siemens",
                         "micro_siemens",
+                        "micro_n",
                         "milli_siemens",
                         "deci_siemens",
+                        "siemens",
                         "kilo_siemens",
                         "mega_siemens"
                     ],
@@ -61,8 +65,10 @@
                             "pS",
                             "nS",
                             "μS",
+                            "μ℧",
                             "mS",
                             "dS",
+                            "℧",
                             "kS",
                             "MS"
                         ]

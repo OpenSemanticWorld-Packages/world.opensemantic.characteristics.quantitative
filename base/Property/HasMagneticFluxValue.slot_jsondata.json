@@ -45,6 +45,18 @@
             "name": "mWb",
             "main_symbol": "mWb",
             "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
+            "uuid": "07b8c85f-d0e7-597a-924b-7f28471ef1b6",
+            "name": "pole",
+            "main_symbol": "pole",
+            "conversion_factor_to_main_unit": "7957747.543642277"
+        },
+        {
+            "uuid": "ea96bea7-fce5-5b59-9dc3-873afbf4a050",
+            "name": "Mx",
+            "main_symbol": "Mx",
+            "conversion_factor_to_main_unit": "100000000.0"
         }
     ]
 }

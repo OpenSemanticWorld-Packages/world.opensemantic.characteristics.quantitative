@@ -55,6 +55,11 @@
             "symbol": "pA"
         },
         {
+            "osw_id": "Item:OSW5e5f547ac4115d07baa3f45c9673989f",
+            "name": "statampere",
+            "symbol": "statA"
+        },
+        {
             "osw_id": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSW35108dc576b05e8da8a4fb293f197b7d",
             "name": "nano_ampere",
             "symbol": "nA"
@@ -68,6 +73,16 @@
             "osw_id": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSW614e3543b8aa55a5b4aa87c9cd179703",
             "name": "milli_ampere",
             "symbol": "mA"
+        },
+        {
+            "osw_id": "Item:OSW19d4212c82595558b911c13d64896a57",
+            "name": "biot",
+            "symbol": "Bi"
+        },
+        {
+            "osw_id": "Item:OSWd31987380ef65a3587907c43e93d0cc3",
+            "name": "abampere",
+            "symbol": "abA"
         },
         {
             "osw_id": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSW49e59ce46e35588193327425fa1d89ab",

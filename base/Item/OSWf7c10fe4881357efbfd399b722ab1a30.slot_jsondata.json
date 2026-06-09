@@ -17,9 +17,9 @@
         }
     ],
     "meta": {
-        "uuid": "9b64b61c-af28-48e0-b9da-46fa93f3a06b",
+        "uuid": "b7e3512f-8337-49fa-ae94-75c144814675",
         "change_id": [
-            "51923298-abe8-4c1a-a34f-7cc59a422abe"
+            "46004457-8d82-46b0-9ac9-81caca856325"
         ]
     },
     "global_id": "world.opensemantic.characteristics.quantitative",
@@ -452,6 +452,7 @@
         "Category:OSW704290344ec45e1bb91d2b2736233473",
         "Category:OSW7119e1d761815d4facb1dbee71829517",
         "Category:OSW713e8c96687f5714a3064fc857b33456",
+        "Category:OSW71632403ff765a32b2e51f57d38fd64d",
         "Category:OSW71dc7977cd3a539889a4af664c2e02da",
         "Category:OSW72a50f1212bd568fb1acca74abad26e4",
         "Category:OSW72e926f2d87e540c84ff1fa039adef5e",
@@ -1264,6 +1265,7 @@
         "Property:HasForcePerAreaValue",
         "Property:HasForcePerElectricChargeValue",
         "Property:HasForcePerLengthValue",
+        "Property:HasForceValue",
         "Property:HasFractionalAmountOfSubstanceValue",
         "Property:HasFrequencyValue",
         "Property:HasFrictionCoefficientValue",

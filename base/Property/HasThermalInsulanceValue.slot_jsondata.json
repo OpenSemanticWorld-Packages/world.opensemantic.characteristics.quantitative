@@ -22,5 +22,13 @@
         "name": "m²·K/W",
         "main_symbol": "m²·K/W",
         "conversion_factor_to_main_unit": "1.0"
-    }
+    },
+    "additional_units": [
+        {
+            "uuid": "15ea6711-5ae4-517e-aecf-2035a771dfa3",
+            "name": "clo",
+            "main_symbol": "clo",
+            "conversion_factor_to_main_unit": "6.451612903225807"
+        }
+    ]
 }

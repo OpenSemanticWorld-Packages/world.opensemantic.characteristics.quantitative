@@ -95,6 +95,12 @@
             "conversion_factor_to_main_unit": "0.01"
         },
         {
+            "uuid": "08760fe3-51b1-5677-98c3-1862579c4eb9",
+            "name": "abC",
+            "main_symbol": "abC",
+            "conversion_factor_to_main_unit": "0.1"
+        },
+        {
             "uuid": "5a266432-29c1-57e4-b4b5-ebb4bfaa3319",
             "name": "daC",
             "main_symbol": "daC",
@@ -147,6 +153,12 @@
             "name": "nC",
             "main_symbol": "nC",
             "conversion_factor_to_main_unit": "999999999.9999999"
+        },
+        {
+            "uuid": "0847d758-b55e-5221-a7ff-75d7e4a1ce29",
+            "name": "statC",
+            "main_symbol": "statC",
+            "conversion_factor_to_main_unit": "2997924580.0"
         },
         {
             "uuid": "7ef2c0d0-dd5d-5972-8203-0640bf0d88b8",

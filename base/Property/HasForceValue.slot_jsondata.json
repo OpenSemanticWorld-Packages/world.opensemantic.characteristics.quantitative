@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "uuid": "9e736690-cab2-520d-8e2b-041166a0e823",
+    "name": "HasForceValue",
+    "label": [
+        {
+            "text": "Force",
+            "lang": "en"
+        },
+        {
+            "text": "Kraft",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Force\" is an influence that causes mass to accelerate. It may be experienced as a lift, a push, or a pull. Force is defined by Newton's Second Law as $F = m \\times a $, where $F$ is force, $m$ is mass and $a$ is acceleration. Net force is mathematically equal to the time rate of change of the momentum of the body on which it acts. Since momentum is a vector quantity (has both a magnitude and direction), force also is a vector quantity.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "main_unit": {
+        "uuid": "06dac68b-ae01-5daf-aa31-e7163a26a99d",
+        "name": "dyn",
+        "main_symbol": "dyn",
+        "conversion_factor_to_main_unit": "1.0"
+    }
+}

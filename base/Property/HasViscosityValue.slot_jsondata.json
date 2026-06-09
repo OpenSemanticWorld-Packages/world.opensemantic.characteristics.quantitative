@@ -25,16 +25,40 @@
     },
     "additional_units": [
         {
+            "uuid": "d19fda30-9257-534a-8914-b0b940d51e6e",
+            "name": "kP",
+            "main_symbol": "kP",
+            "conversion_factor_to_main_unit": "0.01"
+        },
+        {
+            "uuid": "2f7d6cab-9a55-50e5-acbd-320c4426979f",
+            "name": "daP",
+            "main_symbol": "daP",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
             "uuid": "92da9e36-0612-5b14-bc07-59d1b0df0896",
             "name": "kg/(m·s)",
             "main_symbol": "kg/(m·s)",
             "conversion_factor_to_main_unit": "1.0"
         },
         {
+            "uuid": "c3dfb150-9921-5cd1-ad58-b8f3e9d650b6",
+            "name": "P",
+            "main_symbol": "P",
+            "conversion_factor_to_main_unit": "10.0"
+        },
+        {
             "uuid": "48495873-8e1e-5b9a-9232-e6ed35d19433",
             "name": "g/(cm·s)",
             "main_symbol": "g/(cm·s)",
             "conversion_factor_to_main_unit": "10.0"
+        },
+        {
+            "uuid": "c1838225-9c11-57a6-a46f-effb5c9f1a44",
+            "name": "cP",
+            "main_symbol": "cP",
+            "conversion_factor_to_main_unit": "1000.0"
         },
         {
             "uuid": "4945facc-5fcb-5142-98ad-4c0b01009e05",
@@ -59,6 +83,12 @@
             "name": "g/(m·h)",
             "main_symbol": "g/(m·h)",
             "conversion_factor_to_main_unit": "3600000.0000000005"
+        },
+        {
+            "uuid": "757ef792-425a-58b2-867d-28e6f3477b5d",
+            "name": "μP",
+            "main_symbol": "μP",
+            "conversion_factor_to_main_unit": "10000000.0"
         }
     ]
 }

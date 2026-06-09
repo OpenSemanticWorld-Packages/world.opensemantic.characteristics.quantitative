@@ -36,6 +36,11 @@
             "osw_id": "Item:OSW1daae0d7c4d35d3e8a523ce4f9c64970",
             "name": "coulomb_meter",
             "symbol": "C·m"
+        },
+        {
+            "osw_id": "Item:OSW196be62ae9d6519da359fb56a71b0ef0",
+            "name": "debye",
+            "symbol": "D"
         }
     ],
     "quantity_property": "Property:HasElectricDipoleMomentValue"

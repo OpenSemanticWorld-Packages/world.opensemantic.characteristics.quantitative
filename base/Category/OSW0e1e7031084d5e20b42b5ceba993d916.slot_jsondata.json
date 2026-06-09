@@ -49,6 +49,11 @@
             "symbol": "μS"
         },
         {
+            "osw_id": "Item:OSW121f18c9513a53debddfc746be8c571e#OSWe1c8741a62445600936d5f0c8e651f2e",
+            "name": "micro_n",
+            "symbol": "μ℧"
+        },
+        {
             "osw_id": "Item:OSW46249e4c237d546198d98bff0b9d5e93#OSW8253047fc4835d79b0f31baf3b96182d",
             "name": "milli_siemens",
             "symbol": "mS"
@@ -57,6 +62,11 @@
             "osw_id": "Item:OSW46249e4c237d546198d98bff0b9d5e93#OSW00d5ab4581fb51bebe243be341733c51",
             "name": "deci_siemens",
             "symbol": "dS"
+        },
+        {
+            "osw_id": "Item:OSW121f18c9513a53debddfc746be8c571e",
+            "name": "siemens",
+            "symbol": "℧"
         },
         {
             "osw_id": "Item:OSW46249e4c237d546198d98bff0b9d5e93#OSW35746906e9d051c39bdeebdf5736c2ba",

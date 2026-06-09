@@ -75,6 +75,11 @@
             "symbol": "dg"
         },
         {
+            "osw_id": "Item:OSWc7ed820dc85852b6be50637e389a21ae",
+            "name": "carat",
+            "symbol": "ct"
+        },
+        {
             "osw_id": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903",
             "name": "gram",
             "symbol": "g"
@@ -85,14 +90,44 @@
             "symbol": "dag"
         },
         {
+            "osw_id": "Item:OSW83d430005c3f56ad9842634aa262ff6e",
+            "name": "troy_ounce",
+            "symbol": "oz{Troy}"
+        },
+        {
             "osw_id": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSW88dc7f02bedd5111a34ed02756f37892",
             "name": "hecto_gram",
             "symbol": "hg"
         },
         {
+            "osw_id": "Item:OSW80d10f0e1fa151c3a50c2a931eaaa584",
+            "name": "troy_pound",
+            "symbol": "lbt"
+        },
+        {
+            "osw_id": "Item:OSW0b5ec1be43b958a1b7a6004dfcb7e676",
+            "name": "pound",
+            "symbol": "lbm"
+        },
+        {
             "osw_id": "Item:OSW12c412031b9556848d70154dca0e1d13#OSW12ce0e9d7fda5bb3934f109d4d332d68",
             "name": "deci_metric_ton",
             "symbol": "dt"
+        },
+        {
+            "osw_id": "Item:OSW0b5ec1be43b958a1b7a6004dfcb7e676#OSW2ac97d60781b56e2b3c78b42cb14df05",
+            "name": "klbm",
+            "symbol": "klbm"
+        },
+        {
+            "osw_id": "Item:OSWeb0dbb0c11f05650a6d3cb09e86103af",
+            "name": "tn",
+            "symbol": "tn"
+        },
+        {
+            "osw_id": "Item:OSWfe3e343f1710509b9f8a99b1caacbbbf",
+            "name": "ton",
+            "symbol": "ton{short}"
         },
         {
             "osw_id": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSW046adde698335d9daded9fe04946e8fb",
@@ -108,6 +143,11 @@
             "osw_id": "Item:OSW12c412031b9556848d70154dca0e1d13#OSW91cff6030e175ccc8d30cd02e0354fa9",
             "name": "knot",
             "symbol": "kt"
+        },
+        {
+            "osw_id": "Item:OSWeb0dbb0c11f05650a6d3cb09e86103af#OSW3fc075ea4707563ead80dc5358aadb12",
+            "name": "Mtn",
+            "symbol": "Mtn"
         },
         {
             "osw_id": "Item:OSW12c412031b9556848d70154dca0e1d13#OSW3c968aef59905569bee1a089ac35fe04",

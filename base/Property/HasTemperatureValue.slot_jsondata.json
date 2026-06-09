@@ -43,6 +43,12 @@
             "conversion_factor_to_main_unit": "1.0"
         },
         {
+            "uuid": "6bb75bae-1dd6-58f5-b4bd-e18751654957",
+            "name": "°R",
+            "main_symbol": "°R",
+            "conversion_factor_to_main_unit": "1.7999999999999998"
+        },
+        {
             "uuid": "d8e305e5-b15a-58bd-9f39-9188f79604eb",
             "name": "mK",
             "main_symbol": "mK",

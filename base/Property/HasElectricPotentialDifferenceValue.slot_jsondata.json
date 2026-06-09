@@ -65,6 +65,12 @@
             "conversion_factor_to_main_unit": "0.001"
         },
         {
+            "uuid": "225f8b74-ecc7-5a15-9413-fe62e3a0bae9",
+            "name": "statV",
+            "main_symbol": "statV",
+            "conversion_factor_to_main_unit": "0.0033356409519815205"
+        },
+        {
             "uuid": "441c2940-7a83-5303-818a-a9a2328e29d3",
             "name": "mV",
             "main_symbol": "mV",
@@ -75,6 +81,12 @@
             "name": "μV",
             "main_symbol": "μV",
             "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "9b4bf717-69cf-51d1-bd4d-8f5e9f16ba25",
+            "name": "abV",
+            "main_symbol": "abV",
+            "conversion_factor_to_main_unit": "100000000.0"
         },
         {
             "uuid": "7f9e62ac-f0ab-59c7-a118-1a27ce1902a2",

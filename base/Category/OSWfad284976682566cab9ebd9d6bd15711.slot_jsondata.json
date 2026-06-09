@@ -34,6 +34,11 @@
             "osw_id": "Item:OSW4f047e2da1fc5ea497c9e22eb8e98ce5",
             "name": "candela_per_meter_squared",
             "symbol": "cd/m²"
+        },
+        {
+            "osw_id": "Item:OSW49277fc9ea4b5a29b1a10023d96d59d5",
+            "name": "stilb",
+            "symbol": "sb"
         }
     ],
     "quantity_property": "Property:HasLuminanceValue"

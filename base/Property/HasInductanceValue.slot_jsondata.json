@@ -29,6 +29,12 @@
     },
     "additional_units": [
         {
+            "uuid": "938f7e0c-da3a-5526-9efc-879b34f6013a",
+            "name": "statH",
+            "main_symbol": "statH",
+            "conversion_factor_to_main_unit": "1.1126440874093194e-12"
+        },
+        {
             "uuid": "a12e9ae5-18cc-5ed4-9cae-8d5c02cf9c41",
             "name": "kH",
             "main_symbol": "kH",
@@ -45,6 +51,12 @@
             "name": "μH",
             "main_symbol": "μH",
             "conversion_factor_to_main_unit": "1000000.0"
+        },
+        {
+            "uuid": "a7e9db25-10e4-5fab-9337-f1f87e9fc8ef",
+            "name": "abH",
+            "main_symbol": "abH",
+            "conversion_factor_to_main_unit": "999999999.9999999"
         },
         {
             "uuid": "787bb004-8a01-591e-9088-4acdeb148cc6",
