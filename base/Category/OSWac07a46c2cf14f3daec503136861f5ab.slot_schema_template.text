@@ -1,5 +1,5 @@
 {
-    {{#if quantity_property}}"x-smw-quantity-property": "{{quantity_property}}"{{#if quantity}},{{/if}}{{/if}}
+    {{#if quantity_property}}"x-smw-quantity-property": "{{quantity_property}}"{{#if quantity}},{{else}}{{#if default_unit}},{{/if}}{{/if}}{{/if}}
     {{#if quantity}}"properties": {
         "unit": {
             "format": "autocomplete",
@@ -7,7 +7,11 @@
                 "autocomplete": {
                     "query": "[[-HasUnit::{{{quantity}}}]][[HasSymbol::like:*\{{_user_input}}*]]OR[[-HasPrefixUnit.-HasUnit::{{{quantity}}}]][[HasSymbol::like:*\{{_user_input}}*]]|?HasSymbol=label"
                 }
-            }
+            }{{#if default_unit}}, "default": "{{{default_unit}}}"{{/if}}
         }
-    }{{/if}}
+    }{{else}}{{#if default_unit}}"properties": {
+        "unit": {
+            "default": "{{{default_unit}}}"
+        }
+    }{{/if}}{{/if}}
 }

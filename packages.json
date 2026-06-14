@@ -14,7 +14,7 @@
             "globalID": "world.opensemantic.characteristics.quantitative",
             "label": "OSW Quantitive Characteristics",
             "description": "Contains measureable qualitities based on (physical) quantities",
-            "version": "0.4.1",
+            "version": "0.5.2",
             "requiredPackages": [
                 "world.opensemantic.quantities"
             ],
