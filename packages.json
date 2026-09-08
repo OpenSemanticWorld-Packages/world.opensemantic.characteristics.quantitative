@@ -14,29 +14,12 @@
             "globalID": "world.opensemantic.characteristics.quantitative",
             "label": "OSW Quantitive Characteristics",
             "description": "Contains measureable qualitities based on (physical) quantities",
-            "version": "0.5.2",
+            "version": "0.6.0",
             "requiredPackages": [
                 "world.opensemantic.quantities"
             ],
             "baseURL": "https://raw.githubusercontent.com/OpenSemanticWorld-Packages/world.opensemantic.characteristics.quantitative/main/base/",
             "pages": [
-                {
-                    "name": "OSWf7c10fe4881357efbfd399b722ab1a30",
-                    "label": "WorldOpensemanticCharacteristicsQuantitative",
-                    "namespace": "NS_ITEM",
-                    "urlPath": "Item/OSWf7c10fe4881357efbfd399b722ab1a30.slot_main.wikitext",
-                    "slots": {
-                        "footer": {
-                            "urlPath": "Item/OSWf7c10fe4881357efbfd399b722ab1a30.slot_footer.wikitext"
-                        },
-                        "header": {
-                            "urlPath": "Item/OSWf7c10fe4881357efbfd399b722ab1a30.slot_header.wikitext"
-                        },
-                        "jsondata": {
-                            "urlPath": "Item/OSWf7c10fe4881357efbfd399b722ab1a30.slot_jsondata.json"
-                        }
-                    }
-                },
                 {
                     "name": "OSW4082937906634af992cf9a1b18d772cf",
                     "label": "QuantityValue",

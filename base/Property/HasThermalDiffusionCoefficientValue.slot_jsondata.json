@@ -25,6 +25,12 @@
     },
     "additional_units": [
         {
+            "uuid": "c1849299-ac7e-5007-b8b4-7909c8f109ed",
+            "name": "L/(m·s)",
+            "main_symbol": "L/(m·s)",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
             "uuid": "ba0e83ac-8032-5865-83dc-524f3ef41887",
             "name": "cm²/s",
             "main_symbol": "cm²/s",

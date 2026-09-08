@@ -32,6 +32,11 @@
             "osw_id": "Item:OSW5935489883d15f2fb2ef853f57c66f49",
             "name": "second_tesla",
             "symbol": "T·s"
+        },
+        {
+            "osw_id": "Item:OSWc9f8dd261ad550509c31e34640d4d4d5",
+            "name": "thomson",
+            "symbol": "Th"
         }
     ],
     "quantity_property": "Property:HasMassPerElectricChargeValue"

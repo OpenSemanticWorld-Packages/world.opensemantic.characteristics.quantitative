@@ -129,6 +129,11 @@
             "symbol": "μmol/m²"
         },
         {
+            "osw_id": "Item:OSWe9f7d88c779452d2a2f7313535f7858a#OSW63e5e3a215fd5b339858f5795389bc85",
+            "name": "liter_per_meter_per_milli_bar_per_second",
+            "symbol": "L/(m·s·mbar)"
+        },
+        {
             "osw_id": "Item:OSW54dde090de17573ca880677b27dbf92a#OSW248bdff55d0758d194815cfa03716ac8",
             "name": "pico_watt_per_centi_meter_squared_per_liter",
             "symbol": "pW/(cm²·L)"
@@ -202,6 +207,11 @@
             "osw_id": "Item:OSW24fb426c485c52568681167590fcdd4b#OSWa2690c3fff16599586072f4480426f3a",
             "name": "micro_mole_per_gram_per_second",
             "symbol": "μmol/(g·s)"
+        },
+        {
+            "osw_id": "Item:OSWa79b08201daa51a6aea179fcbd04b811#OSWb830573e0b275dfeb0bae0b439ebd6e0",
+            "name": "liter_milli_bar_per_meter_squared_per_second",
+            "symbol": "mbar·L/(s·m²)"
         },
         {
             "osw_id": "Item:OSWb76e67715391578bbb9b2b3dc63b1bd7",
@@ -352,6 +362,11 @@
             "osw_id": "Item:OSW7f25bfbc76785295bbbe8366288c6466",
             "name": "mole_per_meter_squared",
             "symbol": "mol/m²"
+        },
+        {
+            "osw_id": "Item:OSWe9f7d88c779452d2a2f7313535f7858a",
+            "name": "meter_squared_per_pascal_per_second",
+            "symbol": "m²/(s·Pa)"
         },
         {
             "osw_id": "Item:OSW1b7f9a31306f56e2a5811c99710c4b44",

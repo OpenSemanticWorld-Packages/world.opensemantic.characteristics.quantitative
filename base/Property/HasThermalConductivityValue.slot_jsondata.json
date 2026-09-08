@@ -29,6 +29,12 @@
             "name": "kW/(m·K)",
             "main_symbol": "kW/(m·K)",
             "conversion_factor_to_main_unit": "0.001"
+        },
+        {
+            "uuid": "98362d80-e817-52f3-bc8d-f8db6d1bfa26",
+            "name": "mW/(m·K)",
+            "main_symbol": "mW/(m·K)",
+            "conversion_factor_to_main_unit": "1000.0"
         }
     ]
 }

@@ -131,6 +131,12 @@
             "conversion_factor_to_main_unit": "0.0036"
         },
         {
+            "uuid": "f68299b7-285b-55f5-9a38-209dac3b5c4c",
+            "name": "bar·L/s",
+            "main_symbol": "bar·L/s",
+            "conversion_factor_to_main_unit": "0.01"
+        },
+        {
             "uuid": "56cd0ae4-ebad-5f60-a3e6-3f0b06ab2425",
             "name": "hPa·m³/s",
             "main_symbol": "hPa·m³/s",
@@ -158,6 +164,12 @@
             "uuid": "9e843285-ece8-563a-82cd-854d0a7c6b59",
             "name": "hPa·L/s",
             "main_symbol": "hPa·L/s",
+            "conversion_factor_to_main_unit": "10.0"
+        },
+        {
+            "uuid": "7d0eaa49-695b-5cbd-ad91-939d5e874b7b",
+            "name": "mbar·L/s",
+            "main_symbol": "mbar·L/s",
             "conversion_factor_to_main_unit": "10.0"
         },
         {

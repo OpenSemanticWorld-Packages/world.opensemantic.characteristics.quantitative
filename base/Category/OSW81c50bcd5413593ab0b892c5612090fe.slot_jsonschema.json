@@ -36,14 +36,17 @@
                 "unit": {
                     "title": "MassPerElectricChargeUnit",
                     "enum": [
-                        "Item:OSW5935489883d15f2fb2ef853f57c66f49"
+                        "Item:OSW5935489883d15f2fb2ef853f57c66f49",
+                        "Item:OSWc9f8dd261ad550509c31e34640d4d4d5"
                     ],
                     "x-enum-varnames": [
-                        "second_tesla"
+                        "second_tesla",
+                        "thomson"
                     ],
                     "options": {
                         "enum_titles": [
-                            "T·s"
+                            "T·s",
+                            "Th"
                         ]
                     },
                     "default": "Item:OSW5935489883d15f2fb2ef853f57c66f49"

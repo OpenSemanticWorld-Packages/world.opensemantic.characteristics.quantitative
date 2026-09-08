@@ -25,6 +25,12 @@
             "conversion_factor_to_main_unit": "1.0"
         },
         {
+            "uuid": "c1849299-ac7e-5007-b8b4-7909c8f109ed",
+            "name": "L/(m·s)",
+            "main_symbol": "L/(m·s)",
+            "conversion_factor_to_main_unit": "1000.0"
+        },
+        {
             "uuid": "3df02d24-a058-57dd-bb53-e79ef38f73e8",
             "name": "m²/h",
             "main_symbol": "m²/h",

@@ -343,6 +343,12 @@
             "conversion_factor_to_main_unit": "1.0"
         },
         {
+            "uuid": "5a9407f6-446b-56c9-a9d7-ceb1666ead9c",
+            "name": "m²/(s·Pa)",
+            "main_symbol": "m²/(s·Pa)",
+            "conversion_factor_to_main_unit": "1.0"
+        },
+        {
             "uuid": "9fb7513b-756e-55fd-86b5-464fedbabd5e",
             "name": "m²/Hz",
             "main_symbol": "m²/Hz",
@@ -427,6 +433,12 @@
             "conversion_factor_to_main_unit": "3.5999999999999996"
         },
         {
+            "uuid": "adff6cbe-8a10-54eb-af02-0a5b74882e38",
+            "name": "mbar·L/(s·m²)",
+            "main_symbol": "mbar·L/(s·m²)",
+            "conversion_factor_to_main_unit": "10.0"
+        },
+        {
             "uuid": "06cfbc50-3386-5ecd-af55-aff2d88c79e9",
             "name": "g/(m³·s)",
             "main_symbol": "g/(m³·s)",
@@ -509,6 +521,12 @@
             "name": "μmol/(μmol·d)",
             "main_symbol": "μmol/(μmol·d)",
             "conversion_factor_to_main_unit": "86400.0"
+        },
+        {
+            "uuid": "8e51827a-a90b-5904-bc85-08990864af4e",
+            "name": "L/(m·s·mbar)",
+            "main_symbol": "L/(m·s·mbar)",
+            "conversion_factor_to_main_unit": "99999.99999999999"
         },
         {
             "uuid": "75995647-f8f3-5589-b6b5-21cb7fb04413",
