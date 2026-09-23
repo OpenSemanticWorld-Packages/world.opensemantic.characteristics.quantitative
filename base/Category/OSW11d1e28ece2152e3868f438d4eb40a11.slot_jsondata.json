@@ -15,7 +15,7 @@
     ],
     "description": [
         {
-            "text": "Grenzwert - falls er existiert - des Quotienten aus der bedingten Wahrscheinlichkeit, dass der Ausfallzeitpunkt t eines Betriebsmittels in ein gegebenes Zeitintervall (t, t + Δt) fällt, und der Dauer dieses Zeitintervalls, wenn Δt gegen null geht und das Betriebsmittel sich zu Beginn des Zeitintervalls im betriebsfähigen Zustand befindet",
+            "text": "limiting value - if it exists - of the ratio between the conditional probability that the fault time t of a resource will fall within a defined interval (t, t + Δt), and the duration of this interval if Δt approaches zero and the unit is in an operational state at the beginning of the interval",
             "lang": "en"
         }
     ],

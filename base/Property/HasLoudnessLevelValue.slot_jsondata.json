@@ -12,7 +12,7 @@
     ],
     "description": [
         {
-            "text": "in phon angegebener Wert als Maß für die Stärke der subjektiven Wahrnehmung eines Schallvorgange, der zahlenmäßig dem in dB angegebenen Schalldruckpegel eines Referenzschalls entspricht, der aus einer frontal einfallenden ebenen Welle mit der Frequenz 1000 Hz besteht und als gleich laut wie das Geräusch empfunden wird",
+            "text": "value specified in phon as a measure of the level of the subjective perception of a sound which corresponds to the sound pressure level of a reference sound specified in dB which comprises a wave coming from the front with a frequency of 1000 Hz and assessed to be just as loud as the noise",
             "lang": "en"
         }
     ],
