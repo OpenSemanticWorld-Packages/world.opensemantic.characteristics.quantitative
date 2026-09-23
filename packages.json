@@ -14,12 +14,29 @@
             "globalID": "world.opensemantic.characteristics.quantitative",
             "label": "OSW Quantitive Characteristics",
             "description": "Contains measureable qualitities based on (physical) quantities",
-            "version": "0.6.0",
+            "version": "0.7.0",
             "requiredPackages": [
                 "world.opensemantic.quantities"
             ],
             "baseURL": "https://raw.githubusercontent.com/OpenSemanticWorld-Packages/world.opensemantic.characteristics.quantitative/main/base/",
             "pages": [
+                {
+                    "name": "OSWf7c10fe4881357efbfd399b722ab1a30",
+                    "label": "WorldOpensemanticCharacteristicsQuantitative",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSWf7c10fe4881357efbfd399b722ab1a30.slot_main.wikitext",
+                    "slots": {
+                        "footer": {
+                            "urlPath": "Item/OSWf7c10fe4881357efbfd399b722ab1a30.slot_footer.wikitext"
+                        },
+                        "header": {
+                            "urlPath": "Item/OSWf7c10fe4881357efbfd399b722ab1a30.slot_header.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSWf7c10fe4881357efbfd399b722ab1a30.slot_jsondata.json"
+                        }
+                    }
+                },
                 {
                     "name": "OSW4082937906634af992cf9a1b18d772cf",
                     "label": "QuantityValue",
@@ -243,6 +260,26 @@
                         },
                         "jsonschema": {
                             "urlPath": "Category/OSW015e42239c0f5ff38b65340955c12f80.slot_jsonschema.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSW017c6f074b035c879a8ff3e26360c3b7",
+                    "label": "LengthSpecificLeakRate",
+                    "namespace": "NS_CATEGORY",
+                    "urlPath": "Category/OSW017c6f074b035c879a8ff3e26360c3b7.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Category/OSW017c6f074b035c879a8ff3e26360c3b7.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Category/OSW017c6f074b035c879a8ff3e26360c3b7.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Category/OSW017c6f074b035c879a8ff3e26360c3b7.slot_jsondata.json"
+                        },
+                        "jsonschema": {
+                            "urlPath": "Category/OSW017c6f074b035c879a8ff3e26360c3b7.slot_jsonschema.json"
                         }
                     }
                 },
@@ -2487,6 +2524,26 @@
                     }
                 },
                 {
+                    "name": "OSW20edfe37dd3b593cbeda3ca7c924b337",
+                    "label": "AreaSpecificLeakRate",
+                    "namespace": "NS_CATEGORY",
+                    "urlPath": "Category/OSW20edfe37dd3b593cbeda3ca7c924b337.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Category/OSW20edfe37dd3b593cbeda3ca7c924b337.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Category/OSW20edfe37dd3b593cbeda3ca7c924b337.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Category/OSW20edfe37dd3b593cbeda3ca7c924b337.slot_jsondata.json"
+                        },
+                        "jsonschema": {
+                            "urlPath": "Category/OSW20edfe37dd3b593cbeda3ca7c924b337.slot_jsonschema.json"
+                        }
+                    }
+                },
+                {
                     "name": "OSW2105d9d70ddc5d3597dae2c14da9e3e2",
                     "label": "SoundParticleVelocity",
                     "namespace": "NS_CATEGORY",
@@ -4527,6 +4584,26 @@
                     }
                 },
                 {
+                    "name": "OSW3c6ec25a667c55ddbcab8b5f53efea6e",
+                    "label": "GasPressureDependenceOfThermalConductivity",
+                    "namespace": "NS_CATEGORY",
+                    "urlPath": "Category/OSW3c6ec25a667c55ddbcab8b5f53efea6e.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Category/OSW3c6ec25a667c55ddbcab8b5f53efea6e.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Category/OSW3c6ec25a667c55ddbcab8b5f53efea6e.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Category/OSW3c6ec25a667c55ddbcab8b5f53efea6e.slot_jsondata.json"
+                        },
+                        "jsonschema": {
+                            "urlPath": "Category/OSW3c6ec25a667c55ddbcab8b5f53efea6e.slot_jsonschema.json"
+                        }
+                    }
+                },
+                {
                     "name": "OSW3c905c5ff4875816b88278e68e643c27",
                     "label": "HalfValueThickness",
                     "namespace": "NS_CATEGORY",
@@ -6247,6 +6324,26 @@
                     }
                 },
                 {
+                    "name": "OSW4fc8d13b628d5279ac5abdb2c40305af",
+                    "label": "GasPressureDependentFlowCoefficient",
+                    "namespace": "NS_CATEGORY",
+                    "urlPath": "Category/OSW4fc8d13b628d5279ac5abdb2c40305af.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Category/OSW4fc8d13b628d5279ac5abdb2c40305af.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Category/OSW4fc8d13b628d5279ac5abdb2c40305af.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Category/OSW4fc8d13b628d5279ac5abdb2c40305af.slot_jsondata.json"
+                        },
+                        "jsonschema": {
+                            "urlPath": "Category/OSW4fc8d13b628d5279ac5abdb2c40305af.slot_jsonschema.json"
+                        }
+                    }
+                },
+                {
                     "name": "OSW4fcfc4adb6be5e7c97a128565fb91932",
                     "label": "SoundVolumeVelocity",
                     "namespace": "NS_CATEGORY",
@@ -7163,6 +7260,26 @@
                         },
                         "jsonschema": {
                             "urlPath": "Category/OSW5c809cc846485949a513c8bc406e7e70.slot_jsonschema.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSW5d473924b79a56d5a5ef5f6a656953ce",
+                    "label": "GasLeakRate",
+                    "namespace": "NS_CATEGORY",
+                    "urlPath": "Category/OSW5d473924b79a56d5a5ef5f6a656953ce.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Category/OSW5d473924b79a56d5a5ef5f6a656953ce.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Category/OSW5d473924b79a56d5a5ef5f6a656953ce.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Category/OSW5d473924b79a56d5a5ef5f6a656953ce.slot_jsondata.json"
+                        },
+                        "jsonschema": {
+                            "urlPath": "Category/OSW5d473924b79a56d5a5ef5f6a656953ce.slot_jsonschema.json"
                         }
                     }
                 },
@@ -12268,7 +12385,7 @@
                 },
                 {
                     "name": "OSWa284957197dc5db1a46e9efca2d2a645",
-                    "label": "SpinQuantumNumber",
+                    "label": "NuclearSpinQuantumNumber",
                     "namespace": "NS_CATEGORY",
                     "urlPath": "Category/OSWa284957197dc5db1a46e9efca2d2a645.slot_main.wikitext",
                     "slots": {
@@ -17507,6 +17624,26 @@
                     }
                 },
                 {
+                    "name": "OSWecdbba0805055fbdba059d163d99f70d",
+                    "label": "FlowCoefficient",
+                    "namespace": "NS_CATEGORY",
+                    "urlPath": "Category/OSWecdbba0805055fbdba059d163d99f70d.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Category/OSWecdbba0805055fbdba059d163d99f70d.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Category/OSWecdbba0805055fbdba059d163d99f70d.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Category/OSWecdbba0805055fbdba059d163d99f70d.slot_jsondata.json"
+                        },
+                        "jsonschema": {
+                            "urlPath": "Category/OSWecdbba0805055fbdba059d163d99f70d.slot_jsonschema.json"
+                        }
+                    }
+                },
+                {
                     "name": "OSWed059354cf7c596ea0b5428168ff59fc",
                     "label": "ThermalDiffusionFactor",
                     "namespace": "NS_CATEGORY",
@@ -19616,6 +19753,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Property/HasAreaRatioValue.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "HasAreaSpecificLeakRateValue",
+                    "label": "HasAreaSpecificLeakRateValue",
+                    "namespace": "SMW_NS_PROPERTY",
+                    "urlPath": "Property/HasAreaSpecificLeakRateValue.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Property/HasAreaSpecificLeakRateValue.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Property/HasAreaSpecificLeakRateValue.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Property/HasAreaSpecificLeakRateValue.slot_jsondata.json"
                         }
                     }
                 },
@@ -23785,6 +23939,23 @@
                     }
                 },
                 {
+                    "name": "HasFlowCoefficientValue",
+                    "label": "HasFlowCoefficientValue",
+                    "namespace": "SMW_NS_PROPERTY",
+                    "urlPath": "Property/HasFlowCoefficientValue.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Property/HasFlowCoefficientValue.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Property/HasFlowCoefficientValue.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Property/HasFlowCoefficientValue.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
                     "name": "HasFluidityValue",
                     "label": "HasFluidityValue",
                     "namespace": "SMW_NS_PROPERTY",
@@ -24121,6 +24292,57 @@
                         },
                         "jsondata": {
                             "urlPath": "Property/HasGapEnergyValue.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "HasGasLeakRateValue",
+                    "label": "HasGasLeakRateValue",
+                    "namespace": "SMW_NS_PROPERTY",
+                    "urlPath": "Property/HasGasLeakRateValue.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Property/HasGasLeakRateValue.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Property/HasGasLeakRateValue.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Property/HasGasLeakRateValue.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "HasGasPressureDependenceOfThermalConductivityValue",
+                    "label": "HasGasPressureDependenceOfThermalConductivityValue",
+                    "namespace": "SMW_NS_PROPERTY",
+                    "urlPath": "Property/HasGasPressureDependenceOfThermalConductivityValue.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Property/HasGasPressureDependenceOfThermalConductivityValue.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Property/HasGasPressureDependenceOfThermalConductivityValue.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Property/HasGasPressureDependenceOfThermalConductivityValue.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "HasGasPressureDependentFlowCoefficientValue",
+                    "label": "HasGasPressureDependentFlowCoefficientValue",
+                    "namespace": "SMW_NS_PROPERTY",
+                    "urlPath": "Property/HasGasPressureDependentFlowCoefficientValue.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Property/HasGasPressureDependentFlowCoefficientValue.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Property/HasGasPressureDependentFlowCoefficientValue.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Property/HasGasPressureDependentFlowCoefficientValue.slot_jsondata.json"
                         }
                     }
                 },
@@ -25583,6 +25805,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Property/HasLengthRatioValue.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "HasLengthSpecificLeakRateValue",
+                    "label": "HasLengthSpecificLeakRateValue",
+                    "namespace": "SMW_NS_PROPERTY",
+                    "urlPath": "Property/HasLengthSpecificLeakRateValue.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Property/HasLengthSpecificLeakRateValue.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Property/HasLengthSpecificLeakRateValue.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Property/HasLengthSpecificLeakRateValue.slot_jsondata.json"
                         }
                     }
                 },
@@ -28490,6 +28729,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Property/HasNuclearRadiusValue.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "HasNuclearSpinQuantumNumberValue",
+                    "label": "HasNuclearSpinQuantumNumberValue",
+                    "namespace": "SMW_NS_PROPERTY",
+                    "urlPath": "Property/HasNuclearSpinQuantumNumberValue.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Property/HasNuclearSpinQuantumNumberValue.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Property/HasNuclearSpinQuantumNumberValue.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Property/HasNuclearSpinQuantumNumberValue.slot_jsondata.json"
                         }
                     }
                 },

@@ -1,0 +1,40 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "017c6f07-4b03-5c87-9a8f-f3e26360c3b7",
+    "name": "LengthSpecificLeakRate",
+    "label": [
+        {
+            "text": "Length Specific Leak Rate",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Gas leak rate referred to the length of the leaking seam.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSWe37eb522c52052f4a1aa108745750a65",
+    "default_unit": "Item:OSWb7b787bd3a0d5ae799b406b295dfab11",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSWb7b787bd3a0d5ae799b406b295dfab11",
+            "name": "meter_squared_pascal_per_second",
+            "symbol": "Pa·m²/s"
+        },
+        {
+            "osw_id": "Item:OSWb7b787bd3a0d5ae799b406b295dfab11#OSWa6d0f427e67c52e7ac88f946d459c187",
+            "name": "liter_milli_bar_per_meter_per_second",
+            "symbol": "mbar·L/(s·m)"
+        }
+    ],
+    "quantity_property": "Property:HasLengthSpecificLeakRateValue"
+}

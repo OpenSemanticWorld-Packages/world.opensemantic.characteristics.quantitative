@@ -1,0 +1,34 @@
+{
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "uuid": "7d66c39b-8983-5181-b562-850137fa9043",
+    "name": "HasGasPressureDependentFlowCoefficientValue",
+    "label": [
+        {
+            "text": "Gas Pressure Dependent Flow Coefficient",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Slope of the flow coefficient with respect to gas pressure.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "main_unit": {
+        "uuid": "5a9407f6-446b-56c9-a9d7-ceb1666ead9c",
+        "name": "m²/(s·Pa)",
+        "main_symbol": "m²/(s·Pa)",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "8e51827a-a90b-5904-bc85-08990864af4e",
+            "name": "L/(m·s·mbar)",
+            "main_symbol": "L/(m·s·mbar)",
+            "conversion_factor_to_main_unit": "99999.99999999999"
+        }
+    ]
+}

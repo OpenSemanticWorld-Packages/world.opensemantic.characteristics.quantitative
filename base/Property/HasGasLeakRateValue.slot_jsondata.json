@@ -1,0 +1,52 @@
+{
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "uuid": "ebf4c7fc-7724-514c-a6b7-abdb19d34d71",
+    "name": "HasGasLeakRateValue",
+    "label": [
+        {
+            "text": "Gas leak rate",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "ratio of the pV value of a gas (product of pressure and volume of a given quantity of gas at the respective temperature) flowing through a pipe cross-section during a time interval and the related interval",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "main_unit": {
+        "uuid": "7b7130ec-090d-5963-baa3-7b5ed8950085",
+        "name": "Pa·m³/s",
+        "main_symbol": "Pa·m³/s",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "1761645c-e5d7-5b11-b896-db3094930a57",
+            "name": "MPa·m³/s",
+            "main_symbol": "MPa·m³/s",
+            "conversion_factor_to_main_unit": "1e-06"
+        },
+        {
+            "uuid": "f68299b7-285b-55f5-9a38-209dac3b5c4c",
+            "name": "bar·L/s",
+            "main_symbol": "bar·L/s",
+            "conversion_factor_to_main_unit": "0.01"
+        },
+        {
+            "uuid": "56cd0ae4-ebad-5f60-a3e6-3f0b06ab2425",
+            "name": "hPa·m³/s",
+            "main_symbol": "hPa·m³/s",
+            "conversion_factor_to_main_unit": "0.01"
+        },
+        {
+            "uuid": "7d0eaa49-695b-5cbd-ad91-939d5e874b7b",
+            "name": "mbar·L/s",
+            "main_symbol": "mbar·L/s",
+            "conversion_factor_to_main_unit": "10.0"
+        }
+    ]
+}

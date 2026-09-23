@@ -1,0 +1,34 @@
+{
+    "type": [
+        "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
+    ],
+    "uuid": "f8ebb78c-d1ae-5c87-a8da-beb68ad7ef22",
+    "name": "HasGasPressureDependenceOfThermalConductivityValue",
+    "label": [
+        {
+            "text": "Gas Pressure Dependence Of Thermal Conductivity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Slope of the thermal conductivity with respect to gas pressure.",
+            "lang": "en"
+        }
+    ],
+    "property_type": "Quantity",
+    "main_unit": {
+        "uuid": "5cb2f59d-a611-5158-918b-92286b555e90",
+        "name": "W/(m·K·Pa)",
+        "main_symbol": "W/(m·K·Pa)",
+        "conversion_factor_to_main_unit": "1.0"
+    },
+    "additional_units": [
+        {
+            "uuid": "758f4d28-30e1-53fb-8878-da1e8df922e5",
+            "name": "mW/(m·K·mbar)",
+            "main_symbol": "mW/(m·K·mbar)",
+            "conversion_factor_to_main_unit": "99999.99999999999"
+        }
+    ]
+}

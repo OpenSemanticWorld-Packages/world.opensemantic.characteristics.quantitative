@@ -1,0 +1,40 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "3c6ec25a-667c-55dd-bcab-8b5f53efea6e",
+    "name": "GasPressureDependenceOfThermalConductivity",
+    "label": [
+        {
+            "text": "Gas Pressure Dependence Of Thermal Conductivity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Slope of the thermal conductivity with respect to gas pressure.",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW4aa1afd1345f5dcebd5cb605258cbfe5",
+    "default_unit": "Item:OSW8ea9b462eb0d5f5a94dbb7d4147db62b",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW8ea9b462eb0d5f5a94dbb7d4147db62b",
+            "name": "watt_per_kelvin_per_meter_per_pascal",
+            "symbol": "W/(m·K·Pa)"
+        },
+        {
+            "osw_id": "Item:OSW8ea9b462eb0d5f5a94dbb7d4147db62b#OSW26152ef8201a5558855b82ac0cd63850",
+            "name": "milli_watt_per_kelvin_per_meter_per_milli_bar",
+            "symbol": "mW/(m·K·mbar)"
+        }
+    ],
+    "quantity_property": "Property:HasGasPressureDependenceOfThermalConductivityValue"
+}
