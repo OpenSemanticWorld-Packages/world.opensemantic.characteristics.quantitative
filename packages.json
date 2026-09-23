@@ -14,7 +14,7 @@
             "globalID": "world.opensemantic.characteristics.quantitative",
             "label": "OSW Quantitive Characteristics",
             "description": "Contains measureable qualitities based on (physical) quantities",
-            "version": "0.7.0",
+            "version": "0.8.0",
             "requiredPackages": [
                 "world.opensemantic.quantities"
             ],
@@ -100,6 +100,43 @@
                         },
                         "schema_template": {
                             "urlPath": "Category/OSWc7f9aec4f71f4346b6031f96d7e46bd7.slot_schema_template.text"
+                        }
+                    }
+                },
+                {
+                    "name": "OSW68ca7734ec34417fa9b2258b23ddc6c0",
+                    "label": "ThermalConductivitySlope",
+                    "namespace": "NS_CATEGORY",
+                    "urlPath": "Category/OSW68ca7734ec34417fa9b2258b23ddc6c0.slot_main.wikitext",
+                    "slots": {
+                        "footer": {
+                            "urlPath": "Category/OSW68ca7734ec34417fa9b2258b23ddc6c0.slot_footer.wikitext"
+                        },
+                        "header": {
+                            "urlPath": "Category/OSW68ca7734ec34417fa9b2258b23ddc6c0.slot_header.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Category/OSW68ca7734ec34417fa9b2258b23ddc6c0.slot_jsondata.json"
+                        },
+                        "jsonschema": {
+                            "urlPath": "Category/OSW68ca7734ec34417fa9b2258b23ddc6c0.slot_jsonschema.json"
+                        }
+                    }
+                },
+                {
+                    "name": "HasThermalConductivitySlopeValue",
+                    "label": "HasThermalConductivitySlopeValue",
+                    "namespace": "SMW_NS_PROPERTY",
+                    "urlPath": "Property/HasThermalConductivitySlopeValue.slot_main.wikitext",
+                    "slots": {
+                        "footer": {
+                            "urlPath": "Property/HasThermalConductivitySlopeValue.slot_footer.wikitext"
+                        },
+                        "header": {
+                            "urlPath": "Property/HasThermalConductivitySlopeValue.slot_header.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Property/HasThermalConductivitySlopeValue.slot_jsondata.json"
                         }
                     }
                 },

@@ -17,13 +17,13 @@
         }
     ],
     "meta": {
-        "uuid": "c820e454-1ee7-4820-bcec-5b5eaed00462",
+        "uuid": "9e5162db-d4cb-42b3-a5ec-25a87c47258a",
         "change_id": [
-            "9143d017-e525-4276-8439-0665a6180ead"
+            "dbb48a29-0289-4351-acb7-83846c13a749"
         ]
     },
     "global_id": "world.opensemantic.characteristics.quantitative",
-    "version": "0.7.0",
+    "version": "0.8.0",
     "url": [
         "https://github.com/OpenSemanticWorld-Packages/world.opensemantic.characteristics.quantitative"
     ],
@@ -425,6 +425,7 @@
         "Category:OSW67faac860ed758758aa4484387e5d5c9",
         "Category:OSW6837c50be0b85f76835e5fdd56bf054f",
         "Category:OSW6847f51b03eb5ed6b4cda9e82af5e51a",
+        "Category:OSW68ca7734ec34417fa9b2258b23ddc6c0",
         "Category:OSW68d42f65000556188ac7c0d0421edfd4",
         "Category:OSW68ebaa3e9a6b5caa90f1486bd5236739",
         "Category:OSW6904291c88ec50b3b1ac276f3ac61dcb",
@@ -1801,6 +1802,7 @@
         "Property:HasTensionValue",
         "Property:HasThermalAdmittanceValue",
         "Property:HasThermalConductanceValue",
+        "Property:HasThermalConductivitySlopeValue",
         "Property:HasThermalConductivityValue",
         "Property:HasThermalDiffusionCoefficientValue",
         "Property:HasThermalDiffusionFactorValue",

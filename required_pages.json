@@ -401,6 +401,7 @@
         "Category:OSW67faac860ed758758aa4484387e5d5c9",
         "Category:OSW6837c50be0b85f76835e5fdd56bf054f",
         "Category:OSW6847f51b03eb5ed6b4cda9e82af5e51a",
+        "Category:OSW68ca7734ec34417fa9b2258b23ddc6c0",
         "Category:OSW68d42f65000556188ac7c0d0421edfd4",
         "Category:OSW68ebaa3e9a6b5caa90f1486bd5236739",
         "Category:OSW6904291c88ec50b3b1ac276f3ac61dcb",
@@ -1289,6 +1290,7 @@
         "Item:OSW4f047e2da1fc5ea497c9e22eb8e98ce5",
         "Item:OSW4f5013ecf23c5c95aabf1ae4b3d1124b",
         "Item:OSW4f89dc03afdb56b2809d65bb24c3787d",
+        "Item:OSW4f99615d3a9548ee86ebc03c4bdf48fe",
         "Item:OSW4feacced9ef252339a627fc8a2f01aee",
         "Item:OSW5006c43ac65f5114a5ec3c43c4904caa",
         "Item:OSW501738b1f645568c9c4fb6da844439c7",
@@ -1418,6 +1420,7 @@
         "Item:OSW746caaa329d75ce2ad00a09d0a347796",
         "Item:OSW7496c09c41b154bdba82f6d09195cae5",
         "Item:OSW74b4aedebe05596d827042f14930136b",
+        "Item:OSW74ed2b89cb5148b2ac191f54458d4842",
         "Item:OSW7549b83a203e59e3bcc8c6e7854bd87d",
         "Item:OSW754b1a3564725113ac583f91ae2ea959",
         "Item:OSW755d3210e7635218ba6d8c1edf855ab3",
@@ -2383,6 +2386,7 @@
                 "Category:OSW67faac860ed758758aa4484387e5d5c9",
                 "Category:OSW6837c50be0b85f76835e5fdd56bf054f",
                 "Category:OSW6847f51b03eb5ed6b4cda9e82af5e51a",
+                "Category:OSW68ca7734ec34417fa9b2258b23ddc6c0",
                 "Category:OSW68d42f65000556188ac7c0d0421edfd4",
                 "Category:OSW68ebaa3e9a6b5caa90f1486bd5236739",
                 "Category:OSW6904291c88ec50b3b1ac276f3ac61dcb",
@@ -2970,6 +2974,25 @@
                 "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7",
                 "Category:OSWffe74f291d354037b318c422591c5023",
                 "Property:HasSymbol"
+            ]
+        },
+        "Category:OSW68ca7734ec34417fa9b2258b23ddc6c0": {
+            "jsondata": [
+                "Category:OSW4082937906634af992cf9a1b18d772cf",
+                "Category:OSWac07a46c2cf14f3daec503136861f5ab",
+                "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7",
+                "Item:OSW4f99615d3a9548ee86ebc03c4bdf48fe",
+                "Item:OSW74ed2b89cb5148b2ac191f54458d4842"
+            ],
+            "jsonschema": [
+                "Category:OSW4082937906634af992cf9a1b18d772cf",
+                "Category:OSW68ca7734ec34417fa9b2258b23ddc6c0",
+                "Item:OSW4f99615d3a9548ee86ebc03c4bdf48fe"
+            ]
+        },
+        "Property:HasThermalConductivitySlopeValue": {
+            "jsondata": [
+                "Category:OSW1b15ddcf042c4599bd9d431cbfdf3430"
             ]
         },
         "Category:OSW002d158549e955bea02a7c957b139a60": {

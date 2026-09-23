@@ -1,0 +1,44 @@
+{
+    "type": [
+        "Category:OSWc7f9aec4f71f4346b6031f96d7e46bd7"
+    ],
+    "uuid": "68ca7734-ec34-417f-a9b2-258b23ddc6c0",
+    "name": "ThermalConductivitySlope",
+    "label": [
+        {
+            "text": "Thermal conductivity slope",
+            "lang": "en"
+        },
+        {
+            "text": "Steigung der Wärmeleitfähigkeit",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Rate of change of a thermal conductance over time (slope of the thermal conductivity).",
+            "lang": "en"
+        }
+    ],
+    "subclass_of": [
+        "Category:OSW4082937906634af992cf9a1b18d772cf"
+    ],
+    "metaclass": [
+        "Category:OSWac07a46c2cf14f3daec503136861f5ab"
+    ],
+    "quantity": "Item:OSW74ed2b89cb5148b2ac191f54458d4842",
+    "default_unit": "Item:OSW4f99615d3a9548ee86ebc03c4bdf48fe#OSW44c4358c57664a728e2d7ecb60736a09",
+    "unit_enumeration": [
+        {
+            "osw_id": "Item:OSW4f99615d3a9548ee86ebc03c4bdf48fe",
+            "name": "watt_per_kelvin_per_second",
+            "symbol": "W/(K·s)"
+        },
+        {
+            "osw_id": "Item:OSW4f99615d3a9548ee86ebc03c4bdf48fe#OSW44c4358c57664a728e2d7ecb60736a09",
+            "name": "watt_per_hour_per_kelvin",
+            "symbol": "W/(K·h)"
+        }
+    ],
+    "quantity_property": "Property:HasThermalConductivitySlopeValue"
+}
